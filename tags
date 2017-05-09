@@ -1,0 +1,35 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ColesSpecials	coles/specials.py	/^class ColesSpecials():$/;"	c
+MULTI_BUY	coles/models.py	/^    MULTI_BUY = "MB"$/;"	v	class:Product
+Product	coles/models.py	/^class Product(models.Model):$/;"	c
+REDUCED_PRICE	coles/models.py	/^    REDUCED_PRICE = "RP"$/;"	v	class:Product
+SPECIAL_TYPE_CHOICES	coles/models.py	/^    SPECIAL_TYPE_CHOICES=($/;"	v	class:Product
+__init__	coles/specials.py	/^    def __init__(self, url, params):$/;"	m	class:ColesSpecials
+__str__	coles/models.py	/^    def __str__(self):$/;"	m	class:Product	file:
+areCookiesEnabled	coles/reference/specials.html	/^	function areCookiesEnabled() $/;"	f
+base_url	coles/specials.py	/^base_url = "https:\/\/shop.coles.com.au\/online\/COLRSHomePage"$/;"	v
+date_recorded	coles/models.py	/^    date_recorded = models.DateField(auto_now_add = True)$/;"	v	class:Product
+draw_progress	coles/specials.py	/^    def draw_progress(self, current, total):$/;"	m	class:ColesSpecials
+get	coles/specials.py	/^from requests import get$/;"	i
+getFromStorage	coles/reference/specials.html	/^function getFromStorage(key) {$/;"	f
+get_url	coles/specials.py	/^    def get_url(self):$/;"	m	class:ColesSpecials
+html5parser	coles/specials.py	/^from lxml.html import html5parser$/;"	i
+isStorageEnabled	coles/reference/specials.html	/^function isStorageEnabled() {$/;"	f
+isUAAccepted	coles/reference/specials.html	/^	function isUAAccepted(ua) {$/;"	f
+json	coles/specials.py	/^import json$/;"	i
+models	coles/models.py	/^from django.db import models$/;"	i
+next_page	coles/specials.py	/^    def next_page(self):$/;"	m	class:ColesSpecials
+params	coles/specials.py	/^params = {$/;"	v
+pkg_qty	coles/models.py	/^    pkg_qty = models.IntegerField()$/;"	v	class:Product
+price	coles/models.py	/^    price = models.DecimalField(max_digits=8, decimal_places=2)$/;"	v	class:Product
+progressbar	coles/specials.py	/^import progressbar$/;"	i
+qty	coles/models.py	/^    qty = models.IntegerField()$/;"	v	class:Product
+record_product_special	coles/specials.py	/^    def record_product_special(self, product_json):$/;"	m	class:ColesSpecials
+setToStorage	coles/reference/specials.html	/^function setToStorage(key, value) {$/;"	f
+special_type	coles/models.py	/^    special_type = models.CharField(max_length=2, choices=SPECIAL_TYPE_CHOICES, default = REDUCED_PRICE)$/;"	v	class:Product
+sys	coles/specials.py	/^import sys$/;"	i

@@ -9,12 +9,24 @@ import sys
 # The base url for all requests
 base_url = "https://shop.coles.com.au/online/COLRSHomePage"
 # Query string parameters
-params = {
+params_specials_only = {
     "storeId":"20601",
     "catalogId":"10576",
     "langId":"-1",
-    "tabType":"specials",
-    "tabId":"specials",
+    "tabType":"specials",                   # specials, everything
+    "tabId":"specials",                     # specials, everything
+    "personaliseSort":"false",
+    "orderBy":"20601_6",
+    "errorView":"AjaxActionErrorResponse",
+    "requesttype":"ajax",
+    "beginIndex":"0"
+}
+params_everything = {
+    "storeId":"20601",
+    "catalogId":"10576",
+    "langId":"-1",
+    "tabType":"everything",                   # specials, everything
+    "tabId":"everything",                     # specials, everything
     "personaliseSort":"false",
     "orderBy":"20601_6",
     "errorView":"AjaxActionErrorResponse",
@@ -54,7 +66,7 @@ Below is the json representation of one product:
 }
 '''
 
-class ColesSpecials():
+class ColesProductIterator():
 
     def __init__(self, url, params):
         '''
@@ -63,16 +75,37 @@ class ColesSpecials():
         # set url
         self.base_url = url
         self.params = params
-        self.bar = None
+        self.search_data = None
         # execute until finished
-        while self.next_page():
-            pass
+        # while self.next_page():
+        #     pass
+        
+    def __iter__(self):
+        return self.product_generator()
 
-    def next_page(self):
+    def update_search_info(self):
         '''
-        download the data for the current page and increment for the next page
-        returns True if there are more pages to process and false if there
-        are no more products to process.
+        parse the search info json and update the params
+        '''
+        product_count = int(self.search_data['totalCount'])
+        page_size = int(self.search_data['pageSize'])
+        begin_index = int(self.params['beginIndex']) + page_size
+        self.params['beginIndex'] = str(begin_index)
+
+    def product_generator(self):
+        '''
+        yield each product until we run out
+        '''
+        while self.has_next_page():
+            self.get_data()
+            self.update_search_info()
+            for product in self.products_data:
+                # record the product in the database
+                yield product
+
+    def get_data(self):
+        '''
+        pull down the data per the current params
         '''
         url = self.get_url()
         # request page
@@ -88,34 +121,37 @@ class ColesSpecials():
                 json_string = d.text
                 break
         # parse the json
-        specials_json = json.loads(json_string)
-        search_info = specials_json['searchInfo']
-        products = specials_json['products']
-        # print json.dumps(specials_json, indent=4)
-        for product in products:
-            # record the product in the database
-            self.record_product_special(product)
-        # read params
-        product_count = int(search_info['totalCount'])
-        page_size = int(search_info['pageSize'])
-        begin_index = int(params['beginIndex']) + page_size
-        params['beginIndex'] = str(begin_index)
-        
-        #update the progress bar
-        self.draw_progress(begin_index,product_count)
-        # return True if we need to be called again to complete the proccess
+        data_json = json.loads(json_string)
+        self.search_data = data_json['searchInfo']
+        self.products_data = data_json['products']
+        # we return true on success
+        return True
+
+    def has_next_page(self):
+        '''
+        parses the current search_data to determine if there are more
+        pages to be parsed
+        '''
+        if self.search_data is None:
+            return True
+        begin_index = int(self.params['beginIndex'])
+        product_count = int(self.search_data['totalCount'])
+        page_size = int(self.search_data['pageSize'])
+        # return True if there are more products to parse
         return begin_index < product_count
 
-    def record_product_special(self, product_json):
+    def get_url(self):
         '''
-        Register the product special to the database
-        TODO
+        Construct URL from params
         '''
-        # print json.dumps(product_json, indent=4)
-        pass
+        query = []
+        for key,value in self.params.iteritems():
+            query.append("{key}={value}".format(key=key,value=value))
+        return self.base_url+"?"+"&".join(query)
     
     def draw_progress(self, current, total):
         '''
+        DEPRECATED
         Draw a progress bar to the console
         '''
         sys.stderr.write("\x1b[2J\x1b[H")
@@ -131,16 +167,16 @@ class ColesSpecials():
         else:
             self.bar.update(current)
 
-    def get_url(self):
-        '''
-        Construct URL from params
-        '''
-        query = []
-        for key,value in self.params.iteritems():
-            query.append("{key}={value}".format(key=key,value=value))
-        return self.base_url+"?"+"&".join(query)
 
-
+# if this python file is run directly then we will run the demo
 if __name__ == '__main__':
-    ColesSpecials(url = base_url, params = params)
+    # list out all products
+    all_products = ColesProductIterator(url = base_url, params = params_everything)
+    for p in all_products:
+        print json.dumps(p, indent=4)
+    # list out all products on special
+    products_on_special = ColesProductIterator(url = base_url, params = params_specials_only)
+    for p in products_on_special:
+        print json.dumps(p, indent=4)
+
 
