@@ -1,7 +1,6 @@
 from requests import get
 from lxml.html import html5parser
 import json
-import progressbar
 import sys
 
 # url = "https://shop.coles.com.au/online/COLRSHomePage?storeId=20601&catalogId=10576&langId=-1&tabType=specials&tabId=specials&personaliseSort=false&orderBy=20601_6&errorView=AjaxActionErrorResponse&requesttype=ajax&beginIndex=0"
@@ -148,34 +147,24 @@ class ColesProductIterator():
         for key,value in self.params.iteritems():
             query.append("{key}={value}".format(key=key,value=value))
         return self.base_url+"?"+"&".join(query)
-    
-    def draw_progress(self, current, total):
-        '''
-        DEPRECATED
-        Draw a progress bar to the console
-        '''
-        sys.stderr.write("\x1b[2J\x1b[H")
-        if self.bar is None:
-            widgets = [
-                'Scraping: ', progressbar.Percentage(),
-                ' ', progressbar.Bar(),
-                ' ', progressbar.ETA(),
-            ]
-            self.bar = progressbar.ProgressBar(widgets=widgets, max_value=total).start()
-        if current >= total:
-            self.bar.finish()
-        else:
-            self.bar.update(current)
 
+'''
+Helper methods for import that will return the corresponding product iterator
+'''
+def get_coles_specials_iterator():
+    return ColesProductIterator(url = base_url, params = params_specials_only)
+
+def get_coles_everything_iterator():
+    return ColesProductIterator(url = base_url, params = params_everything)
 
 # if this python file is run directly then we will run the demo
 if __name__ == '__main__':
     # list out all products
-    all_products = ColesProductIterator(url = base_url, params = params_everything)
+    all_products = get_coles_everything_iterator()
     for p in all_products:
         print json.dumps(p, indent=4)
     # list out all products on special
-    products_on_special = ColesProductIterator(url = base_url, params = params_specials_only)
+    products_on_special = get_coles_specials_iterator()
     for p in products_on_special:
         print json.dumps(p, indent=4)
 
