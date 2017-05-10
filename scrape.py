@@ -1,6 +1,14 @@
 import progressbar
+from coles.products import get_coles_everything_iterator, get_coles_specials_iterator
 
 class Scraper():
+    def __init__(self):
+        self.products = get_coles_everything_iterator
+        pass
+
+    def __call__(self):
+        pass
+
     def draw_progress(self, current, total):
         '''
         DEPRECATED

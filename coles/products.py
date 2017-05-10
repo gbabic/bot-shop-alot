@@ -1,7 +1,8 @@
-from requests import get
-from lxml.html import html5parser
 import json
 import sys
+
+from requests import get, exceptions
+from lxml.html import html5parser
 
 # url = "https://shop.coles.com.au/online/COLRSHomePage?storeId=20601&catalogId=10576&langId=-1&tabType=specials&tabId=specials&personaliseSort=false&orderBy=20601_6&errorView=AjaxActionErrorResponse&requesttype=ajax&beginIndex=0"
 
@@ -33,7 +34,7 @@ params_everything = {
     "beginIndex":"0"
 }
 # database product mapping
-'''
+"""
 Below is the json representation of one product:
 {
     'a': {
@@ -63,52 +64,58 @@ Below is the json representation of one product:
     '': '107116',                                                     // Unique ID
     'u2': '$2.35 per 100G'
 }
-'''
+"""
 
 class ColesProductIterator():
 
     def __init__(self, url, params):
-        '''
+        """
         Set the base url and determine how many pages of specials we have
-        '''
-        # set url
-        self.base_url = url
-        self.params = params
-        self.search_data = None
-        # execute until finished
-        # while self.next_page():
-        #     pass
+        """
+        self.base_url = url         # base url for request building
+        self.params = params        # dictionary of key values for the query string
+        self.search_data = None     # json data describing last page result search
+        self.product_data = None    # json data containing product information from last page
+        # get initial set of data
+            
+
         
     def __iter__(self):
-        return self.product_generator()
+        """
+        Make this class iterable by returning our generator function
+        """
+        return self._product_generator()
 
-    def update_search_info(self):
-        '''
+    def _update_search_info(self):
+        """
         parse the search info json and update the params
-        '''
+        """
         product_count = int(self.search_data['totalCount'])
         page_size = int(self.search_data['pageSize'])
         begin_index = int(self.params['beginIndex']) + page_size
         self.params['beginIndex'] = str(begin_index)
 
-    def product_generator(self):
-        '''
+    def _product_generator(self):
+        """
+        Generator function
         yield each product until we run out
-        '''
-        while self.has_next_page():
-            self.get_data()
-            self.update_search_info()
+        """
+        while self._has_next_page():
+            self._get_data()
+            self._update_search_info()
             for product in self.products_data:
                 # record the product in the database
                 yield product
 
-    def get_data(self):
-        '''
+    def _get_data(self):
+        """
         pull down the data per the current params
-        '''
-        url = self.get_url()
+        """
+        url = self._get_url()
         # request page
         page = get(url)
+        # raise an error
+        page.raise_for_status()
         # parse html markup
         html = html5parser.fragment_fromstring(page.content, True)
         divs = html.findall(".//{http://www.w3.org/1999/xhtml}div")
@@ -126,11 +133,11 @@ class ColesProductIterator():
         # we return true on success
         return True
 
-    def has_next_page(self):
-        '''
+    def _has_next_page(self):
+        """
         parses the current search_data to determine if there are more
         pages to be parsed
-        '''
+        """
         if self.search_data is None:
             return True
         begin_index = int(self.params['beginIndex'])
@@ -139,18 +146,18 @@ class ColesProductIterator():
         # return True if there are more products to parse
         return begin_index < product_count
 
-    def get_url(self):
-        '''
+    def _get_url(self):
+        """
         Construct URL from params
-        '''
+        """
         query = []
         for key,value in self.params.iteritems():
             query.append("{key}={value}".format(key=key,value=value))
         return self.base_url+"?"+"&".join(query)
 
-'''
+"""
 Helper methods for import that will return the corresponding product iterator
-'''
+"""
 def get_coles_specials_iterator():
     return ColesProductIterator(url = base_url, params = params_specials_only)
 
