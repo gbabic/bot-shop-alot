@@ -114,8 +114,9 @@ class ColesProductIterator():
         url = self._get_url()
         # request page
         page = get(url)
+        print page.content
         # raise an error
-        page.raise_for_status()
+        # page.raise_for_status()
         # parse html markup
         html = html5parser.fragment_fromstring(page.content, True)
         divs = html.findall(".//{http://www.w3.org/1999/xhtml}div")
@@ -127,7 +128,11 @@ class ColesProductIterator():
                 json_string = d.text
                 break
         # parse the json
-        data_json = json.loads(json_string)
+        try:
+            data_json = json.loads(json_string)
+        except ValueError:
+            return False
+
         self.search_data = data_json['searchInfo']
         self.products_data = data_json['products']
         # we return true on success
@@ -167,9 +172,9 @@ def get_coles_everything_iterator():
 # if this python file is run directly then we will run the demo
 if __name__ == '__main__':
     # list out all products
-    all_products = get_coles_everything_iterator()
-    for p in all_products:
-        print json.dumps(p, indent=4)
+    # all_products = get_coles_everything_iterator()
+    # for p in all_products:
+    #     print json.dumps(p, indent=4)
     # list out all products on special
     products_on_special = get_coles_specials_iterator()
     for p in products_on_special:
