@@ -1,32 +1,21 @@
 import json
 import sys
+import locale
+import time
 
 from requests import get, exceptions
+from lxml import etree
 from lxml.html import html5parser
 
-# url = "https://shop.coles.com.au/online/COLRSHomePage?storeId=20601&catalogId=10576&langId=-1&tabType=specials&tabId=specials&personaliseSort=false&orderBy=20601_6&errorView=AjaxActionErrorResponse&requesttype=ajax&beginIndex=0"
-
 # The base url for all requests
-base_url = "https://shop.coles.com.au/online/COLRSHomePage"
+base_url = "https://shop.coles.com.au/online/a-national"
 # Query string parameters
-params_specials_only = {
+base_params = {
     "storeId":"20601",
     "catalogId":"10576",
     "langId":"-1",
-    "tabType":"specials",                   # specials, everything
-    "tabId":"specials",                     # specials, everything
-    "personaliseSort":"false",
-    "orderBy":"20601_6",
-    "errorView":"AjaxActionErrorResponse",
-    "requesttype":"ajax",
-    "beginIndex":"0"
-}
-params_everything = {
-    "storeId":"20601",
-    "catalogId":"10576",
-    "langId":"-1",
-    "tabType":"everything",                   # specials, everything
-    "tabId":"everything",                     # specials, everything
+    "tabType":"everything",
+    "tabId":"everything",
     "personaliseSort":"false",
     "orderBy":"20601_6",
     "errorView":"AjaxActionErrorResponse",
@@ -66,6 +55,37 @@ Below is the json representation of one product:
 }
 """
 
+class ColesCategoryIterator():
+
+    def __init__(self,url):
+        """
+        Set base url and load the page ready
+        """
+        self.base_url = url
+        content = self._get_page_content()
+        self.json_data = self._get_data_json(content)
+
+    def __iter__(self):
+        return self._category_generator()
+
+    def _category_generator(self):
+        for c1 in self.json_data['catalogGroupView']:
+            level_one = c1['seo_token']
+            for c2 in c1['catalogGroupView']:
+                level_two = c2['seo_token']
+                yield "{}/{}".format(level_one,level_two)
+
+    def _get_page_content(self):
+        r = get(self.base_url)
+        return r.content
+
+    def _get_data_json(self, content):
+        tree = etree.HTML(content)
+        # currently the json is stored in the first div of the body
+        elem = tree.xpath('./body/div')[0]
+        return json.loads(elem.text)
+
+
 class ColesProductIterator():
 
     def __init__(self, url, params):
@@ -76,9 +96,6 @@ class ColesProductIterator():
         self.params = params        # dictionary of key values for the query string
         self.search_data = None     # json data describing last page result search
         self.product_data = None    # json data containing product information from last page
-        # get initial set of data
-            
-
         
     def __iter__(self):
         """
@@ -100,20 +117,27 @@ class ColesProductIterator():
         Generator function
         yield each product until we run out
         """
-        while self._has_next_page():
-            self._get_data()
-            self._update_search_info()
-            for product in self.products_data:
-                # record the product in the database
-                yield product
+        categories = ColesCategoryIterator(self.base_url)
+        for category in categories:
+            # print("Searching Category: {}".format(category))
+            # print self._get_url(category)
+            self.params['beginIndex'] = "0"
+            while self._has_next_page():
+                self._get_data(category)
+                self._update_search_info()
+                for product in self.products_data:
+                    # record the product in the database
+                    yield product
 
-    def _get_data(self):
+    def _get_data(self, category):
         """
         pull down the data per the current params
         """
-        url = self._get_url()
+        url = self._get_url(category)
         # request page
         page = get(url)
+        # print page.content
+        # exit()
         # raise an error
         # page.raise_for_status()
         # parse html markup
@@ -128,11 +152,8 @@ class ColesProductIterator():
                 json_string = d.text
                 break
         # parse the json
-        try:
-            data_json = json.loads(json_string)
-        except ValueError:
-            return False
-
+        # print "json string is:\n{}".format(json_string)
+        data_json = json.loads(json_string)
         self.search_data = data_json['searchInfo']
         self.products_data = data_json['products']
         # we return true on success
@@ -151,14 +172,14 @@ class ColesProductIterator():
         # return True if there are more products to parse
         return begin_index < product_count
 
-    def _get_url(self):
+    def _get_url(self, category):
         """
         Construct URL from params
         """
         query = []
         for key,value in self.params.iteritems():
             query.append("{key}={value}".format(key=key,value=value))
-        return self.base_url+"?"+"&".join(query)
+        return "{base}/{category}?{query}".format(base = self.base_url, category = category, query = "&".join(query))
 
 """
 Helper methods for import that will return the corresponding product iterator
@@ -167,17 +188,28 @@ def get_coles_specials_iterator():
     return ColesProductIterator(url = base_url, params = params_specials_only)
 
 def get_coles_everything_iterator():
-    return ColesProductIterator(url = base_url, params = params_everything)
+    return ColesProductIterator(url = base_url, params = base_params)
 
 # if this python file is run directly then we will run the demo
 if __name__ == '__main__':
+    # print demo notice
+    notice = "DEMO: one product every half second."
+    print("-"*len(notice))
+    print(notice)
+    print("-"*len(notice))
+    time.sleep(1)
+    # set the locale for currency
+    locale.setlocale(locale.LC_ALL, '')
     # list out all products
-    # all_products = get_coles_everything_iterator()
-    # for p in all_products:
-    #     print json.dumps(p, indent=4)
-    # list out all products on special
-    products_on_special = get_coles_specials_iterator()
-    for p in products_on_special:
-        print json.dumps(p, indent=4)
+    all_products = get_coles_everything_iterator()
+    for p in all_products:
+        # print json.dumps(p, indent=4)
+        print("{} {}: {}".format(p['m'], p['n'], locale.currency(float(p['p1']['o']))))
+        time.sleep(.5)
+
+    #l list out all categories
+    # all_categories = ColesCategoryIterator(base_url)
+    # for category in all_categories:
+    #     print category
 
 
