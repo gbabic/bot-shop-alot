@@ -184,10 +184,7 @@ class ColesProductIterator():
 """
 Helper methods for import that will return the corresponding product iterator
 """
-def get_coles_specials_iterator():
-    return ColesProductIterator(url = base_url, params = params_specials_only)
-
-def get_coles_everything_iterator():
+def get_coles_product_iterator():
     return ColesProductIterator(url = base_url, params = base_params)
 
 # if this python file is run directly then we will run the demo
@@ -201,7 +198,7 @@ if __name__ == '__main__':
     # set the locale for currency
     locale.setlocale(locale.LC_ALL, '')
     # list out all products
-    all_products = get_coles_everything_iterator()
+    all_products = get_coles_product_iterator()
     for p in all_products:
         # print json.dumps(p, indent=4)
         print("{} {}: {}".format(p['m'], p['n'], locale.currency(float(p['p1']['o']))))
