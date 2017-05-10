@@ -114,7 +114,6 @@ class ColesProductIterator():
         url = self._get_url()
         # request page
         page = get(url)
-        print page.content
         # raise an error
         # page.raise_for_status()
         # parse html markup
@@ -122,6 +121,7 @@ class ColesProductIterator():
         divs = html.findall(".//{http://www.w3.org/1999/xhtml}div")
         json_string = ""
         # find the div that contains our catalog json file
+        # TODO: everything request seems to have diffent html structure then specials find a method that works for both of them
         for i in range(0, len(divs)):
             d = divs[i]
             if d.text != None and "COLRSCatalogEntryList" in d.text:
