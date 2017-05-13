@@ -63,20 +63,28 @@ class ColesCategoryIterator():
         """
         self.base_url = url
         content = self._get_page_content()
-        self.json_data = self._get_data_json(content)
+        json_data = self._get_data_json(content)
+        self._categories = self._get_categories(json_data)
 
-    def __iter__(self):
-        return self._category_generator()
-
-    def _category_generator(self):
-        for c1 in self.json_data['catalogGroupView']:
+    def _get_categories(self, json_data):
+        categories = []
+        for c1 in json_data['catalogGroupView']:
             level_one = c1['seo_token']
             for c2 in c1['catalogGroupView']:
                 level_two = c2['seo_token']
-                yield "{}/{}".format(level_one,level_two)
+                category = "{}/{}".format(level_one,level_two)
+                categories.append(category)
+        return categories
+
+    def __iter__(self):
+        return self._categories.__iter__()
+
+    def __len__(self):
+        return len(self._categories)
 
     def _get_page_content(self):
         r = get(self.base_url)
+        r.raise_for_status()
         return r.content
 
     def _get_data_json(self, content):
@@ -92,10 +100,12 @@ class ColesProductIterator():
         """
         Set the base url and determine how many pages of specials we have
         """
-        self.base_url = url         # base url for request building
-        self.params = params        # dictionary of key values for the query string
-        self.search_data = None     # json data describing last page result search
-        self.product_data = None    # json data containing product information from last page
+        self._base_url = url
+        self._params = params
+        self._search_data = None
+        self._product_data = None
+        self.total = 0
+        self.current = 0
         
     def __iter__(self):
         """
@@ -103,31 +113,35 @@ class ColesProductIterator():
         """
         return self._product_generator()
 
+    def __len__(self):
+        return self.total
+
     def _update_search_info(self):
         """
         parse the search info json and update the params
         """
-        product_count = int(self.search_data['totalCount'])
-        page_size = int(self.search_data['pageSize'])
-        begin_index = int(self.params['beginIndex']) + page_size
-        self.params['beginIndex'] = str(begin_index)
+        page_size = int(self._search_data['pageSize'])
+        begin_index = int(self._params['beginIndex']) + page_size
+        self._params['beginIndex'] = str(begin_index)
 
     def _product_generator(self):
         """
         Generator function
         yield each product until we run out
         """
-        categories = ColesCategoryIterator(self.base_url)
+        categories = ColesCategoryIterator(self._base_url)
+        self.total = len(categories)
         for category in categories:
             # print("Searching Category: {}".format(category))
             # print self._get_url(category)
-            self.params['beginIndex'] = "0"
+            self._params['beginIndex'] = "0"
             while self._has_next_page():
                 self._get_data(category)
                 self._update_search_info()
-                for product in self.products_data:
+                for product in self._product_data:
                     # record the product in the database
                     yield product
+            self.current += 1
 
     def _get_data(self, category):
         """
@@ -154,8 +168,8 @@ class ColesProductIterator():
         # parse the json
         # print "json string is:\n{}".format(json_string)
         data_json = json.loads(json_string)
-        self.search_data = data_json['searchInfo']
-        self.products_data = data_json['products']
+        self._search_data = data_json['searchInfo']
+        self._product_data = data_json['products']
         # we return true on success
         return True
 
@@ -164,11 +178,11 @@ class ColesProductIterator():
         parses the current search_data to determine if there are more
         pages to be parsed
         """
-        if self.search_data is None:
+        if self._search_data is None:
             return True
-        begin_index = int(self.params['beginIndex'])
-        product_count = int(self.search_data['totalCount'])
-        page_size = int(self.search_data['pageSize'])
+        begin_index = int(self._params['beginIndex'])
+        product_count = int(self._search_data['totalCount'])
+        page_size = int(self._search_data['pageSize'])
         # return True if there are more products to parse
         return begin_index < product_count
 
@@ -177,9 +191,9 @@ class ColesProductIterator():
         Construct URL from params
         """
         query = []
-        for key,value in self.params.iteritems():
+        for key,value in self._params.iteritems():
             query.append("{key}={value}".format(key=key,value=value))
-        return "{base}/{category}?{query}".format(base = self.base_url, category = category, query = "&".join(query))
+        return "{base}/{category}?{query}".format(base = self._base_url, category = category, query = "&".join(query))
 
 """
 Helper methods for import that will return the corresponding product iterator

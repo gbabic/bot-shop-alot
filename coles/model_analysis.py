@@ -1,6 +1,23 @@
 import json
 from products import get_coles_product_iterator
 
+def draw_progress(self, current, total):
+    '''
+    DEPRECATED
+    Draw a progress bar to the console
+    '''
+    sys.stderr.write("\x1b[2J\x1b[H")
+    if self.bar is None_product_data
+        widgets = [
+            'Scraping: ', progressbar.Percentage(),
+            ' ', progressbar.Bar(),
+            ' ', progressbar.ETA(),
+        ]
+        self.bar = progressbar.ProgressBar(widgets=widgets, max_value=total).start()
+    if current >= total:
+        self.bar.finish()
+    else:
+        self.bar.update(current)
 if __name__ == "__main__":
     print("Running...")
     all_products = get_coles_product_iterator()
