@@ -1,0 +1,87 @@
+// Result of model analysis
+{
+    "a": {
+        "D": [
+            "HOTPLATE"
+        ], 
+        "P8": [
+            "Bread & Bakery"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "180g"
+        ]
+    }, 
+    "u2": "$1.22 per 100G", 
+    "s9": "647542", 
+    "p1": {
+        "l4": "4.9", 
+        "o": "2.2"
+    }, 
+    "m3": [
+        {
+            "a": {
+                "P8": [
+                    "Dairy, Eggs & Meals"
+                ], 
+                "T1": [
+                    "false"
+                ], 
+                "L2": [
+                    "false"
+                ], 
+                "A4": [
+                    "1.0"
+                ], 
+                "W1": [
+                    "false"
+                ], 
+                "O3": [
+                    "432g"
+                ]
+            }, 
+            "q": 1.0, 
+            "s9": "151406", 
+            "p1": {
+                "l4": "7.1", 
+                "o": "5.0"
+            }, 
+            "t1": "S", 
+            "m": "Kraft", 
+            "n": "Singles Cheese Slices Individually Wrapped 24 pack", 
+            "a1": "X-SELL", 
+            "p": "215131P", 
+            "s": "kraft-singles-cheese-slices-individually-wrapped-24-pack", 
+            "u": "85932", 
+            "t": "/wcsstore/Coles-CAS/images/2/1/5/215131-th.jpg", 
+            "u2": "$11.57 per 1Kg", 
+            "pl": "12"
+        }
+    ], 
+    "pt": "MultibuyMultiSku", 
+    "pr": "2.00000", 
+    "s7": "This product is not available for Monday Deliveries before 2pm.", 
+    "m": "Simson's Pantry", 
+    "t1": "V", 
+    "p": "2815570P", 
+    "s": "simsons-pantry-premium-white-wraps-4pack", 
+    "pq": "2", 
+    "u": "647515", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/1/2815570-th.jpg", 
+    "pd": "2 for $4", 
+    "a6": false, 
+    "pi": "10131025", 
+    "n": "Premium White Wraps 4pack", 
+    "pl": "12"
+}

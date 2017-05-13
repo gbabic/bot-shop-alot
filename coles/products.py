@@ -42,9 +42,9 @@ Below is the json representation of one product:
     },
     'pd': '2 for $5',                                                 // Deal
     'pi': '10139507',
-    'pl': '12',                                                       // Total Item Qty.
+    'pl': '12',                                                       // Total Item Qty. per pkg
     'pq': '2',                                                        // Package Qty.
-    'pr': '2.50000',                                                  // Unit Price
+    'pr': '2.50000',                                                  // Reduced Price 
     'pt': 'MultibuyMultiSk',                                          // Deal Type
     's': 'parkers-pretzels-original',
     's9': '166217',
