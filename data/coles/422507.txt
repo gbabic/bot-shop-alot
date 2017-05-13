@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "35 pack"
+        ]
+    }, 
+    "s9": "422545", 
+    "p1": {
+        "o": "2.85"
+    }, 
+    "m": "Hercules", 
+    "u2": "$0.08 per 1Ea", 
+    "p": "1988380P", 
+    "s": "hercules-clickzip-cartoon-snack-bags", 
+    "u": "422507", 
+    "t": "/wcsstore/Coles-CAS/images/1/9/8/1988380-th.jpg", 
+    "n": "Clickzip Cartoon Snack Bags 15cm x 10cm", 
+    "pl": "20"
+}

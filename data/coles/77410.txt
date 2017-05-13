@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250mL"
+        ]
+    }, 
+    "s9": "143699", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "m": "Kikkoman", 
+    "u2": "$2.20 per 100mL", 
+    "p": "52897P", 
+    "s": "kikkoman-soy-sauce-salt-reduced-52897p", 
+    "u": "77410", 
+    "t": "/wcsstore/Coles-CAS/images/5/2/8/52897-th.jpg", 
+    "n": "Soy Sauce Salt Reduced", 
+    "pl": "20"
+}

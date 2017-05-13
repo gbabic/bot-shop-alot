@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "110g"
+        ]
+    }, 
+    "s9": "33219", 
+    "p1": {
+        "l4": "4.4", 
+        "o": "3.2"
+    }, 
+    "m": "Water Thins", 
+    "t1": "S", 
+    "p": "6979183P", 
+    "s": "water-thins-biscuits-cheese-twists-tripple-cheese", 
+    "n": "Triple Cheese Twists", 
+    "u": "13817", 
+    "t": "/wcsstore/Coles-CAS/images/6/9/7/6979183-th.jpg", 
+    "u2": "$2.91 per 100G", 
+    "pl": "12"
+}

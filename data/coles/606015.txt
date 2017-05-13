@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "170g"
+        ]
+    }, 
+    "s9": "606028", 
+    "p1": {
+        "o": "3.62"
+    }, 
+    "m": "The Chia Co", 
+    "u2": "$2.13 per 100G", 
+    "p": "2756085P", 
+    "s": "the-chia-co-dark-cacao-chia-pod", 
+    "u": "606015", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/5/2756085-th.jpg", 
+    "n": "Dark Cacao Chia Pod", 
+    "pl": "20"
+}

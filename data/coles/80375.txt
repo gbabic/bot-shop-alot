@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "283g"
+        ]
+    }, 
+    "s9": "143576", 
+    "p1": {
+        "o": "5.83"
+    }, 
+    "m": "Kemach", 
+    "u2": "$2.06 per 100G", 
+    "p": "4402742P", 
+    "s": "kemach-noodles-chow-mein-fine", 
+    "u": "80375", 
+    "t": "/wcsstore/Coles-CAS/images/4/4/0/4402742-th.jpg", 
+    "n": "Chow Mein Fine Noodles", 
+    "pl": "20"
+}

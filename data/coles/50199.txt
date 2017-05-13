@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "2L"
+        ]
+    }, 
+    "s9": "116189", 
+    "p1": {
+        "o": "3.99"
+    }, 
+    "m": "Dairy Farmers", 
+    "t1": "V", 
+    "p": "8647P", 
+    "s": "dairy-farmers-milk-lite-reduced-fat", 
+    "n": "Lite White Reduced Fat Milk", 
+    "u": "50199", 
+    "t": "/wcsstore/Coles-CAS/images/8/6/4/8647-th.jpg", 
+    "u2": "$2.00 per 1L", 
+    "pl": "20"
+}

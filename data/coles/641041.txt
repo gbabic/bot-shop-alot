@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "110g"
+        ]
+    }, 
+    "s9": "641224", 
+    "p1": {
+        "o": "2.75"
+    }, 
+    "m": "Paldo", 
+    "u2": "$2.50 per 100G", 
+    "p": "2784160P", 
+    "s": "paldo--hot-spicy", 
+    "u": "641041", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/8/2784160-th.jpg", 
+    "n": "Hot Spicy", 
+    "pl": "99"
+}

@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100g"
+        ]
+    }, 
+    "s9": "135368", 
+    "p1": {
+        "o": "9.0"
+    }, 
+    "m": "Moosehead", 
+    "t1": "V", 
+    "p": "6883721P", 
+    "s": "moosehead-hair-putty-grubby", 
+    "n": "Grubby Hair Putty", 
+    "u": "73250", 
+    "t": "/wcsstore/Coles-CAS/images/6/8/8/6883721-th.jpg", 
+    "u2": "$9.00 per 100G", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100g"
+        ]
+    }, 
+    "s9": "37416", 
+    "p1": {
+        "o": "2.2"
+    }, 
+    "m": "Fantastic", 
+    "u2": "$2.20 per 100G", 
+    "p": "6368893P", 
+    "s": "fantastic-rice-snacks-delites-flame-grill-bbq", 
+    "u": "20258", 
+    "t": "/wcsstore/Coles-CAS/images/6/3/6/6368893-th.jpg", 
+    "n": "Delites Flame Grill BBQ Rice Snacks", 
+    "pl": "20"
+}

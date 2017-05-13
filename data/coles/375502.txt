@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "2L"
+        ]
+    }, 
+    "s9": "375506", 
+    "p1": {
+        "o": "2.99"
+    }, 
+    "m": "Devondale", 
+    "u2": "$1.50 per 1L", 
+    "p": "1913790P", 
+    "s": "devondale-full-fat-milk", 
+    "u": "375502", 
+    "t": "/wcsstore/Coles-CAS/images/1/9/1/1913790-th.jpg", 
+    "n": "Full Cream Milk", 
+    "pl": "20"
+}

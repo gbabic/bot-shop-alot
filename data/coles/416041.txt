@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "45g"
+        ]
+    }, 
+    "s9": "416200", 
+    "p1": {
+        "l4": "1.84", 
+        "o": "1.0"
+    }, 
+    "m": "Nestle", 
+    "t1": "S", 
+    "p": "2207553P", 
+    "s": "nestle-kit-kat-choc-mint-whirl-bar", 
+    "n": "Kit Kat Choc Mint Whirl Chocolate Bar", 
+    "u": "416041", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/0/2207553-th.jpg", 
+    "u2": "$2.22 per 100G", 
+    "pl": "12"
+}

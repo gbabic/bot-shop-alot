@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "11mL"
+        ]
+    }, 
+    "s9": "455547", 
+    "p1": {
+        "o": "19.75"
+    }, 
+    "m": "Rimmel", 
+    "u2": "$17.95 per 10mL", 
+    "p": "2210784P", 
+    "s": "rimmel-wonderfull-waterproof-mascara-001-black", 
+    "u": "455505", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/1/2210784-th.jpg", 
+    "n": "Wonder'Full Waterproof Mascara 001 Black", 
+    "pl": "20"
+}

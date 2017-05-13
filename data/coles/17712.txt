@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "20 pack"
+        ]
+    }, 
+    "s9": "34893", 
+    "p1": {
+        "o": "9.68"
+    }, 
+    "m": "Tampax", 
+    "u2": "$0.48 per 1Ea", 
+    "p": "1166585P", 
+    "s": "tampax-pearl-tampons-regular", 
+    "u": "17712", 
+    "t": "/wcsstore/Coles-CAS/images/1/1/6/1166585-th.jpg", 
+    "n": "Pearl Regular Tampons with Applicator", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "80g"
+        ]
+    }, 
+    "s9": "137710", 
+    "p1": {
+        "o": "1.6"
+    }, 
+    "m": "Soletti", 
+    "u2": "$2.00 per 100G", 
+    "p": "6013479P", 
+    "s": "soletti-sticks-salted", 
+    "u": "78203", 
+    "t": "/wcsstore/Coles-CAS/images/6/0/1/6013479-th.jpg", 
+    "n": "Salted Sticks", 
+    "pl": "20"
+}

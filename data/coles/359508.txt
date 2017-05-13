@@ -1,0 +1,40 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "330g"
+        ]
+    }, 
+    "pr": "3.50000", 
+    "s9": "359527", 
+    "pq": "2", 
+    "pt": "MultibuyMultiSku", 
+    "u2": "$1.93 per 100G", 
+    "m": "Weight Watchers", 
+    "n": "Pumpkin & Ricotta Cannelloni Frozen Meal", 
+    "p": "8058398P", 
+    "s": "weight-watchers--pumpkin-ricotta-cannelloni-frozen-meal", 
+    "p1": {
+        "o": "6.38"
+    }, 
+    "u": "359508", 
+    "t": "/wcsstore/Coles-CAS/images/8/0/5/8058398-th.jpg", 
+    "pd": "2 for $7", 
+    "pi": "10141010", 
+    "t1": "M", 
+    "pl": "12"
+}

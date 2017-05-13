@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "335g"
+        ]
+    }, 
+    "s9": "358004", 
+    "p1": {
+        "o": "7.48"
+    }, 
+    "m": "ASP", 
+    "u2": "$22.33 per 1Kg", 
+    "p": "6573600P", 
+    "s": "asp-scottish-kippers", 
+    "u": "357004", 
+    "t": "/wcsstore/Coles-CAS/images/6/5/7/6573600-th.jpg", 
+    "n": "Scottish Kippers", 
+    "pl": "20"
+}

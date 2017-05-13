@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "20mL"
+        ]
+    }, 
+    "s9": "493030", 
+    "p1": {
+        "o": "21.95"
+    }, 
+    "m": "Maybelline", 
+    "u2": "$10.98 per 10mL", 
+    "p": "2363606P", 
+    "s": "maybelline-fit-me-matte-poreless-foundation-natural-beige", 
+    "u": "493008", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/6/2363606-th.jpg", 
+    "n": "Fit Me Matte Poreless Foundation Natural Beige", 
+    "pl": "20"
+}

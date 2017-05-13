@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "375g"
+        ]
+    }, 
+    "s9": "143240", 
+    "p1": {
+        "o": "5.12"
+    }, 
+    "m": "Latina", 
+    "u2": "$1.37 per 100G", 
+    "p": "5051790P", 
+    "s": "latina-fresh-fettuccine-egg-5051790p", 
+    "u": "81883", 
+    "t": "/wcsstore/Coles-CAS/images/5/0/5/5051790-th.jpg", 
+    "n": "Egg Fettuccine", 
+    "pl": "20"
+}

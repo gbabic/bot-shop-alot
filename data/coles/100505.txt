@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "4 pack"
+        ]
+    }, 
+    "s9": "158825", 
+    "p1": {
+        "l4": "5.49", 
+        "o": "2.49"
+    }, 
+    "m": "Schick", 
+    "t1": "S", 
+    "p": "9387690P", 
+    "s": "schick-xtreme-3-razor-disposable-for-women", 
+    "n": "Xtreme 3 Disposable Razors for Women", 
+    "u": "100505", 
+    "t": "/wcsstore/Coles-CAS/images/9/3/8/9387690-th.jpg", 
+    "u2": "$0.62 per 1Ea", 
+    "pl": "12"
+}

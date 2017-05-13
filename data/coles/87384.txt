@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1kg"
+        ]
+    }, 
+    "u2": "$0.42 per 100G", 
+    "s9": "151478", 
+    "p1": {
+        "o": "4.2"
+    }, 
+    "s7": "", 
+    "m": "Riviana", 
+    "n": "Long Grain Basmati Rice", 
+    "p": "145590P", 
+    "s": "riviana-rice-basmati-long-grain-145590p", 
+    "u": "87384", 
+    "t": "/wcsstore/Coles-CAS/images/1/4/5/145590-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

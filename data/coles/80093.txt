@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "145119", 
+    "p1": {
+        "l4": "4.9", 
+        "o": "3.0"
+    }, 
+    "m": "Sanitarium", 
+    "t1": "S", 
+    "p": "4951398P", 
+    "s": "sanitarium-cereal-weet-bix-bites-fruity-wild-berry", 
+    "n": "Weet-Bix Bites Wild Berry", 
+    "u": "80093", 
+    "t": "/wcsstore/Coles-CAS/images/4/9/5/4951398-th.jpg", 
+    "u2": "$0.60 per 100G", 
+    "pl": "6"
+}

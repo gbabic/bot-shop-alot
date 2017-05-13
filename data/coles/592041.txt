@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "108g"
+        ]
+    }, 
+    "s9": "592124", 
+    "p1": {
+        "l4": "4.4", 
+        "o": "3.0"
+    }, 
+    "m": "Kellogg's", 
+    "t1": "S", 
+    "p": "2741543P", 
+    "s": "kelloggs--lcms-split-stix-mini-variety-mix", 
+    "n": "Lcms Split Stix Mini Variety Mix", 
+    "u": "592041", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/4/2741543-th.jpg", 
+    "u2": "$2.78 per 100G", 
+    "pl": "12"
+}

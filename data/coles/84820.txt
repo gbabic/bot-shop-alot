@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "700g"
+        ]
+    }, 
+    "s9": "144437", 
+    "p1": {
+        "l4": "7.43", 
+        "o": "5.75"
+    }, 
+    "m": "Golden", 
+    "t1": "S", 
+    "p": "5065820P", 
+    "s": "golden-pasta-gnocchi-potato-98%-fat-free", 
+    "n": "Potato Gnocchi 98% Fat Free", 
+    "u": "84820", 
+    "t": "/wcsstore/Coles-CAS/images/5/0/6/5065820-th.jpg", 
+    "u2": "$0.82 per 100G", 
+    "pl": "12"
+}

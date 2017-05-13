@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100g"
+        ]
+    }, 
+    "u2": "$2.00 per 100G", 
+    "s9": "135554", 
+    "p1": {
+        "l4": "3.73", 
+        "o": "2.0"
+    }, 
+    "s7": "", 
+    "m": "Vege Chips", 
+    "n": "Original Sweet & Sour", 
+    "p": "6675699P", 
+    "s": "vege-chips-sweet-sour", 
+    "u": "70885", 
+    "t": "/wcsstore/Coles-CAS/images/6/6/7/6675699-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

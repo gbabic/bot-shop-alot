@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "160g"
+        ]
+    }, 
+    "s9": "138367", 
+    "p1": {
+        "o": "3.25"
+    }, 
+    "m": "MasterFoods", 
+    "u2": "$0.20 per 10G", 
+    "p": "6027134P", 
+    "s": "masterfoods-chilli-freshly-chopped", 
+    "u": "75103", 
+    "t": "/wcsstore/Coles-CAS/images/6/0/2/6027134-th.jpg", 
+    "n": "Freshly Chopped Chilli", 
+    "pl": "20"
+}

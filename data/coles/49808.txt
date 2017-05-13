@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Clothing"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 pack"
+        ]
+    }, 
+    "u2": "$3.50 per 1ea", 
+    "s9": "122370", 
+    "p1": {
+        "l4": "7.0", 
+        "o": "3.5"
+    }, 
+    "s7": "", 
+    "m": "Razza matazz", 
+    "n": "Curvaceous Pantyhose Value Sheer 15 Denier Tan size 1", 
+    "p": "8068777P", 
+    "s": "curvaceous-everyday-hosiery-pantyhose-one-size-soft-tan", 
+    "u": "49808", 
+    "t": "/wcsstore/Coles-CAS/images/8/0/6/8068777-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

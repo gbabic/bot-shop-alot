@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "s9": "141815", 
+    "p1": {
+        "o": "4.02"
+    }, 
+    "m": "MasterFoods", 
+    "u2": "$0.20 per 10G", 
+    "p": "5244873P", 
+    "s": "masterfoods-chicken-salt", 
+    "u": "75617", 
+    "t": "/wcsstore/Coles-CAS/images/5/2/4/5244873-th.jpg", 
+    "n": "Chicken Salt", 
+    "pl": "20"
+}

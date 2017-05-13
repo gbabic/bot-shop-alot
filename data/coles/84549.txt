@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "420g"
+        ]
+    }, 
+    "s9": "145465", 
+    "p1": {
+        "o": "1.3"
+    }, 
+    "m": "SPC", 
+    "u2": "$0.31 per 100G", 
+    "p": "4276342P", 
+    "s": "spc-spaghetti-rich-tomato", 
+    "u": "84549", 
+    "t": "/wcsstore/Coles-CAS/images/4/2/7/4276342-th.jpg", 
+    "n": "Spaghetti in Rich Tomato", 
+    "pl": "20"
+}

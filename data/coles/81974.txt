@@ -1,0 +1,44 @@
+{
+    "a": {
+        "D": [
+            "LIQUOR"
+        ], 
+        "P8": [
+            "Alcohol"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "true"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "4L"
+        ]
+    }, 
+    "pr": "11.00000", 
+    "s9": "143357", 
+    "pq": "2", 
+    "pt": "MultibuyMultiSku", 
+    "u2": "$0.37 per 100mL", 
+    "m": "Stanley", 
+    "n": "Shiraz Cabernet Cask", 
+    "p": "484633P", 
+    "s": "stanley-shiraz-cabernet-cask", 
+    "p1": {
+        "o": "14.97"
+    }, 
+    "u": "81974", 
+    "t": "/wcsstore/Coles-CAS/images/4/8/4/484633-th.jpg", 
+    "pd": "2 for $22", 
+    "a6": false, 
+    "pi": "10141675", 
+    "t1": "M", 
+    "pl": "4"
+}

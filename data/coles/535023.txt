@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.1"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 1.1kg"
+        ]
+    }, 
+    "s9": "535098", 
+    "p1": {
+        "o": "8.8"
+    }, 
+    "m": "Coles", 
+    "s7": "Indicated price based on approx. weight. Weight may vary between 1kg and 1.2kg", 
+    "u2": "$8.00 per 1Kg", 
+    "p": "2268365P", 
+    "s": "coles-rspca-approved-chicken-thigh-cutlets-2268365p", 
+    "u": "535023", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/6/2268365-th.jpg", 
+    "n": "RSPCA Approved Chicken Thigh Cutlets", 
+    "pl": "20"
+}

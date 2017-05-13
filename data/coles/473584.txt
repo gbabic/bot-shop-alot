@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400g"
+        ]
+    }, 
+    "s9": "473769", 
+    "p1": {
+        "o": "24.2"
+    }, 
+    "m": "Nair", 
+    "u2": "$6.05 per 100G", 
+    "p": "2274200P", 
+    "s": "nair-sensitive-pain-reducing-wax", 
+    "u": "473584", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/7/2274200-th.jpg", 
+    "n": "Sensitive Pain Reducing Wax", 
+    "pl": "20"
+}

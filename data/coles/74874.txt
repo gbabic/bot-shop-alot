@@ -1,0 +1,45 @@
+{
+    "a": {
+        "D": [
+            "LIQUOR"
+        ], 
+        "P8": [
+            "Alcohol"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "true"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "700mL"
+        ]
+    }, 
+    "pr": "35.00000", 
+    "s9": "136277", 
+    "pq": "2", 
+    "pt": "MultibuyMultiSku", 
+    "m": "Bundaberg", 
+    "u2": "$5.43 per 100mL", 
+    "s7": "", 
+    "n": "Red Rum", 
+    "p": "6592999P", 
+    "s": "bundaberg-red-rum-6592999p", 
+    "p1": {
+        "l4": "46.01", 
+        "o": "38.0"
+    }, 
+    "u": "74874", 
+    "t": "/wcsstore/Coles-CAS/images/6/5/9/6592999-th.jpg", 
+    "pd": "2 for $70", 
+    "pi": "10141527", 
+    "t1": "S", 
+    "pl": "4"
+}

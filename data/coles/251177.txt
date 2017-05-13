@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "New", 
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "750g"
+        ]
+    }, 
+    "u2": "$1.00 per 100G", 
+    "s9": "251181", 
+    "p1": {
+        "o": "7.5"
+    }, 
+    "s7": "", 
+    "m": "Coles", 
+    "n": "Organic Spelt Wholemeal Flour", 
+    "p": "1436340P", 
+    "s": "coles-spelt-organic-wholemeal-flour", 
+    "u": "251177", 
+    "t": "/wcsstore/Coles-CAS/images/1/4/3/1436340-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

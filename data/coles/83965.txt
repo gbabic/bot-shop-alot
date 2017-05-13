@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "80 pack"
+        ]
+    }, 
+    "s9": "144846", 
+    "p1": {
+        "o": "2.4"
+    }, 
+    "m": "Multix", 
+    "t1": "V", 
+    "p": "397786P", 
+    "s": "multix-freezer-bags-medium", 
+    "n": "Medium Freezer Bags", 
+    "u": "83965", 
+    "t": "/wcsstore/Coles-CAS/images/3/9/7/397786-th.jpg", 
+    "u2": "$0.03 per 1Ea", 
+    "pl": "20"
+}

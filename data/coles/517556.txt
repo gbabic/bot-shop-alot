@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "90g"
+        ]
+    }, 
+    "s9": "517679", 
+    "p1": {
+        "o": "5.83"
+    }, 
+    "m": "Musashi", 
+    "u2": "$6.48 per 100G", 
+    "p": "2507320P", 
+    "s": "musashi-choc-fudge-p45-brownie-bar", 
+    "u": "517556", 
+    "t": "/wcsstore/Coles-CAS/images/2/5/0/2507320-th.jpg", 
+    "n": "Choc Fudge P45 Brownie Bar", 
+    "pl": "20"
+}

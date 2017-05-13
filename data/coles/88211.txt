@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Clothing"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 pack"
+        ]
+    }, 
+    "u2": "$4.00 per 1ea", 
+    "s9": "150000", 
+    "p1": {
+        "l4": "8.0", 
+        "o": "4.0"
+    }, 
+    "s7": "", 
+    "m": "Kolotex", 
+    "n": "Sheer Relief Pantyhose Black Talls", 
+    "p": "1140093P", 
+    "s": "sheer-relief-pantyhose-black-tall", 
+    "u": "88211", 
+    "t": "/wcsstore/Coles-CAS/images/1/1/4/1140093-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "368648", 
+    "p1": {
+        "o": "8.67"
+    }, 
+    "m": "Fodmapped", 
+    "u2": "$1.73 per 100G", 
+    "p": "1755611P", 
+    "s": "fodmapped-gluten-free-lamb-vegetable-soup", 
+    "u": "368569", 
+    "t": "/wcsstore/Coles-CAS/images/1/7/5/1755611-th.jpg", 
+    "n": "Gluten Free Lamb & Vegetable Soup", 
+    "pl": "20"
+}

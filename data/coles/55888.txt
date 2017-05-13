@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "350mL"
+        ]
+    }, 
+    "s9": "114054", 
+    "p1": {
+        "o": "1.65"
+    }, 
+    "m": "Chaokoh", 
+    "u2": "$0.47 per 100mL", 
+    "p": "8257180P", 
+    "s": "chaokoh-juice-coconut-with-jelly", 
+    "u": "55888", 
+    "t": "/wcsstore/Coles-CAS/images/8/2/5/8257180-th.jpg", 
+    "n": "Coconut Juice with Jelly", 
+    "pl": "20"
+}

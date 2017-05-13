@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1.2kg"
+        ]
+    }, 
+    "s9": "139465", 
+    "p1": {
+        "o": "2.8"
+    }, 
+    "m": "Chum", 
+    "t1": "V", 
+    "p": "5259553P", 
+    "s": "chum-dog-food-with-three-meats", 
+    "n": "Three Meats Canned Dog Food", 
+    "u": "79882", 
+    "t": "/wcsstore/Coles-CAS/images/5/2/5/5259553-th.jpg", 
+    "u2": "$0.23 per 100G", 
+    "pl": "20"
+}

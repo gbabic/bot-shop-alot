@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "370g"
+        ]
+    }, 
+    "s9": "119536", 
+    "p1": {
+        "l4": "4.35", 
+        "o": "3.0"
+    }, 
+    "m": "Maggi", 
+    "t1": "S", 
+    "p": "8197350P", 
+    "s": "maggi-2-minute--noodles-chicken-corn-5-pack", 
+    "n": "Chicken & Corn 2 Minute Noodles 5 pack", 
+    "u": "53155", 
+    "t": "/wcsstore/Coles-CAS/images/8/1/9/8197350-th.jpg", 
+    "u2": "$0.81 per 100G", 
+    "pl": "12"
+}

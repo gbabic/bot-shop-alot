@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "427021", 
+    "p1": {
+        "o": "18.7"
+    }, 
+    "m": "Petstyle", 
+    "s7": "Assorted Colours & Designs", 
+    "u2": "$18.70 per 1Ea", 
+    "p": "1955949P", 
+    "s": "petstyle-dog-collar-large", 
+    "u": "427010", 
+    "t": "/wcsstore/Coles-CAS/images/1/9/5/1955949-th.jpg", 
+    "n": "Dog Collar Large", 
+    "pl": "20"
+}

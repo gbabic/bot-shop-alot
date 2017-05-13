@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "16 pack"
+        ]
+    }, 
+    "s9": "115867", 
+    "p1": {
+        "o": "4.5"
+    }, 
+    "m": "Libra", 
+    "t1": "V", 
+    "p": "8488954P", 
+    "s": "libra-applicator-tampons-regular", 
+    "n": "Regular Applicator Tampons", 
+    "u": "103869", 
+    "t": "/wcsstore/Coles-CAS/images/8/4/8/8488954-th.jpg", 
+    "u2": "$0.28 per 1Ea", 
+    "pl": "20"
+}

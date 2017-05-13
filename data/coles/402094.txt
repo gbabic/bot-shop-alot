@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "850g"
+        ]
+    }, 
+    "s9": "402253", 
+    "p1": {
+        "o": "7.0"
+    }, 
+    "m": "Red Tractor", 
+    "t1": "V", 
+    "p": "1745800P", 
+    "s": "red-tractor-steel-cut-oats", 
+    "n": "Steel Cut Oats", 
+    "u": "402094", 
+    "t": "/wcsstore/Coles-CAS/images/1/7/4/1745800-th.jpg", 
+    "u2": "$0.82 per 100G", 
+    "pl": "20"
+}

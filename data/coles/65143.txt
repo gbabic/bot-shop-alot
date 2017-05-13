@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "128697", 
+    "p1": {
+        "o": "3.74"
+    }, 
+    "m": "Buontempo", 
+    "u2": "$0.75 per 100G", 
+    "p": "7248955P", 
+    "s": "buontempo-rice-pasta-penne-gluten-free", 
+    "u": "65143", 
+    "t": "/wcsstore/Coles-CAS/images/7/2/4/7248955-th.jpg", 
+    "n": "Gluten Free Penne Pasta", 
+    "pl": "20"
+}

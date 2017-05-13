@@ -1,0 +1,38 @@
+{
+    "a": {
+        "D": [
+            "KOSHER"
+        ], 
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "0.5"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 500g pack"
+        ]
+    }, 
+    "s9": "32807", 
+    "p1": {
+        "o": "10.0"
+    }, 
+    "m": "Continental Kosher", 
+    "s7": "Indicated price based on approx. weight. Weight may vary between 450g and 550g.", 
+    "u2": "$20.00 per 1Kg", 
+    "p": "5680445P", 
+    "s": "continental-kosher-veal-salami", 
+    "u": "20302", 
+    "t": "/wcsstore/Coles-CAS/images/5/6/8/5680445-th.jpg", 
+    "n": "Veal Salami", 
+    "pl": "20"
+}

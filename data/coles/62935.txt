@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400g"
+        ]
+    }, 
+    "s9": "125871", 
+    "p1": {
+        "l4": "4.13", 
+        "o": "3.0"
+    }, 
+    "m": "Barilla", 
+    "t1": "S", 
+    "p": "7746034P", 
+    "s": "barilla-pasta-sauce-arrabbiata-chilli-pepper", 
+    "n": "Arrabbiata Chilli Pepper Pasta Sauce", 
+    "u": "62935", 
+    "t": "/wcsstore/Coles-CAS/images/7/7/4/7746034-th.jpg", 
+    "u2": "$0.75 per 100G", 
+    "pl": "12"
+}

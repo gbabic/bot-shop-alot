@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250mL"
+        ]
+    }, 
+    "s9": "467784", 
+    "p1": {
+        "o": "6.0"
+    }, 
+    "m": "Garnier", 
+    "u2": "$2.40 per 100mL", 
+    "p": "2292530P", 
+    "s": "garnier-fructis-full-luscious-conditioner", 
+    "u": "467559", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/9/2292530-th.jpg", 
+    "n": "Fructis Full & Luscious Conditioner", 
+    "pl": "20"
+}

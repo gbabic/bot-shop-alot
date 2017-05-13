@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "32585", 
+    "p1": {
+        "o": "1.93"
+    }, 
+    "m": "Taaman", 
+    "u2": "$0.39 per 100G", 
+    "p": "7695910P", 
+    "s": "taaman-pasta-spaghettini", 
+    "u": "11574", 
+    "t": "/wcsstore/Coles-CAS/images/7/6/9/7695910-th.jpg", 
+    "n": "Spaghettini Pasta", 
+    "pl": "20"
+}

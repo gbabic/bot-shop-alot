@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "300g"
+        ]
+    }, 
+    "s9": "464081", 
+    "p1": {
+        "o": "8.13"
+    }, 
+    "m": "Flax Farms", 
+    "u2": "$2.71 per 100G", 
+    "p": "2276501P", 
+    "s": "flax-farms-paleo-protein-mix", 
+    "u": "464020", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/7/2276501-th.jpg", 
+    "n": "Paleo Protein Mix", 
+    "pl": "20"
+}

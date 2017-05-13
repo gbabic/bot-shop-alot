@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "s9": "153885", 
+    "p1": {
+        "o": "4.35"
+    }, 
+    "m": "Eskal", 
+    "s7": "", 
+    "u2": "$2.18 per 100G", 
+    "p": "9734433P", 
+    "s": "eskal-wafers-lemon-filled", 
+    "u": "96467", 
+    "t": "/wcsstore/Coles-CAS/images/9/7/3/9734433-th.jpg", 
+    "n": "Lemon Filled Wafers", 
+    "pl": "20"
+}

@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "10 pack"
+        ]
+    }, 
+    "s9": "149768", 
+    "p1": {
+        "o": "6.0"
+    }, 
+    "m": "Chux", 
+    "t1": "V", 
+    "p": "165372P", 
+    "s": "chux-superwipes-cloth-giant", 
+    "n": "Giant Superwipes Cloth", 
+    "u": "89664", 
+    "t": "/wcsstore/Coles-CAS/images/1/6/5/165372-th.jpg", 
+    "u2": "$0.60 per 1Ea", 
+    "pl": "20"
+}

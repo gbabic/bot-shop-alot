@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "135g"
+        ]
+    }, 
+    "s9": "584207", 
+    "p1": {
+        "o": "10.62"
+    }, 
+    "m": "Alman", 
+    "u2": "$78.67 per 1Kg", 
+    "p": "2548179P", 
+    "s": "alman-dried-mango-2548179p", 
+    "u": "584045", 
+    "t": "/wcsstore/Coles-CAS/images/2/5/4/2548179-th.jpg", 
+    "n": "Dried Mango", 
+    "pl": "20"
+}

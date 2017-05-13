@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "50g"
+        ]
+    }, 
+    "s9": "576130", 
+    "p1": {
+        "l4": "6.6", 
+        "o": "4.8"
+    }, 
+    "m": "The Chocolate Counter", 
+    "t1": "S", 
+    "p": "2475268P", 
+    "s": "the-chocolate-counter-mylk-hazelnut-bar", 
+    "n": "Mylk Hazelnut Bar", 
+    "u": "576082", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/7/2475268-th.jpg", 
+    "u2": "$9.60 per 100G", 
+    "pl": "12"
+}

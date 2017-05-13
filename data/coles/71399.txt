@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "165g"
+        ]
+    }, 
+    "s9": "136597", 
+    "p1": {
+        "l4": "2.81", 
+        "o": "2.0"
+    }, 
+    "m": "Gravox", 
+    "t1": "V", 
+    "p": "6839785P", 
+    "s": "gravox-gravy-roast-pork", 
+    "n": "Roast Pork Gravy", 
+    "u": "71399", 
+    "t": "/wcsstore/Coles-CAS/images/6/8/3/6839785-th.jpg", 
+    "u2": "$0.12 per 10G", 
+    "pl": "12"
+}

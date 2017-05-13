@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "8 pack"
+        ]
+    }, 
+    "s9": "34867", 
+    "p1": {
+        "o": "15.4"
+    }, 
+    "m": "Depend", 
+    "u2": "$1.93 per 1Ea", 
+    "p": "1173194P", 
+    "s": "depend-real-fit-underwear-for-men-large", 
+    "u": "17681", 
+    "t": "/wcsstore/Coles-CAS/images/1/1/7/1173194-th.jpg", 
+    "n": "Real Fit Large Underwear for Men", 
+    "pl": "20"
+}

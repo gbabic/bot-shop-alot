@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250mL"
+        ]
+    }, 
+    "s9": "143712", 
+    "p1": {
+        "l4": "4.84", 
+        "o": "3.0"
+    }, 
+    "m": "Paul Newman's Own", 
+    "t1": "S", 
+    "p": "5267766P", 
+    "s": "paul-newmans-own-ranch-dressing", 
+    "n": "Ranch Dressing", 
+    "u": "77422", 
+    "t": "/wcsstore/Coles-CAS/images/5/2/6/5267766-th.jpg", 
+    "u2": "$1.20 per 100mL", 
+    "pl": "12"
+}

@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1L"
+        ]
+    }, 
+    "s9": "473812", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "m": "Campbell's", 
+    "s7": "", 
+    "u2": "$0.55 per 100mL", 
+    "p": "2378068P", 
+    "s": "campbells-real-soup-bases-asian", 
+    "u": "473633", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/7/2378068-th.jpg", 
+    "n": "Real Thai Soup Base", 
+    "pl": "20"
+}

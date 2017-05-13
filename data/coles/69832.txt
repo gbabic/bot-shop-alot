@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "2L"
+        ]
+    }, 
+    "s9": "131920", 
+    "p1": {
+        "o": "3.99"
+    }, 
+    "m": "Dairy Farmers", 
+    "t1": "V", 
+    "p": "7193274P", 
+    "s": "dairy-farmers-milk-skim", 
+    "n": "Skim Milk", 
+    "u": "69832", 
+    "t": "/wcsstore/Coles-CAS/images/7/1/9/7193274-th.jpg", 
+    "u2": "$2.00 per 1L", 
+    "pl": "20"
+}

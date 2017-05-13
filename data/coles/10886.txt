@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Fruit & Vegetables"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "0.05"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 50g"
+        ]
+    }, 
+    "u2": "$12.00 per 1Kg", 
+    "s9": "34350", 
+    "p1": {
+        "o": "0.6"
+    }, 
+    "s7": "Product of Australia.", 
+    "m": "Coles", 
+    "n": "Red Birdseye Chillies loose", 
+    "p": "8761306P", 
+    "s": "chillies-birdseye-red-loose", 
+    "u": "10886", 
+    "t": "/wcsstore/Coles-CAS/images/8/7/6/8761306-th.jpg", 
+    "t1": "S", 
+    "pl": "99"
+}

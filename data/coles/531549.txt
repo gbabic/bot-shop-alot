@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100g"
+        ]
+    }, 
+    "s9": "531602", 
+    "p1": {
+        "l4": "1.4", 
+        "o": "1.0"
+    }, 
+    "m": "Supercoat", 
+    "t1": "S", 
+    "p": "2535541P", 
+    "s": "supercoat-lean-kangaroo-loaf-adult-dog-food-tray", 
+    "n": "Adult Casserole Kangaroo Dog Food Pouch", 
+    "u": "531549", 
+    "t": "/wcsstore/Coles-CAS/images/2/5/3/2535541-th.jpg", 
+    "u2": "$1.00 per 100G", 
+    "pl": "12"
+}

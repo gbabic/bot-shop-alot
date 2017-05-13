@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "30mL"
+        ]
+    }, 
+    "s9": "157674", 
+    "p1": {
+        "l4": "27.45", 
+        "o": "14.97"
+    }, 
+    "m": "L'Oreal", 
+    "t1": "S", 
+    "p": "8924014P", 
+    "s": "loreal-nude-magique-foundation-light", 
+    "n": "Nude Magique BB Cream Light Foundation", 
+    "u": "94957", 
+    "t": "/wcsstore/Coles-CAS/images/8/9/2/8924014-th.jpg", 
+    "u2": "$4.99 per 10mL", 
+    "pl": "12"
+}

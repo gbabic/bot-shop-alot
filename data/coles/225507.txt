@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "428mL"
+        ]
+    }, 
+    "s9": "225524", 
+    "p1": {
+        "l4": "8.79", 
+        "o": "6.0"
+    }, 
+    "m": "Streets", 
+    "t1": "S", 
+    "p": "1467210P", 
+    "s": "streets-ice-cream-magnum-honeycomb-crunch-4-pack", 
+    "n": "Magnum Honeycomb Crunch Ice Cream 4 pack", 
+    "u": "225507", 
+    "t": "/wcsstore/Coles-CAS/images/1/4/6/1467210-th.jpg", 
+    "u2": "$1.28 per 100mL", 
+    "pl": "12"
+}

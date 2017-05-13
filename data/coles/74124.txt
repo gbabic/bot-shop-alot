@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "135520", 
+    "p1": {
+        "o": "12.95"
+    }, 
+    "m": "Magazine", 
+    "s7": "Cover may not depict edition offered for sale", 
+    "u2": "$12.95 per 1Ea", 
+    "p": "6709892P", 
+    "s": "ultimate-guides-magazine", 
+    "u": "74124", 
+    "t": "/wcsstore/Coles-CAS/images/6/7/0/6709892-th.jpg", 
+    "n": "Essential Guides", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "375g"
+        ]
+    }, 
+    "s9": "575247", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "m": "Mayvers", 
+    "u2": "$1.47 per 100G", 
+    "p": "2622001P", 
+    "s": "mayvers--crunchy-dark-roast-peanut-butter", 
+    "u": "575100", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/2/2622001-th.jpg", 
+    "n": "Crunchy Dark Roast Peanut Butter", 
+    "pl": "20"
+}

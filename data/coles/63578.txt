@@ -1,0 +1,38 @@
+{
+    "a": {
+        "D": [
+            "TOBACCO"
+        ], 
+        "P8": [
+            "Tobacco"
+        ], 
+        "T1": [
+            "true"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "20 pack"
+        ]
+    }, 
+    "s9": "125200", 
+    "p1": {
+        "o": "44.0"
+    }, 
+    "m": "Wee Willem", 
+    "s7": "Prices include all taxes", 
+    "u2": "$44.00 per 1ea", 
+    "p": "7747219P", 
+    "s": "wee-willem-ii-cigars-blue", 
+    "u": "63578", 
+    "t": "/wcsstore/Coles-CAS/images/C/i/g/Cigarettes-th.jpg", 
+    "n": "II Blue Cigars", 
+    "pl": "5"
+}

@@ -1,0 +1,40 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "485g"
+        ]
+    }, 
+    "pr": "4.00000", 
+    "s9": "161729", 
+    "pq": "2", 
+    "pt": "MultibuyMultiSku", 
+    "u2": "$1.18 per 100G", 
+    "m": "Betty Crocker", 
+    "n": "Chocolate Chunk Cookies Mix", 
+    "p": "9491138P", 
+    "s": "betty-crocker-cookie-mix-chocolate-chunk", 
+    "p1": {
+        "o": "5.71"
+    }, 
+    "u": "93427", 
+    "t": "/wcsstore/Coles-CAS/images/9/4/9/9491138-th.jpg", 
+    "pd": "2 for $8", 
+    "pi": "10141006", 
+    "t1": "M", 
+    "pl": "12"
+}

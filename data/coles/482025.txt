@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Baby"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "12g"
+        ]
+    }, 
+    "s9": "482092", 
+    "p1": {
+        "o": "1.8"
+    }, 
+    "m": "Kiddylicious", 
+    "u2": "$15.00 per 100G", 
+    "p": "2365099P", 
+    "s": "kiddylicious-strawberry-fruit-wriggles-12-months", 
+    "u": "482025", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/6/2365099-th.jpg", 
+    "n": "Strawberry Fruit Wriggles 12+ Months", 
+    "pl": "20"
+}

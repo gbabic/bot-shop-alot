@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "u2": "$0.20 per 100G", 
+    "s9": "38627", 
+    "p1": {
+        "o": "1.0"
+    }, 
+    "s7": "", 
+    "m": "Coles", 
+    "n": "Solid Spaghetti Solid No 1", 
+    "p": "4515192P", 
+    "s": "coles-pasta-spaghetti-solid-no-1-4515192p", 
+    "u": "17731", 
+    "t": "/wcsstore/Coles-CAS/images/4/5/1/4515192-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

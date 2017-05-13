@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "225g"
+        ]
+    }, 
+    "s9": "430061", 
+    "p1": {
+        "o": "6.05"
+    }, 
+    "m": "Yumi's", 
+    "u2": "$2.69 per 100G", 
+    "p": "2121990P", 
+    "s": "yumis-delights-curried-pumpkin-spinach-dip", 
+    "u": "430005", 
+    "t": "/wcsstore/Coles-CAS/images/2/1/2/2121990-th.jpg", 
+    "n": "Curried Pumpkin & Spinach Vegetable Delights", 
+    "pl": "20"
+}

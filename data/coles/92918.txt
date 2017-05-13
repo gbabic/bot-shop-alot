@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "153646", 
+    "p1": {
+        "o": "6.99"
+    }, 
+    "m": "Magazine", 
+    "s7": "", 
+    "u2": "$6.99 per 1ea", 
+    "p": "9883896P", 
+    "s": "it-girl-magazine", 
+    "u": "92918", 
+    "t": "/wcsstore/Coles-CAS/images/9/8/8/9883896-th.jpg", 
+    "n": "It Girl", 
+    "pl": "20"
+}

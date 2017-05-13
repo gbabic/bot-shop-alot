@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "24 pack"
+        ]
+    }, 
+    "s9": "511101", 
+    "p1": {
+        "l4": "8.75", 
+        "o": "5.56"
+    }, 
+    "m": "Scunci 4mm No Damage", 
+    "t1": "S", 
+    "p": "2382928P", 
+    "s": "scunci-4mm-no-damage-elastics-knotted", 
+    "n": "Elastics & Knotted", 
+    "u": "511037", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/8/2382928-th.jpg", 
+    "u2": "$0.23 per 1Ea", 
+    "pl": "12"
+}

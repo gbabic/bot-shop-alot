@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "380g"
+        ]
+    }, 
+    "u2": "$1.45 per 100G", 
+    "s9": "137950", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "s7": "", 
+    "m": "Thins", 
+    "n": "Variety Potato Chips 20 pack", 
+    "p": "5662545P", 
+    "s": "thins-potato-chips-variety-multipack", 
+    "u": "76525", 
+    "t": "/wcsstore/Coles-CAS/images/5/6/6/5662545-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

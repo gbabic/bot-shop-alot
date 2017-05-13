@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "62g"
+        ]
+    }, 
+    "s9": "129948", 
+    "p1": {
+        "o": "2.42"
+    }, 
+    "m": "MasterFoods", 
+    "u2": "$0.39 per 10G", 
+    "p": "7237926P", 
+    "s": "masterfoods-garlic-herb-salt", 
+    "u": "69772", 
+    "t": "/wcsstore/Coles-CAS/images/7/2/3/7237926-th.jpg", 
+    "n": "Garlic & Herb Salt", 
+    "pl": "20"
+}

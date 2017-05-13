@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "93g"
+        ]
+    }, 
+    "s9": "676550", 
+    "p1": {
+        "l4": "4.4", 
+        "o": "3.5"
+    }, 
+    "m": "Wrigley", 
+    "t1": "S", 
+    "p": "2887844P", 
+    "s": "wrigleys-eclipse-chewy-mints-bottle-spearmint", 
+    "n": "Eclipse Spearmint Chewy Mints Bottle", 
+    "u": "676509", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/8/2887844-th.jpg", 
+    "u2": "$3.76 per 100G", 
+    "pl": "12"
+}

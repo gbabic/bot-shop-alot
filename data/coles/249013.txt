@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "35g"
+        ]
+    }, 
+    "s9": "249174", 
+    "p1": {
+        "o": "2.19"
+    }, 
+    "m": "Tuckers", 
+    "u2": "$6.26 per 100G", 
+    "p": "1466035P", 
+    "s": "tuckers-crackers-tiny-dippers-tomato-salsa", 
+    "u": "249013", 
+    "t": "/wcsstore/Coles-CAS/images/1/4/6/1466035-th.jpg", 
+    "n": "Tiny Tomato Salsa Dippers", 
+    "pl": "20"
+}

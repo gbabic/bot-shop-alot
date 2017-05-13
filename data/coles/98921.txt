@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "177mL"
+        ]
+    }, 
+    "s9": "159866", 
+    "p1": {
+        "o": "10.95"
+    }, 
+    "m": "Garnier", 
+    "u2": "$6.19 per 100mL", 
+    "p": "9945053P", 
+    "s": "garnier-fructis-sleek-shine-flat-iron-spray", 
+    "u": "98921", 
+    "t": "/wcsstore/Coles-CAS/images/9/9/4/9945053-th.jpg", 
+    "n": "Fructis Sleek & Shine Flat Iron Spray", 
+    "pl": "20"
+}

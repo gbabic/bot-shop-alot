@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "300mL"
+        ]
+    }, 
+    "s9": "140597", 
+    "p1": {
+        "o": "2.21"
+    }, 
+    "m": "Squid", 
+    "u2": "$0.74 per 100mL", 
+    "p": "5420998P", 
+    "s": "squid-sauce-fish", 
+    "u": "76151", 
+    "t": "/wcsstore/Coles-CAS/images/5/4/2/5420998-th.jpg", 
+    "n": "Fish Sauce", 
+    "pl": "20"
+}

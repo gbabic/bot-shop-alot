@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "52g"
+        ]
+    }, 
+    "s9": "165006", 
+    "p1": {
+        "o": "3.91"
+    }, 
+    "m": "MasterFoods", 
+    "u2": "$0.75 per 10G", 
+    "p": "9755910P", 
+    "s": "masterfoods-barbecue-smokey-seasoning", 
+    "u": "96456", 
+    "t": "/wcsstore/Coles-CAS/images/9/7/5/9755910-th.jpg", 
+    "n": "Smokey Barbecue Seasoning", 
+    "pl": "20"
+}

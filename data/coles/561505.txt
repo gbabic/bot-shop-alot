@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "61g"
+        ]
+    }, 
+    "s9": "561553", 
+    "p1": {
+        "l4": "2.2", 
+        "o": "1.0"
+    }, 
+    "m": "Continental", 
+    "t1": "S", 
+    "p": "2667655P", 
+    "s": "continental-homestyle-pumpkin-cup-a-soup-2-pack", 
+    "n": "Homestyle Pumpkin Cup A Soup Serves 2", 
+    "u": "561505", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/6/2667655-th.jpg", 
+    "u2": "$1.64 per 100G", 
+    "pl": "12"
+}

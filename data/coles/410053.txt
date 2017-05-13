@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "410166", 
+    "p1": {
+        "o": "7.7"
+    }, 
+    "m": "Jordan's", 
+    "u2": "$1.54 per 100G", 
+    "p": "2010719P", 
+    "s": "jordans-extremely-nutty-granola", 
+    "u": "410053", 
+    "t": "/wcsstore/Coles-CAS/images/2/0/1/2010719-th.jpg", 
+    "n": "Extremely Nutty Granola", 
+    "pl": "20"
+}

@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "108522", 
+    "p1": {
+        "o": "4.99"
+    }, 
+    "m": "Magazine", 
+    "s7": "", 
+    "u2": "$4.99 per 1ea", 
+    "p": "8945546P", 
+    "s": "new-idea-puzzler-magazine", 
+    "u": "48923", 
+    "t": "/wcsstore/Coles-CAS/images/8/9/4/8945546-th.jpg", 
+    "n": "New Idea Puzzler", 
+    "pl": "20"
+}

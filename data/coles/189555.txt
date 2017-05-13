@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Clothing"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 pack"
+        ]
+    }, 
+    "u2": "", 
+    "s9": "192294", 
+    "p1": {
+        "l4": "13.2", 
+        "o": "6.0"
+    }, 
+    "s7": "", 
+    "m": "Razza matazz", 
+    "n": "Opaque Tights 120 Denier Black Medium/Large", 
+    "p": "7432230P", 
+    "s": "razzamatazz-tights-opaque-120-denier-black-tall-extra-tall", 
+    "u": "189555", 
+    "t": "/wcsstore/Coles-CAS/images/7/4/3/7432230-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

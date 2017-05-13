@@ -1,0 +1,41 @@
+{
+    "a": {
+        "D": [
+            "DONUTS", 
+            "WAVE", 
+            "TRIAL"
+        ], 
+        "P8": [
+            "Bread & Bakery"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "420g"
+        ]
+    }, 
+    "u2": "$0.36 per 100G", 
+    "s9": "112730", 
+    "p1": {
+        "o": "1.5"
+    }, 
+    "s7": "Due to its short shelf life this product is not available for delivery before 2pm", 
+    "m": "Coles Bakery", 
+    "n": "Wholemeal Baguette", 
+    "p": "8951050P", 
+    "s": "coles-bakery-baguette-wholemeal-baked-in-store-8951050p", 
+    "u": "48908", 
+    "t": "/wcsstore/Coles-CAS/images/8/9/5/8951050-th.jpg", 
+    "t1": "V", 
+    "pl": "12"
+}

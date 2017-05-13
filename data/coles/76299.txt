@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "2L"
+        ]
+    }, 
+    "s9": "139002", 
+    "p1": {
+        "o": "5.0"
+    }, 
+    "m": "Dairy Farmers", 
+    "u2": "$2.50 per 1L", 
+    "p": "6015361P", 
+    "s": "dairy-farmers-shape--milk-no-fat", 
+    "u": "76299", 
+    "t": "/wcsstore/Coles-CAS/images/6/0/1/6015361-th.jpg", 
+    "n": "Shape No Fat High Calcium Milk", 
+    "pl": "20"
+}

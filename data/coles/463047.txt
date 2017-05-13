@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1.4kg"
+        ]
+    }, 
+    "s9": "463096", 
+    "p1": {
+        "o": "4.5"
+    }, 
+    "m": "Sanitarium", 
+    "t1": "V", 
+    "p": "2279372P", 
+    "s": "sanitarium-weet-bix-2279372p", 
+    "n": "Weet-Bix", 
+    "u": "463047", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/7/2279372-th.jpg", 
+    "u2": "$0.32 per 100G", 
+    "pl": "20"
+}

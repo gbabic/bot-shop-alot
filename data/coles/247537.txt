@@ -1,0 +1,40 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "170g"
+        ]
+    }, 
+    "pr": "1.75000", 
+    "s9": "247576", 
+    "pq": "4", 
+    "pt": "MultibuyMultiSku", 
+    "u2": "$1.46 per 100G", 
+    "m": "Chobani", 
+    "n": "Raspberry Yoghurt", 
+    "p": "1198297P", 
+    "s": "chobani-yoghurt-raspberry", 
+    "p1": {
+        "o": "2.48"
+    }, 
+    "u": "247537", 
+    "t": "/wcsstore/Coles-CAS/images/1/1/9/1198297-th.jpg", 
+    "pd": "4 for $7", 
+    "pi": "10141005", 
+    "t1": "M", 
+    "pl": "12"
+}

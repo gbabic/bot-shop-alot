@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "39g"
+        ]
+    }, 
+    "s9": "36404", 
+    "p1": {
+        "o": "2.2"
+    }, 
+    "m": "Cadbury", 
+    "u2": "$5.64 per 100G", 
+    "p": "5216313P", 
+    "s": "cadbury-twirl-chocolate-bar", 
+    "u": "12531", 
+    "t": "/wcsstore/Coles-CAS/images/5/2/1/5216313-th.jpg", 
+    "n": "Twirl Chocolate Bar", 
+    "pl": "20"
+}

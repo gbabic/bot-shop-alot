@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1kg"
+        ]
+    }, 
+    "s9": "482160", 
+    "p1": {
+        "l4": "5.67", 
+        "o": "4.1"
+    }, 
+    "m": "Pattu", 
+    "t1": "S", 
+    "p": "2158630P", 
+    "s": "pattu--red-split-lentils", 
+    "n": "Red Split Lentils", 
+    "u": "482077", 
+    "t": "/wcsstore/Coles-CAS/images/2/1/5/2158630-th.jpg", 
+    "u2": "$0.41 per 100G", 
+    "pl": "12"
+}

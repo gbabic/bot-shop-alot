@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "s9": "501645", 
+    "p1": {
+        "o": "3.58"
+    }, 
+    "m": "Uncle Ben's", 
+    "u2": "$1.43 per 100G", 
+    "p": "2236303P", 
+    "s": "uncle-bens-rice-medley", 
+    "u": "501569", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/3/2236303-th.jpg", 
+    "n": "Brown Red & Wild Rice Medley", 
+    "pl": "20"
+}

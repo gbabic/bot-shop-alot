@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Clothing"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 pack"
+        ]
+    }, 
+    "s9": "192951", 
+    "p1": {
+        "o": "8.8"
+    }, 
+    "m": "Mix", 
+    "s7": "", 
+    "u2": "$8.80 per 1ea", 
+    "p": "9854242P", 
+    "s": "mix-tights-footless-80-denier-black-tall", 
+    "u": "190218", 
+    "t": "/wcsstore/Coles-CAS/images/9/8/5/9854242-th.jpg", 
+    "n": "Footless Tights 80 Denier Black Talls", 
+    "pl": "20"
+}

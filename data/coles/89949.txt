@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "5 pack"
+        ]
+    }, 
+    "s9": "151742", 
+    "p1": {
+        "o": "2.4"
+    }, 
+    "m": "Glad", 
+    "t1": "V", 
+    "p": "106726P", 
+    "s": "glad-bags-oven", 
+    "n": "Oven Bags", 
+    "u": "89949", 
+    "t": "/wcsstore/Coles-CAS/images/1/0/6/106726-th.jpg", 
+    "u2": "$0.48 per 1Ea", 
+    "pl": "20"
+}

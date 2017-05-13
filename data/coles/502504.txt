@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "12 pack"
+        ]
+    }, 
+    "s9": "502588", 
+    "p1": {
+        "o": "9.5"
+    }, 
+    "m": "Raid", 
+    "t1": "V", 
+    "p": "9508456P", 
+    "s": "raid-cockroach-bait", 
+    "n": "Cockroach Bait", 
+    "u": "502504", 
+    "t": "/wcsstore/Coles-CAS/images/9/5/0/9508456-th.jpg", 
+    "u2": "$0.79 per 1Ea", 
+    "pl": "20"
+}

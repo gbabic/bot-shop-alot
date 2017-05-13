@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "s9": "252094", 
+    "p1": {
+        "o": "4.73"
+    }, 
+    "m": "Marmite", 
+    "u2": "$1.89 per 100G", 
+    "p": "5090521P", 
+    "s": "marmite-spread-yeast-extract", 
+    "u": "252006", 
+    "t": "/wcsstore/Coles-CAS/images/5/0/9/5090521-th.jpg", 
+    "n": "Yeast Extract Spread", 
+    "pl": "20"
+}

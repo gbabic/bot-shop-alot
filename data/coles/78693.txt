@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "880g"
+        ]
+    }, 
+    "s9": "133935", 
+    "p1": {
+        "o": "11.55"
+    }, 
+    "m": "S&W", 
+    "u2": "$1.31 per 100G", 
+    "p": "6140181P", 
+    "s": "s-w-mayonnaise-real-whole-egg-6140181p", 
+    "u": "78693", 
+    "t": "/wcsstore/Coles-CAS/images/6/1/4/6140181-th.jpg", 
+    "n": "Real Whole Egg Mayonnaise Cage Free", 
+    "pl": "20"
+}

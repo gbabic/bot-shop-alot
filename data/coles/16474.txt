@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Liquor"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "20 pack"
+        ]
+    }, 
+    "s9": "37429", 
+    "p1": {
+        "o": "6.6"
+    }, 
+    "m": "Chinet", 
+    "u2": "$0.33 per 1Ea", 
+    "p": "5991139P", 
+    "s": "chinet-bioware-cups-plastic-red", 
+    "u": "16474", 
+    "t": "/wcsstore/Coles-CAS/images/5/9/9/5991139-th.jpg", 
+    "n": "Red Plastic Cups", 
+    "pl": "20"
+}

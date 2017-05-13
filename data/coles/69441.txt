@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "132145", 
+    "p1": {
+        "o": "6.6"
+    }, 
+    "m": "Simply Wize", 
+    "u2": "$1.32 per 100G", 
+    "p": "7572986P", 
+    "s": "simply-wize-gluten-free-gnocchi", 
+    "u": "69441", 
+    "t": "/wcsstore/Coles-CAS/images/7/5/7/7572986-th.jpg", 
+    "n": "Gluten Free Gnocchi", 
+    "pl": "20"
+}

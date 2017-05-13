@@ -1,0 +1,33 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "65g"
+        ]
+    }, 
+    "s9": "431044", 
+    "p1": {
+        "o": "2.48"
+    }, 
+    "m": "MasterFoods", 
+    "u2": "$0.38 per 10G", 
+    "p": "316150P", 
+    "u": "431017", 
+    "t": "/wcsstore/Coles-CAS/images/3/1/6/316150-th.jpg", 
+    "n": "All Purpose Seasoning", 
+    "pl": "20"
+}

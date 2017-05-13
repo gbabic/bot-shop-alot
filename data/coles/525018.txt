@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400mL"
+        ]
+    }, 
+    "s9": "525058", 
+    "p1": {
+        "o": "3.49"
+    }, 
+    "m": "Devondale", 
+    "u2": "$8.73 per 1L", 
+    "p": "2599227P", 
+    "s": "devondale-strawberries-cream-milkshakes", 
+    "u": "525018", 
+    "t": "/wcsstore/Coles-CAS/images/2/5/9/2599227-th.jpg", 
+    "n": "Strawberries & Cream Milkshakes", 
+    "pl": "20"
+}

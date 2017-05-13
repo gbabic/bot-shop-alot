@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "175g"
+        ]
+    }, 
+    "u2": "$1.51 per 100G", 
+    "s9": "187241", 
+    "p1": {
+        "o": "2.65"
+    }, 
+    "s7": "", 
+    "m": "Coles Simply Gluten Free", 
+    "n": "Ancient Grain Chips", 
+    "p": "1251254P", 
+    "s": "coles-simply-gluten-free-chips-ancient-grain", 
+    "u": "187123", 
+    "t": "/wcsstore/Coles-CAS/images/1/2/5/1251254-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100g"
+        ]
+    }, 
+    "s9": "226569", 
+    "p1": {
+        "o": "1.2"
+    }, 
+    "m": "Nature's Gift", 
+    "u2": "$1.20 per 100G", 
+    "p": "1513168P", 
+    "s": "natures-gift-dog-food-roast-duck", 
+    "u": "226532", 
+    "t": "/wcsstore/Coles-CAS/images/1/5/1/1513168-th.jpg", 
+    "n": "Roast Duck Dog Food", 
+    "pl": "20"
+}

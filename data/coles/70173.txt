@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Clothing"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "4 pack"
+        ]
+    }, 
+    "u2": "$2.50 per 1ea", 
+    "s9": "136144", 
+    "p1": {
+        "l4": "5.0", 
+        "o": "2.5"
+    }, 
+    "s7": "", 
+    "m": "Razza matazz", 
+    "n": "Pairs & Spares Knee Hi Black 1 Size", 
+    "p": "6764290P", 
+    "s": "razzamatazz-pairs-spares-knee-hi-pantyhose-black", 
+    "u": "70173", 
+    "t": "/wcsstore/Coles-CAS/images/6/7/6/6764290-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

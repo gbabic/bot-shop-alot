@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "50g"
+        ]
+    }, 
+    "s9": "142950", 
+    "p1": {
+        "l4": "1.4", 
+        "o": "1.0"
+    }, 
+    "m": "Whittakers", 
+    "t1": "S", 
+    "p": "415935P", 
+    "s": "whittakers-chocolate-slab-peanut", 
+    "n": "Peanut Chocolate Slab", 
+    "u": "80443", 
+    "t": "/wcsstore/Coles-CAS/images/4/1/5/415935-th.jpg", 
+    "u2": "$2.00 per 100G", 
+    "pl": "12"
+}

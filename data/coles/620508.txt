@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "6.8kg"
+        ]
+    }, 
+    "s9": "620512", 
+    "p1": {
+        "l4": "38.5", 
+        "o": "26.0"
+    }, 
+    "m": "Farmers Market", 
+    "t1": "S", 
+    "p": "2821777P", 
+    "s": "farmers-market-adult-d-f-chckn-wth-farm-veg", 
+    "n": "Adult Dry Dog Food Chicken With Farm Vegetables", 
+    "u": "620508", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/2/2821777-th.jpg", 
+    "u2": "$0.38 per 100G", 
+    "pl": "12"
+}

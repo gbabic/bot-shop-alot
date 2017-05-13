@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "40 pack"
+        ]
+    }, 
+    "u2": "$0.05 per 1Ea", 
+    "s9": "112052", 
+    "p1": {
+        "o": "2.0"
+    }, 
+    "s7": "", 
+    "m": "Hercules", 
+    "n": "Clickzip Sandwich Bags 18cm x 16.5cm", 
+    "p": "8687837P", 
+    "s": "hercules-sandwich-bags-click-zip-resealable", 
+    "u": "48100", 
+    "t": "/wcsstore/Coles-CAS/images/8/6/8/8687837-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

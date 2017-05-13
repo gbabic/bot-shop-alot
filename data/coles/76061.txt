@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "10 pack"
+        ]
+    }, 
+    "s9": "140534", 
+    "p1": {
+        "o": "10.0"
+    }, 
+    "m": "Duracell", 
+    "t1": "V", 
+    "p": "5519982P", 
+    "s": "duracell-copper-top-alkaline-batteries-aa", 
+    "n": "Coppertop Alkaline AA Batteries", 
+    "u": "76061", 
+    "t": "/wcsstore/Coles-CAS/images/5/5/1/5519982-th.jpg", 
+    "u2": "$1.00 per 1Ea", 
+    "pl": "20"
+}

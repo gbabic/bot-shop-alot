@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "360g"
+        ]
+    }, 
+    "s9": "480163", 
+    "p1": {
+        "o": "6.0"
+    }, 
+    "m": "By George", 
+    "t1": "V", 
+    "p": "2362250P", 
+    "s": "by-george-salt-pepper-frozen-squid", 
+    "n": "Salt & Pepper Frozen Squid", 
+    "u": "480024", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/6/2362250-th.jpg", 
+    "u2": "$16.67 per 1Kg", 
+    "pl": "20"
+}

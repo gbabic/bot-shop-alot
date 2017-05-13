@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "10g"
+        ]
+    }, 
+    "s9": "524576", 
+    "p1": {
+        "l4": "2.2", 
+        "o": "1.76"
+    }, 
+    "m": "Dr. Oetker", 
+    "t1": "S", 
+    "p": "2514701P", 
+    "s": "dr-oetker-red-food-gel", 
+    "n": "Gel Food Colour Bright Red", 
+    "u": "524526", 
+    "t": "/wcsstore/Coles-CAS/images/2/5/1/2514701-th.jpg", 
+    "u2": "$17.60 per 10mL", 
+    "pl": "12"
+}

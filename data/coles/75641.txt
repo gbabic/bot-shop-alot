@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100g"
+        ]
+    }, 
+    "s9": "138932", 
+    "p1": {
+        "o": "1.49"
+    }, 
+    "m": "My Dog", 
+    "u2": "$1.49 per 100G", 
+    "p": "6112798P", 
+    "s": "my-dog-select-dog-food-prime-beef-with-cheese", 
+    "u": "75641", 
+    "t": "/wcsstore/Coles-CAS/images/6/1/1/6112798-th.jpg", 
+    "n": "Prime Beef Topped with Cheese Dog Food Tray", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "425g"
+        ]
+    }, 
+    "s9": "133266", 
+    "p1": {
+        "o": "5.06"
+    }, 
+    "m": "Sanitarium", 
+    "u2": "$1.19 per 100G", 
+    "p": "6059061P", 
+    "s": "sanitarium-sausages-vegetarian", 
+    "u": "75668", 
+    "t": "/wcsstore/Coles-CAS/images/6/0/5/6059061-th.jpg", 
+    "n": "Vegie Delights Vegetarian Sausages", 
+    "pl": "20"
+}

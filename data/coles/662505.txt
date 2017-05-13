@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400g"
+        ]
+    }, 
+    "s9": "662530", 
+    "p1": {
+        "o": "5.0"
+    }, 
+    "m": "Black Swan Classic", 
+    "t1": "V", 
+    "p": "2882953P", 
+    "s": "black-swan-classic-hommus", 
+    "n": "Hommus", 
+    "u": "662505", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/8/2882953-th.jpg", 
+    "u2": "$1.25 per 100G", 
+    "pl": "20"
+}

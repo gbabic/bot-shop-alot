@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "375g"
+        ]
+    }, 
+    "s9": "144836", 
+    "p1": {
+        "o": "2.2"
+    }, 
+    "m": "McKenzie's", 
+    "u2": "$0.59 per 100G", 
+    "p": "405986P", 
+    "s": "mckenzies-chick-peas", 
+    "u": "82288", 
+    "t": "/wcsstore/Coles-CAS/images/4/0/5/405986-th.jpg", 
+    "n": "Chickpeas", 
+    "pl": "20"
+}

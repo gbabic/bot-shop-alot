@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "140g"
+        ]
+    }, 
+    "s9": "524556", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "m": "Dr. Oetker", 
+    "u2": "$3.93 per 100G", 
+    "p": "2514610P", 
+    "s": "dr-oetker-designer-white-icing", 
+    "u": "524529", 
+    "t": "/wcsstore/Coles-CAS/images/2/5/1/2514610-th.jpg", 
+    "n": "Designer Icing White", 
+    "pl": "20"
+}

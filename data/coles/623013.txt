@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "175g"
+        ]
+    }, 
+    "s9": "623057", 
+    "p1": {
+        "o": "3.63"
+    }, 
+    "m": "Smiths Thinly Cut", 
+    "u2": "$2.07 per 100G", 
+    "p": "2845968P", 
+    "s": "smiths-thinly-cut-chips-potato-teriyaki-chk", 
+    "u": "623013", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/4/2845968-th.jpg", 
+    "n": "Chips Potato Teriyaki Chk", 
+    "pl": "99"
+}

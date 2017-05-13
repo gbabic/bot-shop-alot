@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "50g"
+        ]
+    }, 
+    "s9": "150791", 
+    "p1": {
+        "o": "1.76"
+    }, 
+    "m": "Hoyts", 
+    "u2": "$0.35 per 10G", 
+    "p": "318021P", 
+    "s": "hoyts-chilli-powder", 
+    "u": "81715", 
+    "t": "/wcsstore/Coles-CAS/images/3/1/8/318021-th.jpg", 
+    "n": "Chilli Powder", 
+    "pl": "20"
+}

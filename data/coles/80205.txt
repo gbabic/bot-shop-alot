@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "170g"
+        ]
+    }, 
+    "s9": "147026", 
+    "p1": {
+        "o": "3.29"
+    }, 
+    "m": "Continental", 
+    "u2": "$1.94 per 100G", 
+    "p": "4727645P", 
+    "s": "continental-pasta-sauce-value-pack-macaroni-cheese", 
+    "u": "80205", 
+    "t": "/wcsstore/Coles-CAS/images/4/7/2/4727645-th.jpg", 
+    "n": "Macaroni Cheese Pasta & Sauce Serves 5", 
+    "pl": "20"
+}

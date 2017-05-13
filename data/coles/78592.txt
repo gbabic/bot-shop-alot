@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500mL"
+        ]
+    }, 
+    "s9": "139363", 
+    "p1": {
+        "l4": "3.15", 
+        "o": "2.0"
+    }, 
+    "m": "MasterFoods", 
+    "t1": "S", 
+    "p": "5427895P", 
+    "s": "masterfoods-tomato-sauce-squeeze-salt-reduced", 
+    "n": "Squeezy Salt Reduced Tomato Sauce", 
+    "u": "78592", 
+    "t": "/wcsstore/Coles-CAS/images/5/4/2/5427895-th.jpg", 
+    "u2": "$0.40 per 100mL", 
+    "pl": "12"
+}

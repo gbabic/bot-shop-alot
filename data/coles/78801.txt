@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "s9": "140248", 
+    "p1": {
+        "l4": "2.75", 
+        "o": "2.15"
+    }, 
+    "m": "Beigel & Beigel", 
+    "t1": "S", 
+    "p": "5980584P", 
+    "s": "beigel-beigel-pretzels-knot", 
+    "n": "Traditional Pretzels", 
+    "u": "78801", 
+    "t": "/wcsstore/Coles-CAS/images/5/9/8/5980584-th.jpg", 
+    "u2": "$1.08 per 100G", 
+    "pl": "12"
+}

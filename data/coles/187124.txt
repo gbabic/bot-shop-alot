@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "u2": "$1.25 per 100G", 
+    "s9": "187296", 
+    "p1": {
+        "o": "2.5"
+    }, 
+    "s7": "", 
+    "m": "Coles Simply Gluten Free", 
+    "n": "Corn Chips", 
+    "p": "1251221P", 
+    "s": "coles-simply-gluten-free-chips-corn", 
+    "u": "187124", 
+    "t": "/wcsstore/Coles-CAS/images/1/2/5/1251221-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

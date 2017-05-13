@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "10 pack"
+        ]
+    }, 
+    "s9": "508582", 
+    "p1": {
+        "l4": "2.97", 
+        "o": "1.0"
+    }, 
+    "m": "Twinings", 
+    "t1": "S", 
+    "p": "2469480P", 
+    "s": "twinings-herbal-infusions-camomile-tea-bags-2469480p", 
+    "n": "Herbal Infusions Camomile Tea Bags", 
+    "u": "508522", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/6/2469480-th.jpg", 
+    "u2": "$8.33 per 100G", 
+    "pl": "12"
+}

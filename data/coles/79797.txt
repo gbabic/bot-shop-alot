@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "3mL"
+        ]
+    }, 
+    "s9": "139389", 
+    "p1": {
+        "o": "2.97"
+    }, 
+    "m": "Selleys", 
+    "u2": "$2.97 per 1ea", 
+    "p": "5393840P", 
+    "s": "selleys-fix-n-go-supa-glue", 
+    "u": "79797", 
+    "t": "/wcsstore/Coles-CAS/images/5/3/9/5393840-th.jpg", 
+    "n": "Fix n Go Supa Glue", 
+    "pl": "20"
+}

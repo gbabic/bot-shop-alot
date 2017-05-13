@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "3 pack"
+        ]
+    }, 
+    "s9": "141387", 
+    "p1": {
+        "o": "4.4"
+    }, 
+    "m": "Handee", 
+    "t1": "V", 
+    "p": "5882734P", 
+    "s": "handee-ultra-paper-towels-print-5882734p", 
+    "n": "Ultra Print Paper Towels", 
+    "u": "78311", 
+    "t": "/wcsstore/Coles-CAS/images/5/8/8/5882734-th.jpg", 
+    "u2": "$2.44 per 100Ea", 
+    "pl": "20"
+}

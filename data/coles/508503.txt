@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "350mL"
+        ]
+    }, 
+    "s9": "508570", 
+    "p1": {
+        "l4": "13.75", 
+        "o": "8.7"
+    }, 
+    "m": "Head & Shoulders", 
+    "t1": "S", 
+    "p": "2567220P", 
+    "s": "head-shoulders-glossy-colour-shampoo", 
+    "n": "Glossy Colour Shampoo", 
+    "u": "508503", 
+    "t": "/wcsstore/Coles-CAS/images/2/5/6/2567220-th.jpg", 
+    "u2": "$2.49 per 100mL", 
+    "pl": "12"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "370g"
+        ]
+    }, 
+    "s9": "124093", 
+    "p1": {
+        "l4": "4.35", 
+        "o": "3.0"
+    }, 
+    "m": "Maggi", 
+    "t1": "S", 
+    "p": "7560965P", 
+    "s": "maggi-2-minute-noodles-oriental", 
+    "n": "Oriental 2 Minute Noodles 5 pack", 
+    "u": "67452", 
+    "t": "/wcsstore/Coles-CAS/images/7/5/6/7560965-th.jpg", 
+    "u2": "$0.81 per 100G", 
+    "pl": "12"
+}

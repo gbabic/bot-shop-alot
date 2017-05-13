@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Healthy Living"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "155g"
+        ]
+    }, 
+    "s9": "140755", 
+    "p1": {
+        "l4": "13.15", 
+        "o": "10.5"
+    }, 
+    "m": "Benefiber", 
+    "t1": "S", 
+    "p": "6027371P", 
+    "s": "benefiber-fibre-supplement-powder-non-thick-natural", 
+    "n": "Non Thick Natural Fibre Powder Supplement", 
+    "u": "75101", 
+    "t": "/wcsstore/Coles-CAS/images/6/0/2/6027371-th.jpg", 
+    "u2": "$6.77 per 100G", 
+    "pl": "12"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "9.7mL"
+        ]
+    }, 
+    "s9": "447592", 
+    "p1": {
+        "o": "20.0"
+    }, 
+    "m": "Maybelline", 
+    "u2": "$20.62 per 10mL", 
+    "p": "2210682P", 
+    "s": "maybelline-volume-express-glam-black-mascara", 
+    "u": "447553", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/1/2210682-th.jpg", 
+    "n": "Volume Express Glam Black Mascara", 
+    "pl": "20"
+}

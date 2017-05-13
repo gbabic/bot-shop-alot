@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "320g"
+        ]
+    }, 
+    "s9": "134795", 
+    "p1": {
+        "o": "18.15"
+    }, 
+    "m": "Katzy's Kosher", 
+    "u2": "$5.67 per 100G", 
+    "p": "6872179P", 
+    "s": "katzys-kosher-pie-perogen-potato-mince-frozen", 
+    "u": "73265", 
+    "t": "/wcsstore/Coles-CAS/images/6/8/7/6872179-th.jpg", 
+    "n": "Frozen Perogen Party Pie", 
+    "pl": "20"
+}

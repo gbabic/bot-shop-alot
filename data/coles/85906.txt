@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "148531", 
+    "p1": {
+        "o": "2.15"
+    }, 
+    "m": "Zafarelli", 
+    "u2": "$0.43 per 100G", 
+    "p": "278211P", 
+    "s": "zafarelli-pasta-elicoidali-no-57", 
+    "u": "85906", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/8/278211-th.jpg", 
+    "n": "Elicoidali Pasta No 57", 
+    "pl": "20"
+}

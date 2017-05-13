@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.6"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 1600g"
+        ]
+    }, 
+    "s9": "529015", 
+    "p1": {
+        "o": "30.4"
+    }, 
+    "m": "Coles", 
+    "s7": "Indicated price based on approx. weight. Weight may vary between 1400g and 1800g.", 
+    "u2": "$19.00 per 1Kg", 
+    "p": "2575761P", 
+    "s": "coles--beef-rump-roast", 
+    "u": "529003", 
+    "t": "/wcsstore/Coles-CAS/images/2/5/7/2575761-th.jpg", 
+    "n": "Beef Rump Roast", 
+    "pl": "20"
+}

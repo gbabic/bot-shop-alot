@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500mL"
+        ]
+    }, 
+    "s9": "673109", 
+    "p1": {
+        "l4": "8.25", 
+        "o": "7.5"
+    }, 
+    "m": "Nivea Men Shower Gel", 
+    "t1": "N", 
+    "p": "2862286P", 
+    "s": "nivea-men-shower-gel-sensitive", 
+    "n": "Sensitive", 
+    "u": "673056", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/6/2862286-th.jpg", 
+    "u2": "$1.50 per 100mL", 
+    "pl": "12"
+}

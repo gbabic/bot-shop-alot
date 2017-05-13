@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "s9": "132712", 
+    "p1": {
+        "o": "3.84"
+    }, 
+    "m": "MasterFoods", 
+    "u2": "$1.54 per 100G", 
+    "p": "6874345P", 
+    "s": "masterfoods-mustard-mild-american-squeezy", 
+    "u": "70708", 
+    "t": "/wcsstore/Coles-CAS/images/6/8/7/6874345-th.jpg", 
+    "n": "American Mild Squeezy Mustard", 
+    "pl": "20"
+}

@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Clothing"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "3 pack"
+        ]
+    }, 
+    "u2": "$7.00 per 1ea", 
+    "s9": "193131", 
+    "p1": {
+        "l4": "14.0", 
+        "o": "7.0"
+    }, 
+    "s7": "", 
+    "m": "Bonds", 
+    "n": "Mens No Show Logo Sports Socks size 11-14", 
+    "p": "9314234P", 
+    "s": "bonds-socks-mens-sport-no-show-logo-size-11-14", 
+    "u": "190820", 
+    "t": "/wcsstore/Coles-CAS/images/9/3/1/9314234-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

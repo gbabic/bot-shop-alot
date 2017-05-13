@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Drinks"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500mL"
+        ]
+    }, 
+    "s9": "641148", 
+    "p1": {
+        "o": "6.6"
+    }, 
+    "m": "Barker?s", 
+    "u2": "$13.20 per 1L", 
+    "p": "2825960P", 
+    "s": "barkers-lemon-w-lime-cucumb-mint", 
+    "u": "641076", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/2/2825960-th.jpg", 
+    "n": "Lemon with Lime Cucumber & Mint", 
+    "pl": "99"
+}

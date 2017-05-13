@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "2 pack"
+        ]
+    }, 
+    "s9": "251521", 
+    "p1": {
+        "o": "26.0"
+    }, 
+    "m": "Mortein", 
+    "u2": "$8.44 per 100G", 
+    "p": "1517227P", 
+    "s": "mortein-automatic-insect-control-naturgard-indoor-odourless-refill", 
+    "u": "251511", 
+    "t": "/wcsstore/Coles-CAS/images/1/5/1/1517227-th.jpg", 
+    "n": "Naturgard Indoor Odourless Automatic Insect Control Refill", 
+    "pl": "20"
+}

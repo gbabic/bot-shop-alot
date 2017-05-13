@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "700mL"
+        ]
+    }, 
+    "s9": "152260", 
+    "p1": {
+        "o": "13.2"
+    }, 
+    "m": "Garnier", 
+    "u2": "$1.89 per 100mL", 
+    "p": "9930840P", 
+    "s": "garnier-fructis-sleek-and-shine-shampoo", 
+    "u": "98988", 
+    "t": "/wcsstore/Coles-CAS/images/9/9/3/9930840-th.jpg", 
+    "n": "Fructis Sleek & Shine Shampoo", 
+    "pl": "20"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Healthy Living"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "150 pack"
+        ]
+    }, 
+    "s9": "133528", 
+    "p1": {
+        "l4": "17.6", 
+        "o": "11.2"
+    }, 
+    "m": "Nature's Way", 
+    "t1": "S", 
+    "p": "6848800P", 
+    "s": "natures-way-magnesium-tablets", 
+    "n": "Magnesium Tablets", 
+    "u": "70731", 
+    "t": "/wcsstore/Coles-CAS/images/6/8/4/6848800-th.jpg", 
+    "u2": "$7.47 per 100Ea", 
+    "pl": "4"
+}

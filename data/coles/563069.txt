@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "2 pack"
+        ]
+    }, 
+    "s9": "563118", 
+    "p1": {
+        "l4": "7.7", 
+        "o": "3.5"
+    }, 
+    "m": "Oral-B", 
+    "t1": "S", 
+    "p": "2620957P", 
+    "s": "oral-b-5-way-clean-medium-toothbrush", 
+    "n": "Complete 5 Way Clean (Medium) Manual Toothbrush", 
+    "u": "563069", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/2/2620957-th.jpg", 
+    "u2": "$1.75 per 1Ea", 
+    "pl": "12"
+}

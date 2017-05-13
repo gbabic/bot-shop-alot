@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100g"
+        ]
+    }, 
+    "s9": "658054", 
+    "p1": {
+        "l4": "14.3", 
+        "o": "13.0"
+    }, 
+    "m": "Natures Way Superfoods", 
+    "t1": "N", 
+    "p": "2874966P", 
+    "s": "natures-way-superfoods-turmeric-powder", 
+    "n": "Turmeric Powder", 
+    "u": "658016", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/7/2874966-th.jpg", 
+    "u2": "$13.00 per 100G", 
+    "pl": "12"
+}

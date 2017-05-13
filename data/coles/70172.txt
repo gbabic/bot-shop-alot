@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "8 pack"
+        ]
+    }, 
+    "s9": "135489", 
+    "p1": {
+        "l4": "4.08", 
+        "o": "3.1"
+    }, 
+    "m": "Mission", 
+    "t1": "S", 
+    "p": "6767935P", 
+    "s": "mission-tortillas-multigrain-8-pack", 
+    "n": "Multigrain Tortillas", 
+    "u": "70172", 
+    "t": "/wcsstore/Coles-CAS/images/6/7/6/6767935-th.jpg", 
+    "u2": "$0.81 per 100G", 
+    "pl": "12"
+}

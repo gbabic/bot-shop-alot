@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "340g"
+        ]
+    }, 
+    "s9": "161840", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "m": "Allen's", 
+    "s7": "", 
+    "u2": "$1.62 per 100G", 
+    "p": "9405635P", 
+    "s": "allens-family-size-fantales", 
+    "u": "105543", 
+    "t": "/wcsstore/Coles-CAS/images/9/4/0/9405635-th.jpg", 
+    "n": "Fantales Family Size", 
+    "pl": "20"
+}

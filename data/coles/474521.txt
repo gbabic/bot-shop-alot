@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "147mL"
+        ]
+    }, 
+    "s9": "474642", 
+    "p1": {
+        "o": "18.7"
+    }, 
+    "m": "John Frieda", 
+    "u2": "$12.72 per 100mL", 
+    "p": "2315691P", 
+    "s": "john-frieda-frizz-ease-air-dry-waves-foam", 
+    "u": "474521", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/1/2315691-th.jpg", 
+    "n": "Frizz Ease Air Dry Waves Foam", 
+    "pl": "20"
+}

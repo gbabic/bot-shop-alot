@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "10 pack"
+        ]
+    }, 
+    "s9": "30506", 
+    "p1": {
+        "o": "8.0"
+    }, 
+    "m": "Tena", 
+    "t1": "V", 
+    "p": "9622101P", 
+    "s": "tena-for-men-incontinence-pouches-level-2", 
+    "n": "Level 2 Incontinence Pouches For Men", 
+    "u": "10192", 
+    "t": "/wcsstore/Coles-CAS/images/9/6/2/9622101-th.jpg", 
+    "u2": "$0.80 per 1Ea", 
+    "pl": "20"
+}

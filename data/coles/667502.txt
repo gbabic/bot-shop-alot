@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "123g"
+        ]
+    }, 
+    "s9": "667518", 
+    "p1": {
+        "l4": "7.92", 
+        "o": "5.0"
+    }, 
+    "m": "Lindt Lindor", 
+    "t1": "S", 
+    "p": "2877716P", 
+    "s": "lindt-lindor-bag-mango-and-cream", 
+    "n": "Bag Mango And Cream", 
+    "u": "667502", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/7/2877716-th.jpg", 
+    "u2": "$4.07 per 100G", 
+    "pl": "12"
+}

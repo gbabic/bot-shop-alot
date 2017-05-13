@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "225g"
+        ]
+    }, 
+    "s9": "430065", 
+    "p1": {
+        "o": "6.05"
+    }, 
+    "m": "Yumi's", 
+    "u2": "$2.69 per 100G", 
+    "p": "2122010P", 
+    "s": "yumis-delights-spicy-zucchini-lentils-dip", 
+    "u": "430004", 
+    "t": "/wcsstore/Coles-CAS/images/2/1/2/2122010-th.jpg", 
+    "n": "Spicy Zucchini & Lentil Vegetable Delights", 
+    "pl": "20"
+}

@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "3.5"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 3.5kg pack"
+        ]
+    }, 
+    "s9": "38408", 
+    "p1": {
+        "o": "28.0"
+    }, 
+    "m": "Drovers Choice", 
+    "s7": "Indicated price based on approx. weight. Weight may vary between 3kg and 4kg.", 
+    "u2": "$8.00 per 1Kg", 
+    "p": "6795883P", 
+    "s": "coles-beef-corned-silverside-half", 
+    "u": "12023", 
+    "t": "/wcsstore/Coles-CAS/images/6/7/9/6795883-th.jpg", 
+    "n": "Half Corned Beef Silverside", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "s9": "153976", 
+    "p1": {
+        "o": "5.06"
+    }, 
+    "m": "VO5", 
+    "u2": "$2.53 per 100G", 
+    "p": "9277149P", 
+    "s": "advanced-vo5-hairspray-extra-hold", 
+    "u": "107136", 
+    "t": "/wcsstore/Coles-CAS/images/9/2/7/9277149-th.jpg", 
+    "n": "Advanced Extra Hold Hairspray", 
+    "pl": "20"
+}

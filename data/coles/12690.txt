@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "175g"
+        ]
+    }, 
+    "s9": "30787", 
+    "p1": {
+        "o": "3.29"
+    }, 
+    "m": "Arnott's", 
+    "s7": "", 
+    "u2": "$1.88 per 100G", 
+    "p": "8638285P", 
+    "s": "arnotts-biscuits-shapes-chicken-crimpy", 
+    "u": "12690", 
+    "t": "/wcsstore/Coles-CAS/images/8/6/3/8638285-th.jpg", 
+    "n": "Chicken Crimpy Shapes", 
+    "pl": "20"
+}

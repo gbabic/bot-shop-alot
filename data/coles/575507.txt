@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "350g"
+        ]
+    }, 
+    "s9": "575534", 
+    "p1": {
+        "o": "8.8"
+    }, 
+    "m": "Old El Paso", 
+    "u2": "$2.51 per 100G", 
+    "p": "2680868P", 
+    "s": "old-el-paso--chilli-con-carne-rice-meal", 
+    "u": "575507", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/8/2680868-th.jpg", 
+    "n": "Chilli Con Carne & Rice Meal", 
+    "pl": "99"
+}

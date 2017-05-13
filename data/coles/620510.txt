@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "175g"
+        ]
+    }, 
+    "s9": "620515", 
+    "p1": {
+        "o": "3.63"
+    }, 
+    "m": "Smiths Thinly Cut", 
+    "u2": "$2.07 per 100G", 
+    "p": "2845957P", 
+    "s": "smiths-thinly-cut-chips-potato-swt-chil-crm", 
+    "u": "620510", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/4/2845957-th.jpg", 
+    "n": "Chips Potato Swt Chil Crm", 
+    "pl": "99"
+}

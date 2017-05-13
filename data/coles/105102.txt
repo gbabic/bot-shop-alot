@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400mL"
+        ]
+    }, 
+    "s9": "167008", 
+    "p1": {
+        "o": "7.57"
+    }, 
+    "m": "Schwarzkopf", 
+    "u2": "$1.89 per 100mL", 
+    "p": "9192851P", 
+    "s": "schwarzkopf-shampoo-extra-care-marrakesh", 
+    "u": "105102", 
+    "t": "/wcsstore/Coles-CAS/images/9/1/9/9192851-th.jpg", 
+    "n": "Extra Care Marrakesh Shampoo", 
+    "pl": "20"
+}

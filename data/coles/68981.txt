@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "35g"
+        ]
+    }, 
+    "s9": "130519", 
+    "p1": {
+        "o": "3.91"
+    }, 
+    "m": "MasterFoods", 
+    "u2": "$1.12 per 10G", 
+    "p": "7236082P", 
+    "s": "masterfoods-thai-seasoning", 
+    "u": "68981", 
+    "t": "/wcsstore/Coles-CAS/images/7/2/3/7236082-th.jpg", 
+    "n": "Thai Seasoning", 
+    "pl": "20"
+}

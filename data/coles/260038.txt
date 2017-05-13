@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "0.55"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 550g pack"
+        ]
+    }, 
+    "s9": "260062", 
+    "p1": {
+        "o": "2.695"
+    }, 
+    "m": "Cordina", 
+    "s7": "Indicated price based on approx. weight. Weight may vary between 500g and 600g.", 
+    "u2": "$4.90 per 1Kg", 
+    "p": "1586580P", 
+    "s": "cordina-chicken-necks", 
+    "u": "260038", 
+    "t": "/wcsstore/Coles-CAS/images/1/5/8/1586580-th.jpg", 
+    "n": "Chicken Necks", 
+    "pl": "20"
+}

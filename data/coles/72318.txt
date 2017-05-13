@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "425g"
+        ]
+    }, 
+    "s9": "135163", 
+    "p1": {
+        "o": "4.04"
+    }, 
+    "m": "Harvest", 
+    "u2": "$0.95 per 100G", 
+    "p": "6332885P", 
+    "s": "harvest-canned-meal-beef-red-wine", 
+    "u": "72318", 
+    "t": "/wcsstore/Coles-CAS/images/6/3/3/6332885-th.jpg", 
+    "n": "Red Wine Beef Stew", 
+    "pl": "20"
+}

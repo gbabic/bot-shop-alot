@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "370g"
+        ]
+    }, 
+    "s9": "132666", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "m": "Bonne Maman", 
+    "u2": "$1.49 per 100G", 
+    "p": "7011800P", 
+    "s": "bonne-maman-jam-fig", 
+    "u": "69908", 
+    "t": "/wcsstore/Coles-CAS/images/7/0/1/7011800-th.jpg", 
+    "n": "Fig Jam", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "137704", 
+    "p1": {
+        "o": "3.03"
+    }, 
+    "m": "San Remo", 
+    "u2": "$0.61 per 100G", 
+    "p": "6079397P", 
+    "s": "san-remo-cous-cous", 
+    "u": "77487", 
+    "t": "/wcsstore/Coles-CAS/images/6/0/7/6079397-th.jpg", 
+    "n": "CousCous", 
+    "pl": "20"
+}

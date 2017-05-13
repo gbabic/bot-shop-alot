@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400g"
+        ]
+    }, 
+    "s9": "161857", 
+    "p1": {
+        "o": "12.65"
+    }, 
+    "m": "Schmackos", 
+    "u2": "$3.16 per 100G", 
+    "p": "9385684P", 
+    "s": "schmackos-dog-treats-strapz-variety-pack", 
+    "u": "92109", 
+    "t": "/wcsstore/Coles-CAS/images/9/3/8/9385684-th.jpg", 
+    "n": "Strapz Variety Pack Dog Treats", 
+    "pl": "20"
+}

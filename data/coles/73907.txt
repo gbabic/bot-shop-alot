@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "12g"
+        ]
+    }, 
+    "s9": "135931", 
+    "p1": {
+        "o": "27.61"
+    }, 
+    "m": "Covergirl", 
+    "u2": "$23.01 per 10G", 
+    "p": "6925515P", 
+    "s": "covergirl-simply-ageless-foundation-natural-beige", 
+    "u": "73907", 
+    "t": "/wcsstore/Coles-CAS/images/6/9/2/6925515-th.jpg", 
+    "n": "Simply Ageless Natural Beige Foundation", 
+    "pl": "20"
+}

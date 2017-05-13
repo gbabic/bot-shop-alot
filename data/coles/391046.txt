@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "240g"
+        ]
+    }, 
+    "s9": "391167", 
+    "p1": {
+        "l4": "3.29", 
+        "o": "2.5"
+    }, 
+    "m": "Hansells", 
+    "t1": "S", 
+    "p": "1924322P", 
+    "s": "hansells-vanilla-creamy-rice-2-pack", 
+    "n": "Vanilla Creamy Rice 2 pack", 
+    "u": "391046", 
+    "t": "/wcsstore/Coles-CAS/images/1/9/2/1924322-th.jpg", 
+    "u2": "$1.04 per 100G", 
+    "pl": "12"
+}

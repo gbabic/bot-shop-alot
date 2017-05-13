@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "225g"
+        ]
+    }, 
+    "s9": "356010", 
+    "p1": {
+        "o": "4.07"
+    }, 
+    "m": "Weight Watchers", 
+    "u2": "$1.81 per 100G", 
+    "p": "1836983P", 
+    "s": "weight-watchers-beef-tomato-bolognese-frozen-meal", 
+    "u": "350552", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/3/1836983-th.jpg", 
+    "n": "Beef Tomato Bolognese Frozen Meal", 
+    "pl": "20"
+}

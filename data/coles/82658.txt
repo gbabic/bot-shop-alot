@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "20 pack"
+        ]
+    }, 
+    "s9": "145187", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "m": "Smith's", 
+    "t1": "V", 
+    "p": "4826829P", 
+    "s": "smiths-potato-chips-crinkle-cut-flavour-mix", 
+    "n": "Crinkle Cut Variety Multipack", 
+    "u": "82658", 
+    "t": "/wcsstore/Coles-CAS/images/4/8/2/4826829-th.jpg", 
+    "u2": "$1.45 per 100G", 
+    "pl": "20"
+}

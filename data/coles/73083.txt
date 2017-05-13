@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "120g"
+        ]
+    }, 
+    "s9": "133328", 
+    "p1": {
+        "o": "6.9"
+    }, 
+    "m": "Riccis Bikkies", 
+    "u2": "$5.75 per 100G", 
+    "p": "7017464P", 
+    "s": "riccis-bikkies-turk-bread-garlic-parmesan", 
+    "u": "73083", 
+    "t": "/wcsstore/Coles-CAS/images/7/0/1/7017464-th.jpg", 
+    "n": "Garlic & Parmesan Turkish Bread", 
+    "pl": "20"
+}

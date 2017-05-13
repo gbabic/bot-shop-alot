@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "140 gram"
+        ]
+    }, 
+    "s9": "612556", 
+    "p1": {
+        "l4": "5.5", 
+        "o": "4.35"
+    }, 
+    "m": "Dr Oetker", 
+    "t1": "S", 
+    "p": "2782482P", 
+    "s": "dr-oetker-rich-chocolate-cupcake-centres", 
+    "n": "Rich Chocolate Cupcake Centres", 
+    "u": "612523", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/8/2782482-th.jpg", 
+    "u2": "$3.11 per 100G", 
+    "pl": "12"
+}

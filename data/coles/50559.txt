@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "40 pack"
+        ]
+    }, 
+    "s9": "117273", 
+    "p1": {
+        "o": "1.29"
+    }, 
+    "m": "Deeko", 
+    "u2": "$0.03 per 1Ea", 
+    "p": "8478418P", 
+    "s": "deeko-flexi-fluoro-straw", 
+    "u": "50559", 
+    "t": "/wcsstore/Coles-CAS/images/8/4/7/8478418-th.jpg", 
+    "n": "Fluoro Flexible Straws", 
+    "pl": "20"
+}

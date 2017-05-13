@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250mL"
+        ]
+    }, 
+    "s9": "511172", 
+    "p1": {
+        "o": "11.0"
+    }, 
+    "m": "Total Care", 
+    "u2": "$4.40 per 100mL", 
+    "p": "2443308P", 
+    "s": "total-care-puppy-shampoo", 
+    "u": "511030", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/4/2443308-th.jpg", 
+    "n": "Puppy Shampoo", 
+    "pl": "20"
+}

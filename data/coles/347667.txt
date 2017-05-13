@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "3kg"
+        ]
+    }, 
+    "s9": "347848", 
+    "p1": {
+        "l4": "12.05", 
+        "o": "7.0"
+    }, 
+    "m": "Pedigree", 
+    "t1": "S", 
+    "p": "1843130P", 
+    "s": "pedigree-turkey-dry-dog-food", 
+    "n": "Turkey Dry Dog Food", 
+    "u": "347667", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/4/1843130-th.jpg", 
+    "u2": "$0.23 per 100G", 
+    "pl": "12"
+}

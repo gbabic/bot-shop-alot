@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "3 pack"
+        ]
+    }, 
+    "s9": "467806", 
+    "p1": {
+        "o": "3.91"
+    }, 
+    "m": "Bic", 
+    "u2": "$1.30 per 1Ea", 
+    "p": "2276920P", 
+    "s": "bic--soleil-simply-lady-shaver", 
+    "u": "467682", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/7/2276920-th.jpg", 
+    "n": "Soleil Simply Lady Shaver", 
+    "pl": "20"
+}

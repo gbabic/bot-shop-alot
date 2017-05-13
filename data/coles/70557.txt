@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "170g"
+        ]
+    }, 
+    "u2": "$0.88 per 100G", 
+    "s9": "137084", 
+    "p1": {
+        "o": "1.5"
+    }, 
+    "s7": "", 
+    "m": "Coles", 
+    "n": "Chicken Tubes", 
+    "p": "6993730P", 
+    "s": "coles-brand-chicken-tubes", 
+    "u": "70557", 
+    "t": "/wcsstore/Coles-CAS/images/6/9/9/6993730-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "700g"
+        ]
+    }, 
+    "s9": "168205", 
+    "p1": {
+        "o": "7.03"
+    }, 
+    "m": "Latina", 
+    "u2": "$1.00 per 100G", 
+    "p": "8999421P", 
+    "s": "latina-fresh-pasta-sauce-italian-tomato-garlic", 
+    "u": "51535", 
+    "t": "/wcsstore/Coles-CAS/images/8/9/9/8999421-th.jpg", 
+    "n": "Italian Tomato & Garlic Pasta Sauce", 
+    "pl": "20"
+}

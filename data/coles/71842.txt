@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "80g"
+        ]
+    }, 
+    "s9": "135935", 
+    "p1": {
+        "o": "3.08"
+    }, 
+    "m": "Safari", 
+    "u2": "$3.85 per 100G", 
+    "p": "6923688P", 
+    "s": "safari-fruit-roll-guava", 
+    "u": "71842", 
+    "t": "/wcsstore/Coles-CAS/images/6/9/2/6923688-th.jpg", 
+    "n": "Guava Fruit Roll", 
+    "pl": "20"
+}

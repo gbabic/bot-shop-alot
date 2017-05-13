@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1kg"
+        ]
+    }, 
+    "s9": "158410", 
+    "p1": {
+        "l4": "6.05", 
+        "o": "4.0"
+    }, 
+    "m": "Pampas", 
+    "t1": "S", 
+    "p": "9758555P", 
+    "s": "pampas-pastry-shortcrust-sheets-frozen", 
+    "n": "Reduced Fat Frozen Shortcrust Pastry Sheets", 
+    "u": "93170", 
+    "t": "/wcsstore/Coles-CAS/images/9/7/5/9758555-th.jpg", 
+    "u2": "$0.40 per 100G", 
+    "pl": "12"
+}

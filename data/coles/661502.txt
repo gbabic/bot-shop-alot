@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "210g"
+        ]
+    }, 
+    "s9": "661527", 
+    "p1": {
+        "o": "6.27"
+    }, 
+    "m": "Carman's", 
+    "u2": "$2.99 per 100G", 
+    "p": "2913751P", 
+    "s": "carmans-dark-choc-cherry-coconut-bars", 
+    "u": "661502", 
+    "t": "/wcsstore/Coles-CAS/images/2/9/1/2913751-th.jpg", 
+    "n": "Dark Choc Cherry & Coconut Bars", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "300mL"
+        ]
+    }, 
+    "s9": "145001", 
+    "p1": {
+        "o": "2.86"
+    }, 
+    "m": "Dairy Farmers", 
+    "u2": "$0.95 per 100mL", 
+    "p": "5138490P", 
+    "s": "dairy-farmers-cream-thickened", 
+    "u": "83041", 
+    "t": "/wcsstore/Coles-CAS/images/5/1/3/5138490-th.jpg", 
+    "n": "Thickened Cream", 
+    "pl": "20"
+}

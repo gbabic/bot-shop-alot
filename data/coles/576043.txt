@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "20 pack"
+        ]
+    }, 
+    "s9": "576113", 
+    "p1": {
+        "o": "2.5"
+    }, 
+    "m": "Coles", 
+    "t1": "V", 
+    "p": "2578894P", 
+    "s": "coles-regular-tampons", 
+    "n": "Regular Tampons", 
+    "u": "576043", 
+    "t": "/wcsstore/Coles-CAS/images/2/5/7/2578894-th.jpg", 
+    "u2": "$0.13 per 1Ea", 
+    "pl": "20"
+}

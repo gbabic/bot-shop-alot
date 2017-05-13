@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "s9": "137764", 
+    "p1": {
+        "o": "4.9"
+    }, 
+    "m": "Schwarzkopf", 
+    "u2": "$1.96 per 100G", 
+    "p": "59499P", 
+    "s": "schwarzkopf-taft-gel-styling-super-hold", 
+    "u": "75783", 
+    "t": "/wcsstore/Coles-CAS/images/5/9/4/59499-th.jpg", 
+    "n": "Taft Super Hold Styling Gel", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "420g"
+        ]
+    }, 
+    "s9": "149872", 
+    "p1": {
+        "o": "2.05"
+    }, 
+    "m": "Campbell's", 
+    "u2": "$0.49 per 100G", 
+    "p": "128999P", 
+    "s": "campbells-condensed-soup-cream-of-chicken", 
+    "u": "89774", 
+    "t": "/wcsstore/Coles-CAS/images/1/2/8/128999-th.jpg", 
+    "n": "Cream of Chicken Condensed Soup Can", 
+    "pl": "20"
+}

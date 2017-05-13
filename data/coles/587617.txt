@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "85g"
+        ]
+    }, 
+    "s9": "587692", 
+    "p1": {
+        "l4": "1.21", 
+        "o": "0.8"
+    }, 
+    "m": "Dine", 
+    "t1": "S", 
+    "p": "2528830P", 
+    "s": "dine-tender-tuna-slices", 
+    "n": "Tender Tuna Slices", 
+    "u": "587617", 
+    "t": "/wcsstore/Coles-CAS/images/2/5/2/2528830-th.jpg", 
+    "u2": "$0.94 per 100G", 
+    "pl": "12"
+}

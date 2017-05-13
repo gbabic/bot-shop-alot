@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "148576", 
+    "p1": {
+        "o": "1.8"
+    }, 
+    "m": "San Remo", 
+    "t1": "V", 
+    "p": "207814P", 
+    "s": "san-remo-pasta-fettuccine-spinach", 
+    "n": "Spinach Fettuccine Pasta", 
+    "u": "87317", 
+    "t": "/wcsstore/Coles-CAS/images/2/0/7/207814-th.jpg", 
+    "u2": "$0.36 per 100G", 
+    "pl": "20"
+}

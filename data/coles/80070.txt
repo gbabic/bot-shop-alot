@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "110g"
+        ]
+    }, 
+    "s9": "143280", 
+    "p1": {
+        "o": "4.8"
+    }, 
+    "m": "Colgate", 
+    "u2": "$4.36 per 100G", 
+    "p": "5012550P", 
+    "s": "colgate-advanced-toothpaste-whitening", 
+    "u": "80070", 
+    "t": "/wcsstore/Coles-CAS/images/5/0/1/5012550-th.jpg", 
+    "n": "Whitening Toothpaste", 
+    "pl": "20"
+}

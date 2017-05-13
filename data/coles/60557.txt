@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "225g"
+        ]
+    }, 
+    "s9": "124920", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "m": "Yumi's", 
+    "u2": "$2.44 per 100G", 
+    "p": "7844306P", 
+    "s": "yumis-falafel-balls-plain", 
+    "u": "60557", 
+    "t": "/wcsstore/Coles-CAS/images/7/8/4/7844306-th.jpg", 
+    "n": "Plain Falafel Balls", 
+    "pl": "20"
+}

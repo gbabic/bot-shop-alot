@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "3kg"
+        ]
+    }, 
+    "s9": "122711", 
+    "p1": {
+        "o": "19.03"
+    }, 
+    "m": "Optimum", 
+    "u2": "$0.63 per 100G", 
+    "p": "7848169P", 
+    "s": "optimum-adult-dog-food-chicken--vegetables-rice-7848169p", 
+    "u": "64120", 
+    "t": "/wcsstore/Coles-CAS/images/7/8/4/7848169-th.jpg", 
+    "n": "Chicken Vegetables & Rice Dry Dog Food", 
+    "pl": "20"
+}

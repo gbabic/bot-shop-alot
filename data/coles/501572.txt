@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "177mL"
+        ]
+    }, 
+    "s9": "501647", 
+    "p1": {
+        "o": "2.53"
+    }, 
+    "m": "Louisiana", 
+    "u2": "$1.43 per 100mL", 
+    "p": "2137174P", 
+    "s": "louisiana-hot-sauce", 
+    "u": "501572", 
+    "t": "/wcsstore/Coles-CAS/images/2/1/3/2137174-th.jpg", 
+    "n": "Hot Sauce", 
+    "pl": "99"
+}

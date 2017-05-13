@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "70g"
+        ]
+    }, 
+    "s9": "293545", 
+    "p1": {
+        "o": "1.6"
+    }, 
+    "m": "Fantastic", 
+    "u2": "$2.29 per 100G", 
+    "p": "6046740P", 
+    "s": "fantastic-noodle-cup-crispy-bacon", 
+    "u": "293308", 
+    "t": "/wcsstore/Coles-CAS/images/6/0/4/6046740-th.jpg", 
+    "n": "Crispy Bacon Noodle Cup", 
+    "pl": "20"
+}

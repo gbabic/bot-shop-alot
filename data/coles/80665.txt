@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "3 pack"
+        ]
+    }, 
+    "s9": "144446", 
+    "p1": {
+        "o": "5.39"
+    }, 
+    "m": "Viva", 
+    "u2": "$2.99 per 100Ea", 
+    "p": "5048219P", 
+    "s": "viva-paper-towels-white", 
+    "u": "80665", 
+    "t": "/wcsstore/Coles-CAS/images/5/0/4/5048219-th.jpg", 
+    "n": "White Paper Towels", 
+    "pl": "20"
+}

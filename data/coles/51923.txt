@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "168744", 
+    "p1": {
+        "l4": "7.99", 
+        "o": "6.0"
+    }, 
+    "m": "Flora", 
+    "t1": "S", 
+    "p": "8840843P", 
+    "s": "flora-spread-margarine-pro-activ-original-tub", 
+    "n": "Pro Activ Original Margarine Tub", 
+    "u": "51923", 
+    "t": "/wcsstore/Coles-CAS/images/8/8/4/8840843-th.jpg", 
+    "u2": "$1.20 per 100G", 
+    "pl": "12"
+}

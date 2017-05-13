@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "354g"
+        ]
+    }, 
+    "s9": "143690", 
+    "p1": {
+        "o": "6.22"
+    }, 
+    "m": "Sharwood's", 
+    "u2": "$1.76 per 100G", 
+    "p": "362442P", 
+    "s": "sharwoods-chutney-mango-ginger", 
+    "u": "81680", 
+    "t": "/wcsstore/Coles-CAS/images/3/6/2/362442-th.jpg", 
+    "n": "Mango & Ginger Chutney", 
+    "pl": "20"
+}

@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "143930", 
+    "p1": {
+        "o": "12.0"
+    }, 
+    "m": "Fashion Home", 
+    "s7": "", 
+    "u2": "$12.00 per 1Ea", 
+    "p": "4939993P", 
+    "s": "fashion-home-bath-towel-claret", 
+    "u": "82597", 
+    "t": "/wcsstore/Coles-CAS/images/4/9/3/4939993-th.jpg", 
+    "n": "Egyptian Cotton Denim Bath Towel", 
+    "pl": "20"
+}

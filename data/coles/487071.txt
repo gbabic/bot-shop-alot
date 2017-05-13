@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "145g"
+        ]
+    }, 
+    "s9": "487165", 
+    "p1": {
+        "l4": "3.85", 
+        "o": "1.75"
+    }, 
+    "m": "La Costena", 
+    "t1": "S", 
+    "p": "2373406P", 
+    "s": "la-costena-red-jalapeno-hot-sauce", 
+    "n": "Red Jalapeno Hot Sauce", 
+    "u": "487071", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/7/2373406-th.jpg", 
+    "u2": "$1.21 per 100G", 
+    "pl": "12"
+}

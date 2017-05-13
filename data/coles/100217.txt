@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1kg"
+        ]
+    }, 
+    "u2": "$4.50 per 1Kg", 
+    "s9": "159304", 
+    "p1": {
+        "o": "4.5"
+    }, 
+    "s7": "", 
+    "m": "Coles", 
+    "n": "Organic Plain Flour", 
+    "p": "9651019P", 
+    "s": "coles-flour-plain-organic", 
+    "u": "100217", 
+    "t": "/wcsstore/Coles-CAS/images/9/6/5/9651019-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

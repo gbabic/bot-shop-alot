@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "144293", 
+    "p1": {
+        "l4": "2.75", 
+        "o": "1.9"
+    }, 
+    "m": "Barilla", 
+    "t1": "V", 
+    "p": "354149P", 
+    "s": "barilla-pasta-penne-lisce-no-71", 
+    "n": "Penne Lisce Pasta No 71", 
+    "u": "87846", 
+    "t": "/wcsstore/Coles-CAS/images/3/5/4/354149-th.jpg", 
+    "u2": "$0.38 per 100G", 
+    "pl": "12"
+}

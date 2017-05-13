@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "156983", 
+    "p1": {
+        "o": "1.8"
+    }, 
+    "m": "San Remo", 
+    "t1": "V", 
+    "p": "9579895P", 
+    "s": "san-remo-pasta-fettuccine-no-80-curly", 
+    "n": "Curly Fettuccine Pasta No 80", 
+    "u": "103081", 
+    "t": "/wcsstore/Coles-CAS/images/9/5/7/9579895-th.jpg", 
+    "u2": "$0.36 per 100G", 
+    "pl": "20"
+}

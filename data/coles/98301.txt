@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "50g"
+        ]
+    }, 
+    "s9": "153867", 
+    "p1": {
+        "o": "3.63"
+    }, 
+    "m": "MasterFoods", 
+    "u2": "$0.73 per 10G", 
+    "p": "9755750P", 
+    "s": "masterfoods-lemon-pepper-seasoning-(no-salt)", 
+    "u": "98301", 
+    "t": "/wcsstore/Coles-CAS/images/9/7/5/9755750-th.jpg", 
+    "n": "Lemon Pepper No Salt Seasoning", 
+    "pl": "20"
+}

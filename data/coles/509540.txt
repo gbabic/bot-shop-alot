@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "120g"
+        ]
+    }, 
+    "s9": "509586", 
+    "p1": {
+        "o": "5.12"
+    }, 
+    "m": "Keens", 
+    "u2": "$0.43 per 10G", 
+    "p": "165022P", 
+    "s": "keens-curry-powder-165022p", 
+    "u": "509540", 
+    "t": "/wcsstore/Coles-CAS/images/1/6/5/165022-th.jpg", 
+    "n": "Curry Powder", 
+    "pl": "20"
+}

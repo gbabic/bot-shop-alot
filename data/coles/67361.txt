@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 pack"
+        ]
+    }, 
+    "s9": "123993", 
+    "p1": {
+        "o": "21.23"
+    }, 
+    "m": "Schwarzkopf", 
+    "u2": "$21.23 per 1Ea", 
+    "p": "7607934P", 
+    "s": "schwarzkopf-nordic-hair-streaking-kit", 
+    "u": "67361", 
+    "t": "/wcsstore/Coles-CAS/images/7/6/0/7607934-th.jpg", 
+    "n": "Nordic Hair Streaking Kit", 
+    "pl": "20"
+}

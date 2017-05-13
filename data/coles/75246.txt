@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "141406", 
+    "p1": {
+        "o": "4.4"
+    }, 
+    "m": "Sostanza", 
+    "u2": "$8.80 per 1Kg", 
+    "p": "5843765P", 
+    "s": "sostanza-polenta", 
+    "u": "75246", 
+    "t": "/wcsstore/Coles-CAS/images/5/8/4/5843765-th.jpg", 
+    "n": "Polenta", 
+    "pl": "20"
+}

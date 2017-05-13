@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "45g"
+        ]
+    }, 
+    "s9": "525545", 
+    "p1": {
+        "o": "2.2"
+    }, 
+    "m": "Kellogg's", 
+    "u2": "$4.89 per 100G", 
+    "p": "2516922P", 
+    "s": "kelloggs-special-k-flame-raisin-red-apple-whole-grain-clusters-with-protein", 
+    "u": "525526", 
+    "t": "/wcsstore/Coles-CAS/images/2/5/1/2516922-th.jpg", 
+    "n": "Special K Flame Raisin & Red Apple Whole Grain Clusters With Protein", 
+    "pl": "20"
+}

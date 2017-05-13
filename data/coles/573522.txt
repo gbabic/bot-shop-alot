@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Drinks"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "575mL"
+        ]
+    }, 
+    "s9": "573538", 
+    "p1": {
+        "o": "4.0"
+    }, 
+    "m": "Badu", 
+    "u2": "$6.96 per 1L", 
+    "p": "2607267P", 
+    "s": "badu-lemon-infused-water-chilled", 
+    "u": "573522", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/0/2607267-th.jpg", 
+    "n": "Lemon Infused Water Chilled", 
+    "pl": "99"
+}

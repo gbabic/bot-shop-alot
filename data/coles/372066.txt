@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1L"
+        ]
+    }, 
+    "s9": "372143", 
+    "p1": {
+        "l4": "3.6", 
+        "o": "3.0"
+    }, 
+    "m": "Sanitarium So Good", 
+    "t1": "S", 
+    "p": "1908519P", 
+    "s": "sanitarium-so-good-almond-milk-chilled", 
+    "n": "So Good Chilled Almond Milk", 
+    "u": "372066", 
+    "t": "/wcsstore/Coles-CAS/images/1/9/0/1908519-th.jpg", 
+    "u2": "$3.00 per 1L", 
+    "pl": "12"
+}

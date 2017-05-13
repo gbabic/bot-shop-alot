@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "90g"
+        ]
+    }, 
+    "s9": "471627", 
+    "p1": {
+        "l4": "2.1", 
+        "o": "1.0"
+    }, 
+    "m": "Continental", 
+    "t1": "S", 
+    "p": "2262970P", 
+    "s": "continental-stroganoff-pasta-sauce-2262970p", 
+    "n": "Stroganoff Pasta & Sauce Serves 3", 
+    "u": "471560", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/6/2262970-th.jpg", 
+    "u2": "$1.11 per 100G", 
+    "pl": "12"
+}

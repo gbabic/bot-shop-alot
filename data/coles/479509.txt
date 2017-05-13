@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "2 pack"
+        ]
+    }, 
+    "s9": "479518", 
+    "p1": {
+        "l4": "2.2", 
+        "o": "1.5"
+    }, 
+    "m": "Hothands", 
+    "t1": "S", 
+    "p": "2396274P", 
+    "s": "hothands-hand-warmers", 
+    "n": "Hand Warmers", 
+    "u": "479509", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/9/2396274-th.jpg", 
+    "u2": "$0.75 per 1Ea", 
+    "pl": "12"
+}

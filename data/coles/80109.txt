@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "146351", 
+    "p1": {
+        "l4": "3.62", 
+        "o": "2.0"
+    }, 
+    "m": "Campbell's", 
+    "t1": "S", 
+    "p": "4915361P", 
+    "s": "campbells-chunky-soup-potato-bacon", 
+    "n": "Chunky Potato Bacon Soup Can", 
+    "u": "80109", 
+    "t": "/wcsstore/Coles-CAS/images/4/9/1/4915361-th.jpg", 
+    "u2": "$0.40 per 100G", 
+    "pl": "12"
+}

@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Chilled & Fresh Food", 
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "2L"
+        ]
+    }, 
+    "s9": "225523", 
+    "p1": {
+        "o": "3.15"
+    }, 
+    "m": "Pauls", 
+    "u2": "$1.58 per 1L", 
+    "p": "1485288P", 
+    "s": "pauls-milk-skim", 
+    "u": "225502", 
+    "t": "/wcsstore/Coles-CAS/images/1/4/8/1485288-th.jpg", 
+    "n": "Skim Milk", 
+    "pl": "20"
+}

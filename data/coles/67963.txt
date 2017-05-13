@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "30mL"
+        ]
+    }, 
+    "s9": "128882", 
+    "p1": {
+        "o": "28.55"
+    }, 
+    "m": "Covergirl", 
+    "u2": "$28.55 per 1Ea", 
+    "p": "7616538P", 
+    "s": "covergirl-simply-ageless-serum-primer", 
+    "u": "67963", 
+    "t": "/wcsstore/Coles-CAS/images/7/6/1/7616538-th.jpg", 
+    "n": "Simply Ageless Serum Primer", 
+    "pl": "20"
+}

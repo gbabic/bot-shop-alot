@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Bread & Bakery"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "s9": "590038", 
+    "p1": {
+        "o": "3.5"
+    }, 
+    "m": "Coles", 
+    "u2": "$1.40 per 100G", 
+    "p": "2686274P", 
+    "s": "coles-flapjacks-cranberry-pepita", 
+    "u": "590016", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/8/2686274-th.jpg", 
+    "n": "Flapjacks Cranberry & Pepita", 
+    "pl": "99"
+}

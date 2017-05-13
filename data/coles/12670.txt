@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "34379", 
+    "p1": {
+        "o": "3.03"
+    }, 
+    "m": "Brunnings", 
+    "s7": "", 
+    "u2": "$3.03 per 1ea", 
+    "p": "8677979P", 
+    "s": "brunnings-all-purpose-npk-fertiliser", 
+    "u": "12670", 
+    "t": "/wcsstore/Coles-CAS/images/8/6/7/8677979-th.jpg", 
+    "n": "All Purpose Fertiliser", 
+    "pl": "20"
+}

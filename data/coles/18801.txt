@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Fruit & Vegetables"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "2.0"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "29731", 
+    "p1": {
+        "o": "7.6"
+    }, 
+    "m": "Coles", 
+    "s7": "Each whole pumpkin approx. 2kg; Product of Australia.", 
+    "u2": "$3.80 per 1Kg", 
+    "p": "4183423P", 
+    "s": "pumpkin-butternut-whole", 
+    "u": "18801", 
+    "t": "/wcsstore/Coles-CAS/images/4/1/8/4183423-th.jpg", 
+    "n": "Butternut Pumpkin Whole", 
+    "pl": "99"
+}

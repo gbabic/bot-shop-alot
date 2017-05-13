@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400g"
+        ]
+    }, 
+    "s9": "589563", 
+    "p1": {
+        "l4": "9.0", 
+        "o": "8.0"
+    }, 
+    "m": "Hans", 
+    "t1": "S", 
+    "p": "2739789P", 
+    "s": "hans-oliving-twiggy-sticks", 
+    "n": "Oliving Twiggy Sticks", 
+    "u": "589514", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/3/2739789-th.jpg", 
+    "u2": "$20.00 per 1Kg", 
+    "pl": "12"
+}

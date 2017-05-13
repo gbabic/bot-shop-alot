@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Fruit & Vegetables"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "4.3"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "37577", 
+    "p1": {
+        "o": "12.9"
+    }, 
+    "m": "Coles", 
+    "s7": "Each whole pumpkin approx. 4.3kg; Product of Australia.", 
+    "u2": "$3.00 per 1Kg", 
+    "p": "4183558P", 
+    "s": "pumpkin-kent--whole", 
+    "u": "19757", 
+    "t": "/wcsstore/Coles-CAS/images/4/1/8/4183558-th.jpg", 
+    "n": "Kent Pumpkin Whole", 
+    "pl": "99"
+}

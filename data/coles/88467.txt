@@ -1,0 +1,40 @@
+{
+    "a": {
+        "D": [
+            "LIQUOR"
+        ], 
+        "P8": [
+            "Alcohol"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "true"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "750mL"
+        ]
+    }, 
+    "u2": "$1.33 per 100mL", 
+    "s9": "149137", 
+    "p1": {
+        "l4": "18.19", 
+        "o": "10.0"
+    }, 
+    "s7": "", 
+    "m": "Devil's Lair Fifth Leg", 
+    "n": "Red Blend", 
+    "p": "185257P", 
+    "s": "devils-lair-fifth-leg-red-blend", 
+    "u": "88467", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/5/185257-th.jpg", 
+    "t1": "S", 
+    "pl": "4"
+}

@@ -1,0 +1,40 @@
+{
+    "a": {
+        "D": [
+            "LIQUOR"
+        ], 
+        "P8": [
+            "Alcohol"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "true"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "700mL"
+        ]
+    }, 
+    "u2": "$5.14 per 100mL", 
+    "s9": "144041", 
+    "p1": {
+        "l4": "47.08", 
+        "o": "36.0"
+    }, 
+    "m": "Barbaresso", 
+    "n": "Ouzo", 
+    "p": "47173P", 
+    "s": "barbaresso-ouzo", 
+    "u": "82028", 
+    "t": "/wcsstore/Coles-CAS/images/4/7/1/47173-th.jpg", 
+    "a6": false, 
+    "t1": "S", 
+    "pl": "4"
+}

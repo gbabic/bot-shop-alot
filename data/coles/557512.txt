@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "280g"
+        ]
+    }, 
+    "s9": "557540", 
+    "p1": {
+        "o": "7.15"
+    }, 
+    "m": "Mayvers", 
+    "u2": "$2.55 per 100G", 
+    "p": "2622544P", 
+    "s": "mayvers-coconut-super-spread", 
+    "u": "557512", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/2/2622544-th.jpg", 
+    "n": "Coconut Super Spread", 
+    "pl": "99"
+}

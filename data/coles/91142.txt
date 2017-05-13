@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "0.25"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 250g pack"
+        ]
+    }, 
+    "s9": "157091", 
+    "p1": {
+        "o": "5.75"
+    }, 
+    "m": "Continental Kosher", 
+    "s7": "Indicated price based on approx. weight. Weight may vary between 225g and 275g.", 
+    "u2": "$23.00 per 1Kg", 
+    "p": "9494635P", 
+    "s": "continental-kosher-liverwurst", 
+    "u": "91142", 
+    "t": "/wcsstore/Coles-CAS/images/9/4/9/9494635-th.jpg", 
+    "n": "Liverwurst", 
+    "pl": "20"
+}

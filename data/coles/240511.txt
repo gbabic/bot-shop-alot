@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "2.4kg"
+        ]
+    }, 
+    "s9": "240541", 
+    "p1": {
+        "o": "11.0"
+    }, 
+    "m": "Steggles", 
+    "u2": "$4.58 per 1Kg", 
+    "p": "5778663P", 
+    "s": "steggles-baiada-frozen-chicken-no-24", 
+    "u": "240511", 
+    "t": "/wcsstore/Coles-CAS/images/5/7/7/5778663-th.jpg", 
+    "n": "No 24 Frozen Chicken", 
+    "pl": "20"
+}

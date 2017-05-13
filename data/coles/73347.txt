@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "4 pack"
+        ]
+    }, 
+    "s9": "136653", 
+    "p1": {
+        "o": "6.0"
+    }, 
+    "m": "Bic", 
+    "u2": "$1.50 per 1Ea", 
+    "p": "6786623P", 
+    "s": "bic-comfort-3-advance-shavers-for-men", 
+    "u": "73347", 
+    "t": "/wcsstore/Coles-CAS/images/6/7/8/6786623-th.jpg", 
+    "n": "Comfort 3 Advance Shavers for Men", 
+    "pl": "20"
+}

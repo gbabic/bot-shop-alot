@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "76g"
+        ]
+    }, 
+    "s9": "524566", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "m": "Dr. Oetker", 
+    "u2": "$7.24 per 100G", 
+    "p": "2516285P", 
+    "s": "dr-oetker-chocolate-writing-icing", 
+    "u": "524511", 
+    "t": "/wcsstore/Coles-CAS/images/2/5/1/2516285-th.jpg", 
+    "n": "Writing Icing Chocolate Flavour", 
+    "pl": "20"
+}

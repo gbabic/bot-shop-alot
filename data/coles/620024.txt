@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "620100", 
+    "p1": {
+        "o": "7.15"
+    }, 
+    "m": "Carmans Clusters", 
+    "u2": "$1.43 per 100G", 
+    "p": "2817441P", 
+    "s": "carmans-clusters-almond-pecan-maple", 
+    "u": "620024", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/1/2817441-th.jpg", 
+    "n": "Almond Pecan & Maple", 
+    "pl": "99"
+}

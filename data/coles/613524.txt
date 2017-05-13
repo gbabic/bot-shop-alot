@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "130g"
+        ]
+    }, 
+    "s9": "613551", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "m": "Sunsweet", 
+    "u2": "$42.31 per 1Kg", 
+    "p": "2794153P", 
+    "s": "sunsweet-dried-mango", 
+    "u": "613524", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/9/2794153-th.jpg", 
+    "n": "Dried Mango", 
+    "pl": "99"
+}

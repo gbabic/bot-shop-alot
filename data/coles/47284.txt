@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250mL"
+        ]
+    }, 
+    "s9": "153179", 
+    "p1": {
+        "o": "6.0"
+    }, 
+    "m": "Garnier", 
+    "u2": "$2.40 per 100mL", 
+    "p": "9355027P", 
+    "s": "garnier-fructis-colour-last-fortifying-shampoo", 
+    "u": "47284", 
+    "t": "/wcsstore/Coles-CAS/images/9/3/5/9355027-th.jpg", 
+    "n": "Fructis Colour Last Fortifying Shampoo", 
+    "pl": "20"
+}

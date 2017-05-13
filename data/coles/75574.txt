@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "335g"
+        ]
+    }, 
+    "s9": "140680", 
+    "p1": {
+        "l4": "5.5", 
+        "o": "4.0"
+    }, 
+    "m": "Praise", 
+    "t1": "S", 
+    "p": "5296593P", 
+    "s": "praise-whole-egg-mayonnaise", 
+    "n": "Whole Egg Mayonnaise", 
+    "u": "75574", 
+    "t": "/wcsstore/Coles-CAS/images/5/2/9/5296593-th.jpg", 
+    "u2": "$1.19 per 100G", 
+    "pl": "12"
+}

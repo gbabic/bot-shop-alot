@@ -1,0 +1,37 @@
+{
+    "a": {
+        "D": [
+            "LIQUOR"
+        ], 
+        "P8": [
+            "Alcohol"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "true"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1L"
+        ]
+    }, 
+    "s9": "132980", 
+    "p1": {
+        "o": "63.13"
+    }, 
+    "m": "Bundaberg", 
+    "u2": "$6.31 per 100mL", 
+    "p": "6593222P", 
+    "s": "bundaberg-up-rum", 
+    "u": "70301", 
+    "t": "/wcsstore/Coles-CAS/images/6/5/9/6593222-th.jpg", 
+    "n": "UP Rum", 
+    "pl": "20"
+}

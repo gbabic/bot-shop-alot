@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "355g"
+        ]
+    }, 
+    "s9": "413951", 
+    "p1": {
+        "o": "8.2"
+    }, 
+    "m": "Marion's Kitchen", 
+    "u2": "$2.31 per 100G", 
+    "p": "2000511P", 
+    "s": "marions-kitchen-laksa-meal-kit", 
+    "u": "413626", 
+    "t": "/wcsstore/Coles-CAS/images/2/0/0/2000511-th.jpg", 
+    "n": "Laksa Meal Kit", 
+    "pl": "20"
+}

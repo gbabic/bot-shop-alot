@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "340g"
+        ]
+    }, 
+    "s9": "41949", 
+    "p1": {
+        "o": "5.06"
+    }, 
+    "m": "Mackay's", 
+    "u2": "$1.49 per 100G", 
+    "p": "1058028P", 
+    "s": "mackays-lemon-curd", 
+    "u": "26478", 
+    "t": "/wcsstore/Coles-CAS/images/1/0/5/1058028-th.jpg", 
+    "n": "Lemon Curd", 
+    "pl": "20"
+}

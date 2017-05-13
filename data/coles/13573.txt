@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Fruit & Vegetables"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "0.1"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 100g"
+        ]
+    }, 
+    "s9": "29844", 
+    "p1": {
+        "o": "2.5"
+    }, 
+    "m": "Scoop & Weigh", 
+    "s7": "Packed in Australia from imported ingredients.", 
+    "u2": "$25.00 per 1Kg", 
+    "p": "8412668P", 
+    "s": "scoop-weigh-walnuts", 
+    "u": "13573", 
+    "t": "/wcsstore/Coles-CAS/images/8/4/1/8412668-th.jpg", 
+    "n": "Walnuts loose", 
+    "pl": "99"
+}

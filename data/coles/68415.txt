@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "132481", 
+    "p1": {
+        "o": "7.2"
+    }, 
+    "m": "Magazine", 
+    "s7": "Cover may not depict edition offered for sale", 
+    "u2": "$7.20 per 1Ea", 
+    "p": "7234418P", 
+    "s": "good-health-magazine", 
+    "u": "68415", 
+    "t": "/wcsstore/Coles-CAS/images/7/2/3/7234418-th.jpg", 
+    "n": "Good Health", 
+    "pl": "20"
+}

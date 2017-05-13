@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Bread & Bakery"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "680g"
+        ]
+    }, 
+    "s9": "144435", 
+    "p1": {
+        "o": "3.5"
+    }, 
+    "m": "Helga's Continental Bakehouse", 
+    "t1": "V", 
+    "p": "5072836P", 
+    "s": "helgas-bread-continental-bakehouse-light-rye", 
+    "n": "Light Rye Bread", 
+    "u": "82518", 
+    "t": "/wcsstore/Coles-CAS/images/5/0/7/5072836-th.jpg", 
+    "u2": "$0.51 per 100G", 
+    "pl": "20"
+}

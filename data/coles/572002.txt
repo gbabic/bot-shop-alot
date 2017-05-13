@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "190g"
+        ]
+    }, 
+    "u2": "$1.58 per 100G", 
+    "s9": "572006", 
+    "p1": {
+        "l4": "3.99", 
+        "o": "3.0"
+    }, 
+    "s7": "", 
+    "m": "Aunt Betty's", 
+    "n": "Brandy Snap Flavoured Puddings with Toffee Sauce 2 pack", 
+    "p": "2728884P", 
+    "s": "aunt-bettys-brandy-snap-puddings-2-pack", 
+    "u": "572002", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/2/2728884-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400g"
+        ]
+    }, 
+    "u2": "$0.48 per 100G", 
+    "s9": "29440", 
+    "p1": {
+        "o": "1.9"
+    }, 
+    "s7": "", 
+    "m": "Coles", 
+    "n": "Citrus Fresh Soap Bar 4 Pack", 
+    "p": "7193831P", 
+    "s": "coles-soap-bar-citrus-fresh", 
+    "u": "20172", 
+    "t": "/wcsstore/Coles-CAS/images/7/1/9/7193831-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

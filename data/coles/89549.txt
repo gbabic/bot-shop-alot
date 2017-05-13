@@ -1,0 +1,37 @@
+{
+    "a": {
+        "D": [
+            "LIQUOR"
+        ], 
+        "P8": [
+            "Alcohol"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "true"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "700mL"
+        ]
+    }, 
+    "s9": "149652", 
+    "p1": {
+        "o": "80.25"
+    }, 
+    "m": "Hennessy", 
+    "u2": "$11.46 per 100mL", 
+    "p": "32049P", 
+    "s": "hennessy-cognac-vs", 
+    "u": "89549", 
+    "t": "/wcsstore/Coles-CAS/images/3/2/0/32049-th.jpg", 
+    "n": "Cognac VS", 
+    "pl": "20"
+}

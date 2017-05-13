@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "38g"
+        ]
+    }, 
+    "s9": "163610", 
+    "p1": {
+        "o": "2.97"
+    }, 
+    "m": "MasterFoods", 
+    "u2": "$0.78 per 10G", 
+    "p": "9755160P", 
+    "s": "masterfoods-roast-vegetable-seasoning", 
+    "u": "101539", 
+    "t": "/wcsstore/Coles-CAS/images/9/7/5/9755160-th.jpg", 
+    "n": "Roast Vegetable Sprinkle Seasoning", 
+    "pl": "20"
+}

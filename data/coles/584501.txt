@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "39g"
+        ]
+    }, 
+    "s9": "584551", 
+    "p1": {
+        "o": "1.5"
+    }, 
+    "m": "Maggi", 
+    "t1": "V", 
+    "p": "2715124P", 
+    "s": "maggi-dry-recipe-base-tomato-onion-sausage", 
+    "n": "Tomato & Onion Sausages Dry Recipe Base", 
+    "u": "584501", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/1/2715124-th.jpg", 
+    "u2": "$3.85 per 100G", 
+    "pl": "20"
+}

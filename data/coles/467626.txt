@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Baby"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "120g"
+        ]
+    }, 
+    "s9": "467955", 
+    "p1": {
+        "l4": "2.3", 
+        "o": "2.0"
+    }, 
+    "m": "Rafferty's", 
+    "t1": "S", 
+    "p": "1852254P", 
+    "s": "raffertys-cali-fruits-apple-peach-pouch-6-months", 
+    "n": "Cali-fruits Peach Banana & Pear Baby Food Pouch 8+ Months", 
+    "u": "467626", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/5/1852254-th.jpg", 
+    "u2": "$1.67 per 100G", 
+    "pl": "12"
+}

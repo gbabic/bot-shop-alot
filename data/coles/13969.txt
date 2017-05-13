@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "u2": "$6.00 per 1ea", 
+    "s9": "30229", 
+    "p1": {
+        "o": "6.0"
+    }, 
+    "s7": "", 
+    "m": "Pyrex", 
+    "n": "Mixing Bowl 1L", 
+    "p": "5306573P", 
+    "s": "pyrex-mixing-bowl-1-litre", 
+    "u": "13969", 
+    "t": "/wcsstore/Coles-CAS/images/5/3/0/5306573-th.jpg", 
+    "t1": "S", 
+    "pl": "20"
+}

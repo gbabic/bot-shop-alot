@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Frozen"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "625g"
+        ]
+    }, 
+    "u2": "$0.72 per 100G", 
+    "s9": "161912", 
+    "p1": {
+        "l4": "6.04", 
+        "o": "4.5"
+    }, 
+    "s7": "", 
+    "m": "Borgs", 
+    "n": "Frozen Spinach & Ricotta Cheese Pastizzi", 
+    "p": "9317480P", 
+    "s": "borgs-pastizzi-spinach-ricotta-cheese-frozen", 
+    "u": "97410", 
+    "t": "/wcsstore/Coles-CAS/images/9/3/1/9317480-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

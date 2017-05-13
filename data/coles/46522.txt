@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "410g"
+        ]
+    }, 
+    "s9": "168977", 
+    "p1": {
+        "l4": "3.73", 
+        "o": "2.5"
+    }, 
+    "m": "Praise", 
+    "t1": "S", 
+    "p": "8735292P", 
+    "s": "praise-mayonnaise-99%-fat-free-squeezable", 
+    "n": "Squeezable Mayonnaise 99% Fat Free", 
+    "u": "46522", 
+    "t": "/wcsstore/Coles-CAS/images/8/7/3/8735292-th.jpg", 
+    "u2": "$0.61 per 100G", 
+    "pl": "12"
+}

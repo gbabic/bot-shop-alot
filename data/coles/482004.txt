@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Baby"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "10g"
+        ]
+    }, 
+    "s9": "482090", 
+    "p1": {
+        "o": "1.8"
+    }, 
+    "m": "Kiddylicious", 
+    "u2": "$18.00 per 100G", 
+    "p": "2365157P", 
+    "s": "kiddylicious-blueberry-fruity-puffs-7-months", 
+    "u": "482004", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/6/2365157-th.jpg", 
+    "n": "Blueberry Fruity Puffs 7+ Months", 
+    "pl": "20"
+}

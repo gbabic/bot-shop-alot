@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400g"
+        ]
+    }, 
+    "s9": "166824", 
+    "p1": {
+        "o": "6.44"
+    }, 
+    "m": "McKenzie's", 
+    "u2": "$0.16 per 10G", 
+    "p": "8997732P", 
+    "s": "mckenzies-iodised-sea-salt", 
+    "u": "106262", 
+    "t": "/wcsstore/Coles-CAS/images/8/9/9/8997732-th.jpg", 
+    "n": "Iodised Sea Salt", 
+    "pl": "20"
+}

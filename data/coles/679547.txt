@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Fruit & Vegetables"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "perkg"
+        ]
+    }, 
+    "s9": "679677", 
+    "p1": {
+        "o": "22.0"
+    }, 
+    "m": "Scoop And Weigh", 
+    "u2": "$22.00 per 1Kg", 
+    "p": "2349650P", 
+    "s": "scoop-and-weigh-nougat-supreme", 
+    "u": "679547", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/4/2349650-th.jpg", 
+    "n": "Nougat Supreme", 
+    "pl": "99"
+}

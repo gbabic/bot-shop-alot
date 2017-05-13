@@ -1,0 +1,38 @@
+{
+    "a": {
+        "D": [
+            "TOBACCO"
+        ], 
+        "P8": [
+            "Tobacco"
+        ], 
+        "T1": [
+            "true"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 carton"
+        ]
+    }, 
+    "s9": "280023", 
+    "p1": {
+        "o": "142.0"
+    }, 
+    "m": "Peter Stuyvesant", 
+    "s7": "Prices include all taxes", 
+    "u2": "$142.00 per 1ea", 
+    "p": "9999744P", 
+    "s": "peter-stuyvesant-cigarettes-rich-new-york-blend-20s-9999744p", 
+    "u": "280012", 
+    "t": "/wcsstore/Coles-CAS/images/C/i/g/Cigarettes-th.jpg", 
+    "n": "Rich New York Blend Cigarettes 20s", 
+    "pl": "5"
+}

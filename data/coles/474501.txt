@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "360g"
+        ]
+    }, 
+    "s9": "474584", 
+    "p1": {
+        "o": "8.0"
+    }, 
+    "m": "Tresemme", 
+    "u2": "$2.22 per 100G", 
+    "p": "8143522P", 
+    "s": "tresemme-ultimate-hold-hairspray-lacquer", 
+    "u": "474501", 
+    "t": "/wcsstore/Coles-CAS/images/8/1/4/8143522-th.jpg", 
+    "n": "Ultimate Hold Hairspray Lacquer", 
+    "pl": "20"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Drinks"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "10L"
+        ]
+    }, 
+    "u2": "$0.40 per 1L", 
+    "s9": "38589", 
+    "p1": {
+        "o": "4.0"
+    }, 
+    "s7": "Note packaging in WA does not have a handle.", 
+    "m": "Coles", 
+    "n": "Natural Spring Water", 
+    "p": "4874479P", 
+    "s": "coles-water-spring-natural", 
+    "u": "12577", 
+    "t": "/wcsstore/Coles-CAS/images/4/8/7/4874479-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

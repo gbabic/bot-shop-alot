@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "4 pack"
+        ]
+    }, 
+    "s9": "473709", 
+    "p1": {
+        "l4": "4.0", 
+        "o": "2.0"
+    }, 
+    "m": "Hunts", 
+    "t1": "S", 
+    "p": "2417614P", 
+    "s": "hunts-snack-pack-chocolate-fudge-pudding", 
+    "n": "Snack Pack Chocolate Fudge Pudding", 
+    "u": "473615", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/1/2417614-th.jpg", 
+    "u2": "$0.50 per 1Ea", 
+    "pl": "12"
+}

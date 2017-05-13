@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "45g"
+        ]
+    }, 
+    "s9": "131368", 
+    "p1": {
+        "o": "3.96"
+    }, 
+    "m": "Table Of Plenty", 
+    "u2": "$0.88 per 10G", 
+    "p": "7123086P", 
+    "s": "table-of-plenty-dukkah-pistachio", 
+    "u": "67911", 
+    "t": "/wcsstore/Coles-CAS/images/7/1/2/7123086-th.jpg", 
+    "n": "Dukkah Pistachio Spice Mix", 
+    "pl": "20"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Mothers Day"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "175g"
+        ]
+    }, 
+    "u2": "$1.14 per 100G", 
+    "s9": "29459", 
+    "p1": {
+        "o": "2.0"
+    }, 
+    "s7": "", 
+    "m": "Coles", 
+    "n": "Crinkle Cut Original Potato Chips", 
+    "p": "6989493P", 
+    "s": "coles-potato-chips-crinkle-cut-original", 
+    "u": "21777", 
+    "t": "/wcsstore/Coles-CAS/images/6/9/8/6989493-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

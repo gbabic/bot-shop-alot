@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "s9": "152026", 
+    "p1": {
+        "o": "4.0"
+    }, 
+    "m": "Black Swan", 
+    "u2": "$2.00 per 100G", 
+    "p": "9980418P", 
+    "s": "farmers-best-dip-basil-cashew", 
+    "u": "91686", 
+    "t": "/wcsstore/Coles-CAS/images/9/9/8/9980418-th.jpg", 
+    "n": "Crafted Basil & Cashew Dip", 
+    "pl": "20"
+}

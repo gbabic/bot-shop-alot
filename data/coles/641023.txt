@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "2.5kg"
+        ]
+    }, 
+    "s9": "641201", 
+    "p1": {
+        "l4": "17.6", 
+        "o": "12.0"
+    }, 
+    "m": "Supercoat", 
+    "t1": "S", 
+    "p": "2820694P", 
+    "s": "supercoat-dry-d-f-with-real-chicken", 
+    "n": "Dry D/f With Real Chicken", 
+    "u": "641023", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/2/2820694-th.jpg", 
+    "u2": "$0.48 per 100G", 
+    "pl": "12"
+}

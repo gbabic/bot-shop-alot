@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "6L"
+        ]
+    }, 
+    "s9": "382220", 
+    "p1": {
+        "o": "10.66"
+    }, 
+    "m": "Vitapet", 
+    "u2": "$1.78 per 1L", 
+    "p": "1898302P", 
+    "s": "vitapet-laundry-cat-litter", 
+    "u": "382096", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/9/1898302-th.jpg", 
+    "n": "Laundry Cat Litter", 
+    "pl": "20"
+}

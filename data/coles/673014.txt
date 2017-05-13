@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500mL"
+        ]
+    }, 
+    "s9": "673108", 
+    "p1": {
+        "o": "10.0"
+    }, 
+    "m": "Nivea Men Cool Kick", 
+    "t1": "V", 
+    "p": "2862730P", 
+    "s": "nivea-men-cool-kick-deodorant-2-pack", 
+    "n": "Deodorant 2 Pack", 
+    "u": "673014", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/6/2862730-th.jpg", 
+    "u2": "$2.00 per 100mL", 
+    "pl": "20"
+}

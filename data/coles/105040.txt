@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Baby"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "64 pack"
+        ]
+    }, 
+    "s9": "157448", 
+    "p1": {
+        "l4": "33.0", 
+        "o": "28.0"
+    }, 
+    "m": "Huggies", 
+    "t1": "S", 
+    "p": "9224153P", 
+    "s": "huggies-ultra-dry-jumbo-nappies-walker-boy-14-18kg", 
+    "n": "Ultra Dry Infant Care Jumbo Nappies Walker Boy 13-18kg", 
+    "u": "105040", 
+    "t": "/wcsstore/Coles-CAS/images/9/2/2/9224153-th.jpg", 
+    "u2": "$0.44 per 1Ea", 
+    "pl": "12"
+}

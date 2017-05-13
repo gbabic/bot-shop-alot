@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Bread & Bakery"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "520g"
+        ]
+    }, 
+    "s9": "134572", 
+    "p1": {
+        "o": "5.99"
+    }, 
+    "m": "Grandma Moses", 
+    "s7": "", 
+    "u2": "$1.15 per 100G", 
+    "p": "6211676P", 
+    "s": "grandma-moses-bread-seed", 
+    "u": "73696", 
+    "t": "/wcsstore/Coles-CAS/images/6/2/1/6211676-th.jpg", 
+    "n": "Seed Bread", 
+    "pl": "20"
+}

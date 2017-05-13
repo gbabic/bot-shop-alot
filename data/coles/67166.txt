@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "750g"
+        ]
+    }, 
+    "s9": "129427", 
+    "p1": {
+        "o": "4.62"
+    }, 
+    "m": "Leggo's", 
+    "u2": "$0.62 per 100G", 
+    "p": "7159888P", 
+    "s": "leggos-bolognese-chunky-pasta-sauce", 
+    "u": "67166", 
+    "t": "/wcsstore/Coles-CAS/images/7/1/5/7159888-th.jpg", 
+    "n": "Chunky Bolognese Pasta Sauce", 
+    "pl": "20"
+}

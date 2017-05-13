@@ -1,0 +1,40 @@
+{
+    "a": {
+        "P8": [
+            "Mothers Day"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "pr": "4.00000", 
+    "s9": "346151", 
+    "pq": "2", 
+    "pt": "MultibuyMultiSku", 
+    "u2": "$1.14 per 100G", 
+    "m": "Betty Crocker", 
+    "n": "White Chocolate Fudge Blondie Brownie Mix", 
+    "p": "1822821P", 
+    "s": "betty-crocker-white-chocolate-fudge-blondie-brownie-mix", 
+    "p1": {
+        "o": "5.72"
+    }, 
+    "u": "346027", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/2/1822821-th.jpg", 
+    "pd": "2 for $8", 
+    "pi": "10141006", 
+    "t1": "M", 
+    "pl": "12"
+}

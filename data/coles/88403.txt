@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Drinks"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "750mL"
+        ]
+    }, 
+    "s9": "149697", 
+    "p1": {
+        "o": "4.24"
+    }, 
+    "m": "Bickfords", 
+    "u2": "$5.65 per 1L", 
+    "p": "261627P", 
+    "s": "bickfords-cordial-bitter-lemon", 
+    "u": "88403", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/1/261627-th.jpg", 
+    "n": "Bitter Lemon Cordial", 
+    "pl": "20"
+}

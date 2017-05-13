@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "130g"
+        ]
+    }, 
+    "u2": "$1.54 per 100G", 
+    "s9": "152885", 
+    "p1": {
+        "o": "2.0"
+    }, 
+    "s7": "", 
+    "m": "Wicked", 
+    "n": "Chocolate Dipping Sauce", 
+    "p": "9612210P", 
+    "s": "wicked-dipping-sauce-chocolate", 
+    "u": "100271", 
+    "t": "/wcsstore/Coles-CAS/images/9/6/1/9612210-th.jpg", 
+    "t1": "S", 
+    "pl": "99"
+}

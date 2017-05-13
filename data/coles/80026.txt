@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "145610", 
+    "p1": {
+        "o": "4.4"
+    }, 
+    "m": "Sostanza", 
+    "u2": "$8.80 per 1Kg", 
+    "p": "5077126P", 
+    "s": "sostanza-semolina-crushed-wheat", 
+    "u": "80026", 
+    "t": "/wcsstore/Coles-CAS/images/5/0/7/5077126-th.jpg", 
+    "n": "Semolina Crushed Wheat", 
+    "pl": "20"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1kg"
+        ]
+    }, 
+    "u2": "$0.75 per 1Kg", 
+    "s9": "138502", 
+    "p1": {
+        "o": "0.75"
+    }, 
+    "s7": "", 
+    "m": "Coles", 
+    "n": "White Plain Flour", 
+    "p": "5881232P", 
+    "s": "coles-flour-plain-white", 
+    "u": "78873", 
+    "t": "/wcsstore/Coles-CAS/images/5/8/8/5881232-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

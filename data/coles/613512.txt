@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "470gm"
+        ]
+    }, 
+    "s9": "613575", 
+    "p1": {
+        "o": "6.27"
+    }, 
+    "m": "Kraft", 
+    "u2": "$1.33 per 100G", 
+    "p": "2786257P", 
+    "s": "kraft-cruchy-peanut-butter", 
+    "u": "613512", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/8/2786257-th.jpg", 
+    "n": "Cruchy Peanut Butter", 
+    "pl": "99"
+}

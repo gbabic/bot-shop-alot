@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "20 pack"
+        ]
+    }, 
+    "u2": "$0.11 per 1Ea", 
+    "s9": "34450", 
+    "p1": {
+        "o": "2.15"
+    }, 
+    "s7": "", 
+    "m": "Coles", 
+    "n": "Plastic Waterproof Medistrips", 
+    "p": "4240618P", 
+    "s": "coles-medistrips-plastic-waterproof", 
+    "u": "17743", 
+    "t": "/wcsstore/Coles-CAS/images/4/2/4/4240618-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

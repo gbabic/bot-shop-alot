@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "375g"
+        ]
+    }, 
+    "u2": "$0.77 per 100G", 
+    "s9": "187312", 
+    "p1": {
+        "o": "2.9"
+    }, 
+    "s7": "", 
+    "m": "Coles", 
+    "n": "Simply Gluten Free Pancake Mix", 
+    "p": "1224422P", 
+    "s": "coles-simply-gluten-free-baking-mix-pancake", 
+    "u": "187114", 
+    "t": "/wcsstore/Coles-CAS/images/1/2/2/1224422-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

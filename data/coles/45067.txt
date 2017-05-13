@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "65g"
+        ]
+    }, 
+    "s9": "167387", 
+    "p1": {
+        "o": "2.35"
+    }, 
+    "m": "Hoyts", 
+    "u2": "$0.36 per 10G", 
+    "p": "9085400P", 
+    "s": "hoyts-mix-moroccan", 
+    "u": "45067", 
+    "t": "/wcsstore/Coles-CAS/images/9/0/8/9085400-th.jpg", 
+    "n": "Moroccan Spice Mix", 
+    "pl": "20"
+}

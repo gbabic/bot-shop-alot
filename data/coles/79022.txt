@@ -1,0 +1,39 @@
+{
+    "a": {
+        "D": [
+            "LIQUOR"
+        ], 
+        "P8": [
+            "Alcohol"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "true"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "700mL"
+        ]
+    }, 
+    "s9": "138641", 
+    "p1": {
+        "l4": "39.59", 
+        "o": "33.0"
+    }, 
+    "m": "St Agnes", 
+    "t1": "S", 
+    "p": "561945P", 
+    "s": "st-agnes-3-star-brandy-561945p", 
+    "n": "3 Star Brandy", 
+    "u": "79022", 
+    "t": "/wcsstore/Coles-CAS/images/5/6/1/561945-th.jpg", 
+    "u2": "$4.71 per 100mL", 
+    "pl": "4"
+}

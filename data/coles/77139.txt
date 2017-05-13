@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "0.5g"
+        ]
+    }, 
+    "s9": "137896", 
+    "p1": {
+        "o": "7.81"
+    }, 
+    "m": "MasterFoods", 
+    "u2": "$156.20 per 10G", 
+    "p": "5741889P", 
+    "s": "masterfoods-saffron", 
+    "u": "77139", 
+    "t": "/wcsstore/Coles-CAS/images/5/7/4/5741889-th.jpg", 
+    "n": "Saffron", 
+    "pl": "20"
+}

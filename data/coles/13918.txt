@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Mothers Day"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "175g"
+        ]
+    }, 
+    "s9": "32799", 
+    "p1": {
+        "o": "5.0"
+    }, 
+    "m": "Primo", 
+    "u2": "$28.57 per 1Kg", 
+    "p": "5816343P", 
+    "s": "primo-bacon-short-cut-rindless", 
+    "u": "13918", 
+    "t": "/wcsstore/Coles-CAS/images/5/8/1/5816343-th.jpg", 
+    "n": "Short Cut Rindless Bacon", 
+    "pl": "20"
+}

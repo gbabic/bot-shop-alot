@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "165g"
+        ]
+    }, 
+    "s9": "145936", 
+    "p1": {
+        "o": "2.0"
+    }, 
+    "m": "Gravox", 
+    "t1": "V", 
+    "p": "4445858P", 
+    "s": "gravox-lamb-rosemary-liquid-gravy-4445858p", 
+    "n": "Lamb & Rosemary Liquid Gravy", 
+    "u": "84488", 
+    "t": "/wcsstore/Coles-CAS/images/4/4/4/4445858-th.jpg", 
+    "u2": "$0.12 per 10G", 
+    "pl": "20"
+}

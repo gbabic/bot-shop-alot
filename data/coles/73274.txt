@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "300g"
+        ]
+    }, 
+    "s9": "137243", 
+    "p1": {
+        "o": "20.9"
+    }, 
+    "m": "Bow Wow", 
+    "s7": "", 
+    "u2": "$6.97 per 100G", 
+    "p": "6857936P", 
+    "s": "bow-wow-dog-treats-pig-ears", 
+    "u": "73274", 
+    "t": "/wcsstore/Coles-CAS/images/6/8/5/6857936-th.jpg", 
+    "n": "Longer Chews Pig Ear Dog Treats", 
+    "pl": "20"
+}

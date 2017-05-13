@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "4.5kg"
+        ]
+    }, 
+    "s9": "146125", 
+    "p1": {
+        "o": "11.11"
+    }, 
+    "m": "Golden Grain", 
+    "u2": "$0.25 per 100G", 
+    "p": "298230P", 
+    "s": "golden-grain-poultry-food-laying-mash", 
+    "u": "85300", 
+    "t": "/wcsstore/Coles-CAS/images/2/9/8/298230-th.jpg", 
+    "n": "Laying Mash Poultry Food", 
+    "pl": "20"
+}

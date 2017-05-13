@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "600g"
+        ]
+    }, 
+    "s9": "589616", 
+    "p1": {
+        "o": "8.25"
+    }, 
+    "m": "Pitango", 
+    "u2": "$1.38 per 100G", 
+    "p": "2680744P", 
+    "s": "pitango-hearty-chicken-vegetable-soup", 
+    "u": "589524", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/8/2680744-th.jpg", 
+    "n": "Hearty Chicken & Vegetable Soup", 
+    "pl": "99"
+}

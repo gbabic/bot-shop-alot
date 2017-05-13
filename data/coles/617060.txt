@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "53g"
+        ]
+    }, 
+    "s9": "617110", 
+    "p1": {
+        "o": "2.09"
+    }, 
+    "m": "Pringles Potato", 
+    "u2": "$3.94 per 100G", 
+    "p": "2784127P", 
+    "s": "pringles-potato-chips-original-2784127p", 
+    "u": "617060", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/8/2784127-th.jpg", 
+    "n": "Chips Original", 
+    "pl": "99"
+}

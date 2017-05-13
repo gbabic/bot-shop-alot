@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Bread & Bakery"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "440g"
+        ]
+    }, 
+    "s9": "122666", 
+    "p1": {
+        "o": "5.99"
+    }, 
+    "m": "Bazaar", 
+    "u2": "$1.36 per 100G", 
+    "p": "7870500P", 
+    "s": "bazaar-pizza-bases-wholemeal-12-inch-2-pack", 
+    "u": "58381", 
+    "t": "/wcsstore/Coles-CAS/images/7/8/7/7870500-th.jpg", 
+    "n": "Wholemeal Pizza Bases 12 Inch 2 pack", 
+    "pl": "20"
+}

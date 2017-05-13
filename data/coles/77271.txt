@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Clothing"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 pack"
+        ]
+    }, 
+    "u2": "$3.75 per 1ea", 
+    "s9": "141621", 
+    "p1": {
+        "l4": "7.5", 
+        "o": "3.75"
+    }, 
+    "s7": "", 
+    "m": "Razza matazz", 
+    "n": "Perfecting Sheer Light Pantyhose Slim Natural XTall", 
+    "p": "5488710P", 
+    "s": "razzamatazz-silken-feel-control-pantyhose-soft-tan-extra-large", 
+    "u": "77271", 
+    "t": "/wcsstore/Coles-CAS/images/5/4/8/5488710-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250mL"
+        ]
+    }, 
+    "u2": "$1.28 per 100mL", 
+    "s9": "141215", 
+    "p1": {
+        "l4": "4.4", 
+        "o": "3.2"
+    }, 
+    "s7": "", 
+    "m": "Pureharvest", 
+    "n": "Tamari Wheat Free Salt Reduced", 
+    "p": "5355932P", 
+    "s": "pureharvest-tamari-salt-reduced", 
+    "u": "77990", 
+    "t": "/wcsstore/Coles-CAS/images/5/3/5/5355932-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

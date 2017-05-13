@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "13.1mL"
+        ]
+    }, 
+    "s9": "38071", 
+    "p1": {
+        "o": "20.85"
+    }, 
+    "m": "Covergirl", 
+    "u2": "$15.92 per 10mL", 
+    "p": "1150858P", 
+    "s": "covergirl-clump-crusher-mascara-very-black-800", 
+    "u": "26044", 
+    "t": "/wcsstore/Coles-CAS/images/1/1/5/1150858-th.jpg", 
+    "n": "Clump Crusher Very Black 800 Mascara", 
+    "pl": "20"
+}

@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100g"
+        ]
+    }, 
+    "s9": "133500", 
+    "p1": {
+        "o": "9.0"
+    }, 
+    "m": "Moosehead", 
+    "t1": "V", 
+    "p": "6883710P", 
+    "s": "moosehead-styling-clay-gritty", 
+    "n": "Gritty Styling Clay", 
+    "u": "70063", 
+    "t": "/wcsstore/Coles-CAS/images/6/8/8/6883710-th.jpg", 
+    "u2": "$9.00 per 100G", 
+    "pl": "20"
+}

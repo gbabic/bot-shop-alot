@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "117231", 
+    "p1": {
+        "o": "8.8"
+    }, 
+    "m": "Kellogg's", 
+    "u2": "$1.76 per 100G", 
+    "p": "8495712P", 
+    "s": "kelloggs-cereal-froot-loops", 
+    "u": "51307", 
+    "t": "/wcsstore/Coles-CAS/images/8/4/9/8495712-th.jpg", 
+    "n": "Froot Loops", 
+    "pl": "20"
+}

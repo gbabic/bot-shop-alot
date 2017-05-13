@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250mL"
+        ]
+    }, 
+    "s9": "140864", 
+    "p1": {
+        "o": "6.55"
+    }, 
+    "m": "L'Oreal", 
+    "u2": "$2.62 per 100mL", 
+    "p": "5883191P", 
+    "s": "loreal-elvive-colour-protect-shampoo", 
+    "u": "75221", 
+    "t": "/wcsstore/Coles-CAS/images/5/8/8/5883191-th.jpg", 
+    "n": "Elvive Colour Protect Shampoo", 
+    "pl": "20"
+}

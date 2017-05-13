@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "540g"
+        ]
+    }, 
+    "s9": "210220", 
+    "p1": {
+        "o": "3.58"
+    }, 
+    "m": "Eskal", 
+    "u2": "$6.63 per 1Kg", 
+    "p": "46522P", 
+    "s": "eskal-cucumbers-pickled-dill-46522p", 
+    "u": "210065", 
+    "t": "/wcsstore/Coles-CAS/images/4/6/5/46522-th.jpg", 
+    "n": "Dill Pickled Cucumbers", 
+    "pl": "20"
+}

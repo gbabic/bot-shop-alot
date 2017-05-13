@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400g"
+        ]
+    }, 
+    "s9": "133221", 
+    "p1": {
+        "o": "4.0"
+    }, 
+    "m": "La Famiglia", 
+    "t1": "V", 
+    "p": "6146224P", 
+    "s": "la-famiglia-bread-herb", 
+    "n": "Herb Bread", 
+    "u": "72380", 
+    "t": "/wcsstore/Coles-CAS/images/6/1/4/6146224-th.jpg", 
+    "u2": "$1.00 per 100G", 
+    "pl": "20"
+}

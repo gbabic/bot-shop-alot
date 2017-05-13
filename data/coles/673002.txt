@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "50mL"
+        ]
+    }, 
+    "s9": "673137", 
+    "p1": {
+        "l4": "16.39", 
+        "o": "10.43"
+    }, 
+    "m": "Garnier", 
+    "t1": "S", 
+    "p": "2859510P", 
+    "s": "garnier-bb-cream-sheer", 
+    "n": "BB Cream Nude Effect Universal Shade 50mL", 
+    "u": "673002", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/5/2859510-th.jpg", 
+    "u2": "$20.86 per 100mL", 
+    "pl": "12"
+}

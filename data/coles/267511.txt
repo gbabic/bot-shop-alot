@@ -1,0 +1,37 @@
+{
+    "a": {
+        "D": [
+            "LIQUOR"
+        ], 
+        "P8": [
+            "Alcohol"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "true"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 carton"
+        ]
+    }, 
+    "s9": "267540", 
+    "p1": {
+        "o": "67.41"
+    }, 
+    "m": "James Squire", 
+    "u2": "$0.81 per 100mL", 
+    "p": "1610594P", 
+    "s": "james-squire-copper-ale-345ml-bottles", 
+    "u": "267511", 
+    "t": "/wcsstore/Coles-CAS/images/1/6/1/1610594-th.jpg", 
+    "n": "Copper Ale 345mL Bottles", 
+    "pl": "20"
+}

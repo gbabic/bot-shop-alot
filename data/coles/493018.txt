@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "20mL"
+        ]
+    }, 
+    "s9": "493038", 
+    "p1": {
+        "o": "21.95"
+    }, 
+    "m": "Maybelline", 
+    "u2": "$10.98 per 10mL", 
+    "p": "2363650P", 
+    "s": "maybelline-fit-me-matte-pore-foundation-classic-ivory", 
+    "u": "493018", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/6/2363650-th.jpg", 
+    "n": "Fit Me Matte and Poreless Foundation Classic Ivory", 
+    "pl": "20"
+}

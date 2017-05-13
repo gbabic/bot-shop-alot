@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100g"
+        ]
+    }, 
+    "s9": "531616", 
+    "p1": {
+        "o": "1.54"
+    }, 
+    "m": "My Dog", 
+    "u2": "$1.54 per 100G", 
+    "p": "2488350P", 
+    "s": "my-dog-home-recipe-chicken-brown-rice-vegetable-fillets-in-gravy-dog-food-tray", 
+    "u": "531562", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/8/2488350-th.jpg", 
+    "n": "Home Recipe Chicken Brown Rice & Vegetable Fillets in Gravy Dog Food", 
+    "pl": "20"
+}

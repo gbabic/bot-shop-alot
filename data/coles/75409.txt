@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "37g"
+        ]
+    }, 
+    "s9": "141584", 
+    "p1": {
+        "o": "1.5"
+    }, 
+    "m": "Maggi", 
+    "t1": "V", 
+    "p": "5549702P", 
+    "s": "maggi-recipe-mix-cook-in-the-pot-recipe-mix-devilled-sausages", 
+    "n": "Cook In The Pot Devilled Sausages Recipe Base", 
+    "u": "75409", 
+    "t": "/wcsstore/Coles-CAS/images/5/5/4/5549702-th.jpg", 
+    "u2": "$4.05 per 100G", 
+    "pl": "20"
+}

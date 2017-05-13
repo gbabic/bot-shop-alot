@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "16 pack"
+        ]
+    }, 
+    "s9": "141601", 
+    "p1": {
+        "o": "5.94"
+    }, 
+    "m": "Cottons", 
+    "u2": "$0.37 per 1Ea", 
+    "p": "5522262P", 
+    "s": "cottons-tampons-regular-100%-cotton", 
+    "u": "79084", 
+    "t": "/wcsstore/Coles-CAS/images/5/5/2/5522262-th.jpg", 
+    "n": "Regular 100% Cotton Tampons", 
+    "pl": "20"
+}

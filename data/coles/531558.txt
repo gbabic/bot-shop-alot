@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100g"
+        ]
+    }, 
+    "s9": "531624", 
+    "p1": {
+        "l4": "1.49", 
+        "o": "1.0"
+    }, 
+    "m": "Optimum", 
+    "t1": "S", 
+    "p": "2489309P", 
+    "s": "optimum-turkey-rice-adult-dog-food-tray", 
+    "n": "Turkey & Rice Adult Dog Food Tray", 
+    "u": "531558", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/8/2489309-th.jpg", 
+    "u2": "$1.00 per 100G", 
+    "pl": "12"
+}

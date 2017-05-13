@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "151120", 
+    "p1": {
+        "o": "1.86"
+    }, 
+    "m": "CSR", 
+    "u2": "$0.37 per 100G", 
+    "p": "120079P", 
+    "s": "csr-sugar-caster", 
+    "u": "87584", 
+    "t": "/wcsstore/Coles-CAS/images/1/2/0/120079-th.jpg", 
+    "n": "Caster Sugar", 
+    "pl": "20"
+}

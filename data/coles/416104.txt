@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Fruit & Vegetables"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "160g"
+        ]
+    }, 
+    "s9": "416187", 
+    "p1": {
+        "o": "2.9"
+    }, 
+    "m": "Coles", 
+    "u2": "$1.81 per 100G", 
+    "p": "2043423P", 
+    "s": "coles-fresh-baby-kale-sprouts-prepacked", 
+    "u": "416104", 
+    "t": "/wcsstore/Coles-CAS/images/2/0/4/2043423-th.jpg", 
+    "n": "Baby Kalettes Prepacked", 
+    "pl": "20"
+}

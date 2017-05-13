@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "30g"
+        ]
+    }, 
+    "s9": "135096", 
+    "p1": {
+        "o": "4.73"
+    }, 
+    "m": "Rexona", 
+    "s7": "", 
+    "u2": "$9.46 per 100mL", 
+    "p": "6489130P", 
+    "s": "rexona-anti-perspirant-deodorant-women", 
+    "u": "72257", 
+    "t": "/wcsstore/Coles-CAS/images/6/4/8/6489130-th.jpg", 
+    "n": "Women Anti-Perspirant Deodorant", 
+    "pl": "20"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100g"
+        ]
+    }, 
+    "s9": "660554", 
+    "p1": {
+        "l4": "1.93", 
+        "o": "1.0"
+    }, 
+    "m": "Greens Poppin", 
+    "t1": "S", 
+    "p": "2872009P", 
+    "s": "greens-poppin-popcorn-microwave-salt", 
+    "n": "Popcorn Microwave Salt", 
+    "u": "660511", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/7/2872009-th.jpg", 
+    "u2": "$1.00 per 100G", 
+    "pl": "12"
+}

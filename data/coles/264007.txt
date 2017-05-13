@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100g"
+        ]
+    }, 
+    "s9": "264023", 
+    "p1": {
+        "o": "6.77"
+    }, 
+    "m": "Vitapet", 
+    "u2": "$6.77 per 100G", 
+    "p": "1506560P", 
+    "s": "vitapet-dog-treat-duck-tenders", 
+    "u": "264007", 
+    "t": "/wcsstore/Coles-CAS/images/1/5/0/1506560-th.jpg", 
+    "n": "Duck Tenders Dog Treat", 
+    "pl": "20"
+}

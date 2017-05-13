@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Baby"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "29 pack"
+        ]
+    }, 
+    "s9": "643013", 
+    "p1": {
+        "l4": "17.0", 
+        "o": "13.0"
+    }, 
+    "m": "Huggies Nappy Pants", 
+    "t1": "S", 
+    "p": "2848230P", 
+    "s": "huggies-nappy-pants-toddler-boy", 
+    "n": "Toddler Boy", 
+    "u": "643003", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/4/2848230-th.jpg", 
+    "u2": "$0.45 per 1Ea", 
+    "pl": "12"
+}

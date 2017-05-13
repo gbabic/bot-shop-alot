@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "s9": "679083", 
+    "p1": {
+        "l4": "3.85", 
+        "o": "3.5"
+    }, 
+    "m": "Old El Paso", 
+    "t1": "N", 
+    "p": "2926924P", 
+    "s": "old-el-paso-tortilla-cheese-chips", 
+    "n": "Tortilla Cheese Chips", 
+    "u": "679020", 
+    "t": "/wcsstore/Coles-CAS/images/2/9/2/2926924-th.jpg", 
+    "u2": "$1.75 per 100G", 
+    "pl": "12"
+}

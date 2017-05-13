@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "455g"
+        ]
+    }, 
+    "s9": "126669", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "m": "Barker's", 
+    "u2": "$1.21 per 100G", 
+    "p": "7682838P", 
+    "s": "anathoth-jam-three-berry", 
+    "u": "61612", 
+    "t": "/wcsstore/Coles-CAS/images/7/6/8/7682838-th.jpg", 
+    "n": "New Zealand Three Berry Jam", 
+    "pl": "20"
+}

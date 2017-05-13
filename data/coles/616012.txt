@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Frozen"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1kg"
+        ]
+    }, 
+    "u2": "$1.00 per 100G", 
+    "s9": "616018", 
+    "p1": {
+        "l4": "22.0", 
+        "o": "10.0"
+    }, 
+    "s7": "", 
+    "m": "Crazy Dragon", 
+    "n": "Prawn Dumplings", 
+    "p": "2815640P", 
+    "s": "crazy-dragon-prawn-dumplings", 
+    "u": "616012", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/1/2815640-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

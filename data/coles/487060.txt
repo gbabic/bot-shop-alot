@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "420g"
+        ]
+    }, 
+    "s9": "487114", 
+    "p1": {
+        "l4": "2.74", 
+        "o": "1.24"
+    }, 
+    "m": "Heinz", 
+    "t1": "S", 
+    "p": "2401272P", 
+    "s": "heinz-beanz-creationz-mild-salsa-chilli", 
+    "n": "Beanz Creationz Mild Salsa Chilli", 
+    "u": "487060", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/0/2401272-th.jpg", 
+    "u2": "$0.30 per 100G", 
+    "pl": "12"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "350ml"
+        ]
+    }, 
+    "s9": "133477", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "m": "Palmolive", 
+    "u2": "$1.57 per 100mL", 
+    "p": "6900718P", 
+    "s": "palmolive-2-in-1-shampoo-conditioner-fashion-girl", 
+    "u": "73943", 
+    "t": "/wcsstore/Coles-CAS/images/6/9/0/6900718-th.jpg", 
+    "n": "2 In 1 Fashion Girl Berrylicious Shampoo & Conditioner", 
+    "pl": "20"
+}

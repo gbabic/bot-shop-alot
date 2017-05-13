@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "s9": "616506", 
+    "p1": {
+        "l4": "3.14", 
+        "o": "2.0"
+    }, 
+    "m": "Arnotts Twisted Fav", 
+    "t1": "S", 
+    "p": "2801328P", 
+    "s": "arnotts-twisted-fav-biscuit-shortbread-mango", 
+    "n": "Biscuit Shortbread Mango", 
+    "u": "616502", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/0/2801328-th.jpg", 
+    "u2": "$0.80 per 100G", 
+    "pl": "12"
+}

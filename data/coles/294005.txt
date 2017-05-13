@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "294138", 
+    "p1": {
+        "o": "2.86"
+    }, 
+    "m": "Bow Wow", 
+    "u2": "$2.86 per 1Ea", 
+    "p": "6719433P", 
+    "s": "bow-wow-pig-ear-dog-treats", 
+    "u": "294005", 
+    "t": "/wcsstore/Coles-CAS/images/6/7/1/6719433-th.jpg", 
+    "n": "Pig Ear Dog Treats", 
+    "pl": "20"
+}

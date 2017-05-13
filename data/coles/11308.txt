@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "30650", 
+    "p1": {
+        "l4": "13.05", 
+        "o": "10.4"
+    }, 
+    "m": "Redhead", 
+    "t1": "S", 
+    "p": "8954220P", 
+    "s": "redheads-dual-flame-gasmatch", 
+    "n": "Dual Flame Gasmatch", 
+    "u": "11308", 
+    "t": "/wcsstore/Coles-CAS/images/8/9/5/8954220-th.jpg", 
+    "u2": "$10.40 per 1ea", 
+    "pl": "12"
+}

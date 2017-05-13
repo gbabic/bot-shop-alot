@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400g"
+        ]
+    }, 
+    "s9": "36293", 
+    "p1": {
+        "l4": "4.84", 
+        "o": "3.5"
+    }, 
+    "m": "McVitie's", 
+    "t1": "S", 
+    "p": "6108010P", 
+    "s": "mcvities-biscuits-digestive-original", 
+    "n": "Original Digestive Biscuits", 
+    "u": "13890", 
+    "t": "/wcsstore/Coles-CAS/images/6/1/0/6108010-th.jpg", 
+    "u2": "$0.88 per 100G", 
+    "pl": "12"
+}

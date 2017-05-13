@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "600mL"
+        ]
+    }, 
+    "s9": "487129", 
+    "p1": {
+        "o": "16.5"
+    }, 
+    "m": "Gaviscon", 
+    "u2": "$2.75 per 100mL", 
+    "p": "2371455P", 
+    "s": "gaviscon-dual-action-antacid-liquid", 
+    "u": "487076", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/7/2371455-th.jpg", 
+    "n": "Dual Action Antacid Liquid", 
+    "pl": "20"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "52g"
+        ]
+    }, 
+    "u2": "$7.12 per 100G", 
+    "s9": "515008", 
+    "p1": {
+        "o": "3.7"
+    }, 
+    "s7": "Suitable for Nespresso coffee machines", 
+    "m": "Coles", 
+    "n": "Coffee Capsules Intensity 12 10 pack", 
+    "p": "2352337P", 
+    "s": "coles-coffee-capsules-intensity-12-10-pack", 
+    "u": "515004", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/5/2352337-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

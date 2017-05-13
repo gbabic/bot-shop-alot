@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "8kg"
+        ]
+    }, 
+    "s9": "29369", 
+    "p1": {
+        "o": "25.3"
+    }, 
+    "m": "Pedigree", 
+    "u2": "$0.32 per 100G", 
+    "p": "7535119P", 
+    "s": "pedigree-dog-food-lite-mature", 
+    "u": "13726", 
+    "t": "/wcsstore/Coles-CAS/images/7/5/3/7535119-th.jpg", 
+    "n": "Light with Lean Lamb Dry Dog Food", 
+    "pl": "20"
+}

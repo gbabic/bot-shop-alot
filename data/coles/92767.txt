@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "26 pack"
+        ]
+    }, 
+    "s9": "166760", 
+    "p1": {
+        "o": "5.61"
+    }, 
+    "m": "Poise", 
+    "u2": "$0.22 per 1Ea", 
+    "p": "9070151P", 
+    "s": "poise-liners-panty", 
+    "u": "92767", 
+    "t": "/wcsstore/Coles-CAS/images/9/0/7/9070151-th.jpg", 
+    "n": "Panty Liners", 
+    "pl": "20"
+}

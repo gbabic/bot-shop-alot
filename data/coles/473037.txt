@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1.5kg"
+        ]
+    }, 
+    "s9": "473091", 
+    "p1": {
+        "l4": "15.4", 
+        "o": "9.8"
+    }, 
+    "m": "Purina", 
+    "t1": "S", 
+    "p": "2288464P", 
+    "s": "purina-one-hairball-cat-food", 
+    "n": "One Hairball Cat Food", 
+    "u": "473037", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/8/2288464-th.jpg", 
+    "u2": "$0.65 per 100G", 
+    "pl": "12"
+}

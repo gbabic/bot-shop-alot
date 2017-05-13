@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "380g"
+        ]
+    }, 
+    "s9": "142397", 
+    "p1": {
+        "l4": "5.5", 
+        "o": "4.0"
+    }, 
+    "m": "Praise", 
+    "t1": "S", 
+    "p": "5296607P", 
+    "s": "praise-mayonnaise-whole-egg-light", 
+    "n": "Lite Whole Egg Mayonnaise", 
+    "u": "75573", 
+    "t": "/wcsstore/Coles-CAS/images/5/2/9/5296607-th.jpg", 
+    "u2": "$1.05 per 100G", 
+    "pl": "12"
+}

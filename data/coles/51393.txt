@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "20g"
+        ]
+    }, 
+    "s9": "115937", 
+    "p1": {
+        "o": "1.27"
+    }, 
+    "m": "Cadbury", 
+    "s7": "", 
+    "u2": "$6.35 per 100G", 
+    "p": "8450882P", 
+    "s": "cadbury-buz-bar", 
+    "u": "51393", 
+    "t": "/wcsstore/Coles-CAS/images/8/4/5/8450882-th.jpg", 
+    "n": "Buzz Chocolate Bar", 
+    "pl": "20"
+}

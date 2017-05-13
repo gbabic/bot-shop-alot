@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "936g"
+        ]
+    }, 
+    "s9": "145913", 
+    "p1": {
+        "o": "4.79"
+    }, 
+    "m": "Marco Polo", 
+    "u2": "$5.12 per 1Kg", 
+    "p": "4500810P", 
+    "s": "marco-sauerkraut", 
+    "u": "83822", 
+    "t": "/wcsstore/Coles-CAS/images/4/5/0/4500810-th.jpg", 
+    "n": "Sauerkraut", 
+    "pl": "20"
+}

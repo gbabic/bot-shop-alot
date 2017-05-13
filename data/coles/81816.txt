@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "146782", 
+    "p1": {
+        "o": "6.2"
+    }, 
+    "m": "Magazine", 
+    "s7": "Cover may not depict edition offered for sale", 
+    "u2": "$6.20 per 1Ea", 
+    "p": "5149169P", 
+    "s": "healthy-food-guide", 
+    "u": "81816", 
+    "t": "/wcsstore/Coles-CAS/images/5/1/4/5149169-th.jpg", 
+    "n": "Healthy Food Guide", 
+    "pl": "20"
+}

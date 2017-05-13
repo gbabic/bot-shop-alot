@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Fruit & Vegetables"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "142682", 
+    "p1": {
+        "o": "6.9"
+    }, 
+    "m": "Coles", 
+    "s7": "Product of Australia", 
+    "u2": "$13.80 per 1Kg", 
+    "p": "4841072P", 
+    "s": "capsicum-3-colour-prepacked", 
+    "u": "80157", 
+    "t": "/wcsstore/Coles-CAS/images/4/8/4/4841072-th.jpg", 
+    "n": "Tri Colour Capsicum Pack", 
+    "pl": "99"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 pack"
+        ]
+    }, 
+    "s9": "137551", 
+    "p1": {
+        "o": "10.99"
+    }, 
+    "m": "Scotch", 
+    "u2": "$10.99 per 1ea", 
+    "p": "6509565P", 
+    "s": "scotch-mount-tape-heavy-duty", 
+    "u": "74936", 
+    "t": "/wcsstore/Coles-CAS/images/6/5/0/6509565-th.jpg", 
+    "n": "Mount Tape Heavy Duty", 
+    "pl": "20"
+}

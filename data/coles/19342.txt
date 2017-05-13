@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400g"
+        ]
+    }, 
+    "u2": "$19.25 per 1Kg", 
+    "s9": "33035", 
+    "p1": {
+        "o": "7.7"
+    }, 
+    "s7": "", 
+    "m": "Coles", 
+    "n": "Smoked Hickory Bacon", 
+    "p": "8119608P", 
+    "s": "coles-bacon-hicory-smoked", 
+    "u": "19342", 
+    "t": "/wcsstore/Coles-CAS/images/8/1/1/8119608-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

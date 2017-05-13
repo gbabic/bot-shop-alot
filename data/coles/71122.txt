@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "6 pack"
+        ]
+    }, 
+    "s9": "137619", 
+    "p1": {
+        "o": "3.3"
+    }, 
+    "m": "Old El Paso", 
+    "u2": "$1.38 per 100G", 
+    "p": "6305168P", 
+    "s": "old-el-paso-tortillas-light-6-pack", 
+    "u": "71122", 
+    "t": "/wcsstore/Coles-CAS/images/6/3/0/6305168-th.jpg", 
+    "n": "Light Tortillas", 
+    "pl": "20"
+}

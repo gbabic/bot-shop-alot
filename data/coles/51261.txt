@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "2.3mL + 1.8mL"
+        ]
+    }, 
+    "s9": "115794", 
+    "p1": {
+        "o": "25.19"
+    }, 
+    "m": "Maybelline", 
+    "u2": "$139.95 per 10mL", 
+    "p": "8505758P", 
+    "s": "maybelline-superstay-lip-colour-infinite-petal", 
+    "u": "51261", 
+    "t": "/wcsstore/Coles-CAS/images/8/5/0/8505758-th.jpg", 
+    "n": "Superstay 24HR Lipcolor Infinite Petal", 
+    "pl": "20"
+}

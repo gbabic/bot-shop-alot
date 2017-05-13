@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "280g"
+        ]
+    }, 
+    "s9": "679121", 
+    "p1": {
+        "l4": "7.7", 
+        "o": "5.0"
+    }, 
+    "m": "Latina", 
+    "t1": "S", 
+    "p": "2895660P", 
+    "s": "latina-shredded-beef-vegetable-bolognese-lunch-pot", 
+    "n": "Shredded Beef & Vegetable Bolognese Lunch Pot", 
+    "u": "679049", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/9/2895660-th.jpg", 
+    "u2": "$1.79 per 100G", 
+    "pl": "12"
+}

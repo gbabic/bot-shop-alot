@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "60g"
+        ]
+    }, 
+    "s9": "583672", 
+    "p1": {
+        "l4": "2.92", 
+        "o": "2.0"
+    }, 
+    "m": "Red Rock", 
+    "t1": "S", 
+    "p": "2672848P", 
+    "s": "red-rock--garlic-rosemary-thyme-sweet-potato-chips", 
+    "n": "Garlic Rosemary & Thyme Sweet Potato Chips", 
+    "u": "583553", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/7/2672848-th.jpg", 
+    "u2": "$3.33 per 100G", 
+    "pl": "12"
+}

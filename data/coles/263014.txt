@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100g"
+        ]
+    }, 
+    "s9": "263078", 
+    "p1": {
+        "l4": "1.49", 
+        "o": "1.0"
+    }, 
+    "m": "Optimum", 
+    "t1": "S", 
+    "p": "1513179P", 
+    "s": "optimum-dog-food-puppy-chicken-rice-vegetables", 
+    "n": "Chicken Rice & Vegetables Puppy Food", 
+    "u": "263014", 
+    "t": "/wcsstore/Coles-CAS/images/1/5/1/1513179-th.jpg", 
+    "u2": "$1.00 per 100G", 
+    "pl": "12"
+}

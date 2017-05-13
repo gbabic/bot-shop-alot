@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "510g"
+        ]
+    }, 
+    "s9": "496060", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "m": "Well & Good", 
+    "u2": "$1.08 per 100G", 
+    "p": "2204781P", 
+    "s": "well-good-cupcake-baking-mix", 
+    "u": "496033", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/0/2204781-th.jpg", 
+    "n": "Cupcake Baking Mix", 
+    "pl": "20"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Bread & Bakery"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "700g"
+        ]
+    }, 
+    "u2": "$0.29 per 100G", 
+    "s9": "31315", 
+    "p1": {
+        "o": "2.0"
+    }, 
+    "s7": "5c from the purchase of this bread will be donated by Coles to Redkite.", 
+    "m": "Coles", 
+    "n": "High Fibre White Sandwich Bread", 
+    "p": "4938243P", 
+    "s": "-4938243p", 
+    "u": "20386", 
+    "t": "/wcsstore/Coles-CAS/images/4/9/3/4938243-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

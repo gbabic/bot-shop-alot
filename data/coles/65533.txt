@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Baby"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "128g"
+        ]
+    }, 
+    "s9": "130175", 
+    "p1": {
+        "l4": "3.89", 
+        "o": "3.5"
+    }, 
+    "m": "Rafferty's Garden", 
+    "t1": "S", 
+    "p": "7572239P", 
+    "s": "raffertys-garden-bars-snack-bars-banana", 
+    "n": "Banana Snack Bars 12+ Months", 
+    "u": "65533", 
+    "t": "/wcsstore/Coles-CAS/images/7/5/7/7572239-th.jpg", 
+    "u2": "$2.73 per 100G", 
+    "pl": "12"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "388mL"
+        ]
+    }, 
+    "s9": "501031", 
+    "p1": {
+        "l4": "8.79", 
+        "o": "6.0"
+    }, 
+    "m": "Streets", 
+    "t1": "S", 
+    "p": "2404871P", 
+    "s": "streets-chocolate-cookie-crumble-magnum-4-pack", 
+    "n": "Magnum Chocolate Cookie Crumble 4 pack", 
+    "u": "501001", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/0/2404871-th.jpg", 
+    "u2": "$1.55 per 100mL", 
+    "pl": "12"
+}

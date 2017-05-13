@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1L"
+        ]
+    }, 
+    "s9": "581504", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "m": "Campbell's", 
+    "s7": "", 
+    "u2": "$0.55 per 100mL", 
+    "p": "2690497P", 
+    "s": "campbells-chinese-real-soup-base", 
+    "u": "581502", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/9/2690497-th.jpg", 
+    "n": "Real Chinese Soup Base", 
+    "pl": "99"
+}

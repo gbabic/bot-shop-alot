@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "163700", 
+    "p1": {
+        "o": "5.8"
+    }, 
+    "m": "Western Star", 
+    "u2": "$1.16 per 100G", 
+    "p": "9615296P", 
+    "s": "western-star-butter-blend-spreadable-supersoft-tub", 
+    "u": "95838", 
+    "t": "/wcsstore/Coles-CAS/images/9/6/1/9615296-th.jpg", 
+    "n": "Supersoft Spreadable Butter Blend", 
+    "pl": "20"
+}

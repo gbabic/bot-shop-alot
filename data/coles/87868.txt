@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "170g"
+        ]
+    }, 
+    "s9": "148493", 
+    "p1": {
+        "o": "5.34"
+    }, 
+    "m": "MasterFoods", 
+    "u2": "$0.31 per 10G", 
+    "p": "317007P", 
+    "s": "masterfoods-lemon-pepper-317007p", 
+    "u": "87868", 
+    "t": "/wcsstore/Coles-CAS/images/3/1/7/317007-th.jpg", 
+    "n": "Lemon Pepper Seasoning", 
+    "pl": "20"
+}

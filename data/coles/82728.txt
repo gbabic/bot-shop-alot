@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "350g"
+        ]
+    }, 
+    "s9": "143434", 
+    "p1": {
+        "o": "8.25"
+    }, 
+    "m": "Ingham", 
+    "u2": "$23.57 per 1Kg", 
+    "p": "4682660P", 
+    "s": "ingham-chicken-duets-alfredo-frozen", 
+    "u": "82728", 
+    "t": "/wcsstore/Coles-CAS/images/4/6/8/4682660-th.jpg", 
+    "n": "Frozen Alfredo Chicken Duets 2 pack", 
+    "pl": "99"
+}

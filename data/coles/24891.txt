@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "0.25"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 250g"
+        ]
+    }, 
+    "s9": "44751", 
+    "p1": {
+        "o": "6.5"
+    }, 
+    "m": "Coles Deli", 
+    "s7": "Indicated price based on approx. weight. Weight may vary between 225g and 275g.", 
+    "u2": "$26.00 per 1kg", 
+    "p": "1037618P", 
+    "s": "salami-hungarian-hot-1037618p", 
+    "u": "24891", 
+    "t": "/wcsstore/Coles-CAS/images/1/0/3/1037618-th.jpg", 
+    "n": "Hot Hungarian Salami", 
+    "pl": "20"
+}

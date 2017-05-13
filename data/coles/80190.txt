@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "20g"
+        ]
+    }, 
+    "s9": "147013", 
+    "p1": {
+        "l4": "2.97", 
+        "o": "1.0"
+    }, 
+    "m": "Twinings", 
+    "t1": "S", 
+    "p": "4760120P", 
+    "s": "twinings-tea-bags-green-tea-lemon", 
+    "n": "Green Tea & Lemon Tea Bags 10 pack", 
+    "u": "80190", 
+    "t": "/wcsstore/Coles-CAS/images/4/7/6/4760120-th.jpg", 
+    "u2": "$5.00 per 100G", 
+    "pl": "12"
+}

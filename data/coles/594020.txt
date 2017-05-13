@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "350g"
+        ]
+    }, 
+    "s9": "594160", 
+    "p1": {
+        "l4": "7.15", 
+        "o": "4.0"
+    }, 
+    "m": "Weight Watchers", 
+    "t1": "S", 
+    "p": "2742273P", 
+    "s": "weight-watchers-gourmet-menu-moroccan-chicken-pearl-couscous-frozen-meal", 
+    "n": "Gourmet Menu Moroccan Chicken & Pearl Couscous Frozen Meal", 
+    "u": "594020", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/4/2742273-th.jpg", 
+    "u2": "$1.14 per 100G", 
+    "pl": "12"
+}

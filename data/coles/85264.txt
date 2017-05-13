@@ -1,0 +1,39 @@
+{
+    "a": {
+        "D": [
+            "LIQUOR"
+        ], 
+        "P8": [
+            "Alcohol"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "true"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "700mL"
+        ]
+    }, 
+    "s9": "149634", 
+    "p1": {
+        "l4": "37.45", 
+        "o": "26.0"
+    }, 
+    "m": "Malibu", 
+    "t1": "S", 
+    "p": "34692P", 
+    "s": "malibu-caribbean-white-rum-with-coconut", 
+    "n": "Caribbean White Rum with Coconut", 
+    "u": "85264", 
+    "t": "/wcsstore/Coles-CAS/images/3/4/6/34692-th.jpg", 
+    "u2": "$3.71 per 100mL", 
+    "pl": "4"
+}

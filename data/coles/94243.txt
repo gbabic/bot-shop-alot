@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1kg"
+        ]
+    }, 
+    "s9": "155577", 
+    "p1": {
+        "o": "3.3"
+    }, 
+    "m": "La Molisana", 
+    "u2": "$3.30 per 1Kg", 
+    "p": "9926558P", 
+    "s": "la-molisana-flour", 
+    "u": "94243", 
+    "t": "/wcsstore/Coles-CAS/images/9/9/2/9926558-th.jpg", 
+    "n": "Flour", 
+    "pl": "20"
+}

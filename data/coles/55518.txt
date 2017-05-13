@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "58g"
+        ]
+    }, 
+    "s9": "117946", 
+    "p1": {
+        "l4": "2.2", 
+        "o": "1.0"
+    }, 
+    "m": "Continental", 
+    "t1": "S", 
+    "p": "7979236P", 
+    "s": "continental-cup-a-soup-lots-a-noodles-chicken-curry", 
+    "n": "Lots A Noodles Mild Chicken Curry Cup A Soup 2 pack", 
+    "u": "55518", 
+    "t": "/wcsstore/Coles-CAS/images/7/9/7/7979236-th.jpg", 
+    "u2": "$1.72 per 100G", 
+    "pl": "12"
+}

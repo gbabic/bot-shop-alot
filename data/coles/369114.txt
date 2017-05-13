@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "369263", 
+    "p1": {
+        "o": "1.0"
+    }, 
+    "m": "Presstik", 
+    "u2": "", 
+    "p": "1841393P", 
+    "s": "presstik-ruler-wooden-30cm", 
+    "u": "369114", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/4/1841393-th.jpg", 
+    "n": "Ruler Wooden 30cm", 
+    "pl": "20"
+}

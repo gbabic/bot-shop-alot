@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100g"
+        ]
+    }, 
+    "s9": "118593", 
+    "p1": {
+        "o": "2.92"
+    }, 
+    "m": "Mamee", 
+    "s7": "", 
+    "u2": "$2.92 per 100G", 
+    "p": "7881812P", 
+    "s": "mamee-chip-rice-sour-cream-chives", 
+    "u": "57041", 
+    "t": "/wcsstore/Coles-CAS/images/7/8/8/7881812-th.jpg", 
+    "n": "Sour Cream & Chives Rice Chips", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "12 pack"
+        ]
+    }, 
+    "s9": "157088", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "m": "U By Kotex", 
+    "u2": "$0.46 per 1Ea", 
+    "p": "9498523P", 
+    "s": "u-by-kotex-pads-ultra-thin-super-with-wings", 
+    "u": "93416", 
+    "t": "/wcsstore/Coles-CAS/images/9/4/9/9498523-th.jpg", 
+    "n": "Ultra Thin Super with Wings Pads", 
+    "pl": "20"
+}

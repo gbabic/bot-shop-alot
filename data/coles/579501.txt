@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "130g"
+        ]
+    }, 
+    "s9": "579511", 
+    "p1": {
+        "l4": "5.5", 
+        "o": "3.95"
+    }, 
+    "m": "Beanfields", 
+    "t1": "S", 
+    "p": "2475188P", 
+    "s": "beanfields-bean-and-rice-seasalt-chips", 
+    "n": "Bean And Rice Seasalt Chips", 
+    "u": "579501", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/7/2475188-th.jpg", 
+    "u2": "$3.04 per 100G", 
+    "pl": "12"
+}

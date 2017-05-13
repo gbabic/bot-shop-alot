@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500mL"
+        ]
+    }, 
+    "s9": "139514", 
+    "p1": {
+        "o": "2.53"
+    }, 
+    "m": "Campbell's", 
+    "s7": "", 
+    "u2": "$0.51 per 100mL", 
+    "p": "6149845P", 
+    "s": "campbells-real-stock-chicken-6149845p", 
+    "u": "78111", 
+    "t": "/wcsstore/Coles-CAS/images/6/1/4/6149845-th.jpg", 
+    "n": "Real Chicken Stock", 
+    "pl": "99"
+}

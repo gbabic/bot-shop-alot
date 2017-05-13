@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "10 pack"
+        ]
+    }, 
+    "s9": "489635", 
+    "p1": {
+        "l4": "4.73", 
+        "o": "3.44"
+    }, 
+    "m": "Carefree", 
+    "t1": "S", 
+    "p": "2373676P", 
+    "s": "carefree-ultrathin-regular-pads-with-wings", 
+    "n": "Ultrathin Regular Pads With Wings", 
+    "u": "489559", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/7/2373676-th.jpg", 
+    "u2": "$0.34 per 1Ea", 
+    "pl": "12"
+}

@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "750g"
+        ]
+    }, 
+    "s9": "138821", 
+    "p1": {
+        "o": "6.93"
+    }, 
+    "m": "White Wings", 
+    "s7": "", 
+    "u2": "$0.92 per 100G", 
+    "p": "5361389P", 
+    "s": "white-wings-plain-flour-gluten-free-mix", 
+    "u": "77988", 
+    "t": "/wcsstore/Coles-CAS/images/5/3/6/5361389-th.jpg", 
+    "n": "Plain Flour Mix Gluten Free", 
+    "pl": "20"
+}

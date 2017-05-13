@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Frozen"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1kg"
+        ]
+    }, 
+    "s9": "137118", 
+    "p1": {
+        "o": "7.65"
+    }, 
+    "m": "Borgs", 
+    "s7": "", 
+    "u2": "$0.77 per 100G", 
+    "p": "6956450P", 
+    "s": "borgs-pastizzi-spinach-frozen", 
+    "u": "73143", 
+    "t": "/wcsstore/Coles-CAS/images/6/9/5/6956450-th.jpg", 
+    "n": "Frozen Spinach Pastizzi", 
+    "pl": "20"
+}

@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "485g"
+        ]
+    }, 
+    "s9": "652042", 
+    "p1": {
+        "o": "2.5"
+    }, 
+    "m": "Raguletto", 
+    "t1": "V", 
+    "p": "2768288P", 
+    "s": "raguletto-pasta-bake-crmy-sauce-tomato-garlic-basil", 
+    "n": "Creamy Tomato Garlic & Basil Pasta Bake Sauce", 
+    "u": "652024", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/6/2768288-th.jpg", 
+    "u2": "$0.52 per 100G", 
+    "pl": "20"
+}

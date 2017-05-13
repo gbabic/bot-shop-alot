@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "9.5mL"
+        ]
+    }, 
+    "s9": "447597", 
+    "p1": {
+        "o": "20.0"
+    }, 
+    "m": "Maybelline", 
+    "u2": "$21.05 per 10mL", 
+    "p": "2210332P", 
+    "s": "maybelline-volume-express-classic-black-mascara", 
+    "u": "447532", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/1/2210332-th.jpg", 
+    "n": "Volume Express Classic Black Mascara", 
+    "pl": "20"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1L"
+        ]
+    }, 
+    "s9": "127821", 
+    "p1": {
+        "l4": "9.89", 
+        "o": "4.49"
+    }, 
+    "m": "Cuddly", 
+    "t1": "S", 
+    "p": "7319306P", 
+    "s": "cuddly-ultra-fabric-softener-sunshine-fresh", 
+    "n": "Sunshine Fresh Ultra Fabric Softener", 
+    "u": "67673", 
+    "t": "/wcsstore/Coles-CAS/images/7/3/1/7319306-th.jpg", 
+    "u2": "$4.49 per 1L", 
+    "pl": "12"
+}

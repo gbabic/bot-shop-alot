@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "5kg"
+        ]
+    }, 
+    "s9": "110079", 
+    "p1": {
+        "o": "19.8"
+    }, 
+    "m": "Riviana", 
+    "s7": "Product of Pakistan", 
+    "u2": "$0.40 per 100G", 
+    "p": "8495825P", 
+    "s": "riviana-rice-basmati-long-grain", 
+    "u": "48492", 
+    "t": "/wcsstore/Coles-CAS/images/8/4/9/8495825-th.jpg", 
+    "n": "Long Grain Basmati Rice", 
+    "pl": "99"
+}

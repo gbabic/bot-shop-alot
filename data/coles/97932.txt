@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "s9": "154431", 
+    "p1": {
+        "o": "4.83"
+    }, 
+    "m": "Soyco", 
+    "u2": "$2.42 per 100G", 
+    "p": "9099120P", 
+    "s": "soyco-tofu-malaysian-satay", 
+    "u": "97932", 
+    "t": "/wcsstore/Coles-CAS/images/9/0/9/9099120-th.jpg", 
+    "n": "Malaysian Satay Tofu", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "325g"
+        ]
+    }, 
+    "s9": "35877", 
+    "p1": {
+        "o": "5.06"
+    }, 
+    "m": "Kraft", 
+    "u2": "$1.56 per 100G", 
+    "p": "1167158P", 
+    "s": "kraft-peanut-butter-smooth", 
+    "u": "19249", 
+    "t": "/wcsstore/Coles-CAS/images/1/1/6/1167158-th.jpg", 
+    "n": "Smooth Peanut Butter No Added Salt", 
+    "pl": "20"
+}

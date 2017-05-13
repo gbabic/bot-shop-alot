@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "320g"
+        ]
+    }, 
+    "u2": "$0.75 per 100G", 
+    "s9": "145580", 
+    "p1": {
+        "o": "2.4"
+    }, 
+    "s7": "", 
+    "m": "Coles", 
+    "n": "Budgie & Canary Bird Treats", 
+    "p": "5111632P", 
+    "s": "coles-brand-bird-treats-budgie-canary", 
+    "u": "80597", 
+    "t": "/wcsstore/Coles-CAS/images/5/1/1/5111632-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

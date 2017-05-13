@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400g"
+        ]
+    }, 
+    "u2": "$1.13 per 100G", 
+    "s9": "165219", 
+    "p1": {
+        "o": "4.5"
+    }, 
+    "s7": "", 
+    "m": "McCain", 
+    "n": "Red Box Shepherd's Pie Frozen Meal", 
+    "p": "95233P", 
+    "s": "mccain-red-box-entree-shepherds-pie-frozen", 
+    "u": "91108", 
+    "t": "/wcsstore/Coles-CAS/images/9/5/2/95233-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

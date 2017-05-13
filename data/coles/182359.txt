@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "138g"
+        ]
+    }, 
+    "s9": "182678", 
+    "p1": {
+        "l4": "1.98", 
+        "o": "1.55"
+    }, 
+    "m": "Nissin", 
+    "t1": "S", 
+    "p": "1383710P", 
+    "s": "nissin-seafood-noodle-bowl", 
+    "n": "Seafood Noodle Bowl", 
+    "u": "182359", 
+    "t": "/wcsstore/Coles-CAS/images/1/3/8/1383710-th.jpg", 
+    "u2": "$1.12 per 100G", 
+    "pl": "12"
+}

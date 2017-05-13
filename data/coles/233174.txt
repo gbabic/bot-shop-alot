@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "125g"
+        ]
+    }, 
+    "s9": "235033", 
+    "p1": {
+        "o": "2.2"
+    }, 
+    "m": "Uncle Ben's", 
+    "u2": "$1.76 per 100G", 
+    "p": "1336448P", 
+    "s": "uncle-bens-rice-single-serve-express-brown", 
+    "u": "233174", 
+    "t": "/wcsstore/Coles-CAS/images/1/3/3/1336448-th.jpg", 
+    "n": "Express Brown Rice Single Serve", 
+    "pl": "20"
+}

@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "700g"
+        ]
+    }, 
+    "s9": "144079", 
+    "p1": {
+        "o": "1.65"
+    }, 
+    "m": "Chum", 
+    "t1": "V", 
+    "p": "464464P", 
+    "s": "chum-dog-food-with-lamb-464464p", 
+    "n": "Lamb Canned Dog Food", 
+    "u": "82068", 
+    "t": "/wcsstore/Coles-CAS/images/4/6/4/464464-th.jpg", 
+    "u2": "$0.24 per 100G", 
+    "pl": "20"
+}

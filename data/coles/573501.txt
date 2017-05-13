@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "573533", 
+    "p1": {
+        "o": "1.5"
+    }, 
+    "m": "Presstik", 
+    "u2": "$1.50 per 1KGM", 
+    "p": "1820575P", 
+    "s": "presstik-30cm-plastic-ruler", 
+    "u": "573501", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/2/1820575-th.jpg", 
+    "n": "30cm Plastic Ruler", 
+    "pl": "99"
+}

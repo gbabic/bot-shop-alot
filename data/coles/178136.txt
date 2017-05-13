@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "80g"
+        ]
+    }, 
+    "s9": "178405", 
+    "p1": {
+        "o": "0.77"
+    }, 
+    "m": "Vina Acecook", 
+    "u2": "$0.96 per 100G", 
+    "p": "1316189P", 
+    "s": "vina-acecook-noodle-lau-thai-shrimp", 
+    "u": "178136", 
+    "t": "/wcsstore/Coles-CAS/images/1/3/1/1316189-th.jpg", 
+    "n": "Lau Thai Shrimp Noodles", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "210g"
+        ]
+    }, 
+    "s9": "293663", 
+    "p1": {
+        "o": "3.7"
+    }, 
+    "m": "Jensens Choice", 
+    "u2": "$0.18 per 10G", 
+    "p": "5444420P", 
+    "s": "jensens-choice-crushed-ginger", 
+    "u": "293280", 
+    "t": "/wcsstore/Coles-CAS/images/5/4/4/5444420-th.jpg", 
+    "n": "Crushed Ginger", 
+    "pl": "20"
+}

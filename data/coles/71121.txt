@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "10 pack"
+        ]
+    }, 
+    "s9": "136433", 
+    "p1": {
+        "l4": "6.99", 
+        "o": "5.5"
+    }, 
+    "m": "Red Rock Deli", 
+    "t1": "V", 
+    "p": "6307108P", 
+    "s": "red-rock-deli-potato-chips-variety", 
+    "n": "Variety Multipack Potato Chips", 
+    "u": "71121", 
+    "t": "/wcsstore/Coles-CAS/images/6/3/0/6307108-th.jpg", 
+    "u2": "$1.96 per 100G", 
+    "pl": "12"
+}

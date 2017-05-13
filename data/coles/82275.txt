@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "70g"
+        ]
+    }, 
+    "s9": "146045", 
+    "p1": {
+        "o": "3.85"
+    }, 
+    "m": "Wrigley", 
+    "s7": "", 
+    "u2": "$5.50 per 100G", 
+    "p": "417045P", 
+    "s": "wrigleys-chewing-gum-family-pack-blue", 
+    "u": "82275", 
+    "t": "/wcsstore/Coles-CAS/images/4/1/7/417045-th.jpg", 
+    "n": "P K Blue Chewing Gum 5 x 10 Piece Pack", 
+    "pl": "20"
+}

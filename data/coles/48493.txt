@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "410g"
+        ]
+    }, 
+    "s9": "113767", 
+    "p1": {
+        "l4": "5.5", 
+        "o": "4.0"
+    }, 
+    "m": "Kellogg's", 
+    "t1": "S", 
+    "p": "8495803P", 
+    "s": "kelloggs-cereal-rice-bubbles-8495803p", 
+    "n": "Rice Bubbles", 
+    "u": "48493", 
+    "t": "/wcsstore/Coles-CAS/images/8/4/9/8495803-th.jpg", 
+    "u2": "$0.98 per 100G", 
+    "pl": "12"
+}

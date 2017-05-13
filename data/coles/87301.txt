@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "375g"
+        ]
+    }, 
+    "s9": "147368", 
+    "p1": {
+        "o": "6.66"
+    }, 
+    "m": "Solomons", 
+    "u2": "$1.78 per 100G", 
+    "p": "220222P", 
+    "s": "solomons-matzos-coarse-meal", 
+    "u": "87301", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/0/220222-th.jpg", 
+    "n": "SP Coarse Matza Meal", 
+    "pl": "20"
+}

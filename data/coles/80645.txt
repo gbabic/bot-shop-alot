@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1kg"
+        ]
+    }, 
+    "s9": "142541", 
+    "p1": {
+        "o": "4.2"
+    }, 
+    "m": "McCain", 
+    "u2": "$4.20 per 1Kg", 
+    "p": "5066946P", 
+    "s": "mccain-potato-superfries-crinkle-cut-polyunsaturated-frozen", 
+    "u": "80645", 
+    "t": "/wcsstore/Coles-CAS/images/5/0/6/5066946-th.jpg", 
+    "n": "Superfries Polyunsaturated Crinkle Cut Frozen Potato Chips", 
+    "pl": "20"
+}

@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Clothing"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 pack"
+        ]
+    }, 
+    "u2": "$4.00 per 1ea", 
+    "s9": "111711", 
+    "p1": {
+        "l4": "8.0", 
+        "o": "4.0"
+    }, 
+    "s7": "", 
+    "m": "Kolotex", 
+    "n": "Sheer Relief Trouser Sock Black One size Fits All", 
+    "p": "8424328P", 
+    "s": "sheer-relief-trouser-sock-black", 
+    "u": "103982", 
+    "t": "/wcsstore/Coles-CAS/images/8/4/2/8424328-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

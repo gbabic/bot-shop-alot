@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Clothing"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "2 pack"
+        ]
+    }, 
+    "u2": "$3.00 per 1ea", 
+    "s9": "130311", 
+    "p1": {
+        "l4": "6.0", 
+        "o": "3.0"
+    }, 
+    "s7": "", 
+    "m": "Razza matazz", 
+    "n": "Light Slimming Brief Pantyhose Natural X Tall", 
+    "p": "7431510P", 
+    "s": "razzamatazz-control-pantyhose-bonezap-extra-large", 
+    "u": "69572", 
+    "t": "/wcsstore/Coles-CAS/images/7/4/3/7431510-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

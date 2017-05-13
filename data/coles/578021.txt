@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "578036", 
+    "p1": {
+        "o": "3.03"
+    }, 
+    "m": "San Remo", 
+    "u2": "$0.61 per 100G", 
+    "p": "2599544P", 
+    "s": "san-remo-cous-cous-wholemeal", 
+    "u": "578021", 
+    "t": "/wcsstore/Coles-CAS/images/2/5/9/2599544-th.jpg", 
+    "n": "Wholemeal Cous Cous", 
+    "pl": "99"
+}

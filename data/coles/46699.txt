@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "350g"
+        ]
+    }, 
+    "s9": "113379", 
+    "p1": {
+        "l4": "6.77", 
+        "o": "3.07"
+    }, 
+    "m": "Freedom Foods", 
+    "t1": "S", 
+    "p": "8683086P", 
+    "s": "freedom-foods-ancient-cereal-multigrain-flakes", 
+    "n": "Ancient Grain Flakes", 
+    "u": "46699", 
+    "t": "/wcsstore/Coles-CAS/images/8/6/8/8683086-th.jpg", 
+    "u2": "$0.88 per 100G", 
+    "pl": "12"
+}

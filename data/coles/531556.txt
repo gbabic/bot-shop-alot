@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "560g"
+        ]
+    }, 
+    "s9": "531609", 
+    "p1": {
+        "o": "9.13"
+    }, 
+    "m": "Dorset", 
+    "u2": "$1.63 per 100G", 
+    "p": "2498933P", 
+    "s": "dorset-really-nutty-muesli", 
+    "u": "531556", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/9/2498933-th.jpg", 
+    "n": "Really Nutty Muesli", 
+    "pl": "20"
+}

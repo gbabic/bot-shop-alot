@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "139215", 
+    "p1": {
+        "o": "1.8"
+    }, 
+    "m": "San Remo", 
+    "t1": "V", 
+    "p": "5694676P", 
+    "s": "san-remo-pasta-angel-hair-no-141-short", 
+    "n": "Angel Hair Short Pasta No 141", 
+    "u": "75345", 
+    "t": "/wcsstore/Coles-CAS/images/5/6/9/5694676-th.jpg", 
+    "u2": "$0.36 per 100G", 
+    "pl": "20"
+}

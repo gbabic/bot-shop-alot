@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Baby"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "240 pack"
+        ]
+    }, 
+    "s9": "166893", 
+    "p1": {
+        "l4": "14.0", 
+        "o": "10.0"
+    }, 
+    "m": "Huggies", 
+    "t1": "S", 
+    "p": "9240819P", 
+    "s": "huggies-lightly-fragranced-baby-wipes-cucumber-aloe", 
+    "n": "Lightly Fragranced Cucumber & Aloe Baby Wipes", 
+    "u": "47436", 
+    "t": "/wcsstore/Coles-CAS/images/9/2/4/9240819-th.jpg", 
+    "u2": "$4.17 per 100Ea", 
+    "pl": "12"
+}

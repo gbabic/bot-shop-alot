@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "15g"
+        ]
+    }, 
+    "s9": "114674", 
+    "p1": {
+        "l4": "2.97", 
+        "o": "1.0"
+    }, 
+    "m": "Twinings", 
+    "t1": "S", 
+    "p": "8729551P", 
+    "s": "twinings-herbal-infusion-tea-bags-camomile--honey-vanilla", 
+    "n": "Herbal Infusions Camomile Honey & Vanilla Tea Bags", 
+    "u": "106889", 
+    "t": "/wcsstore/Coles-CAS/images/8/7/2/8729551-th.jpg", 
+    "u2": "$6.67 per 100G", 
+    "pl": "12"
+}

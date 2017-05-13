@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "37g"
+        ]
+    }, 
+    "s9": "143020", 
+    "p1": {
+        "o": "2.97"
+    }, 
+    "m": "MasterFoods", 
+    "u2": "$0.80 per 10G", 
+    "p": "316343P", 
+    "s": "masterfoods-sesame-seeds", 
+    "u": "89556", 
+    "t": "/wcsstore/Coles-CAS/images/3/1/6/316343-th.jpg", 
+    "n": "Sesame Seeds", 
+    "pl": "20"
+}

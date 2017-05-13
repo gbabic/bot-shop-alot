@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "260g"
+        ]
+    }, 
+    "s9": "480555", 
+    "p1": {
+        "l4": "4.4", 
+        "o": "2.0"
+    }, 
+    "m": "Freedom Foods", 
+    "t1": "S", 
+    "p": "2471391P", 
+    "s": "freedom-foods-corn-flakes", 
+    "n": "Corn Flakes", 
+    "u": "480503", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/7/2471391-th.jpg", 
+    "u2": "$0.77 per 100G", 
+    "pl": "12"
+}

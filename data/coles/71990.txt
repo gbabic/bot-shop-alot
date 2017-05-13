@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "210g"
+        ]
+    }, 
+    "s9": "135430", 
+    "p1": {
+        "l4": "4.29", 
+        "o": "3.25"
+    }, 
+    "m": "Valcom", 
+    "t1": "S", 
+    "p": "6823683P", 
+    "s": "valcom-paste-panang-curry", 
+    "n": "Panang Curry Paste", 
+    "u": "71990", 
+    "t": "/wcsstore/Coles-CAS/images/6/8/2/6823683-th.jpg", 
+    "u2": "$1.55 per 100G", 
+    "pl": "12"
+}

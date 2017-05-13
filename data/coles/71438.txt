@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "132786", 
+    "p1": {
+        "o": "3.4"
+    }, 
+    "m": "CSR", 
+    "u2": "$0.68 per 100G", 
+    "p": "6810706P", 
+    "s": "csr-sugar-white-blend-smart", 
+    "u": "71438", 
+    "t": "/wcsstore/Coles-CAS/images/6/8/1/6810706-th.jpg", 
+    "n": "White Blend Smart Sugar", 
+    "pl": "20"
+}

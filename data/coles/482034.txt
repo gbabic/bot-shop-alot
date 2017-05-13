@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "6g"
+        ]
+    }, 
+    "s9": "482113", 
+    "p1": {
+        "o": "14.3"
+    }, 
+    "m": "Not Your Mother's", 
+    "u2": "$238.37 per 100G", 
+    "p": "2343722P", 
+    "s": "not-your-mothers-girl-powder-volumising-hair-powder", 
+    "u": "482034", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/4/2343722-th.jpg", 
+    "n": "Girl Powder Volumising Hair Powder", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "40g"
+        ]
+    }, 
+    "s9": "162472", 
+    "p1": {
+        "o": "1.79"
+    }, 
+    "m": "Continental", 
+    "u2": "$4.48 per 100G", 
+    "p": "9475980P", 
+    "s": "continental-recipe-mix-mild-mince-curry", 
+    "u": "91160", 
+    "t": "/wcsstore/Coles-CAS/images/9/4/7/9475980-th.jpg", 
+    "n": "Mild Mince Curry Recipe Base Serves 4", 
+    "pl": "20"
+}

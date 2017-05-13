@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Mothers Day"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "125g"
+        ]
+    }, 
+    "s9": "344040", 
+    "p1": {
+        "l4": "7.2", 
+        "o": "5.0"
+    }, 
+    "m": "Lindt", 
+    "t1": "S", 
+    "p": "1823573P", 
+    "s": "lindt-lindor-strawberries-cream-chocolate-bag", 
+    "n": "Lindor Strawberries & Cream Chocolate Bag", 
+    "u": "344008", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/2/1823573-th.jpg", 
+    "u2": "$4.00 per 100G", 
+    "pl": "12"
+}

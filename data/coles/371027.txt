@@ -1,0 +1,37 @@
+{
+    "a": {
+        "D": [
+            "LIQUOR"
+        ], 
+        "P8": [
+            "Alcohol"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "true"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "700mL"
+        ]
+    }, 
+    "s9": "371117", 
+    "p1": {
+        "o": "74.9"
+    }, 
+    "m": "Bundaberg", 
+    "u2": "$10.70 per 100mL", 
+    "p": "1979721P", 
+    "s": "bundaberg-small-batch", 
+    "u": "371027", 
+    "t": "/wcsstore/Coles-CAS/images/1/9/7/1979721-th.jpg", 
+    "n": "Small Batch", 
+    "pl": "20"
+}

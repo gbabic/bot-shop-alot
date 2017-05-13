@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "s9": "148590", 
+    "p1": {
+        "l4": "3.5", 
+        "o": "3.25"
+    }, 
+    "m": "Allowrie", 
+    "t1": "S", 
+    "p": "195158P", 
+    "s": "allowrie-butter-pat", 
+    "n": "Butter Pat", 
+    "u": "86586", 
+    "t": "/wcsstore/Coles-CAS/images/1/9/5/195158-th.jpg", 
+    "u2": "$1.30 per 100G", 
+    "pl": "12"
+}

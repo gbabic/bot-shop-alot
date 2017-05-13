@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "45g"
+        ]
+    }, 
+    "s9": "455220", 
+    "p1": {
+        "o": "3.14"
+    }, 
+    "m": "Well Naturally", 
+    "u2": "$6.98 per 100G", 
+    "p": "1995364P", 
+    "s": "well-naturally-peppermint-chip-milk-chocolate-bar-no-added-sugar", 
+    "u": "455062", 
+    "t": "/wcsstore/Coles-CAS/images/1/9/9/1995364-th.jpg", 
+    "n": "Peppermint Chip Milk Chocolate Bar No Added Sugar", 
+    "pl": "20"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "170g"
+        ]
+    }, 
+    "s9": "140197", 
+    "p1": {
+        "l4": "2.45", 
+        "o": "2.0"
+    }, 
+    "m": "Rafferty's Garden", 
+    "t1": "S", 
+    "p": "6026823P", 
+    "s": "raffertys-garden-10-months-to-3-years-chicken--basil-tomato-pasta", 
+    "n": "Chicken Basil & Tomato 10+ Months", 
+    "u": "76291", 
+    "t": "/wcsstore/Coles-CAS/images/6/0/2/6026823-th.jpg", 
+    "u2": "$1.18 per 100G", 
+    "pl": "12"
+}

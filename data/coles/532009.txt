@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "80g"
+        ]
+    }, 
+    "s9": "532026", 
+    "p1": {
+        "l4": "7.15", 
+        "o": "5.5"
+    }, 
+    "m": "Madame Flavour", 
+    "t1": "S", 
+    "p": "2236471P", 
+    "s": "madame-flavour-afternoon-in-paris-special-keemun-black-loose-leaf-tea", 
+    "n": "Afternoon In Paris Special Keemun Black Loose Leaf Tea", 
+    "u": "532009", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/3/2236471-th.jpg", 
+    "u2": "$6.88 per 100G", 
+    "pl": "12"
+}

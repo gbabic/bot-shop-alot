@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "333g"
+        ]
+    }, 
+    "u2": "$1.74 per 100G", 
+    "s9": "135720", 
+    "p1": {
+        "o": "5.8"
+    }, 
+    "s7": "", 
+    "m": "Kellogg's", 
+    "n": "Strawberry & Blueberry K-Time Twists", 
+    "p": "6420009P", 
+    "s": "kelloggs-k-time-value-twist-strawberry-blueberry", 
+    "u": "70391", 
+    "t": "/wcsstore/Coles-CAS/images/6/4/2/6420009-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

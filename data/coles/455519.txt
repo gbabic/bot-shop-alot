@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "11mL"
+        ]
+    }, 
+    "s9": "455533", 
+    "p1": {
+        "o": "19.75"
+    }, 
+    "m": "Rimmel", 
+    "u2": "$17.95 per 10mL", 
+    "p": "2210773P", 
+    "s": "rimmel-wonderfull-mascara-003-extreme-black", 
+    "u": "455519", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/1/2210773-th.jpg", 
+    "n": "Wonder'Full Mascara 003 Extreme Black", 
+    "pl": "20"
+}

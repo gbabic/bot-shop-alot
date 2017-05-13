@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "s9": "162411", 
+    "p1": {
+        "o": "3.3"
+    }, 
+    "m": "Allen's", 
+    "s7": "", 
+    "u2": "$1.65 per 100G", 
+    "p": "9530138P", 
+    "s": "allens-snakes-alive", 
+    "u": "98528", 
+    "t": "/wcsstore/Coles-CAS/images/9/5/3/9530138-th.jpg", 
+    "n": "Snakes Alive", 
+    "pl": "20"
+}

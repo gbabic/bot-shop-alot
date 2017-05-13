@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "375g"
+        ]
+    }, 
+    "s9": "108521", 
+    "p1": {
+        "o": "3.91"
+    }, 
+    "m": "San Remo", 
+    "u2": "$1.04 per 100G", 
+    "p": "8945659P", 
+    "s": "san-remo-pasta-pappardelle-nidi-egg", 
+    "u": "102183", 
+    "t": "/wcsstore/Coles-CAS/images/8/9/4/8945659-th.jpg", 
+    "n": "Pappardelle Egg Pasta", 
+    "pl": "20"
+}

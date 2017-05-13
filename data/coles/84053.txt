@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1kg"
+        ]
+    }, 
+    "s9": "142428", 
+    "p1": {
+        "l4": "3.51", 
+        "o": "2.7"
+    }, 
+    "m": "Golden Phoenix", 
+    "t1": "S", 
+    "p": "5252419P", 
+    "s": "golden-phoenix-rice-glutinous", 
+    "n": "Glutinous Rice", 
+    "u": "84053", 
+    "t": "/wcsstore/Coles-CAS/images/5/2/5/5252419-th.jpg", 
+    "u2": "$0.27 per 100G", 
+    "pl": "12"
+}

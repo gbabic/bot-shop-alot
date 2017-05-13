@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "350g"
+        ]
+    }, 
+    "s9": "592140", 
+    "p1": {
+        "l4": "8.25", 
+        "o": "6.0"
+    }, 
+    "m": "Red Tractor", 
+    "t1": "S", 
+    "p": "2618296P", 
+    "s": "red-tractor--bircher-muesli-no-added-sugar", 
+    "n": "No Added Sugar Bircher Muesli", 
+    "u": "592080", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/1/2618296-th.jpg", 
+    "u2": "$1.71 per 100G", 
+    "pl": "12"
+}

@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250mL"
+        ]
+    }, 
+    "s9": "41450", 
+    "p1": {
+        "o": "7.7"
+    }, 
+    "m": "Rexona", 
+    "s7": "", 
+    "u2": "$3.08 per 100mL", 
+    "p": "1014180P", 
+    "s": "rexona-anti-perspirant-deodorant-aquashield", 
+    "u": "27738", 
+    "t": "/wcsstore/Coles-CAS/images/1/0/1/1014180-th.jpg", 
+    "n": "Men Aquashield Anti Perspirant Aerosol Deodorant", 
+    "pl": "20"
+}

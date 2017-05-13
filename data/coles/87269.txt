@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "147346", 
+    "p1": {
+        "o": "1.8"
+    }, 
+    "m": "San Remo", 
+    "t1": "V", 
+    "p": "275723P", 
+    "s": "san-remo-pasta-shells-no-29-large-275723p", 
+    "n": "Large Pasta Shells No 29", 
+    "u": "87269", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/5/275723-th.jpg", 
+    "u2": "$0.36 per 100G", 
+    "pl": "20"
+}

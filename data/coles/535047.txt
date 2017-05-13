@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "0.9"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 900g"
+        ]
+    }, 
+    "s9": "535078", 
+    "p1": {
+        "o": "5.67"
+    }, 
+    "m": "Coles", 
+    "s7": "Indicated price based on approx. weight. Weight may vary between 850g and 950g", 
+    "u2": "$6.30 per 1Kg", 
+    "p": "2263339P", 
+    "s": "coles-rspca-approved-chicken-v-wings", 
+    "u": "535047", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/6/2263339-th.jpg", 
+    "n": "RSPCA Approved Chicken V Wings", 
+    "pl": "20"
+}

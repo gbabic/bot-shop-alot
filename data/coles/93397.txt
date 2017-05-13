@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Baby"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "240 pack"
+        ]
+    }, 
+    "s9": "163833", 
+    "p1": {
+        "l4": "14.0", 
+        "o": "10.0"
+    }, 
+    "m": "Huggies", 
+    "t1": "S", 
+    "p": "9522049P", 
+    "s": "huggies-baby-wipes-unscented-refill", 
+    "n": "Unscented Baby Wipes Refill", 
+    "u": "93397", 
+    "t": "/wcsstore/Coles-CAS/images/9/5/2/9522049-th.jpg", 
+    "u2": "$4.17 per 100Ea", 
+    "pl": "12"
+}

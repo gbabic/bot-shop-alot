@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "4 pack"
+        ]
+    }, 
+    "s9": "575178", 
+    "p1": {
+        "l4": "22.0", 
+        "o": "10.0"
+    }, 
+    "m": "Schick", 
+    "t1": "S", 
+    "p": "2629612P", 
+    "s": "schick--hydro-5-blades", 
+    "n": "Hydro 5 Blades", 
+    "u": "575038", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/2/2629612-th.jpg", 
+    "u2": "$2.50 per 1Ea", 
+    "pl": "12"
+}

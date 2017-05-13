@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100g"
+        ]
+    }, 
+    "s9": "130566", 
+    "p1": {
+        "o": "9.96"
+    }, 
+    "m": "Lekker", 
+    "u2": "$9.96 per 100G", 
+    "p": "7196750P", 
+    "s": "lekker-biltong-sliced-traditional", 
+    "u": "67798", 
+    "t": "/wcsstore/Coles-CAS/images/7/1/9/7196750-th.jpg", 
+    "n": "Sliced Traditional Biltong", 
+    "pl": "20"
+}

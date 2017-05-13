@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400mL"
+        ]
+    }, 
+    "s9": "136167", 
+    "p1": {
+        "l4": "13.75", 
+        "o": "8.7"
+    }, 
+    "m": "Head & Shoulders", 
+    "t1": "S", 
+    "p": "6713302P", 
+    "s": "head-shoulders-shampoo-anti-dandruff-for-men-hair-retain", 
+    "n": "Anti Dandruff Hair Retain For Men Shampoo", 
+    "u": "72078", 
+    "t": "/wcsstore/Coles-CAS/images/6/7/1/6713302-th.jpg", 
+    "u2": "$2.18 per 100mL", 
+    "pl": "12"
+}

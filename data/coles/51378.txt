@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "375mL"
+        ]
+    }, 
+    "s9": "115918", 
+    "p1": {
+        "l4": "18.32", 
+        "o": "13.3"
+    }, 
+    "m": "Exelpet", 
+    "t1": "S", 
+    "p": "8460434P", 
+    "s": "exelpet-fleaban-house-carpet-spray", 
+    "n": "Fleaban House & Carpet Spray", 
+    "u": "51378", 
+    "t": "/wcsstore/Coles-CAS/images/8/4/6/8460434-th.jpg", 
+    "u2": "$35.47 per 1L", 
+    "pl": "12"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "375g"
+        ]
+    }, 
+    "s9": "111417", 
+    "p1": {
+        "o": "3.29"
+    }, 
+    "m": "MasterFoods", 
+    "u2": "$0.88 per 100G", 
+    "p": "8571490P", 
+    "s": "masterfoods-marinade-honey-bbq", 
+    "u": "50366", 
+    "t": "/wcsstore/Coles-CAS/images/8/5/7/8571490-th.jpg", 
+    "n": "Honey BBQ Marinade", 
+    "pl": "20"
+}

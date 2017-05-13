@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 pack"
+        ]
+    }, 
+    "s9": "143435", 
+    "p1": {
+        "l4": "14.3", 
+        "o": "10.0"
+    }, 
+    "m": "Clairol", 
+    "t1": "S", 
+    "p": "4681806P", 
+    "s": "clairol-nice-n-easy-root-touch-up-hair-colour-light-golden-brown-6g", 
+    "n": "Nice 'N Easy Root Touch-Up 6G Light Golden Brown Hair Colour", 
+    "u": "85029", 
+    "t": "/wcsstore/Coles-CAS/images/4/6/8/4681806-th.jpg", 
+    "u2": "$10.00 per 1Ea", 
+    "pl": "12"
+}

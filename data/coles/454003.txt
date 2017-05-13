@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "125g"
+        ]
+    }, 
+    "s9": "454024", 
+    "p1": {
+        "l4": "13.2", 
+        "o": "6.0"
+    }, 
+    "m": "Colgate", 
+    "t1": "S", 
+    "p": "2222794P", 
+    "s": "colgate-optic-white-express-white-toothpaste", 
+    "n": "Optic White Express White Toothpaste", 
+    "u": "454003", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/2/2222794-th.jpg", 
+    "u2": "$4.80 per 100G", 
+    "pl": "12"
+}

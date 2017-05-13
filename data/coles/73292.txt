@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "175g"
+        ]
+    }, 
+    "s9": "134185", 
+    "p1": {
+        "o": "3.51"
+    }, 
+    "m": "Thins", 
+    "s7": "", 
+    "u2": "$2.01 per 100G", 
+    "p": "6833891P", 
+    "s": "thins-potato-chips-original", 
+    "u": "73292", 
+    "t": "/wcsstore/Coles-CAS/images/6/8/3/6833891-th.jpg", 
+    "n": "Original Potato Chips", 
+    "pl": "20"
+}

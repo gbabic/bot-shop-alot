@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "50 pack"
+        ]
+    }, 
+    "s9": "587773", 
+    "p1": {
+        "l4": "6.59", 
+        "o": "4.0"
+    }, 
+    "m": "Madura", 
+    "t1": "S", 
+    "p": "2237237P", 
+    "s": "madura-organic-green-tea-bags", 
+    "n": "Organic Green Tea Bags", 
+    "u": "587577", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/3/2237237-th.jpg", 
+    "u2": "$5.33 per 100G", 
+    "pl": "12"
+}

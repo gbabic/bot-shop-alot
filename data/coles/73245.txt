@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250mL"
+        ]
+    }, 
+    "s9": "134126", 
+    "p1": {
+        "o": "6.55"
+    }, 
+    "m": "Garnier", 
+    "u2": "$2.62 per 100mL", 
+    "p": "6888791P", 
+    "s": "garnier-fructis-elastic-power-fix-hairspray-mega-strong", 
+    "u": "73245", 
+    "t": "/wcsstore/Coles-CAS/images/6/8/8/6888791-th.jpg", 
+    "n": "Fructis Elastic Power Fix Mega Strong Hairspray", 
+    "pl": "20"
+}

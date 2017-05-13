@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "6 pack"
+        ]
+    }, 
+    "u2": "$2.67 per 100G", 
+    "s9": "120076", 
+    "p1": {
+        "l4": "4.4", 
+        "o": "3.2"
+    }, 
+    "s7": "", 
+    "m": "Mamee", 
+    "n": "Cheese Monster Rice Sticks", 
+    "p": "7881925P", 
+    "s": "mamee-rice-sticks-monster-cheese-10-pack", 
+    "u": "50101", 
+    "t": "/wcsstore/Coles-CAS/images/7/8/8/7881925-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

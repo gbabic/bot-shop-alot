@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "3kg"
+        ]
+    }, 
+    "s9": "511108", 
+    "p1": {
+        "o": "15.73"
+    }, 
+    "m": "Supercoat", 
+    "u2": "$0.52 per 100G", 
+    "p": "2488088P", 
+    "s": "supercoat-adult-dog-food-beef-2488088p", 
+    "u": "511007", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/8/2488088-th.jpg", 
+    "n": "Adult Small Breed Dog Food Beef", 
+    "pl": "20"
+}

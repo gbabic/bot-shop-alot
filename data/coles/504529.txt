@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "40g"
+        ]
+    }, 
+    "s9": "504576", 
+    "p1": {
+        "o": "1.25"
+    }, 
+    "m": "Coles", 
+    "t1": "V", 
+    "p": "2368610P", 
+    "s": "coles-mexican-seasoning", 
+    "n": "Mexican Seasoning", 
+    "u": "504529", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/6/2368610-th.jpg", 
+    "u2": "$3.13 per 100G", 
+    "pl": "20"
+}

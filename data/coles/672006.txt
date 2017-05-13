@@ -1,0 +1,40 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "160g"
+        ]
+    }, 
+    "pr": "3.50000", 
+    "s9": "672031", 
+    "pq": "2", 
+    "pt": "MultibuyMultiSku", 
+    "u2": "$3.30 per 100G", 
+    "m": "Mars", 
+    "n": "M&M's Strawberry Milk Block", 
+    "p": "2899129P", 
+    "s": "mars-m-ms-block-strawberry-milk", 
+    "p1": {
+        "o": "5.28"
+    }, 
+    "u": "672006", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/9/2899129-th.jpg", 
+    "pd": "2 for $7", 
+    "pi": "10141007", 
+    "t1": "M", 
+    "pl": "12"
+}

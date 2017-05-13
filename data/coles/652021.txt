@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "4.2g"
+        ]
+    }, 
+    "s9": "652050", 
+    "p1": {
+        "o": "19.75"
+    }, 
+    "m": "Maybelline", 
+    "u2": "$47.02 per 10G", 
+    "p": "2856035P", 
+    "s": "maybelline-color-sensational-loaded-bolds-blackest-berry-lipstick", 
+    "u": "652021", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/5/2856035-th.jpg", 
+    "n": "Color Sensational Loaded Bolds Blackest Berry Lipstick", 
+    "pl": "99"
+}

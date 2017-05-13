@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "3kg"
+        ]
+    }, 
+    "u2": "$0.18 per 100G", 
+    "s9": "111134", 
+    "p1": {
+        "l4": "7.7", 
+        "o": "5.5"
+    }, 
+    "s7": "Ideal for Small Dogs", 
+    "m": "Lucky Dog", 
+    "n": "Minis Minced Beef Vegetable & Pasta Dry Dog Food", 
+    "p": "9058586P", 
+    "s": "purina-lucky-dog-adult-dog-food-minis-minced-beef--vegetable-pasta", 
+    "u": "101973", 
+    "t": "/wcsstore/Coles-CAS/images/9/0/5/9058586-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

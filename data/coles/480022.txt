@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "439g"
+        ]
+    }, 
+    "s9": "480123", 
+    "p1": {
+        "l4": "2.19", 
+        "o": "1.6"
+    }, 
+    "m": "Love Dole", 
+    "t1": "S", 
+    "p": "2379220P", 
+    "s": "love-dole-pineapple-chunks-in-syrup", 
+    "n": "Pineapple Chunks In Syrup", 
+    "u": "480022", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/7/2379220-th.jpg", 
+    "u2": "$3.64 per 1Kg", 
+    "pl": "12"
+}

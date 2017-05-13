@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "300g"
+        ]
+    }, 
+    "s9": "482110", 
+    "p1": {
+        "o": "6.04"
+    }, 
+    "m": "The Spice Tailor", 
+    "u2": "$2.01 per 100G", 
+    "p": "2361203P", 
+    "s": "the-spice-tailor-fiery-goan-curry-sauce", 
+    "u": "482032", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/6/2361203-th.jpg", 
+    "n": "Fiery Goan Curry Sauce", 
+    "pl": "20"
+}

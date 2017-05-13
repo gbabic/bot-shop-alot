@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1L"
+        ]
+    }, 
+    "s9": "405059", 
+    "p1": {
+        "o": "4.0"
+    }, 
+    "m": "Liddells", 
+    "s7": "", 
+    "u2": "$0.40 per 100mL", 
+    "p": "1930788P", 
+    "s": "liddells-uht-vanilla-custard", 
+    "u": "405037", 
+    "t": "/wcsstore/Coles-CAS/images/1/9/3/1930788-th.jpg", 
+    "n": "Lactose Free UHT Vanilla Custard", 
+    "pl": "20"
+}

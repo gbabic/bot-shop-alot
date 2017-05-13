@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 pack"
+        ]
+    }, 
+    "s9": "153821", 
+    "p1": {
+        "l4": "15.96", 
+        "o": "7.25"
+    }, 
+    "m": "Schick", 
+    "t1": "S", 
+    "p": "9849763P", 
+    "s": "schick-hydro-silk-razor-blade-kit", 
+    "n": "Hydro Silk Razor & Blade Kit", 
+    "u": "95695", 
+    "t": "/wcsstore/Coles-CAS/images/9/8/4/9849763-th.jpg", 
+    "u2": "$7.25 per 1Ea", 
+    "pl": "12"
+}

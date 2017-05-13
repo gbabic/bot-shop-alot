@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "60g"
+        ]
+    }, 
+    "s9": "401570", 
+    "p1": {
+        "l4": "2.07", 
+        "o": "1.45"
+    }, 
+    "m": "Bika", 
+    "t1": "S", 
+    "p": "2017660P", 
+    "s": "bika-yeko-original-potato-sticks", 
+    "n": "Yeko Original Potato Sticks", 
+    "u": "401535", 
+    "t": "/wcsstore/Coles-CAS/images/2/0/1/2017660-th.jpg", 
+    "u2": "$2.42 per 100G", 
+    "pl": "12"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 pack"
+        ]
+    }, 
+    "s9": "414056", 
+    "p1": {
+        "o": "21.23"
+    }, 
+    "m": "L'Oreal", 
+    "u2": "$21.23 per 1Ea", 
+    "p": "2020213P", 
+    "s": "loreal-preference-deep-purple-pearl-p38-hair-colour", 
+    "u": "413607", 
+    "t": "/wcsstore/Coles-CAS/images/2/0/2/2020213-th.jpg", 
+    "n": "Paris Preference Deep Purple Pearl P38 Permanent Hair Colour", 
+    "pl": "20"
+}

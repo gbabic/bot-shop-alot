@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Baby"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "30 pack"
+        ]
+    }, 
+    "s9": "152854", 
+    "p1": {
+        "o": "16.0"
+    }, 
+    "m": "Huggies", 
+    "t1": "V", 
+    "p": "9636106P", 
+    "s": "huggies-nappies-junior-ultra-dry-girl-16kg", 
+    "n": "Junior Nappies Girl Ultra Dry 16kg+ Bulk Pack", 
+    "u": "103004", 
+    "t": "/wcsstore/Coles-CAS/images/9/6/3/9636106-th.jpg", 
+    "u2": "$0.53 per 1Ea", 
+    "pl": "99"
+}

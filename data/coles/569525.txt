@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "150g"
+        ]
+    }, 
+    "s9": "569563", 
+    "p1": {
+        "l4": "3.63", 
+        "o": "1.65"
+    }, 
+    "m": "Smith's", 
+    "t1": "S", 
+    "p": "2672804P", 
+    "s": "smiths-duo-garlic-cheddar-potato-chips", 
+    "n": "Duo Garlic & Cheddar Potato Chips", 
+    "u": "569525", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/7/2672804-th.jpg", 
+    "u2": "$1.10 per 100G", 
+    "pl": "12"
+}

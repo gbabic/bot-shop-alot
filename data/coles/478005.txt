@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Clothing"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "2 pack"
+        ]
+    }, 
+    "u2": "$5.25 per 1Ea", 
+    "s9": "478039", 
+    "p1": {
+        "l4": "15.0", 
+        "o": "10.5"
+    }, 
+    "s7": "", 
+    "m": "All Day", 
+    "n": "Mens Cushion Socks Black Size 7-10", 
+    "p": "2208374P", 
+    "s": "all-day-mens-cushion-socks-black-size-11-13", 
+    "u": "478005", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/0/2208374-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

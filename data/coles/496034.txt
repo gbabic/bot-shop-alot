@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "150g"
+        ]
+    }, 
+    "s9": "496072", 
+    "p1": {
+        "l4": "5.34", 
+        "o": "4.35"
+    }, 
+    "m": "Hershey's", 
+    "t1": "S", 
+    "p": "2136717P", 
+    "s": "hersheys-miniatures-peg-bag", 
+    "n": "Miniatures Peg Bag", 
+    "u": "496034", 
+    "t": "/wcsstore/Coles-CAS/images/2/1/3/2136717-th.jpg", 
+    "u2": "$2.90 per 100G", 
+    "pl": "12"
+}

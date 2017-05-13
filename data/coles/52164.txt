@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "375g"
+        ]
+    }, 
+    "s9": "158138", 
+    "p1": {
+        "o": "8.2"
+    }, 
+    "m": "Marion's Kitchen", 
+    "u2": "$2.19 per 100G", 
+    "p": "8736105P", 
+    "s": "marions-kitchen-kit-san-choy-bow", 
+    "u": "52164", 
+    "t": "/wcsstore/Coles-CAS/images/8/7/3/8736105-th.jpg", 
+    "n": "San Choy Bow Meal Kit", 
+    "pl": "20"
+}

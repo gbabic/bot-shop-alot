@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "160g"
+        ]
+    }, 
+    "s9": "132231", 
+    "p1": {
+        "o": "2.2"
+    }, 
+    "m": "Vaalia", 
+    "u2": "$1.38 per 100G", 
+    "p": "7478004P", 
+    "s": "vaalia-yoghurt-low-fat-apricot-mango-peach-7478004p", 
+    "u": "68730", 
+    "t": "/wcsstore/Coles-CAS/images/7/4/7/7478004-th.jpg", 
+    "n": "Apricot Mango & Peach Low Fat Yoghurt", 
+    "pl": "99"
+}

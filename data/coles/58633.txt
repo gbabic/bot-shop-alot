@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Bread & Bakery"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "800g"
+        ]
+    }, 
+    "s9": "117669", 
+    "p1": {
+        "o": "5.1"
+    }, 
+    "m": "Schwobs Swiss Bakery", 
+    "s7": "", 
+    "u2": "$0.64 per 100G", 
+    "p": "8165139P", 
+    "s": "schwobs-swiss-bakery-bread-white-sourdough", 
+    "u": "58633", 
+    "t": "/wcsstore/Coles-CAS/images/8/1/6/8165139-th.jpg", 
+    "n": "White Sourdough Bread", 
+    "pl": "20"
+}

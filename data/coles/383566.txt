@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Baby"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "3 pack"
+        ]
+    }, 
+    "u2": "$1.00 per 1Ea", 
+    "s9": "383635", 
+    "p1": {
+        "l4": "6.0", 
+        "o": "3.0"
+    }, 
+    "s7": "", 
+    "m": "Bonds", 
+    "n": "Baby Boy Sportlet Socks Assorted", 
+    "p": "1723921P", 
+    "s": "bonds-baby-boy-sportlet-socks-assorted", 
+    "u": "383566", 
+    "t": "/wcsstore/Coles-CAS/images/1/7/2/1723921-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

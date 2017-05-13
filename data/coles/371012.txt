@@ -1,0 +1,38 @@
+{
+    "a": {
+        "D": [
+            "LIQUOR"
+        ], 
+        "P8": [
+            "Alcohol"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "true"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "6 pack"
+        ]
+    }, 
+    "s9": "371111", 
+    "p1": {
+        "o": "25.15"
+    }, 
+    "m": "James Squire", 
+    "u2": "$1.21 per 100mL", 
+    "p": "4999350P", 
+    "s": "james-squire-hop-thief-345ml-bottle", 
+    "u": "371012", 
+    "t": "/wcsstore/Coles-CAS/images/4/9/9/4999350-th.jpg", 
+    "a6": false, 
+    "n": "Hop Thief 345mL Bottle", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "600g"
+        ]
+    }, 
+    "s9": "42366", 
+    "p1": {
+        "o": "4.07"
+    }, 
+    "m": "Birds Eye", 
+    "u2": "$6.78 per 1Kg", 
+    "p": "1194490P", 
+    "s": "birds-eye-deli-chips-parmesan-garlic-basil", 
+    "u": "24096", 
+    "t": "/wcsstore/Coles-CAS/images/1/1/9/1194490-th.jpg", 
+    "n": "Deli Style Parmesan Garlic & Basil Frozen Potato Chips", 
+    "pl": "20"
+}

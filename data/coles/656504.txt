@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "150mL"
+        ]
+    }, 
+    "s9": "656508", 
+    "p1": {
+        "l4": "6.38", 
+        "o": "5.8"
+    }, 
+    "m": "Playboy", 
+    "t1": "N", 
+    "p": "2862639P", 
+    "s": "playboy-mens-body-spray-king-of-the-game", 
+    "n": "King Of The Game Body Spray For Men", 
+    "u": "656504", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/6/2862639-th.jpg", 
+    "u2": "$3.87 per 100mL", 
+    "pl": "12"
+}

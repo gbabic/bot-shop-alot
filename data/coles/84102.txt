@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "275mL"
+        ]
+    }, 
+    "s9": "144315", 
+    "p1": {
+        "o": "3.3"
+    }, 
+    "m": "Maggi", 
+    "u2": "$1.20 per 100mL", 
+    "p": "5196996P", 
+    "s": "maggi-oyster-sauce", 
+    "u": "84102", 
+    "t": "/wcsstore/Coles-CAS/images/5/1/9/5196996-th.jpg", 
+    "n": "Oyster Sauce", 
+    "pl": "20"
+}

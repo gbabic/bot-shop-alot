@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400g"
+        ]
+    }, 
+    "s9": "455227", 
+    "p1": {
+        "o": "7.69"
+    }, 
+    "m": "Planet Food", 
+    "u2": "$1.92 per 100G", 
+    "p": "1987129P", 
+    "s": "planet-food-organic-coconut-flour", 
+    "u": "455073", 
+    "t": "/wcsstore/Coles-CAS/images/1/9/8/1987129-th.jpg", 
+    "n": "Organic Coconut Flour", 
+    "pl": "20"
+}

@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "111g"
+        ]
+    }, 
+    "s9": "133157", 
+    "p1": {
+        "o": "3.52"
+    }, 
+    "m": "French Fries", 
+    "s7": "", 
+    "u2": "$3.17 per 100G", 
+    "p": "6290570P", 
+    "s": "french-fries-potato-chips-original-multipack-6-pack", 
+    "u": "70459", 
+    "t": "/wcsstore/Coles-CAS/images/6/2/9/6290570-th.jpg", 
+    "n": "Original Potato Chips 6 pack", 
+    "pl": "20"
+}

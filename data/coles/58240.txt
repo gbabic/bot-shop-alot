@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "35g"
+        ]
+    }, 
+    "s9": "115275", 
+    "p1": {
+        "o": "2.2"
+    }, 
+    "m": "Old El Paso", 
+    "u2": "$6.29 per 100G", 
+    "p": "7962481P", 
+    "s": "old-el-paso-seasoning-mix-crispy-chicken", 
+    "u": "58240", 
+    "t": "/wcsstore/Coles-CAS/images/7/9/6/7962481-th.jpg", 
+    "n": "Crispy Chicken Seasoning Mix", 
+    "pl": "20"
+}

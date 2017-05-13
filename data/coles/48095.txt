@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "20 pack"
+        ]
+    }, 
+    "s9": "109825", 
+    "p1": {
+        "l4": "11.72", 
+        "o": "7.45"
+    }, 
+    "m": "Veet", 
+    "t1": "S", 
+    "p": "8692043P", 
+    "s": "veet-wax-strips-face-sensitive", 
+    "n": "Sensitive Face Wax Strips", 
+    "u": "48095", 
+    "t": "/wcsstore/Coles-CAS/images/8/6/9/8692043-th.jpg", 
+    "u2": "$0.37 per 1Ea", 
+    "pl": "12"
+}

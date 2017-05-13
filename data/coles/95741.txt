@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "26g"
+        ]
+    }, 
+    "s9": "159223", 
+    "p1": {
+        "o": "3.41"
+    }, 
+    "m": "MasterFoods", 
+    "u2": "$1.31 per 10G", 
+    "p": "9755579P", 
+    "s": "masterfoods-fennel-seeds-whole", 
+    "u": "95741", 
+    "t": "/wcsstore/Coles-CAS/images/9/7/5/9755579-th.jpg", 
+    "n": "Whole Fennel Seeds", 
+    "pl": "20"
+}

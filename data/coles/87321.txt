@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "665g"
+        ]
+    }, 
+    "s9": "150869", 
+    "p1": {
+        "o": "4.9"
+    }, 
+    "m": "Campbell's", 
+    "u2": "$0.74 per 100G", 
+    "p": "202049P", 
+    "s": "campbells-spaghetti-sauce-with-beef", 
+    "u": "87321", 
+    "t": "/wcsstore/Coles-CAS/images/2/0/2/202049-th.jpg", 
+    "n": "Spaghetti with Beef Pasta Sauce", 
+    "pl": "20"
+}

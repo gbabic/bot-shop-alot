@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "411g"
+        ]
+    }, 
+    "s9": "455238", 
+    "p1": {
+        "l4": "4.28", 
+        "o": "3.0"
+    }, 
+    "m": "Amy's Kitchen", 
+    "t1": "S", 
+    "p": "2303400P", 
+    "s": "amys-kitchen-organic-lentil-vegetable-soup-canned", 
+    "n": "Organic Lentil & Vegetable Soup Canned", 
+    "u": "455083", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/0/2303400-th.jpg", 
+    "u2": "$0.73 per 100G", 
+    "pl": "12"
+}

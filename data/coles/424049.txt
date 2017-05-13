@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "424194", 
+    "p1": {
+        "o": "6.0"
+    }, 
+    "m": "Coles", 
+    "t1": "V", 
+    "p": "1973292P", 
+    "s": "coles-crumbed-frozen-calamari-rings", 
+    "n": "Crumbed Frozen Calamari Squid Rings", 
+    "u": "424049", 
+    "t": "/wcsstore/Coles-CAS/images/1/9/7/1973292-th.jpg", 
+    "u2": "$12.00 per 1Kg", 
+    "pl": "20"
+}

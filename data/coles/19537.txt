@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "u2": "$1.25 per 100G", 
+    "s9": "32711", 
+    "p1": {
+        "o": "2.5"
+    }, 
+    "s7": "", 
+    "m": "Coles", 
+    "n": "Talcum Powder", 
+    "p": "6834861P", 
+    "s": "coles-powder-talcum", 
+    "u": "19537", 
+    "t": "/wcsstore/Coles-CAS/images/6/8/3/6834861-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

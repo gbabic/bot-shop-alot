@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Baby"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "72 pack"
+        ]
+    }, 
+    "s9": "642013", 
+    "p1": {
+        "l4": "33.0", 
+        "o": "28.0"
+    }, 
+    "m": "Huggies", 
+    "t1": "S", 
+    "p": "2847420P", 
+    "s": "huggies-ultimate-jumbo-nappy-crawler-boy", 
+    "n": "Ultimate Jumbo Crawler Nappies Boy 6-11kg", 
+    "u": "642002", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/4/2847420-th.jpg", 
+    "u2": "$0.39 per 1Ea", 
+    "pl": "12"
+}

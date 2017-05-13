@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "260562", 
+    "p1": {
+        "o": "3.0"
+    }, 
+    "m": "Flora", 
+    "t1": "V", 
+    "p": "4827810P", 
+    "s": "flora-margarine", 
+    "n": "Buttery Margarine", 
+    "u": "260520", 
+    "t": "/wcsstore/Coles-CAS/images/4/8/2/4827810-th.jpg", 
+    "u2": "$0.60 per 100G", 
+    "pl": "20"
+}

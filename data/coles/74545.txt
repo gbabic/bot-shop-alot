@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "12g"
+        ]
+    }, 
+    "s9": "135297", 
+    "p1": {
+        "o": "24.15"
+    }, 
+    "m": "Covergirl", 
+    "s7": "", 
+    "u2": "$20.13 per 10G", 
+    "p": "6925865P", 
+    "s": "covergirl-aquasmooth-foundation-creamy-natural", 
+    "u": "74545", 
+    "t": "/wcsstore/Coles-CAS/images/6/9/2/6925865-th.jpg", 
+    "n": "Aqua Smooth Creamy Natural Compact Foundation", 
+    "pl": "20"
+}

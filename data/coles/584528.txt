@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "33g"
+        ]
+    }, 
+    "s9": "584561", 
+    "p1": {
+        "o": "1.5"
+    }, 
+    "m": "Maggi", 
+    "t1": "V", 
+    "p": "2715102P", 
+    "s": "maggi-beef-goulash-dry-recipe-base", 
+    "n": "Beef Goulash Dry Recipe Base", 
+    "u": "584528", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/1/2715102-th.jpg", 
+    "u2": "$4.55 per 100G", 
+    "pl": "20"
+}

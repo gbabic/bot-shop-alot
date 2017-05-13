@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "50mL"
+        ]
+    }, 
+    "s9": "584161", 
+    "p1": {
+        "l4": "5.5", 
+        "o": "3.0"
+    }, 
+    "m": "Bref", 
+    "t1": "S", 
+    "p": "2731572P", 
+    "s": "bref--duo-active-grapefruit-toilet-cleaner", 
+    "n": "Duo Active Grapefruit Toilet Cleaner", 
+    "u": "584071", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/3/2731572-th.jpg", 
+    "u2": "$6.00 per 100mL", 
+    "pl": "12"
+}

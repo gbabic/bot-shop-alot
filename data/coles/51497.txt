@@ -1,0 +1,38 @@
+{
+    "a": {
+        "D": [
+            "TOBACCO"
+        ], 
+        "P8": [
+            "Tobacco"
+        ], 
+        "T1": [
+            "true"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "20 pack"
+        ]
+    }, 
+    "s9": "117426", 
+    "p1": {
+        "o": "19.95"
+    }, 
+    "m": "Superkings", 
+    "s7": "Prices include all taxes", 
+    "u2": "$19.95 per 1ea", 
+    "p": "8383060P", 
+    "s": "superkings-cigarettes-rich-blue", 
+    "u": "51497", 
+    "t": "/wcsstore/Coles-CAS/images/C/i/g/Cigarettes-th.jpg", 
+    "n": "Rich Blue Cigarettes", 
+    "pl": "5"
+}

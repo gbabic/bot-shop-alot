@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "110g"
+        ]
+    }, 
+    "s9": "588022", 
+    "p1": {
+        "o": "1.98"
+    }, 
+    "m": "Tamar Valley", 
+    "u2": "$1.80 per 100G", 
+    "p": "2744359P", 
+    "s": "tamar-valley-kids-valley-strawberry-yoghurt-pouch", 
+    "u": "588003", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/4/2744359-th.jpg", 
+    "n": "Kids Valley Strawberry Yoghurt Pouch", 
+    "pl": "99"
+}

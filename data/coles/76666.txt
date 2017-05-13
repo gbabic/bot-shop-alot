@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "140608", 
+    "p1": {
+        "o": "7.48"
+    }, 
+    "m": "Vogel's", 
+    "u2": "$1.50 per 100G", 
+    "p": "5407322P", 
+    "s": "vogels-cereal-grain-cluster", 
+    "u": "76666", 
+    "t": "/wcsstore/Coles-CAS/images/5/4/0/5407322-th.jpg", 
+    "n": "Grain Cluster", 
+    "pl": "20"
+}

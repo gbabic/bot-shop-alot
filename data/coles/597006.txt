@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "30g"
+        ]
+    }, 
+    "s9": "597056", 
+    "p1": {
+        "l4": "4.4", 
+        "o": "3.0"
+    }, 
+    "m": "Duck 5 In 1", 
+    "t1": "S", 
+    "p": "2750919P", 
+    "s": "duck-5-in-1-rimblock-marine", 
+    "n": "Rimblock Marine", 
+    "u": "597006", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/5/2750919-th.jpg", 
+    "u2": "$10.00 per 100G", 
+    "pl": "12"
+}

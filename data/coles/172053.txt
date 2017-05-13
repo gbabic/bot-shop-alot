@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400g"
+        ]
+    }, 
+    "s9": "172128", 
+    "p1": {
+        "l4": "1.65", 
+        "o": "1.0"
+    }, 
+    "m": "Annalisa", 
+    "t1": "S", 
+    "p": "141352P", 
+    "s": "annalisa-beans-cannellini", 
+    "n": "Cannellini Beans", 
+    "u": "172053", 
+    "t": "/wcsstore/Coles-CAS/images/1/4/1/141352-th.jpg", 
+    "u2": "$2.50 per 1Kg", 
+    "pl": "12"
+}

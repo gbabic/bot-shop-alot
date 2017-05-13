@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Fruit & Vegetables"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "0.05"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 50g"
+        ]
+    }, 
+    "u2": "$12.00 per 1Kg", 
+    "s9": "287122", 
+    "p1": {
+        "o": "0.6"
+    }, 
+    "s7": "Each portion approx. 3 chillies; Product of Australia.", 
+    "m": "Coles", 
+    "n": "Jalapeno Chillies loose", 
+    "p": "8761656P", 
+    "s": "coles-fresh-chillies---jalapeno", 
+    "u": "287004", 
+    "t": "/wcsstore/Coles-CAS/images/8/7/6/8761656-th.jpg", 
+    "t1": "S", 
+    "pl": "99"
+}

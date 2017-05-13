@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "360g"
+        ]
+    }, 
+    "s9": "590025", 
+    "p1": {
+        "o": "8.35"
+    }, 
+    "m": "McCain", 
+    "u2": "$2.32 per 100G", 
+    "p": "2742444P", 
+    "s": "mccain-healthy-choice-protein-plus-smoky-paprika-chicken", 
+    "u": "590005", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/4/2742444-th.jpg", 
+    "n": "Healthy Choice Protein Plus Smoky Paprika Chicken", 
+    "pl": "99"
+}

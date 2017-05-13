@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200mL"
+        ]
+    }, 
+    "s9": "641222", 
+    "p1": {
+        "o": "22.0"
+    }, 
+    "m": "Le Tan", 
+    "u2": "$11.00 per 100mL", 
+    "p": "2795258P", 
+    "s": "le-tan-self-tanning-lotion", 
+    "u": "641039", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/9/2795258-th.jpg", 
+    "n": "Self Tanning Lotion", 
+    "pl": "99"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "10 pack"
+        ]
+    }, 
+    "s9": "148227", 
+    "p1": {
+        "o": "4.4"
+    }, 
+    "m": "Chux", 
+    "u2": "$0.44 per 1Ea", 
+    "p": "112365P", 
+    "s": "chux-superwipes-regular-cloths", 
+    "u": "87619", 
+    "t": "/wcsstore/Coles-CAS/images/1/1/2/112365-th.jpg", 
+    "n": "Regular Superwipes Cloth", 
+    "pl": "20"
+}

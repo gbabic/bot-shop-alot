@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "125g"
+        ]
+    }, 
+    "s9": "414822", 
+    "p1": {
+        "o": "3.14"
+    }, 
+    "m": "Orgran", 
+    "u2": "$2.51 per 100G", 
+    "p": "1995070P", 
+    "s": "orgran-gluten-free-buckwheat-crispibread", 
+    "u": "414652", 
+    "t": "/wcsstore/Coles-CAS/images/1/9/9/1995070-th.jpg", 
+    "n": "Gluten Free Buckwheat Crispibread", 
+    "pl": "20"
+}

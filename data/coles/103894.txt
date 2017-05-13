@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1kg"
+        ]
+    }, 
+    "s9": "117280", 
+    "p1": {
+        "o": "4.73"
+    }, 
+    "m": "Birds Eye", 
+    "u2": "$4.73 per 1Kg", 
+    "p": "8472295P", 
+    "s": "birds-eye-golden-crunch-potato-chip-frozen", 
+    "u": "103894", 
+    "t": "/wcsstore/Coles-CAS/images/8/4/7/8472295-th.jpg", 
+    "n": "Golden Crunch Frozen Potato Chips", 
+    "pl": "20"
+}

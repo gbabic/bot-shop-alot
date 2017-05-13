@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "s9": "603197", 
+    "p1": {
+        "l4": "5.5", 
+        "o": "3.0"
+    }, 
+    "m": "Celebrate Health", 
+    "t1": "S", 
+    "p": "2510370P", 
+    "s": "celebrate-health-ready-to-eat-mexican-chicken-rice-beans", 
+    "n": "Ready To Eat Mexican Chicken Rice & Beans", 
+    "u": "603062", 
+    "t": "/wcsstore/Coles-CAS/images/2/5/1/2510370-th.jpg", 
+    "u2": "$1.20 per 100G", 
+    "pl": "12"
+}

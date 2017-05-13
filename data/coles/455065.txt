@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "48g"
+        ]
+    }, 
+    "s9": "455306", 
+    "p1": {
+        "l4": "3.3", 
+        "o": "2.0"
+    }, 
+    "m": "Wallaby", 
+    "t1": "S", 
+    "p": "1994500P", 
+    "s": "wallaby-superfoodie-banana-chia-bar", 
+    "n": "Superfoodie Banana Chia Bar", 
+    "u": "455065", 
+    "t": "/wcsstore/Coles-CAS/images/1/9/9/1994500-th.jpg", 
+    "u2": "$4.17 per 100G", 
+    "pl": "12"
+}

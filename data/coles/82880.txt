@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "30g"
+        ]
+    }, 
+    "s9": "147206", 
+    "p1": {
+        "l4": "3.3", 
+        "o": "2.1"
+    }, 
+    "m": "Atkins", 
+    "t1": "S", 
+    "p": "4358549P", 
+    "s": "atkins-endulge-bar-chocolate", 
+    "n": "Endulge Chocolate Bar", 
+    "u": "82880", 
+    "t": "/wcsstore/Coles-CAS/images/4/3/5/4358549-th.jpg", 
+    "u2": "$7.00 per 100G", 
+    "pl": "12"
+}

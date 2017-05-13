@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "37g"
+        ]
+    }, 
+    "s9": "584578", 
+    "p1": {
+        "o": "1.5"
+    }, 
+    "m": "Maggi", 
+    "t1": "V", 
+    "p": "2715088P", 
+    "s": "maggi-dry-recipe-base-cottage-pie", 
+    "n": "Cottage Pie Dry Recipe Base", 
+    "u": "584529", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/1/2715088-th.jpg", 
+    "u2": "$4.05 per 100G", 
+    "pl": "20"
+}

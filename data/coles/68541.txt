@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "0.4"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 450g pack"
+        ]
+    }, 
+    "s9": "129469", 
+    "p1": {
+        "o": "15.2"
+    }, 
+    "m": "Luv A Duck", 
+    "s7": "Indicated price based on approx. weight. Weight may vary between 400g and 500g.", 
+    "u2": "$38.00 per 1Kg", 
+    "p": "7132087P", 
+    "s": "luv-a-duck-fresh-breast-fillets", 
+    "u": "68541", 
+    "t": "/wcsstore/Coles-CAS/images/7/1/3/7132087-th.jpg", 
+    "n": "Duck Breast Fillets", 
+    "pl": "20"
+}

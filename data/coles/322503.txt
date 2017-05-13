@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Mothers Day"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "165g"
+        ]
+    }, 
+    "s9": "322517", 
+    "p1": {
+        "o": "4.95"
+    }, 
+    "m": "Red Rock Deli", 
+    "u2": "$3.00 per 100G", 
+    "p": "1786150P", 
+    "s": "red-rock-deli-sea-salt-potato-chips", 
+    "u": "322503", 
+    "t": "/wcsstore/Coles-CAS/images/1/7/8/1786150-th.jpg", 
+    "n": "Sea Salt Potato Chips", 
+    "pl": "20"
+}

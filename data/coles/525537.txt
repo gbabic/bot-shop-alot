@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100g"
+        ]
+    }, 
+    "s9": "525558", 
+    "p1": {
+        "l4": "4.84", 
+        "o": "3.5"
+    }, 
+    "m": "Ocean Spray", 
+    "t1": "S", 
+    "p": "2554535P", 
+    "s": "ocean-spray-chocolate-coated-craisins", 
+    "n": "Chocolate Coated Craisins", 
+    "u": "525537", 
+    "t": "/wcsstore/Coles-CAS/images/2/5/5/2554535-th.jpg", 
+    "u2": "$35.00 per 1Kg", 
+    "pl": "12"
+}

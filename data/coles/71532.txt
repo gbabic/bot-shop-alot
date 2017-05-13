@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "0.5"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 500g pack"
+        ]
+    }, 
+    "s9": "132888", 
+    "p1": {
+        "o": "7.0"
+    }, 
+    "m": "M & M Kosher", 
+    "s7": "Indicated price based on approx. weight. Weight may vary between 450g and 550g.", 
+    "u2": "$14.00 per 1Kg", 
+    "p": "6674685P", 
+    "s": "m-m-kosher-chicken-drumstick", 
+    "u": "71532", 
+    "t": "/wcsstore/Coles-CAS/images/6/6/7/6674685-th.jpg", 
+    "n": "Chicken Drumstick", 
+    "pl": "20"
+}

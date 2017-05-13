@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "s9": "256782", 
+    "p1": {
+        "o": "4.39"
+    }, 
+    "m": "Trill", 
+    "u2": "$2.20 per 100G", 
+    "p": "1499114P", 
+    "s": "trill-bird-mix-fruit-nut-blend", 
+    "u": "256615", 
+    "t": "/wcsstore/Coles-CAS/images/1/4/9/1499114-th.jpg", 
+    "n": "Fruit & Nut Blend Bird Food", 
+    "pl": "20"
+}

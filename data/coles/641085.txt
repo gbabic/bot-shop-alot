@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "350g"
+        ]
+    }, 
+    "s9": "641208", 
+    "p1": {
+        "l4": "7.7", 
+        "o": "3.5"
+    }, 
+    "m": "Freedom Foods", 
+    "t1": "S", 
+    "p": "2816471P", 
+    "s": "crafted-blends-cereal-pink-lady-apple", 
+    "n": "Crafted Blends Pink Lady Apple & Pecan Clusters", 
+    "u": "641085", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/1/2816471-th.jpg", 
+    "u2": "$1.00 per 100G", 
+    "pl": "12"
+}

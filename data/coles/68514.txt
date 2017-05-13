@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "900g"
+        ]
+    }, 
+    "s9": "130631", 
+    "p1": {
+        "o": "5.39"
+    }, 
+    "m": "Pauls", 
+    "u2": "$0.60 per 100G", 
+    "p": "7146241P", 
+    "s": "pauls-custard-double-thickvanilla", 
+    "u": "68514", 
+    "t": "/wcsstore/Coles-CAS/images/7/1/4/7146241-th.jpg", 
+    "n": "Double Thick Vanilla Custard", 
+    "pl": "20"
+}

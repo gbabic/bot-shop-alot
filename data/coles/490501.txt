@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "350g"
+        ]
+    }, 
+    "s9": "490535", 
+    "p1": {
+        "l4": "2.92", 
+        "o": "2.0"
+    }, 
+    "m": "Fantastic Dairy", 
+    "t1": "S", 
+    "p": "8679588P", 
+    "s": "fantastic-dairy-singapore-noodles", 
+    "n": "Singapore Noodles", 
+    "u": "490501", 
+    "t": "/wcsstore/Coles-CAS/images/8/6/7/8679588-th.jpg", 
+    "u2": "$0.57 per 100G", 
+    "pl": "12"
+}

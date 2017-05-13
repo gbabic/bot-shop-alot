@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "346127", 
+    "p1": {
+        "o": "7.8"
+    }, 
+    "m": "Coles", 
+    "t1": "V", 
+    "p": "1799490P", 
+    "s": "coles-tender-kangaroo-straps", 
+    "n": "Tender Kangaroo Straps", 
+    "u": "346007", 
+    "t": "/wcsstore/Coles-CAS/images/1/7/9/1799490-th.jpg", 
+    "u2": "$1.56 per 100G", 
+    "pl": "20"
+}

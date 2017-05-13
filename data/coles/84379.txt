@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "56g"
+        ]
+    }, 
+    "s9": "145818", 
+    "p1": {
+        "o": "3.74"
+    }, 
+    "m": "Wrigley", 
+    "u2": "$6.68 per 100G", 
+    "p": "4719400P", 
+    "s": "wrigleys-eclipse-ice-chewing-gum-spearmint-sugar-free", 
+    "u": "84379", 
+    "t": "/wcsstore/Coles-CAS/images/4/7/1/4719400-th.jpg", 
+    "n": "Eclipse Ice Spearmint Chewing Gum 4 x 10 Piece Pack", 
+    "pl": "20"
+}

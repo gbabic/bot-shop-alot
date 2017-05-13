@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "360mL"
+        ]
+    }, 
+    "s9": "674561", 
+    "p1": {
+        "o": "13.2"
+    }, 
+    "m": "Ben & Jerry's", 
+    "u2": "$3.67 per 100mL", 
+    "p": "2857107P", 
+    "s": "ben-jerrys-chunk-lovers-collection-ice-cream-3-pack", 
+    "u": "674535", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/5/2857107-th.jpg", 
+    "n": "Chunk Lovers Collection Ice Cream 3 Pack", 
+    "pl": "20"
+}

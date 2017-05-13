@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "120g"
+        ]
+    }, 
+    "s9": "40695", 
+    "p1": {
+        "o": "1.99"
+    }, 
+    "m": "Rafferty's Garden", 
+    "u2": "$1.66 per 100G", 
+    "p": "1188657P", 
+    "s": "raffertys-garden-just-vegies-sweet-spinach-4mth", 
+    "u": "25323", 
+    "t": "/wcsstore/Coles-CAS/images/1/1/8/1188657-th.jpg", 
+    "n": "Just Vegies Pureed Spinach & Sweetcorn 4+ Months", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500mL"
+        ]
+    }, 
+    "s9": "360544", 
+    "p1": {
+        "o": "6.5"
+    }, 
+    "m": "Momos Meals", 
+    "u2": "$1.30 per 100mL", 
+    "p": "1814200P", 
+    "s": "momos-meals-free-range-chicken-stock", 
+    "u": "360532", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/1/1814200-th.jpg", 
+    "n": "Free Range Chicken Stock", 
+    "pl": "20"
+}

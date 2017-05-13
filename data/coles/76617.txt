@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "750g"
+        ]
+    }, 
+    "s9": "141610", 
+    "p1": {
+        "o": "11.0"
+    }, 
+    "m": "Chickadee", 
+    "s7": "", 
+    "u2": "$14.67 per 1Kg", 
+    "p": "5502389P", 
+    "s": "chickadee-chicken-wing-dings-devil", 
+    "u": "76617", 
+    "t": "/wcsstore/Coles-CAS/images/5/5/0/5502389-th.jpg", 
+    "n": "Frozen Devil Chicken Wing Dings", 
+    "pl": "20"
+}

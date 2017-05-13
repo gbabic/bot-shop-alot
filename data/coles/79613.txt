@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "0.5"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 500g pack"
+        ]
+    }, 
+    "s9": "139844", 
+    "p1": {
+        "o": "14.0"
+    }, 
+    "m": "Continental Kosher", 
+    "s7": "Indicated price based on approx. weight. Weight may vary between 450g and 550g.", 
+    "u2": "$28.00 per 1Kg", 
+    "p": "5677713P", 
+    "s": "continental-kosher-beef-top-rib", 
+    "u": "79613", 
+    "t": "/wcsstore/Coles-CAS/images/5/6/7/5677713-th.jpg", 
+    "n": "Beef Top Rib", 
+    "pl": "20"
+}

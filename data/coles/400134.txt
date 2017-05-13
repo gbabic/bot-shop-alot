@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "400290", 
+    "p1": {
+        "o": "18.75"
+    }, 
+    "m": "Lexar", 
+    "u2": "", 
+    "p": "1828475P", 
+    "s": "lexar-16gb-usb-flash-drive", 
+    "u": "400134", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/2/1828475-th.jpg", 
+    "n": "16GB USB Flash Drive", 
+    "pl": "20"
+}

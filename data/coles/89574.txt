@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "30g"
+        ]
+    }, 
+    "s9": "150810", 
+    "p1": {
+        "o": "2.2"
+    }, 
+    "m": "Old El Paso", 
+    "u2": "$7.33 per 100G", 
+    "p": "291388P", 
+    "s": "old-el-paso-chilli-seasoning-mix", 
+    "u": "89574", 
+    "t": "/wcsstore/Coles-CAS/images/2/9/1/291388-th.jpg", 
+    "n": "Chilli Seasoning Mix", 
+    "pl": "20"
+}

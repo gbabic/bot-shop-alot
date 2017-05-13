@@ -1,0 +1,37 @@
+{
+    "a": {
+        "D": [
+            "LIQUOR"
+        ], 
+        "P8": [
+            "Alcohol"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "true"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "700mL"
+        ]
+    }, 
+    "s9": "402147", 
+    "p1": {
+        "o": "64.2"
+    }, 
+    "m": "The Kraken", 
+    "u2": "$9.17 per 100mL", 
+    "p": "9895024P", 
+    "s": "the-kraken-spiced-rum", 
+    "u": "402066", 
+    "t": "/wcsstore/Coles-CAS/images/9/8/9/9895024-th.jpg", 
+    "n": "Spiced Rum", 
+    "pl": "20"
+}

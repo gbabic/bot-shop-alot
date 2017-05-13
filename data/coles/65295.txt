@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "30mL"
+        ]
+    }, 
+    "s9": "130656", 
+    "p1": {
+        "o": "25.19"
+    }, 
+    "m": "Maybelline", 
+    "u2": "$8.40 per 10mL", 
+    "p": "7131914P", 
+    "s": "maybelline-dream-liquid-mousse-foundation-pure-beige", 
+    "u": "65295", 
+    "t": "/wcsstore/Coles-CAS/images/7/1/3/7131914-th.jpg", 
+    "n": "Dream Pure Beige Liquid Foundation", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "385g"
+        ]
+    }, 
+    "s9": "588035", 
+    "p1": {
+        "o": "8.47"
+    }, 
+    "m": "Steggles", 
+    "u2": "$22.00 per 1Kg", 
+    "p": "2719952P", 
+    "s": "steggles-chicken-tenders-sweet-chilli", 
+    "u": "588008", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/1/2719952-th.jpg", 
+    "n": "Chicken Tenders Sweet Chilli", 
+    "pl": "99"
+}

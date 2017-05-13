@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1kg"
+        ]
+    }, 
+    "s9": "256778", 
+    "p1": {
+        "o": "7.14"
+    }, 
+    "m": "Jalna", 
+    "u2": "$0.71 per 100G", 
+    "p": "1438540P", 
+    "s": "jalna-yoghurt-greek-style-sweet-creamy", 
+    "u": "256566", 
+    "t": "/wcsstore/Coles-CAS/images/1/4/3/1438540-th.jpg", 
+    "n": "Greek Style Sweet & Creamy Yoghurt", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "150mL"
+        ]
+    }, 
+    "s9": "39701", 
+    "p1": {
+        "o": "6.38"
+    }, 
+    "m": "Playboy", 
+    "u2": "$4.25 per 100mL", 
+    "p": "1052644P", 
+    "s": "playboy-deodorant-mens-vip-bodyspray", 
+    "u": "23127", 
+    "t": "/wcsstore/Coles-CAS/images/1/0/5/1052644-th.jpg", 
+    "n": "VIP Body Spray For Men", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400g"
+        ]
+    }, 
+    "s9": "133248", 
+    "p1": {
+        "o": "1.96"
+    }, 
+    "m": "Edgell", 
+    "u2": "$4.90 per 1Kg", 
+    "p": "6095939P", 
+    "s": "edgell-beans-red-kidney-no-added-salt", 
+    "u": "79346", 
+    "t": "/wcsstore/Coles-CAS/images/6/0/9/6095939-th.jpg", 
+    "n": "Red Kidney Beans No Added Salt", 
+    "pl": "20"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "141498", 
+    "p1": {
+        "l4": "2.75", 
+        "o": "1.9"
+    }, 
+    "m": "Barilla", 
+    "t1": "V", 
+    "p": "5716429P", 
+    "s": "barilla-pasta-spaghettini-no-3", 
+    "n": "Spaghettini No 3", 
+    "u": "78974", 
+    "t": "/wcsstore/Coles-CAS/images/5/7/1/5716429-th.jpg", 
+    "u2": "$0.38 per 100G", 
+    "pl": "12"
+}

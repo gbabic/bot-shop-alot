@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250ml"
+        ]
+    }, 
+    "s9": "167003", 
+    "p1": {
+        "l4": "17.55", 
+        "o": "10.0"
+    }, 
+    "m": "L'Oreal", 
+    "t1": "S", 
+    "p": "9195099P", 
+    "s": "loreal-conditioner-eversleek-reparative-smoothing", 
+    "n": "Super Sleek Smooth & Taming Conditioner", 
+    "u": "105099", 
+    "t": "/wcsstore/Coles-CAS/images/9/1/9/9195099-th.jpg", 
+    "u2": "$4.00 per 100mL", 
+    "pl": "12"
+}

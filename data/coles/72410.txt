@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "450g"
+        ]
+    }, 
+    "s9": "138952", 
+    "p1": {
+        "o": "5.67"
+    }, 
+    "m": "Aunty Kath's", 
+    "u2": "$1.26 per 100G", 
+    "p": "6082573P", 
+    "s": "aunty-kaths-cookie-dough-home-bake-m-ms", 
+    "u": "72410", 
+    "t": "/wcsstore/Coles-CAS/images/6/0/8/6082573-th.jpg", 
+    "n": "M&M's Cookie Dough", 
+    "pl": "20"
+}

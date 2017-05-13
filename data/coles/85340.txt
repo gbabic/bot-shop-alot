@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "750g"
+        ]
+    }, 
+    "s9": "148552", 
+    "p1": {
+        "o": "2.7"
+    }, 
+    "m": "San Remo", 
+    "t1": "V", 
+    "p": "229227P", 
+    "s": "san-remo-pasta-spaghetti-no-4-thin", 
+    "n": "Thin Spaghetti No 4", 
+    "u": "85340", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/9/229227-th.jpg", 
+    "u2": "$0.36 per 100G", 
+    "pl": "20"
+}

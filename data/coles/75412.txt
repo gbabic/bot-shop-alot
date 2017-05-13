@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "31g"
+        ]
+    }, 
+    "s9": "141057", 
+    "p1": {
+        "o": "1.5"
+    }, 
+    "m": "Maggi", 
+    "t1": "V", 
+    "p": "5548186P", 
+    "s": "maggi-recipe-mix-vegetable-sensations-cheesy-cauliflower", 
+    "n": "Side Dishes Cheesy Cauliflower", 
+    "u": "75412", 
+    "t": "/wcsstore/Coles-CAS/images/5/5/4/5548186-th.jpg", 
+    "u2": "$4.84 per 100G", 
+    "pl": "20"
+}

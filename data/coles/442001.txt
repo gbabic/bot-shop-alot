@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 pack"
+        ]
+    }, 
+    "s9": "442012", 
+    "p1": {
+        "o": "18.14"
+    }, 
+    "m": "Gillette", 
+    "u2": "$18.14 per 1Ea", 
+    "p": "2237714P", 
+    "s": "gillette-fusion-proglide-flexball-silvertouch-manual-razor", 
+    "u": "442001", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/3/2237714-th.jpg", 
+    "n": "Fusion ProGlide SilverTouch Manual Flexball Shaving Razor", 
+    "pl": "20"
+}

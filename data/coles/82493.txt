@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "230g"
+        ]
+    }, 
+    "s9": "142506", 
+    "p1": {
+        "o": "3.96"
+    }, 
+    "m": "Solomons", 
+    "u2": "$1.72 per 100G", 
+    "p": "5105640P", 
+    "s": "solomons-soup-sippets", 
+    "u": "82493", 
+    "t": "/wcsstore/Coles-CAS/images/5/1/0/5105640-th.jpg", 
+    "n": "Sippets Soup", 
+    "pl": "20"
+}

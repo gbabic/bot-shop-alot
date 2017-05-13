@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "u2": "$3.03 per 1ea", 
+    "s9": "385527", 
+    "p1": {
+        "l4": "3.25", 
+        "o": "3.03"
+    }, 
+    "s7": "", 
+    "m": "Sellotape", 
+    "n": "Clear Packaging Tape Clear", 
+    "p": "1818482P", 
+    "s": "sellotape-clear-packaging-tape-clear", 
+    "u": "385507", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/1/1818482-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

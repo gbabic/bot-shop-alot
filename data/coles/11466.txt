@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "90g"
+        ]
+    }, 
+    "s9": "29244", 
+    "p1": {
+        "o": "2.86"
+    }, 
+    "m": "Wow", 
+    "u2": "$3.18 per 100G", 
+    "p": "8364500P", 
+    "s": "wow-chewy-mints-sugar-free", 
+    "u": "11466", 
+    "t": "/wcsstore/Coles-CAS/images/8/3/6/8364500-th.jpg", 
+    "n": "Sugar Free Chewy", 
+    "pl": "20"
+}

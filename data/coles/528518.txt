@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "528598", 
+    "p1": {
+        "l4": "2.09", 
+        "o": "1.9"
+    }, 
+    "m": "Barilla", 
+    "t1": "V", 
+    "p": "2599624P", 
+    "s": "barilla-linguine-pasta", 
+    "n": "Linguine Pasta", 
+    "u": "528518", 
+    "t": "/wcsstore/Coles-CAS/images/2/5/9/2599624-th.jpg", 
+    "u2": "$0.38 per 100G", 
+    "pl": "12"
+}

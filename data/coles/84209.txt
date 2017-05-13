@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "143245", 
+    "p1": {
+        "l4": "2.2", 
+        "o": "1.6"
+    }, 
+    "m": "Divella", 
+    "t1": "S", 
+    "p": "5048784P", 
+    "s": "divella-pasta-spag-ristorante-no-8", 
+    "n": "Spaghetti Ristorante No 8", 
+    "u": "84209", 
+    "t": "/wcsstore/Coles-CAS/images/5/0/4/5048784-th.jpg", 
+    "u2": "$0.32 per 100G", 
+    "pl": "12"
+}

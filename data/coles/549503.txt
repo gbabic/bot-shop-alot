@@ -1,0 +1,38 @@
+{
+    "a": {
+        "D": [
+            "TOBACCO"
+        ], 
+        "P8": [
+            "Tobacco"
+        ], 
+        "T1": [
+            "true"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "20g"
+        ]
+    }, 
+    "s9": "549538", 
+    "p1": {
+        "o": "25.25"
+    }, 
+    "m": "Winfield", 
+    "s7": "Prices include all taxes", 
+    "u2": "$25.25 per 1Ea", 
+    "p": "2681714P", 
+    "s": "winfield-roll-your-own-red-tobacco-2681714p", 
+    "u": "549503", 
+    "t": "/wcsstore/Coles-CAS/images/C/i/g/Cigarettes-th.jpg", 
+    "n": "Roll Your Own Red Tobacco", 
+    "pl": "5"
+}

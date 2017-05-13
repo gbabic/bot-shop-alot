@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1200g"
+        ]
+    }, 
+    "s9": "131569", 
+    "p1": {
+        "l4": "16.16", 
+        "o": "9.8"
+    }, 
+    "m": "My Dog", 
+    "t1": "S", 
+    "p": "7531945P", 
+    "s": "my-dog-classic-selection-dog-food-chicken-supreme", 
+    "n": "Classic Collection Chicken Supreme Dog Food Tray", 
+    "u": "69487", 
+    "t": "/wcsstore/Coles-CAS/images/7/5/3/7531945-th.jpg", 
+    "u2": "$0.82 per 100G", 
+    "pl": "12"
+}

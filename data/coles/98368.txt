@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "425g"
+        ]
+    }, 
+    "s9": "161526", 
+    "p1": {
+        "l4": "20.79", 
+        "o": "15.12"
+    }, 
+    "m": "Metamucil", 
+    "t1": "S", 
+    "p": "9676202P", 
+    "s": "metamucil-laxative-powder-orange-smooth", 
+    "n": "Orange Smooth 72 Doses", 
+    "u": "98368", 
+    "t": "/wcsstore/Coles-CAS/images/9/6/7/9676202-th.jpg", 
+    "u2": "$3.56 per 100G", 
+    "pl": "12"
+}

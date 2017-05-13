@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "175g"
+        ]
+    }, 
+    "s9": "120329", 
+    "p1": {
+        "o": "2.41"
+    }, 
+    "m": "MasterFoods", 
+    "s7": "", 
+    "u2": "$1.38 per 100G", 
+    "p": "8152545P", 
+    "s": "masterfoods-recipe-base-thai-green-curry", 
+    "u": "53297", 
+    "t": "/wcsstore/Coles-CAS/images/8/1/5/8152545-th.jpg", 
+    "n": "Thai Green Curry Recipe Base", 
+    "pl": "20"
+}

@@ -1,0 +1,44 @@
+{
+    "a": {
+        "D": [
+            "LIQUOR"
+        ], 
+        "P8": [
+            "Alcohol"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "true"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "700mL"
+        ]
+    }, 
+    "pr": "35.00000", 
+    "s9": "149022", 
+    "pq": "2", 
+    "pt": "MultibuyMultiSku", 
+    "u2": "$5.43 per 100mL", 
+    "m": "Bundaberg", 
+    "n": "UP Rum", 
+    "p": "32247P", 
+    "s": "bundaberg-up-rum-32247p", 
+    "p1": {
+        "l4": "46.01", 
+        "o": "38.0"
+    }, 
+    "u": "82335", 
+    "t": "/wcsstore/Coles-CAS/images/3/2/2/32247-th.jpg", 
+    "pd": "2 for $70", 
+    "pi": "10141527", 
+    "t1": "S", 
+    "pl": "4"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100g"
+        ]
+    }, 
+    "s9": "531567", 
+    "p1": {
+        "l4": "1.49", 
+        "o": "1.0"
+    }, 
+    "m": "Optimum", 
+    "t1": "S", 
+    "p": "2489295P", 
+    "s": "optimum-lamb-rice-adult-dog-food-tray", 
+    "n": "Lamb & Rice Adult Dog Food Tray", 
+    "u": "531542", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/8/2489295-th.jpg", 
+    "u2": "$1.00 per 100G", 
+    "pl": "12"
+}

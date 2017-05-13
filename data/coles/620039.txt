@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100g"
+        ]
+    }, 
+    "s9": "620089", 
+    "p1": {
+        "o": "1.32"
+    }, 
+    "m": "Natures Gift Dog Food", 
+    "u2": "$1.32 per 100G", 
+    "p": "2825144P", 
+    "s": "natures-gift-dog-food-kngr-vgtbl-brown-rice", 
+    "u": "620039", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/2/2825144-th.jpg", 
+    "n": "Kangaroo Vegetables & Brown Rice", 
+    "pl": "99"
+}

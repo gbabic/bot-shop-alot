@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "143740", 
+    "p1": {
+        "o": "1.8"
+    }, 
+    "m": "San Remo", 
+    "t1": "V", 
+    "p": "5240216P", 
+    "s": "san-remo-pasta-risoni-no-47", 
+    "n": "Risoni Pasta No 47", 
+    "u": "84669", 
+    "t": "/wcsstore/Coles-CAS/images/5/2/4/5240216-th.jpg", 
+    "u2": "$0.36 per 100G", 
+    "pl": "20"
+}

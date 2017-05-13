@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100 pack"
+        ]
+    }, 
+    "s9": "33494", 
+    "p1": {
+        "o": "4.24"
+    }, 
+    "m": "Equal", 
+    "u2": "$0.04 per 1Ea", 
+    "p": "383828P", 
+    "s": "equal-sweetener-tablets", 
+    "u": "25024", 
+    "t": "/wcsstore/Coles-CAS/images/3/8/3/383828-th.jpg", 
+    "n": "Sweetener Tablets", 
+    "pl": "20"
+}

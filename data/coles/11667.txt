@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1L"
+        ]
+    }, 
+    "u2": "$0.20 per 100mL", 
+    "s9": "33204", 
+    "p1": {
+        "o": "2.0"
+    }, 
+    "s7": "", 
+    "m": "Coles", 
+    "n": "Real Chicken Liquid Stock", 
+    "p": "7152073P", 
+    "s": "coles-stock-liquid-real-chicken", 
+    "u": "11667", 
+    "t": "/wcsstore/Coles-CAS/images/7/1/5/7152073-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

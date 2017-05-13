@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "160g"
+        ]
+    }, 
+    "s9": "673087", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "m": "Cadbury", 
+    "u2": "$3.44 per 100G", 
+    "p": "2898920P", 
+    "s": "cadbury-dark-block-chocolate-hazelnut", 
+    "u": "673020", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/9/2898920-th.jpg", 
+    "n": "Dark Milk Salted Caramelised Hazelnut Block", 
+    "pl": "99"
+}

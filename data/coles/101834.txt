@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "40g"
+        ]
+    }, 
+    "s9": "161742", 
+    "p1": {
+        "o": "1.79"
+    }, 
+    "m": "Continental", 
+    "u2": "$4.48 per 100G", 
+    "p": "9475991P", 
+    "s": "continental-recipe-mix-devilled-sausages", 
+    "u": "101834", 
+    "t": "/wcsstore/Coles-CAS/images/9/4/7/9475991-th.jpg", 
+    "n": "Devilled Sausages Recipe Base Serves 4", 
+    "pl": "20"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Baby"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "10 pack"
+        ]
+    }, 
+    "s9": "143272", 
+    "p1": {
+        "l4": "12.0", 
+        "o": "10.0"
+    }, 
+    "m": "Huggies", 
+    "t1": "S", 
+    "p": "5016824P", 
+    "s": "huggies-pyjama-pants-dry-nites-girl-4-7-years", 
+    "n": "Dry Nites Pyjama Pants Girls 4-7 Years", 
+    "u": "84229", 
+    "t": "/wcsstore/Coles-CAS/images/5/0/1/5016824-th.jpg", 
+    "u2": "$1.00 per 1Ea", 
+    "pl": "12"
+}

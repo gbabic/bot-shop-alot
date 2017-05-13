@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "251301", 
+    "p1": {
+        "o": "13.0"
+    }, 
+    "m": "The Chia Co", 
+    "u2": "$2.60 per 100G", 
+    "p": "1466181P", 
+    "s": "the-chia-co-chia-seed-white-pouch", 
+    "u": "251127", 
+    "t": "/wcsstore/Coles-CAS/images/1/4/6/1466181-th.jpg", 
+    "n": "White Chia Seed Pouch", 
+    "pl": "20"
+}

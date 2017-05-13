@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "0.2"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 200g"
+        ]
+    }, 
+    "s9": "453598", 
+    "p1": {
+        "o": "9.6"
+    }, 
+    "m": "Coles Deli", 
+    "s7": "Indicated price based on approx. weight. Weight may vary between 175g and 225g.", 
+    "u2": "$48.00 per 1Kg", 
+    "p": "2239436P", 
+    "s": "coles-deli-aphrodite-haloumi-by-will-studd", 
+    "u": "453541", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/3/2239436-th.jpg", 
+    "n": "Aphrodite Haloumi By Will Studd", 
+    "pl": "99"
+}

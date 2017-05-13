@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "New"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "595g"
+        ]
+    }, 
+    "s9": "251244", 
+    "p1": {
+        "l4": "9.35", 
+        "o": "6.8"
+    }, 
+    "m": "Bob's Red Mill", 
+    "t1": "S", 
+    "p": "1464561P", 
+    "s": "bobs-red-mill-gluten-free-brownie-mix", 
+    "n": "Gluten Free Brownie Mix", 
+    "u": "251149", 
+    "t": "/wcsstore/Coles-CAS/images/1/4/6/1464561-th.jpg", 
+    "u2": "$1.14 per 100G", 
+    "pl": "12"
+}

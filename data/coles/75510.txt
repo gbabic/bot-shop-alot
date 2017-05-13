@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "160g"
+        ]
+    }, 
+    "s9": "138798", 
+    "p1": {
+        "o": "3.0"
+    }, 
+    "m": "Colgate", 
+    "t1": "V", 
+    "p": "5390048P", 
+    "s": "colgate-toothpaste-blue-minty-gel", 
+    "n": "Blue Minty Gel Toothpaste", 
+    "u": "75510", 
+    "t": "/wcsstore/Coles-CAS/images/5/3/9/5390048-th.jpg", 
+    "u2": "$1.88 per 100G", 
+    "pl": "20"
+}

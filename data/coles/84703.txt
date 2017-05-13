@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "40g"
+        ]
+    }, 
+    "s9": "141841", 
+    "p1": {
+        "o": "2.7"
+    }, 
+    "m": "Duck", 
+    "u2": "$6.75 per 100G", 
+    "p": "5211240P", 
+    "s": "flush-duck-blue-plus-primary", 
+    "u": "84703", 
+    "t": "/wcsstore/Coles-CAS/images/5/2/1/5211240-th.jpg", 
+    "n": "Flush Blue Plus Toilet Cleaner Primary", 
+    "pl": "20"
+}

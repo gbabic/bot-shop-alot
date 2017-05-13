@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "50g"
+        ]
+    }, 
+    "s9": "346156", 
+    "p1": {
+        "o": "2.2"
+    }, 
+    "m": "Cadbury", 
+    "u2": "$4.40 per 100G", 
+    "p": "5072610P", 
+    "s": "cadbury-dairy-milk-chocolate-fruit-nut-bar", 
+    "u": "346071", 
+    "t": "/wcsstore/Coles-CAS/images/5/0/7/5072610-th.jpg", 
+    "n": "Dairy Milk Fruit and Nut Chocolate Bar", 
+    "pl": "20"
+}

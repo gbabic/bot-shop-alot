@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "36g"
+        ]
+    }, 
+    "s9": "227112", 
+    "p1": {
+        "o": "3.42"
+    }, 
+    "m": "Tetley", 
+    "u2": "$9.50 per 100G", 
+    "p": "1413990P", 
+    "s": "tetley-tea-bags-infusions-peppermint-18-pack", 
+    "u": "227026", 
+    "t": "/wcsstore/Coles-CAS/images/1/4/1/1413990-th.jpg", 
+    "n": "Infusions Peppermint Tea Bags 18 pack", 
+    "pl": "20"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "s9": "251345", 
+    "p1": {
+        "l4": "5.89", 
+        "o": "4.25"
+    }, 
+    "m": "The Happy Snack Company", 
+    "t1": "S", 
+    "p": "1469645P", 
+    "s": "fav-va-nuts-lightly-salted", 
+    "n": "Lightly Salted Crunchy Roasted Fav-Va Beans", 
+    "u": "251081", 
+    "t": "/wcsstore/Coles-CAS/images/1/4/6/1469645-th.jpg", 
+    "u2": "$2.13 per 100G", 
+    "pl": "12"
+}

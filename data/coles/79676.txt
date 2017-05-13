@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "139279", 
+    "p1": {
+        "o": "8.5"
+    }, 
+    "m": "Coles Finest", 
+    "s7": "", 
+    "u2": "$17.00 per 1Kg", 
+    "p": "5536063P", 
+    "s": "coles-finest-sausages-spanish-chorizo", 
+    "u": "79676", 
+    "t": "/wcsstore/Coles-CAS/images/5/5/3/5536063-th.jpg", 
+    "n": "Spanish Chorizo", 
+    "pl": "20"
+}

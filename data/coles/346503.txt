@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Fruit & Vegetables"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "10g"
+        ]
+    }, 
+    "s9": "346506", 
+    "p1": {
+        "o": "4.0"
+    }, 
+    "m": "Coles", 
+    "u2": "$400.00 per 1Kg", 
+    "p": "1885570P", 
+    "s": "coles-fresh-bhut-jolokia-ghost-chillies-prepacked", 
+    "u": "346503", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/8/1885570-th.jpg", 
+    "n": "Ghost Chillies Prepacked", 
+    "pl": "99"
+}

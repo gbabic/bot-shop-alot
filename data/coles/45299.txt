@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "225g"
+        ]
+    }, 
+    "s9": "168465", 
+    "p1": {
+        "o": "8.97"
+    }, 
+    "m": "Angas Park", 
+    "u2": "$39.87 per 1Kg", 
+    "p": "8951367P", 
+    "s": "angas-park-soft-juicy-apricots", 
+    "u": "45299", 
+    "t": "/wcsstore/Coles-CAS/images/8/9/5/8951367-th.jpg", 
+    "n": "Dried Soft & Juicy Apricots", 
+    "pl": "20"
+}

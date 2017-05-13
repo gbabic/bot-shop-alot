@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "123099", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "m": "Korbond", 
+    "u2": "$5.50 per 1Ea", 
+    "p": "7745359P", 
+    "s": "korbond-washing-bag-delicates", 
+    "u": "60863", 
+    "t": "/wcsstore/Coles-CAS/images/7/7/4/7745359-th.jpg", 
+    "n": "Delicates Washing Bag", 
+    "pl": "20"
+}

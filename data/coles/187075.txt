@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "s9": "187326", 
+    "p1": {
+        "o": "2.53"
+    }, 
+    "m": "Garden", 
+    "u2": "$1.27 per 100G", 
+    "p": "1384790P", 
+    "s": "garden-cream-wafer-vanilla-flavour", 
+    "u": "187075", 
+    "t": "/wcsstore/Coles-CAS/images/1/3/8/1384790-th.jpg", 
+    "n": "Vanilla Flavour Cream Wafer", 
+    "pl": "20"
+}

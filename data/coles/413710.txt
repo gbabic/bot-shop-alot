@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 pack"
+        ]
+    }, 
+    "s9": "413921", 
+    "p1": {
+        "o": "21.23"
+    }, 
+    "m": "L'Oreal", 
+    "u2": "$21.23 per 1Ea", 
+    "p": "2044109P", 
+    "s": "loreal-preference-platinum-8l-hair-colour", 
+    "u": "413710", 
+    "t": "/wcsstore/Coles-CAS/images/2/0/4/2044109-th.jpg", 
+    "n": "Preference Platinum 8L Permanent Hair Colour", 
+    "pl": "20"
+}

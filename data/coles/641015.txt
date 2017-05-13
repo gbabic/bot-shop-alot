@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "4 pack"
+        ]
+    }, 
+    "s9": "641194", 
+    "p1": {
+        "l4": "7.14", 
+        "o": "3.24"
+    }, 
+    "m": "Schick", 
+    "t1": "S", 
+    "p": "2837369P", 
+    "s": "schick-xtreme-3-ultimate-razor", 
+    "n": "Xtreme 3 Ultimate Disposable Razor", 
+    "u": "641015", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/3/2837369-th.jpg", 
+    "u2": "$0.81 per 1Ea", 
+    "pl": "12"
+}

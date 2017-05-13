@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "50g"
+        ]
+    }, 
+    "s9": "122749", 
+    "p1": {
+        "o": "3.27"
+    }, 
+    "m": "MasterFoods", 
+    "u2": "$0.65 per 10G", 
+    "p": "7841749P", 
+    "s": "masterfoods-seasoning-all-purpose-reduced-salt", 
+    "u": "61185", 
+    "t": "/wcsstore/Coles-CAS/images/7/8/4/7841749-th.jpg", 
+    "n": "All Purpose Reduced Salt Seasoning", 
+    "pl": "20"
+}

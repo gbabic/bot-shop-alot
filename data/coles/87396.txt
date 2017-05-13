@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "32 pack"
+        ]
+    }, 
+    "s9": "151491", 
+    "p1": {
+        "o": "7.5"
+    }, 
+    "m": "Carefree", 
+    "t1": "V", 
+    "p": "137399P", 
+    "s": "carefree-tampons-super", 
+    "n": "Super Tampons", 
+    "u": "87396", 
+    "t": "/wcsstore/Coles-CAS/images/1/3/7/137399-th.jpg", 
+    "u2": "$0.23 per 1Ea", 
+    "pl": "20"
+}

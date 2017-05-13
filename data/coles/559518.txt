@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Bread & Bakery"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100g"
+        ]
+    }, 
+    "s9": "559544", 
+    "p1": {
+        "o": "1.4"
+    }, 
+    "m": "Pinnacle Bakery", 
+    "u2": "$1.40 per 100G", 
+    "p": "2607380P", 
+    "s": "pinnacle-bakery-banana-bread-slice-100g", 
+    "u": "559518", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/0/2607380-th.jpg", 
+    "n": "Banana Bread Slice", 
+    "pl": "20"
+}

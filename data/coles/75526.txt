@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "440g"
+        ]
+    }, 
+    "s9": "141209", 
+    "p1": {
+        "o": "3.03"
+    }, 
+    "m": "Green's", 
+    "u2": "$0.69 per 100G", 
+    "p": "5360976P", 
+    "s": "greens-traditional-cake-mix-chocolate", 
+    "u": "75526", 
+    "t": "/wcsstore/Coles-CAS/images/5/3/6/5360976-th.jpg", 
+    "n": "Traditional Chocolate Cake Mix", 
+    "pl": "20"
+}

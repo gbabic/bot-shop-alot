@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1kg"
+        ]
+    }, 
+    "s9": "473779", 
+    "p1": {
+        "o": "4.29"
+    }, 
+    "m": "Pattu", 
+    "u2": "$0.43 per 100G", 
+    "p": "2158811P", 
+    "s": "pattu-chick-peas-kabuli-9mm", 
+    "u": "473501", 
+    "t": "/wcsstore/Coles-CAS/images/2/1/5/2158811-th.jpg", 
+    "n": "Chick Peas Kabuli 9mm", 
+    "pl": "20"
+}

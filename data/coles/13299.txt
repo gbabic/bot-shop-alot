@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Clothing"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "3 pack"
+        ]
+    }, 
+    "u2": "$3.00 per 1ea", 
+    "s9": "32092", 
+    "p1": {
+        "l4": "5.5", 
+        "o": "3.0"
+    }, 
+    "s7": "", 
+    "m": "Mix", 
+    "n": "Knee Hi Opaque 40 Denier Black One size", 
+    "p": "9850208P", 
+    "s": "mix-knee-high-opaque-40-denier-black-one-size", 
+    "u": "13299", 
+    "t": "/wcsstore/Coles-CAS/images/9/8/5/9850208-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

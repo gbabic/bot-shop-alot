@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Clothing"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "3 pack"
+        ]
+    }, 
+    "u2": "$5.40 per 1ea", 
+    "s9": "192950", 
+    "p1": {
+        "l4": "9.9", 
+        "o": "5.4"
+    }, 
+    "s7": "", 
+    "m": "Mix", 
+    "n": "Tights 40 Denier Black Average", 
+    "p": "9854479P", 
+    "s": "mix-tights-40-denier-black-average", 
+    "u": "190510", 
+    "t": "/wcsstore/Coles-CAS/images/9/8/5/9854479-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

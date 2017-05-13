@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "130g"
+        ]
+    }, 
+    "s9": "146245", 
+    "p1": {
+        "l4": "3.3", 
+        "o": "2.4"
+    }, 
+    "m": "Continental", 
+    "t1": "S", 
+    "p": "5086105P", 
+    "s": "continental-stock-powder-chicken", 
+    "n": "Chicken Stock Powder Makes 6L", 
+    "u": "80016", 
+    "t": "/wcsstore/Coles-CAS/images/5/0/8/5086105-th.jpg", 
+    "u2": "$0.18 per 10G", 
+    "pl": "20"
+}

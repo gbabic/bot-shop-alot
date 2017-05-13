@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "150g"
+        ]
+    }, 
+    "s9": "156823", 
+    "p1": {
+        "o": "6.15"
+    }, 
+    "m": "Fruit For Life", 
+    "u2": "$41.00 per 1Kg", 
+    "p": "9914107P", 
+    "s": "fruit-for-life--mango-philippine-dried", 
+    "u": "99063", 
+    "t": "/wcsstore/Coles-CAS/images/9/9/1/9914107-th.jpg", 
+    "n": "Dried Mango", 
+    "pl": "20"
+}

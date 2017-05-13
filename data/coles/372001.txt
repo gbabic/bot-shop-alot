@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "160g"
+        ]
+    }, 
+    "s9": "372127", 
+    "p1": {
+        "o": "2.52"
+    }, 
+    "m": "MasterFoods", 
+    "s7": "", 
+    "u2": "$1.58 per 100G", 
+    "p": "1868163P", 
+    "s": "masterfoods-oven-easy-honey-bbq-chicken-recipe-base", 
+    "u": "372001", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/6/1868163-th.jpg", 
+    "n": "Oven Easy Honey BBQ Chicken Recipe Base", 
+    "pl": "20"
+}

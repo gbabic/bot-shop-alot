@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "340g"
+        ]
+    }, 
+    "s9": "130422", 
+    "p1": {
+        "l4": "5.16", 
+        "o": "3.0"
+    }, 
+    "m": "Spam", 
+    "t1": "S", 
+    "p": "7318744P", 
+    "s": "spam-canned-ham-with-real-bacon", 
+    "n": "Ham with Real Bacon", 
+    "u": "69690", 
+    "t": "/wcsstore/Coles-CAS/images/7/3/1/7318744-th.jpg", 
+    "u2": "$8.82 per 1Kg", 
+    "pl": "12"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "260g"
+        ]
+    }, 
+    "s9": "679131", 
+    "p1": {
+        "l4": "5.5", 
+        "o": "5.0"
+    }, 
+    "m": "Julians", 
+    "t1": "N", 
+    "p": "2885543P", 
+    "s": "julians-gluten-free-pizza-base", 
+    "n": "Gluten Free Pizza Base", 
+    "u": "679025", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/8/2885543-th.jpg", 
+    "u2": "$1.92 per 100G", 
+    "pl": "12"
+}

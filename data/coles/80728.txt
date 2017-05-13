@@ -1,0 +1,37 @@
+{
+    "a": {
+        "D": [
+            "LIQUOR"
+        ], 
+        "P8": [
+            "Alcohol"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "true"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "6 pack"
+        ]
+    }, 
+    "s9": "145686", 
+    "p1": {
+        "o": "23.01"
+    }, 
+    "m": "Coopers", 
+    "u2": "$1.02 per 100mL", 
+    "p": "49542P", 
+    "s": "coopers-extra-stout", 
+    "u": "80728", 
+    "t": "/wcsstore/Coles-CAS/images/4/9/5/49542-th.jpg", 
+    "n": "Extra Stout", 
+    "pl": "20"
+}

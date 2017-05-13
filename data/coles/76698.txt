@@ -1,0 +1,38 @@
+{
+    "a": {
+        "D": [
+            "HOTPLATE"
+        ], 
+        "P8": [
+            "Bread & Bakery"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "700g"
+        ]
+    }, 
+    "s9": "142346", 
+    "p1": {
+        "o": "4.9"
+    }, 
+    "m": "Burgen", 
+    "t1": "V", 
+    "p": "5366826P", 
+    "s": "burgen-bread-pumpkin-seeds-5366826p", 
+    "n": "Pumpkin Seeds Bread", 
+    "u": "76698", 
+    "t": "/wcsstore/Coles-CAS/images/5/3/6/5366826-th.jpg", 
+    "u2": "$0.70 per 100G", 
+    "pl": "20"
+}

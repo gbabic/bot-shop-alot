@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "2L"
+        ]
+    }, 
+    "s9": "158806", 
+    "p1": {
+        "o": "3.39"
+    }, 
+    "m": "Pauls", 
+    "u2": "$1.70 per 1L", 
+    "p": "9411784P", 
+    "s": "pauls-milk-smarter-white-9411784p", 
+    "u": "96806", 
+    "t": "/wcsstore/Coles-CAS/images/9/4/1/9411784-th.jpg", 
+    "n": "Smarter White Milk", 
+    "pl": "20"
+}

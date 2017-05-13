@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500mL"
+        ]
+    }, 
+    "s9": "150795", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "m": "Cornwells", 
+    "u2": "$1.10 per 100mL", 
+    "p": "314100P", 
+    "s": "cornwells-relish-sauce-worcestershire", 
+    "u": "81720", 
+    "t": "/wcsstore/Coles-CAS/images/3/1/4/314100-th.jpg", 
+    "n": "Lancashire Relish", 
+    "pl": "20"
+}

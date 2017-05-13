@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "15mL"
+        ]
+    }, 
+    "s9": "218605", 
+    "p1": {
+        "l4": "29.65", 
+        "o": "16.17"
+    }, 
+    "m": "L'Oreal", 
+    "t1": "S", 
+    "p": "1438313P", 
+    "s": "loreal-cc-cream-nude-magique-anti-redness", 
+    "n": "Nude Magique Anti Redness CC Cream", 
+    "u": "218562", 
+    "t": "/wcsstore/Coles-CAS/images/1/4/3/1438313-th.jpg", 
+    "u2": "$10.78 per 10mL", 
+    "pl": "12"
+}

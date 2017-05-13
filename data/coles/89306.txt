@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "162g"
+        ]
+    }, 
+    "s9": "148163", 
+    "p1": {
+        "o": "5.06"
+    }, 
+    "m": "Mars", 
+    "u2": "$3.12 per 100G", 
+    "p": "1261010P", 
+    "s": "mars-fun-size-m-ms-milk-chocolate", 
+    "u": "89306", 
+    "t": "/wcsstore/Coles-CAS/images/1/2/6/1261010-th.jpg", 
+    "n": "M&M's Fun Size Share Pack", 
+    "pl": "20"
+}

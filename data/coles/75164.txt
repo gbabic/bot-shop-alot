@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "275g"
+        ]
+    }, 
+    "s9": "140812", 
+    "p1": {
+        "o": "3.92"
+    }, 
+    "m": "Ocean Spray", 
+    "u2": "$1.43 per 100G", 
+    "p": "5965081P", 
+    "s": "ocean-spray-jellied-cranberry-sauce", 
+    "u": "75164", 
+    "t": "/wcsstore/Coles-CAS/images/5/9/6/5965081-th.jpg", 
+    "n": "Jellied Cranberry Sauce", 
+    "pl": "20"
+}

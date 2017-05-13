@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "7.5kg"
+        ]
+    }, 
+    "s9": "178658", 
+    "p1": {
+        "o": "26.4"
+    }, 
+    "m": "Supercoat", 
+    "u2": "$0.35 per 100G", 
+    "p": "1222482P", 
+    "s": "purina-dog-food-supercoat-adult-petcare-active", 
+    "u": "178239", 
+    "t": "/wcsstore/Coles-CAS/images/1/2/2/1222482-th.jpg", 
+    "n": "Active with Real Kangaroo Dry Dog Food", 
+    "pl": "20"
+}

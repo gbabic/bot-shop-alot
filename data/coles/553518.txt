@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 pack"
+        ]
+    }, 
+    "s9": "553561", 
+    "p1": {
+        "l4": "13.27", 
+        "o": "9.6"
+    }, 
+    "m": "Vileda", 
+    "t1": "S", 
+    "p": "2594507P", 
+    "s": "vileda-easy-wring-clean-refill", 
+    "n": "Easy Wring & Clean Refill", 
+    "u": "553518", 
+    "t": "/wcsstore/Coles-CAS/images/2/5/9/2594507-th.jpg", 
+    "u2": "$9.60 per 1Ea", 
+    "pl": "12"
+}

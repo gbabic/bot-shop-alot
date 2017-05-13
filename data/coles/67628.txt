@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "85g"
+        ]
+    }, 
+    "s9": "131048", 
+    "p1": {
+        "o": "2.19"
+    }, 
+    "m": "Heinz", 
+    "u2": "$25.76 per 1Kg", 
+    "p": "7376853P", 
+    "s": "heinz-chicken-shredded-sea-salt-in-springwater", 
+    "u": "67628", 
+    "t": "/wcsstore/Coles-CAS/images/7/3/7/7376853-th.jpg", 
+    "n": "Springwater & Sea Salt Shredded Chicken", 
+    "pl": "20"
+}

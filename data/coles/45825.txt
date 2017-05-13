@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "10 pack"
+        ]
+    }, 
+    "s9": "108334", 
+    "p1": {
+        "o": "9.8"
+    }, 
+    "m": "Gillette", 
+    "u2": "$0.98 per 1Ea", 
+    "p": "8735951P", 
+    "s": "gillette-blue-ii-plus-sensitive-pivot-head-disposable-razors", 
+    "u": "45825", 
+    "t": "/wcsstore/Coles-CAS/images/8/7/3/8735951-th.jpg", 
+    "n": "Blue II UltraGrip Pivot Disposable Shaving Razor", 
+    "pl": "20"
+}

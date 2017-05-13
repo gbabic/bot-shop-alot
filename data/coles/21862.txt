@@ -1,0 +1,41 @@
+{
+    "a": {
+        "P8": [
+            "Drinks"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1.25L"
+        ]
+    }, 
+    "pr": "1.50000", 
+    "s9": "36284", 
+    "pq": "2", 
+    "pt": "MultibuyMultiSku", 
+    "u2": "$1.72 per 1L", 
+    "m": "Schweppes", 
+    "n": "Apple & Pink Grapefruit Mineral Water", 
+    "p": "6361726P", 
+    "s": "schweppes-mineral-water-apple-pink-grape", 
+    "p1": {
+        "l4": "2.41", 
+        "o": "2.15"
+    }, 
+    "u": "21862", 
+    "t": "/wcsstore/Coles-CAS/images/6/3/6/6361726-th.jpg", 
+    "pd": "2 for $3", 
+    "pi": "10141008", 
+    "t1": "M", 
+    "pl": "12"
+}

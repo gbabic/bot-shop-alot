@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "450g"
+        ]
+    }, 
+    "s9": "115848", 
+    "p1": {
+        "o": "6.6"
+    }, 
+    "m": "Kellogg's", 
+    "u2": "$1.47 per 100G", 
+    "p": "8492000P", 
+    "s": "kelloggs-cereal-crunchy-nut-clusters", 
+    "u": "52802", 
+    "t": "/wcsstore/Coles-CAS/images/8/4/9/8492000-th.jpg", 
+    "n": "Crunchy Nut Clusters", 
+    "pl": "20"
+}

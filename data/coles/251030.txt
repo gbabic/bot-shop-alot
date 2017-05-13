@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "113g"
+        ]
+    }, 
+    "s9": "251292", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "m": "Simply 7", 
+    "u2": "$4.87 per 100G", 
+    "p": "1478293P", 
+    "s": "simply-7-chips-with-sea-salt-1478293p", 
+    "u": "251030", 
+    "t": "/wcsstore/Coles-CAS/images/1/4/7/1478293-th.jpg", 
+    "n": "Hummus Chips With Sea Salt", 
+    "pl": "20"
+}

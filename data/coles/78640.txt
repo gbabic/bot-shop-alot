@@ -1,0 +1,38 @@
+{
+    "a": {
+        "D": [
+            "HOTPLATE"
+        ], 
+        "P8": [
+            "Bread & Bakery"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "700g"
+        ]
+    }, 
+    "s9": "142344", 
+    "p1": {
+        "o": "4.9"
+    }, 
+    "m": "Burgen", 
+    "t1": "V", 
+    "p": "5369358P", 
+    "s": "burgen-bread-wholemeal-seeds-5369358p", 
+    "n": "Wholemeal & Seeds Bread", 
+    "u": "78640", 
+    "t": "/wcsstore/Coles-CAS/images/5/3/6/5369358-th.jpg", 
+    "u2": "$0.70 per 100G", 
+    "pl": "20"
+}

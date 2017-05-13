@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250mL"
+        ]
+    }, 
+    "s9": "116281", 
+    "p1": {
+        "o": "2.63"
+    }, 
+    "m": "MasterFoods", 
+    "u2": "$1.05 per 100mL", 
+    "p": "8616205P", 
+    "s": "masterfoods-tomato-sauce-sun-ripened", 
+    "u": "48250", 
+    "t": "/wcsstore/Coles-CAS/images/8/6/1/8616205-th.jpg", 
+    "n": "Squeezy Tomato Sauce", 
+    "pl": "20"
+}

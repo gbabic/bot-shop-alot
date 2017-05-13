@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "167245", 
+    "p1": {
+        "o": "5.34"
+    }, 
+    "m": "Pataks", 
+    "u2": "$1.07 per 100G", 
+    "p": "9125843P", 
+    "s": "pataks-simmer-sauce-mild-butter-chicken", 
+    "u": "97872", 
+    "t": "/wcsstore/Coles-CAS/images/9/1/2/9125843-th.jpg", 
+    "n": "Mild Butter Chicken Simmer Sauce", 
+    "pl": "20"
+}

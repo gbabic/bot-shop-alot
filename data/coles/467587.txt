@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100mL"
+        ]
+    }, 
+    "s9": "467809", 
+    "p1": {
+        "l4": "10.45", 
+        "o": "6.0"
+    }, 
+    "m": "Veet", 
+    "t1": "S", 
+    "p": "2276750P", 
+    "s": "veet-natural-grape-seed-oil-cream", 
+    "n": "Natural Grape Seed Oil Cream", 
+    "u": "467587", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/7/2276750-th.jpg", 
+    "u2": "$6.00 per 100mL", 
+    "pl": "12"
+}

@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100g"
+        ]
+    }, 
+    "s9": "130260", 
+    "p1": {
+        "o": "0.8"
+    }, 
+    "m": "Banquet", 
+    "t1": "V", 
+    "p": "7479459P", 
+    "s": "banquet-dog-food-kangaroo", 
+    "n": "Classic Style Kangaroo Dog Food Tray", 
+    "u": "67527", 
+    "t": "/wcsstore/Coles-CAS/images/7/4/7/7479459-th.jpg", 
+    "u2": "$0.80 per 100G", 
+    "pl": "20"
+}

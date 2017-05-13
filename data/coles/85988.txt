@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "7g"
+        ]
+    }, 
+    "s9": "150918", 
+    "p1": {
+        "o": "3.19"
+    }, 
+    "m": "MasterFoods", 
+    "u2": "$4.56 per 10G", 
+    "p": "163956P", 
+    "s": "masterfoods-tarragon-leaves", 
+    "u": "85988", 
+    "t": "/wcsstore/Coles-CAS/images/1/6/3/163956-th.jpg", 
+    "n": "Tarragon Leaves", 
+    "pl": "20"
+}

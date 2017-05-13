@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "7kg"
+        ]
+    }, 
+    "s9": "213894", 
+    "p1": {
+        "o": "34.09"
+    }, 
+    "m": "Optimum", 
+    "u2": "$0.49 per 100G", 
+    "p": "1219295P", 
+    "s": "optimum-dog-food-large-breed-chicken", 
+    "u": "213593", 
+    "t": "/wcsstore/Coles-CAS/images/1/2/1/1219295-th.jpg", 
+    "n": "Large Breeds with Chicken Vegetables & Rice Dry Dog Food", 
+    "pl": "20"
+}

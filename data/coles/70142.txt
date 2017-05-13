@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "750g"
+        ]
+    }, 
+    "s9": "132785", 
+    "p1": {
+        "o": "3.63"
+    }, 
+    "m": "CSR", 
+    "u2": "$0.48 per 100G", 
+    "p": "6810863P", 
+    "s": "csr-sugar-logicane", 
+    "u": "70142", 
+    "t": "/wcsstore/Coles-CAS/images/6/8/1/6810863-th.jpg", 
+    "n": "Logicane Sugar", 
+    "pl": "20"
+}

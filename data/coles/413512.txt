@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "s9": "413843", 
+    "p1": {
+        "o": "3.29"
+    }, 
+    "m": "Marco Polo", 
+    "u2": "$0.16 per 10G", 
+    "p": "7389549P", 
+    "s": "marco-polo-hot-paprika-powder", 
+    "u": "413512", 
+    "t": "/wcsstore/Coles-CAS/images/7/3/8/7389549-th.jpg", 
+    "n": "Hot Paprika Powder", 
+    "pl": "20"
+}

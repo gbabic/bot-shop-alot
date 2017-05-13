@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "148mL"
+        ]
+    }, 
+    "s9": "441542", 
+    "p1": {
+        "o": "3.0"
+    }, 
+    "m": "Franks", 
+    "u2": "$2.03 per 100mL", 
+    "p": "1957139P", 
+    "s": "franks-redhot-sauce", 
+    "u": "441510", 
+    "t": "/wcsstore/Coles-CAS/images/1/9/5/1957139-th.jpg", 
+    "n": "Redhot Sauce", 
+    "pl": "20"
+}

@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "175g"
+        ]
+    }, 
+    "s9": "165261", 
+    "p1": {
+        "o": "2.41"
+    }, 
+    "m": "MasterFoods", 
+    "s7": "", 
+    "u2": "$1.38 per 100G", 
+    "p": "9482115P", 
+    "s": "masterfoods-recipe-base-curried-sausages", 
+    "u": "96709", 
+    "t": "/wcsstore/Coles-CAS/images/9/4/8/9482115-th.jpg", 
+    "n": "Curried Sausages Recipe Base", 
+    "pl": "20"
+}

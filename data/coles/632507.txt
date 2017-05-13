@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "632549", 
+    "p1": {
+        "o": "4.0"
+    }, 
+    "m": "Scotch", 
+    "u2": "$4.00 per 1Ea", 
+    "p": "6750660P", 
+    "s": "scotch-giftwrap-tape-w-dispenser", 
+    "u": "632507", 
+    "t": "/wcsstore/Coles-CAS/images/6/7/5/6750660-th.jpg", 
+    "n": "Giftwrap Tape W Dispenser", 
+    "pl": "99"
+}

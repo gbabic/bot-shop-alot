@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "10g"
+        ]
+    }, 
+    "s9": "524595", 
+    "p1": {
+        "l4": "2.2", 
+        "o": "1.76"
+    }, 
+    "m": "Dr. Oetker", 
+    "t1": "S", 
+    "p": "2514745P", 
+    "s": "dr-oetker-black-food-gel", 
+    "n": "Gel Food Colour Jet Black", 
+    "u": "524537", 
+    "t": "/wcsstore/Coles-CAS/images/2/5/1/2514745-th.jpg", 
+    "u2": "$17.60 per 10mL", 
+    "pl": "12"
+}

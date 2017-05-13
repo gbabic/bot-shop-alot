@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "330g"
+        ]
+    }, 
+    "s9": "115849", 
+    "p1": {
+        "o": "4.68"
+    }, 
+    "m": "Kellogg's", 
+    "u2": "$1.42 per 100G", 
+    "p": "8491948P", 
+    "s": "kelloggs-cereal-all-bran-wheat-flakes", 
+    "u": "50520", 
+    "t": "/wcsstore/Coles-CAS/images/8/4/9/8491948-th.jpg", 
+    "n": "All Bran Wheat Flakes", 
+    "pl": "20"
+}

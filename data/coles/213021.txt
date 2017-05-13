@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "160g"
+        ]
+    }, 
+    "s9": "213227", 
+    "p1": {
+        "o": "2.92"
+    }, 
+    "m": "MasterFoods", 
+    "u2": "$1.83 per 100G", 
+    "p": "1430480P", 
+    "s": "masterfoods-gravy-chicken", 
+    "u": "213021", 
+    "t": "/wcsstore/Coles-CAS/images/1/4/3/1430480-th.jpg", 
+    "n": "Chicken Gravy", 
+    "pl": "20"
+}

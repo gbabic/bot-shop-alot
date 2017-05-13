@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "s9": "580056", 
+    "p1": {
+        "o": "2.5"
+    }, 
+    "m": "Coles", 
+    "t1": "V", 
+    "p": "2630247P", 
+    "s": "coles--sea-salt-balsamic-vinegar-deli-style-potato-chips", 
+    "n": "Sea Salt & Balsamic Vinegar Deli Style Potato Chips", 
+    "u": "580023", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/3/2630247-th.jpg", 
+    "u2": "$1.25 per 100G", 
+    "pl": "20"
+}

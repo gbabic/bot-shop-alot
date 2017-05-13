@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Fruit & Vegetables"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "3kg"
+        ]
+    }, 
+    "s9": "142938", 
+    "p1": {
+        "o": "8.0"
+    }, 
+    "m": "Coles", 
+    "s7": "Product of Australia.", 
+    "u2": "$2.67 per 1Kg", 
+    "p": "4213819P", 
+    "s": "potatoes-brushed-prepacked-4213819p", 
+    "u": "84563", 
+    "t": "/wcsstore/Coles-CAS/images/4/2/1/4213819-th.jpg", 
+    "n": "Brushed Potatoes Prepacked", 
+    "pl": "99"
+}

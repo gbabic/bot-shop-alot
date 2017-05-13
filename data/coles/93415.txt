@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "16 pack"
+        ]
+    }, 
+    "s9": "163853", 
+    "p1": {
+        "o": "5.15"
+    }, 
+    "m": "U By Kotex", 
+    "u2": "$0.32 per 1Ea", 
+    "p": "9498818P", 
+    "s": "u-by-kotex-tampons-super-9498818p", 
+    "u": "93415", 
+    "t": "/wcsstore/Coles-CAS/images/9/4/9/9498818-th.jpg", 
+    "n": "Super Tampons", 
+    "pl": "20"
+}

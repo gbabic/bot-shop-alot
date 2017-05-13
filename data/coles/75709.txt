@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "3 pack"
+        ]
+    }, 
+    "s9": "140209", 
+    "p1": {
+        "l4": "8.79", 
+        "o": "3.99"
+    }, 
+    "m": "Schick", 
+    "t1": "S", 
+    "p": "6013592P", 
+    "s": "schick-quattro-razor-disposable-for-women-with-aloe-vitamin-e", 
+    "n": "Quattro Disposable Razor for Women with Aloe & Vitamin E", 
+    "u": "75709", 
+    "t": "/wcsstore/Coles-CAS/images/6/0/1/6013592-th.jpg", 
+    "u2": "$1.33 per 1Ea", 
+    "pl": "12"
+}

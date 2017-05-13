@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "175g"
+        ]
+    }, 
+    "s9": "369593", 
+    "p1": {
+        "o": "2.41"
+    }, 
+    "m": "Mastefoods", 
+    "s7": "", 
+    "u2": "$1.38 per 100G", 
+    "p": "1868185P", 
+    "s": "mastefoods-butter-chicken-recipe-base", 
+    "u": "369520", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/6/1868185-th.jpg", 
+    "n": "Butter Chicken Recipe Base", 
+    "pl": "20"
+}

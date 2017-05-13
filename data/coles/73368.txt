@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "168g"
+        ]
+    }, 
+    "s9": "134257", 
+    "p1": {
+        "l4": "2.86", 
+        "o": "2.2"
+    }, 
+    "m": "Mission", 
+    "t1": "S", 
+    "p": "6770124P", 
+    "s": "mission-taco-shells-regular", 
+    "n": "Regular Taco Shells", 
+    "u": "73368", 
+    "t": "/wcsstore/Coles-CAS/images/6/7/7/6770124-th.jpg", 
+    "u2": "$1.31 per 100G", 
+    "pl": "12"
+}

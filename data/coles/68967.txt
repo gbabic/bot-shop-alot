@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "127882", 
+    "p1": {
+        "o": "3.74"
+    }, 
+    "m": "Buontempo", 
+    "u2": "$0.75 per 100G", 
+    "p": "7248944P", 
+    "s": "buontempo-rice-pasta-spirals-gluten-free", 
+    "u": "68967", 
+    "t": "/wcsstore/Coles-CAS/images/7/2/4/7248944-th.jpg", 
+    "n": "Gluten Free Spirals Pasta", 
+    "pl": "20"
+}

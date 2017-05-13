@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "s9": "137587", 
+    "p1": {
+        "o": "4.0"
+    }, 
+    "m": "Yumi's", 
+    "u2": "$2.00 per 100G", 
+    "p": "6416635P", 
+    "s": "yumis-dip-eggplant-shallots", 
+    "u": "71071", 
+    "t": "/wcsstore/Coles-CAS/images/6/4/1/6416635-th.jpg", 
+    "n": "Eggplant Shallots Dip", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "113g"
+        ]
+    }, 
+    "s9": "251236", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "m": "Simply 7", 
+    "u2": "$4.87 per 100G", 
+    "p": "1478260P", 
+    "s": "simply-7-chips-with-sea-salt", 
+    "u": "251007", 
+    "t": "/wcsstore/Coles-CAS/images/1/4/7/1478260-th.jpg", 
+    "n": "Lentil Chips With Sea Salt", 
+    "pl": "20"
+}

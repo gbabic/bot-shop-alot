@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "2.7kg"
+        ]
+    }, 
+    "s9": "648504", 
+    "p1": {
+        "o": "19.8"
+    }, 
+    "m": "Applaws Its All Good", 
+    "u2": "$0.73 per 100G", 
+    "p": "2820118P", 
+    "s": "applaws-its-all-good-chckn-trk-all-breed-d-f", 
+    "u": "648501", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/2/2820118-th.jpg", 
+    "n": "Chckn&trk All Breed D/f", 
+    "pl": "99"
+}

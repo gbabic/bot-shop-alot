@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "30 pack"
+        ]
+    }, 
+    "s9": "162141", 
+    "p1": {
+        "o": "3.41"
+    }, 
+    "m": "Multix", 
+    "u2": "$0.11 per 1Ea", 
+    "p": "9841921P", 
+    "s": "multix-tidy-bags-with-handles-100%-degradable-medium", 
+    "u": "96409", 
+    "t": "/wcsstore/Coles-CAS/images/9/8/4/9841921-th.jpg", 
+    "n": "Medium Degradable Kitchen Tidy Bags", 
+    "pl": "20"
+}

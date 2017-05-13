@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400g"
+        ]
+    }, 
+    "s9": "477146", 
+    "p1": {
+        "o": "4.13"
+    }, 
+    "m": "Pura", 
+    "u2": "$1.03 per 100G", 
+    "p": "2310133P", 
+    "s": "pura-light-sour-cream", 
+    "u": "477017", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/1/2310133-th.jpg", 
+    "n": "Light Sour Cream", 
+    "pl": "20"
+}

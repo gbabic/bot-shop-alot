@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "0.5"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 500g pack"
+        ]
+    }, 
+    "s9": "137407", 
+    "p1": {
+        "o": "6.5"
+    }, 
+    "m": "M & M Kosher", 
+    "s7": "Indicated price based on approx. weight. Weight may vary between 450g and 550g.", 
+    "u2": "$13.00 per 1Kg", 
+    "p": "6674958P", 
+    "s": "m-m-kosher-chicken-maryland", 
+    "u": "72117", 
+    "t": "/wcsstore/Coles-CAS/images/6/6/7/6674958-th.jpg", 
+    "n": "Chicken Maryland", 
+    "pl": "99"
+}

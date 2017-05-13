@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Fruit & Vegetables"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "0.23"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "32904", 
+    "p1": {
+        "o": "1.38"
+    }, 
+    "m": "Coles", 
+    "s7": "Each swede approx. 230g; Product of Australia.", 
+    "u2": "$6.00 per 1Kg", 
+    "p": "4966930P", 
+    "s": "swedes-loose", 
+    "u": "17236", 
+    "t": "/wcsstore/Coles-CAS/images/4/9/6/4966930-th.jpg", 
+    "n": "Swedes", 
+    "pl": "99"
+}

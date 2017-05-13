@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Clothing"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 pack"
+        ]
+    }, 
+    "u2": "$7.00 per 1ea", 
+    "s9": "192341", 
+    "p1": {
+        "l4": "14.0", 
+        "o": "7.0"
+    }, 
+    "s7": "", 
+    "m": "Holeproof", 
+    "n": "Mens Explorer Socks Black size 6-10", 
+    "p": "5291705P", 
+    "s": "explorer-socks-mens-short-black-size-6-11", 
+    "u": "189746", 
+    "t": "/wcsstore/Coles-CAS/images/5/2/9/5291705-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "30mL"
+        ]
+    }, 
+    "s9": "414118", 
+    "p1": {
+        "o": "10.95"
+    }, 
+    "m": "L'Oreal", 
+    "u2": "$36.50 per 100mL", 
+    "p": "1850383P", 
+    "s": "loreal-elvive-fibralogy-double-serum", 
+    "u": "413662", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/5/1850383-th.jpg", 
+    "n": "Elvive Fibralogy Double Serum", 
+    "pl": "20"
+}

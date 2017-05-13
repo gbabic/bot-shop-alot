@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "s9": "152735", 
+    "p1": {
+        "o": "4.5"
+    }, 
+    "m": "Golden Days", 
+    "u2": "$2.25 per 100G", 
+    "p": "9806851P", 
+    "s": "golden-days-bites-apricot-multi", 
+    "u": "93144", 
+    "t": "/wcsstore/Coles-CAS/images/9/8/0/9806851-th.jpg", 
+    "n": "Bites Apricot Multi", 
+    "pl": "20"
+}

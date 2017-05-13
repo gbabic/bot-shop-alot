@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "450g"
+        ]
+    }, 
+    "s9": "113382", 
+    "p1": {
+        "l4": "2.92", 
+        "o": "2.0"
+    }, 
+    "m": "Fantastic", 
+    "t1": "S", 
+    "p": "8679624P", 
+    "s": "fantastic-noodles-fresh-hokkien", 
+    "n": "Hokkien Noodles", 
+    "u": "52414", 
+    "t": "/wcsstore/Coles-CAS/images/8/6/7/8679624-th.jpg", 
+    "u2": "$0.44 per 100G", 
+    "pl": "12"
+}

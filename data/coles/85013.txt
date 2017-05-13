@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "147045", 
+    "p1": {
+        "l4": "2.75", 
+        "o": "1.9"
+    }, 
+    "m": "Barilla", 
+    "t1": "V", 
+    "p": "469912P", 
+    "s": "barilla-pasta-penne-rigate-no-73", 
+    "n": "Penne Rigate Pasta No 73", 
+    "u": "85013", 
+    "t": "/wcsstore/Coles-CAS/images/4/6/9/469912-th.jpg", 
+    "u2": "$0.38 per 100G", 
+    "pl": "12"
+}

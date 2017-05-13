@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "340g"
+        ]
+    }, 
+    "s9": "489041", 
+    "p1": {
+        "o": "7.15"
+    }, 
+    "m": "Syndian", 
+    "u2": "$2.10 per 100G", 
+    "p": "2351480P", 
+    "s": "syndian-frozen-adzuki-kumara-burger", 
+    "u": "489011", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/5/2351480-th.jpg", 
+    "n": "Frozen Adzuki & Kumara Burger", 
+    "pl": "20"
+}

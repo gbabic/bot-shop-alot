@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 pack"
+        ]
+    }, 
+    "s9": "377136", 
+    "p1": {
+        "l4": "10.95", 
+        "o": "9.95"
+    }, 
+    "m": "Magazine", 
+    "s7": "Cover may not depict edition offered for sale", 
+    "u2": "$9.95 per 1Ea", 
+    "p": "7922239P", 
+    "s": "magazine-outback", 
+    "u": "377012", 
+    "t": "/wcsstore/Coles-CAS/images/7/9/2/7922239-th.jpg", 
+    "n": "Outback", 
+    "pl": "20"
+}

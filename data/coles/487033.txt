@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "280g"
+        ]
+    }, 
+    "s9": "487136", 
+    "p1": {
+        "o": "6.6"
+    }, 
+    "m": "Latina", 
+    "u2": "$2.36 per 100G", 
+    "p": "2271530P", 
+    "s": "latina-fresh-gluten-free-lasagna-sheets", 
+    "u": "487033", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/7/2271530-th.jpg", 
+    "n": "Gluten Free Lasagna Sheets", 
+    "pl": "20"
+}

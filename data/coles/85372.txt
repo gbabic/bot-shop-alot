@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "50mL"
+        ]
+    }, 
+    "s9": "150882", 
+    "p1": {
+        "o": "1.21"
+    }, 
+    "m": "Queen", 
+    "u2": "$0.24 per 10mL", 
+    "p": "194450P", 
+    "s": "queen-food-colouring-blue", 
+    "u": "85372", 
+    "t": "/wcsstore/Coles-CAS/images/1/9/4/194450-th.jpg", 
+    "n": "Blue Food Colouring", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "106g"
+        ]
+    }, 
+    "s9": "151397", 
+    "p1": {
+        "o": "1.82"
+    }, 
+    "m": "Brunswick", 
+    "u2": "$17.17 per 1Kg", 
+    "p": "227469P", 
+    "s": "brunswick-sardines-in-tomato-sauce", 
+    "u": "88423", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/7/227469-th.jpg", 
+    "n": "Sardines in Tomato Sauce", 
+    "pl": "20"
+}

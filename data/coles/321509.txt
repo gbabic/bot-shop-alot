@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "0.5"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 500g"
+        ]
+    }, 
+    "s9": "321513", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "m": "Coles", 
+    "s7": "Indicated price based on approx. weight. Weight may vary between 450g and 550g.", 
+    "u2": "$11.00 per 1Kg", 
+    "p": "1848290P", 
+    "s": "coles-deli-ham---hocks", 
+    "u": "321509", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/4/1848290-th.jpg", 
+    "n": "Ham Hocks", 
+    "pl": "20"
+}

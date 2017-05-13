@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "40g"
+        ]
+    }, 
+    "s9": "146851", 
+    "p1": {
+        "o": "2.2"
+    }, 
+    "m": "Old El Paso", 
+    "u2": "$5.50 per 100G", 
+    "p": "5066050P", 
+    "s": "old-el-paso-fajita-seasoning-mix", 
+    "u": "84819", 
+    "t": "/wcsstore/Coles-CAS/images/5/0/6/5066050-th.jpg", 
+    "n": "Fajita Seasoning Mix", 
+    "pl": "20"
+}

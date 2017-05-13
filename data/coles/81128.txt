@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "s9": "144982", 
+    "p1": {
+        "o": "4.84"
+    }, 
+    "m": "Schwarzkopf", 
+    "u2": "$2.42 per 100G", 
+    "p": "5171736P", 
+    "s": "schwarzkopf-taft-hairspray-strong-hold", 
+    "u": "81128", 
+    "t": "/wcsstore/Coles-CAS/images/5/1/7/5171736-th.jpg", 
+    "n": "Taft Strong Hold Hairspray", 
+    "pl": "20"
+}

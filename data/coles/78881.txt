@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "750g"
+        ]
+    }, 
+    "s9": "140317", 
+    "p1": {
+        "o": "4.17"
+    }, 
+    "m": "Birds Eye", 
+    "u2": "$5.56 per 1Kg", 
+    "p": "5867479P", 
+    "s": "birds-eye-golden-crunch-chips-in-beer-batter-frozen", 
+    "u": "78881", 
+    "t": "/wcsstore/Coles-CAS/images/5/8/6/5867479-th.jpg", 
+    "n": "Golden Crunch Beer Batter Frozen Potato Chips", 
+    "pl": "20"
+}

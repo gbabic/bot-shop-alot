@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Baby"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "64 pack"
+        ]
+    }, 
+    "s9": "502104", 
+    "p1": {
+        "l4": "5.3", 
+        "o": "3.5"
+    }, 
+    "m": "Huggies", 
+    "t1": "S", 
+    "p": "2454202P", 
+    "s": "huggies-ultra-sensitive-baby-wipes", 
+    "n": "Ultra Sensitive Baby Wipes", 
+    "u": "502009", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/5/2454202-th.jpg", 
+    "u2": "$5.47 per 100Ea", 
+    "pl": "12"
+}

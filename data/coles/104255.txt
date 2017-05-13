@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250mL"
+        ]
+    }, 
+    "s9": "160799", 
+    "p1": {
+        "o": "7.7"
+    }, 
+    "m": "Rexona", 
+    "s7": "", 
+    "u2": "$3.08 per 100mL", 
+    "p": "89106P", 
+    "s": "rexona-anti-perspirant-deodorant-aerosol-men", 
+    "u": "104255", 
+    "t": "/wcsstore/Coles-CAS/images/8/9/1/89106-th.jpg", 
+    "n": "Men Moisturising Anti Perspirant Aerosol Deodorant", 
+    "pl": "20"
+}

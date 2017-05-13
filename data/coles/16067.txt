@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "38g"
+        ]
+    }, 
+    "s9": "32246", 
+    "p1": {
+        "o": "2.26"
+    }, 
+    "m": "Coles", 
+    "s7": "", 
+    "u2": "$0.59 per 10G", 
+    "p": "8982961P", 
+    "s": "coles-paprika-ground", 
+    "u": "16067", 
+    "t": "/wcsstore/Coles-CAS/images/8/9/8/8982961-th.jpg", 
+    "n": "Ground Paprika", 
+    "pl": "20"
+}

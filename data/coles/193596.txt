@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "193729", 
+    "p1": {
+        "o": "8.5"
+    }, 
+    "m": "Magazine", 
+    "s7": "Cover may not depict edition offered for sale", 
+    "u2": "$8.50 per 1Ea", 
+    "p": "9767614P", 
+    "s": "magazine-australian-mens-fitness", 
+    "u": "193596", 
+    "t": "/wcsstore/Coles-CAS/images/9/7/6/9767614-th.jpg", 
+    "n": "Australian Men's Fitness", 
+    "pl": "20"
+}

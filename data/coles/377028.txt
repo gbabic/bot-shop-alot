@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "377160", 
+    "p1": {
+        "l4": "7.95", 
+        "o": "6.95"
+    }, 
+    "m": "Magazine", 
+    "s7": "Cover may not depict edition offered for sale", 
+    "u2": "$6.95 per 1Ea", 
+    "p": "4874264P", 
+    "s": "magazine-motorcycle-trader-175", 
+    "u": "377028", 
+    "t": "/wcsstore/Coles-CAS/images/4/8/7/4874264-th.jpg", 
+    "n": "Motorcycle Trader 175", 
+    "pl": "20"
+}

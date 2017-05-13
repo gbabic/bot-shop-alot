@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "440g"
+        ]
+    }, 
+    "s9": "135255", 
+    "p1": {
+        "o": "3.03"
+    }, 
+    "m": "Green's", 
+    "u2": "$0.69 per 100G", 
+    "p": "6970611P", 
+    "s": "greens-traditional-cake-mix-golden-butter", 
+    "u": "73127", 
+    "t": "/wcsstore/Coles-CAS/images/6/9/7/6970611-th.jpg", 
+    "n": "Traditional Golden Butter Cake Mix", 
+    "pl": "20"
+}

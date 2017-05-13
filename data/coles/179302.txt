@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "s9": "179670", 
+    "p1": {
+        "o": "4.73"
+    }, 
+    "m": "Wei Lih", 
+    "u2": "$2.37 per 100G", 
+    "p": "1384542P", 
+    "s": "wei-lih-noodle-bowl-australian-roast-beef", 
+    "u": "179302", 
+    "t": "/wcsstore/Coles-CAS/images/1/3/8/1384542-th.jpg", 
+    "n": "Australian Roast Beef Noodle Bowl", 
+    "pl": "20"
+}

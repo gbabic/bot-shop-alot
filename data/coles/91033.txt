@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "58g"
+        ]
+    }, 
+    "s9": "152946", 
+    "p1": {
+        "l4": "2.59", 
+        "o": "2.1"
+    }, 
+    "m": "Podravka", 
+    "t1": "S", 
+    "p": "9580410P", 
+    "s": "podravka-soup-veg-semolina-dumplings", 
+    "n": "Veg Semolina Dumplings Soup", 
+    "u": "91033", 
+    "t": "/wcsstore/Coles-CAS/images/9/5/8/9580410-th.jpg", 
+    "u2": "$3.62 per 100G", 
+    "pl": "12"
+}

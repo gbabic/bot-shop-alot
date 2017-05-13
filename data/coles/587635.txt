@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "53g"
+        ]
+    }, 
+    "s9": "587712", 
+    "p1": {
+        "o": "3.3"
+    }, 
+    "m": "Cadbury", 
+    "s7": "", 
+    "u2": "$0.62 per 10G", 
+    "p": "2152156P", 
+    "s": "cadbury-dairymilk-chocolate-bar", 
+    "u": "587635", 
+    "t": "/wcsstore/Coles-CAS/images/2/1/5/2152156-th.jpg", 
+    "n": "Dairy Milk Chocolate Bar\u00c2\u00a0", 
+    "pl": "20"
+}

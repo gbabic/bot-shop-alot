@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Baby"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "u2": "$4.00 per 1Ea", 
+    "s9": "359133", 
+    "p1": {
+        "l4": "8.0", 
+        "o": "4.0"
+    }, 
+    "s7": "", 
+    "m": "Bonds", 
+    "n": "Baby Classics Cuff Socks Girl Assorted", 
+    "p": "1723900P", 
+    "s": "bonds-baby-classics-cuff-socks-girl-assorted", 
+    "u": "359082", 
+    "t": "/wcsstore/Coles-CAS/images/1/7/2/1723900-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

@@ -1,0 +1,40 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "160g"
+        ]
+    }, 
+    "pr": "3.50000", 
+    "s9": "672028", 
+    "pq": "2", 
+    "pt": "MultibuyMultiSku", 
+    "u2": "$3.30 per 100G", 
+    "m": "Mars", 
+    "n": "M&M's Chocolate Milk Block", 
+    "p": "2899049P", 
+    "s": "mars-m-ms-block-milk-chocolate", 
+    "p1": {
+        "o": "5.28"
+    }, 
+    "u": "672010", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/9/2899049-th.jpg", 
+    "pd": "2 for $7", 
+    "pi": "10141007", 
+    "t1": "M", 
+    "pl": "12"
+}

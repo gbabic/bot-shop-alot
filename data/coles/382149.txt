@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "10 pack"
+        ]
+    }, 
+    "s9": "382308", 
+    "p1": {
+        "o": "5.96"
+    }, 
+    "m": "Cottons", 
+    "u2": "$0.60 per 1Ea", 
+    "p": "1720220P", 
+    "s": "cottons-maternity-pads", 
+    "u": "382149", 
+    "t": "/wcsstore/Coles-CAS/images/1/7/2/1720220-th.jpg", 
+    "n": "Maternity Pads", 
+    "pl": "20"
+}

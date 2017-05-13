@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "120g"
+        ]
+    }, 
+    "s9": "137073", 
+    "p1": {
+        "o": "1.95"
+    }, 
+    "m": "Rafferty's Garden", 
+    "u2": "$1.63 per 100G", 
+    "p": "6027087P", 
+    "s": "raffertys-garden-4-months-to-1-year-pumpkin--apple-sweetcorn", 
+    "u": "76289", 
+    "t": "/wcsstore/Coles-CAS/images/6/0/2/6027087-th.jpg", 
+    "n": "Pureed Pumpkin Apple & Sweetcorn 4+ Months", 
+    "pl": "20"
+}

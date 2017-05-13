@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Healthy Living"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "40 pack"
+        ]
+    }, 
+    "s9": "152275", 
+    "p1": {
+        "o": "15.4"
+    }, 
+    "m": "Hairy Lemon", 
+    "u2": "$38.50 per 100Ea", 
+    "p": "9924891P", 
+    "s": "hairy-lemon--effervescent-tablets", 
+    "u": "94248", 
+    "t": "/wcsstore/Coles-CAS/images/9/9/2/9924891-th.jpg", 
+    "n": "Effervescent Tablets", 
+    "pl": "20"
+}

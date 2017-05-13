@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500mL"
+        ]
+    }, 
+    "s9": "471594", 
+    "p1": {
+        "l4": "6.6", 
+        "o": "2.69"
+    }, 
+    "m": "Palmolive", 
+    "t1": "S", 
+    "p": "2274776P", 
+    "s": "palmolive-naturals-mens-deep-clean-shower-gel", 
+    "n": "Men Deep Clean Shower Gel", 
+    "u": "471526", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/7/2274776-th.jpg", 
+    "u2": "$0.54 per 100mL", 
+    "pl": "12"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "4 pack"
+        ]
+    }, 
+    "u2": "$6.00 per 1Kg", 
+    "s9": "133648", 
+    "p1": {
+        "o": "3.0"
+    }, 
+    "s7": "", 
+    "m": "Edgell", 
+    "n": "Chickpeas", 
+    "p": "6691050P", 
+    "s": "edgell-chickpeas-125g-cans", 
+    "u": "72781", 
+    "t": "/wcsstore/Coles-CAS/images/6/6/9/6691050-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "49g"
+        ]
+    }, 
+    "s9": "131178", 
+    "p1": {
+        "l4": "2.2", 
+        "o": "1.0"
+    }, 
+    "m": "Mars", 
+    "t1": "S", 
+    "p": "7251224P", 
+    "s": "mars-m-ms-milk-chocolate", 
+    "n": "Milk Chocolate M&M's", 
+    "u": "68401", 
+    "t": "/wcsstore/Coles-CAS/images/7/2/5/7251224-th.jpg", 
+    "u2": "$2.04 per 100G", 
+    "pl": "12"
+}

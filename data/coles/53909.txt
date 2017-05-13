@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "430g"
+        ]
+    }, 
+    "s9": "116300", 
+    "p1": {
+        "o": "6.49"
+    }, 
+    "m": "Kellogg's", 
+    "u2": "$1.51 per 100G", 
+    "p": "8609968P", 
+    "s": "kelloggs-cereal-special-k-fruit-nut", 
+    "u": "53909", 
+    "t": "/wcsstore/Coles-CAS/images/8/6/0/8609968-th.jpg", 
+    "n": "Special K Fruit & Nut Medley", 
+    "pl": "20"
+}

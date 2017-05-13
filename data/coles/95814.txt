@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "95g"
+        ]
+    }, 
+    "s9": "158491", 
+    "p1": {
+        "o": "2.52"
+    }, 
+    "m": "John West", 
+    "u2": "$26.53 per 1Kg", 
+    "p": "9658776P", 
+    "s": "john-west-tempters-salmon-onion-tomato", 
+    "u": "95814", 
+    "t": "/wcsstore/Coles-CAS/images/9/6/5/9658776-th.jpg", 
+    "n": "Tempters Onion & Tomato Salmon", 
+    "pl": "20"
+}

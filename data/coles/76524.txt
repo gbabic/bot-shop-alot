@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "283g"
+        ]
+    }, 
+    "s9": "140462", 
+    "p1": {
+        "o": "3.25"
+    }, 
+    "m": "Maharajah's Choice", 
+    "u2": "$1.15 per 100G", 
+    "p": "5662636P", 
+    "s": "maharajahs-choice-dhal-tadka-ready-meal", 
+    "u": "76524", 
+    "t": "/wcsstore/Coles-CAS/images/5/6/6/5662636-th.jpg", 
+    "n": "Dhal Tadka Meal Kit", 
+    "pl": "20"
+}

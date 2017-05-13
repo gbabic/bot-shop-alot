@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "20m"
+        ]
+    }, 
+    "s9": "652035", 
+    "p1": {
+        "l4": "4.4", 
+        "o": "4.0"
+    }, 
+    "m": "Glad Freezer", 
+    "t1": "N", 
+    "p": "2860010P", 
+    "s": "glad-freezer-wrap", 
+    "n": "Wrap", 
+    "u": "652019", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/6/2860010-th.jpg", 
+    "u2": "$0.20 per 1M", 
+    "pl": "12"
+}

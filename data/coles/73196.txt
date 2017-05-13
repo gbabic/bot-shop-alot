@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 pack"
+        ]
+    }, 
+    "s9": "135943", 
+    "p1": {
+        "o": "1.49"
+    }, 
+    "m": "Maynards", 
+    "u2": "$1.49 per 1Ea", 
+    "p": "6920090P", 
+    "s": "maynards-original-wine-gum-rolls", 
+    "u": "73196", 
+    "t": "/wcsstore/Coles-CAS/images/6/9/2/6920090-th.jpg", 
+    "n": "Original Wine Gum Rolls", 
+    "pl": "20"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "40g"
+        ]
+    }, 
+    "s9": "403668", 
+    "p1": {
+        "l4": "2.85", 
+        "o": "2.0"
+    }, 
+    "m": "The Bar Counter", 
+    "t1": "S", 
+    "p": "1994678P", 
+    "s": "the-bar-counter-no-added-sugar-salted-caramel-banana-bar", 
+    "n": "No Added Sugar Salted Caramel & Banana Bar", 
+    "u": "403601", 
+    "t": "/wcsstore/Coles-CAS/images/1/9/9/1994678-th.jpg", 
+    "u2": "$5.00 per 100G", 
+    "pl": "12"
+}

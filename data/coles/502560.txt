@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400g"
+        ]
+    }, 
+    "s9": "502657", 
+    "p1": {
+        "o": "8.25"
+    }, 
+    "m": "Syndian", 
+    "u2": "$2.06 per 100G", 
+    "p": "2351538P", 
+    "s": "syndian-dal-makhani-curry", 
+    "u": "502560", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/5/2351538-th.jpg", 
+    "n": "Dal Makhani Curry", 
+    "pl": "20"
+}

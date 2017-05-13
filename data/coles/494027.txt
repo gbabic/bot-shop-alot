@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "55g"
+        ]
+    }, 
+    "s9": "494097", 
+    "p1": {
+        "l4": "2.2", 
+        "o": "1.0"
+    }, 
+    "m": "Nestle", 
+    "t1": "S", 
+    "p": "2026140P", 
+    "s": "nestle-chunky-caramel-chocolate-kit-kat", 
+    "n": "Chunky Caramel Chocolate Kit Kat", 
+    "u": "494027", 
+    "t": "/wcsstore/Coles-CAS/images/2/0/2/2026140-th.jpg", 
+    "u2": "$1.82 per 100G", 
+    "pl": "12"
+}

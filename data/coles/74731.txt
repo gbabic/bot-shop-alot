@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "12 pack"
+        ]
+    }, 
+    "s9": "136139", 
+    "p1": {
+        "l4": "4.18", 
+        "o": "3.0"
+    }, 
+    "m": "Mission", 
+    "t1": "S", 
+    "p": "6768745P", 
+    "s": "mission-tortillas-white-corn-12-pack", 
+    "n": "White Corn Tortillas", 
+    "u": "74731", 
+    "t": "/wcsstore/Coles-CAS/images/6/7/6/6768745-th.jpg", 
+    "u2": "$0.96 per 100G", 
+    "pl": "12"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "60g"
+        ]
+    }, 
+    "s9": "427801", 
+    "p1": {
+        "o": "4.39"
+    }, 
+    "m": "Planet Food", 
+    "u2": "$73.18 per 1Kg", 
+    "p": "1995309P", 
+    "s": "planet-food-dried-coconut-fruit-chips", 
+    "u": "427586", 
+    "t": "/wcsstore/Coles-CAS/images/1/9/9/1995309-th.jpg", 
+    "n": "Dried Coconut Fruit Chips", 
+    "pl": "20"
+}

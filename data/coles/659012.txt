@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Socks & Jocks"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 pack"
+        ]
+    }, 
+    "s9": "659041", 
+    "p1": {
+        "l4": "27.5", 
+        "o": "20.0"
+    }, 
+    "m": "Scholl Light Legs", 
+    "t1": "N", 
+    "p": "2864339P", 
+    "s": "scholl-light-legs-black-60-den-large", 
+    "n": "Black 60 Den Large", 
+    "u": "659012", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/6/2864339-th.jpg", 
+    "u2": "$20.00 per 1Ea", 
+    "pl": "12"
+}

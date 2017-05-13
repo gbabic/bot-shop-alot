@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "385mL"
+        ]
+    }, 
+    "s9": "629611", 
+    "p1": {
+        "l4": "19.79", 
+        "o": "8.5"
+    }, 
+    "m": "Ogx", 
+    "t1": "S", 
+    "p": "2676179P", 
+    "s": "ogx--quenching-coconut-curls-conditioner", 
+    "n": "Quenching Coconut Curls Conditioner", 
+    "u": "629549", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/7/2676179-th.jpg", 
+    "u2": "$2.21 per 100mL", 
+    "pl": "12"
+}

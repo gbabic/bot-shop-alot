@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "10 pack"
+        ]
+    }, 
+    "s9": "147041", 
+    "p1": {
+        "l4": "10.44", 
+        "o": "4.74"
+    }, 
+    "m": "Schick", 
+    "t1": "S", 
+    "p": "4702021P", 
+    "s": "schick-xtreme-3-razor-disposable-sensitive-with-aloe-value-pack", 
+    "n": "Xtreme 3 Sensitive Disposable Razor with Aloe", 
+    "u": "85011", 
+    "t": "/wcsstore/Coles-CAS/images/4/7/0/4702021-th.jpg", 
+    "u2": "$0.47 per 1Ea", 
+    "pl": "12"
+}

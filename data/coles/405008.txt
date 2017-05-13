@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "8 pack"
+        ]
+    }, 
+    "s9": "405070", 
+    "p1": {
+        "o": "14.03"
+    }, 
+    "m": "Depend", 
+    "u2": "$1.75 per 1Ea", 
+    "p": "2065867P", 
+    "s": "depend-real-fit-womens-large-underwear", 
+    "u": "405008", 
+    "t": "/wcsstore/Coles-CAS/images/2/0/6/2065867-th.jpg", 
+    "n": "Real Fit Large Fitted Briefs for Women", 
+    "pl": "20"
+}

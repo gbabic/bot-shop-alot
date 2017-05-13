@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "3.5mL"
+        ]
+    }, 
+    "s9": "128851", 
+    "p1": {
+        "o": "15.95"
+    }, 
+    "m": "Rimmel", 
+    "u2": "$45.57 per 10mL", 
+    "p": "7136576P", 
+    "s": "rimmel-glam-eyes-professional-eye-liner-black", 
+    "u": "68528", 
+    "t": "/wcsstore/Coles-CAS/images/7/1/3/7136576-th.jpg", 
+    "n": "Glam Eyes Professional Black Liquid Eyeliner", 
+    "pl": "20"
+}

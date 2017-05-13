@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "170mL"
+        ]
+    }, 
+    "s9": "473750", 
+    "p1": {
+        "o": "14.25"
+    }, 
+    "m": "L'Oreal", 
+    "u2": "$8.38 per 100mL", 
+    "p": "2340859P", 
+    "s": "loreal-elnette-volume-heat-spray", 
+    "u": "473558", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/4/2340859-th.jpg", 
+    "n": "Elnett Volume Heat Spray", 
+    "pl": "20"
+}

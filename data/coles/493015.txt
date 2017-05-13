@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "493026", 
+    "p1": {
+        "o": "7.65"
+    }, 
+    "m": "Maybelline", 
+    "u2": "$7.65 per 1Ea", 
+    "p": "2363720P", 
+    "s": "maybelline-babylips-candy-wow-raspberry-tangy", 
+    "u": "493015", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/6/2363720-th.jpg", 
+    "n": "Babylips Candy Wow Raspberry Tangy", 
+    "pl": "20"
+}

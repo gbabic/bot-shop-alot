@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400mL"
+        ]
+    }, 
+    "s9": "673115", 
+    "p1": {
+        "l4": "16.5", 
+        "o": "15.0"
+    }, 
+    "m": "L'oreal", 
+    "t1": "N", 
+    "p": "2857763P", 
+    "s": "loreal--micellar-water-fresh", 
+    "n": "Micellar Water Fresh", 
+    "u": "673034", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/5/2857763-th.jpg", 
+    "u2": "$3.75 per 100mL", 
+    "pl": "12"
+}

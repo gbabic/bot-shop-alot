@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "143g"
+        ]
+    }, 
+    "s9": "512042", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "m": "Masterfoods", 
+    "u2": "$0.38 per 10G", 
+    "p": "2473193P", 
+    "s": "masterfoods-taco-seasoning", 
+    "u": "512016", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/7/2473193-th.jpg", 
+    "n": "Taco Seasoning", 
+    "pl": "20"
+}

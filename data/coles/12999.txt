@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "90g"
+        ]
+    }, 
+    "s9": "31121", 
+    "p1": {
+        "l4": "2.56", 
+        "o": "1.16"
+    }, 
+    "m": "Sakata", 
+    "t1": "S", 
+    "p": "6982406P", 
+    "s": "sakata-rice-crackers-seaweed", 
+    "n": "Seaweed Rice Crackers", 
+    "u": "12999", 
+    "t": "/wcsstore/Coles-CAS/images/6/9/8/6982406-th.jpg", 
+    "u2": "$1.29 per 100G", 
+    "pl": "12"
+}

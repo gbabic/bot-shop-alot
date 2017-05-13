@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "535g"
+        ]
+    }, 
+    "s9": "131045", 
+    "p1": {
+        "o": "4.06"
+    }, 
+    "m": "Lion", 
+    "u2": "$0.76 per 100G", 
+    "p": "7384986P", 
+    "s": "anchor-lion-australian-classics-flour-scone-mix", 
+    "u": "69624", 
+    "t": "/wcsstore/Coles-CAS/images/7/3/8/7384986-th.jpg", 
+    "n": "Australian Classics Scone Mix", 
+    "pl": "20"
+}

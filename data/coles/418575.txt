@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Baby"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 pack"
+        ]
+    }, 
+    "u2": "$16.95 per 1Ea", 
+    "s9": "418688", 
+    "p1": {
+        "l4": "19.95", 
+        "o": "16.95"
+    }, 
+    "s7": "", 
+    "m": "Pigeon", 
+    "n": "Mag Mag All In One Cup Set", 
+    "p": "1736435P", 
+    "s": "pigeon-mag-mag-all-in-one-cup-set", 
+    "u": "418575", 
+    "t": "/wcsstore/Coles-CAS/images/1/7/3/1736435-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

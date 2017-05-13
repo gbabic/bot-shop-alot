@@ -1,0 +1,32 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "0.6"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 600g"
+        ]
+    }, 
+    "s9": "535099", 
+    "p1": {}, 
+    "m": "Coles", 
+    "s7": "Indicated price based on approx. weight. Weight may vary between 550g and 650g", 
+    "n": "RSPCA Approved Chicken Lovely Legs", 
+    "p": "2265720P", 
+    "s": "coles-rspca-approved-chicken-lovely-legs-2265720p", 
+    "u": "535024", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/6/2265720-th.jpg", 
+    "a6": false
+}

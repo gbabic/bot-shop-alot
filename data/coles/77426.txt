@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Baby"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400g"
+        ]
+    }, 
+    "s9": "140096", 
+    "p1": {
+        "o": "4.5"
+    }, 
+    "m": "Johnson & Johnson", 
+    "u2": "$1.13 per 100G", 
+    "p": "5263142P", 
+    "s": "johnsons-baby-powder-5263142p", 
+    "u": "77426", 
+    "t": "/wcsstore/Coles-CAS/images/5/2/6/5263142-th.jpg", 
+    "n": "Baby Powder", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "470g"
+        ]
+    }, 
+    "s9": "679668", 
+    "p1": {
+        "o": "3.74"
+    }, 
+    "m": "Fehlbergs", 
+    "u2": "$7.48 per 1Kg", 
+    "p": "2748542P", 
+    "s": "fehlbergs-sliced-pickled-jalapenos", 
+    "u": "679540", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/4/2748542-th.jpg", 
+    "n": "Sliced Pickled Jalapenos", 
+    "pl": "20"
+}

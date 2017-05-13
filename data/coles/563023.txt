@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "475g"
+        ]
+    }, 
+    "s9": "563095", 
+    "p1": {
+        "o": "3.85"
+    }, 
+    "m": "Chicken Tonight", 
+    "s7": "", 
+    "u2": "$0.81 per 100G", 
+    "p": "2678390P", 
+    "s": "continental-chicken-tonight-mushroom-sweetcorn-extra-sauce-meal-base", 
+    "u": "563023", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/7/2678390-th.jpg", 
+    "n": "Creamy Mushroom & Sweetcorn Extra Vegetables Meal Base", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "16g"
+        ]
+    }, 
+    "s9": "414924", 
+    "p1": {
+        "o": "13.15"
+    }, 
+    "m": "Maybelline", 
+    "u2": "$8.22 per 10G", 
+    "p": "1856084P", 
+    "s": "maybelline-matte-maker-classic-ivory-10-powder", 
+    "u": "414696", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/5/1856084-th.jpg", 
+    "n": "Matte Maker Classic Ivory 10 Powder", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "60g"
+        ]
+    }, 
+    "s9": "131029", 
+    "p1": {
+        "o": "4.5"
+    }, 
+    "m": "Aussie Bodies", 
+    "u2": "$7.50 per 100G", 
+    "p": "7393160P", 
+    "s": "aussie-bodies-fx-low-carb-bar-chocolate-mint", 
+    "u": "68243", 
+    "t": "/wcsstore/Coles-CAS/images/7/3/9/7393160-th.jpg", 
+    "n": "FX Low Carb Mint Chocolate Protein Bar", 
+    "pl": "20"
+}

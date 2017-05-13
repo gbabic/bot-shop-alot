@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400g"
+        ]
+    }, 
+    "s9": "203646", 
+    "p1": {
+        "o": "7.7"
+    }, 
+    "m": "Genius", 
+    "u2": "$1.93 per 100G", 
+    "p": "1221231P", 
+    "s": "genius-gluten-free-pastry-shortcrust", 
+    "u": "203510", 
+    "t": "/wcsstore/Coles-CAS/images/1/2/2/1221231-th.jpg", 
+    "n": "Gluten Free Frozen Shortcrust Pastry", 
+    "pl": "20"
+}

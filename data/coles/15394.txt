@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "2.5kg"
+        ]
+    }, 
+    "s9": "38237", 
+    "p1": {
+        "l4": "12.05", 
+        "o": "7.0"
+    }, 
+    "m": "Pedigree", 
+    "t1": "S", 
+    "p": "7978721P", 
+    "s": "pedigree-dog-food-small-breed-beef-vegetables", 
+    "n": "Small Breed Complete Nutrition with Beef & Vegies Dry Dog Food", 
+    "u": "15394", 
+    "t": "/wcsstore/Coles-CAS/images/7/9/7/7978721-th.jpg", 
+    "u2": "$0.28 per 100G", 
+    "pl": "12"
+}

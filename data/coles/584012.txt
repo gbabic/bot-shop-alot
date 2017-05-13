@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "70g"
+        ]
+    }, 
+    "s9": "584156", 
+    "p1": {
+        "o": "2.09"
+    }, 
+    "m": "Kettle", 
+    "u2": "$2.99 per 100G", 
+    "p": "2670059P", 
+    "s": "kettle-sea-salt-vinegar-potato-chips", 
+    "u": "584012", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/7/2670059-th.jpg", 
+    "n": "Sea Salt & Vinegar Potato Chips", 
+    "pl": "20"
+}

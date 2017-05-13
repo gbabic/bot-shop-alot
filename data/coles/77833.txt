@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "12.7mL"
+        ]
+    }, 
+    "s9": "139267", 
+    "p1": {
+        "o": "14.3"
+    }, 
+    "m": "Maybelline", 
+    "u2": "$11.26 per 10mL", 
+    "p": "5553288P", 
+    "s": "maybelline-mascara-waterproof-great-lash-very-black", 
+    "u": "77833", 
+    "t": "/wcsstore/Coles-CAS/images/5/5/5/5553288-th.jpg", 
+    "n": "Great Lash Waterproof Very Black Mascara", 
+    "pl": "20"
+}

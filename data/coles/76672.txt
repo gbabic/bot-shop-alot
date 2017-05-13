@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "330g"
+        ]
+    }, 
+    "s9": "142317", 
+    "p1": {
+        "o": "4.9"
+    }, 
+    "m": "Kras", 
+    "u2": "$1.48 per 100G", 
+    "p": "5400447P", 
+    "s": "kras-napolitanke-wafers-hazelnut", 
+    "u": "76672", 
+    "t": "/wcsstore/Coles-CAS/images/5/4/0/5400447-th.jpg", 
+    "n": "Napolitanke Hazelnut Wafers", 
+    "pl": "20"
+}

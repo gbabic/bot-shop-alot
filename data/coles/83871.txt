@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "66g"
+        ]
+    }, 
+    "s9": "144748", 
+    "p1": {
+        "o": "2.53"
+    }, 
+    "m": "Gefen", 
+    "s7": "", 
+    "u2": "$3.83 per 100G", 
+    "p": "4402866P", 
+    "s": "gefen-soup-vegetable", 
+    "u": "83871", 
+    "t": "/wcsstore/Coles-CAS/images/4/4/0/4402866-th.jpg", 
+    "n": "Vegetable Soup", 
+    "pl": "20"
+}

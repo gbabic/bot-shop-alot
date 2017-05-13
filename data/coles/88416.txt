@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400g"
+        ]
+    }, 
+    "s9": "151386", 
+    "p1": {
+        "l4": "5.83", 
+        "o": "4.0"
+    }, 
+    "m": "Nerada", 
+    "t1": "S", 
+    "p": "24304P", 
+    "s": "nerada-cup-or-pot--tea-bags", 
+    "n": "Cup or Pot Tea Bags 200 pack", 
+    "u": "88416", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/3/24304-th.jpg", 
+    "u2": "$1.00 per 100G", 
+    "pl": "12"
+}

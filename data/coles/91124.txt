@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "5kg"
+        ]
+    }, 
+    "s9": "163847", 
+    "p1": {
+        "o": "13.2"
+    }, 
+    "m": "White Wings", 
+    "u2": "$2.64 per 1Kg", 
+    "p": "9512533P", 
+    "s": "white-wings-flour-self-raising-9512533p", 
+    "u": "91124", 
+    "t": "/wcsstore/Coles-CAS/images/9/5/1/9512533-th.jpg", 
+    "n": "Self Raising Flour", 
+    "pl": "20"
+}

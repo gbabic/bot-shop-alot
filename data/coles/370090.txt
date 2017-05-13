@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "160g"
+        ]
+    }, 
+    "s9": "370271", 
+    "p1": {
+        "o": "6.16"
+    }, 
+    "m": "Carman's", 
+    "u2": "$3.85 per 100G", 
+    "p": "1905237P", 
+    "s": "carmans-dark-choc-espresso-nut-bars-5-pack", 
+    "u": "370090", 
+    "t": "/wcsstore/Coles-CAS/images/1/9/0/1905237-th.jpg", 
+    "n": "Dark Choc Espresso Nut Bars 5 pack", 
+    "pl": "20"
+}

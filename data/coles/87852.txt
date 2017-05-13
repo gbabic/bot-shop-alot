@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "20g"
+        ]
+    }, 
+    "s9": "147305", 
+    "p1": {
+        "l4": "2.97", 
+        "o": "1.0"
+    }, 
+    "m": "Twinings", 
+    "t1": "S", 
+    "p": "341792P", 
+    "s": "twinings-classics-tea-bags-earl-grey-341792p", 
+    "n": "Earl Grey Tea Bags 10 pack", 
+    "u": "87852", 
+    "t": "/wcsstore/Coles-CAS/images/3/4/1/341792-th.jpg", 
+    "u2": "$5.00 per 100G", 
+    "pl": "12"
+}

@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1L"
+        ]
+    }, 
+    "s9": "120894", 
+    "p1": {
+        "o": "8.49"
+    }, 
+    "m": "Palmolive", 
+    "t1": "V", 
+    "p": "8180212P", 
+    "s": "palmolive-naturals-shower-gel-pomegranate-mango", 
+    "n": "Pomegranate & Mango Shower Gel", 
+    "u": "53218", 
+    "t": "/wcsstore/Coles-CAS/images/8/1/8/8180212-th.jpg", 
+    "u2": "$0.85 per 100mL", 
+    "pl": "20"
+}

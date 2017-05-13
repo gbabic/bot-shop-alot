@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500mL"
+        ]
+    }, 
+    "s9": "673107", 
+    "p1": {
+        "l4": "14.3", 
+        "o": "13.0"
+    }, 
+    "m": "Gaviscon Double Strength", 
+    "t1": "N", 
+    "p": "2865160P", 
+    "s": "gaviscon-double-strength-aniseed", 
+    "n": "Aniseed", 
+    "u": "673055", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/6/2865160-th.jpg", 
+    "u2": "$2.60 per 100mL", 
+    "pl": "12"
+}

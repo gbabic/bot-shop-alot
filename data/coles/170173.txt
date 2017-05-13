@@ -1,0 +1,40 @@
+{
+    "a": {
+        "D": [
+            "LIQUOR"
+        ], 
+        "P8": [
+            "Alcohol"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "true"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "750mL"
+        ]
+    }, 
+    "u2": "$1.33 per 100mL", 
+    "s9": "170436", 
+    "p1": {
+        "l4": "18.19", 
+        "o": "10.0"
+    }, 
+    "s7": "", 
+    "m": "Devil's Lair 5th Leg", 
+    "n": "Shiraz", 
+    "p": "1202292P", 
+    "s": "devils-lair-5th-leg-shiraz", 
+    "u": "170173", 
+    "t": "/wcsstore/Coles-CAS/images/1/2/0/1202292-th.jpg", 
+    "t1": "S", 
+    "pl": "4"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "38g"
+        ]
+    }, 
+    "s9": "583650", 
+    "p1": {
+        "o": "1.79"
+    }, 
+    "m": "Continental", 
+    "u2": "$4.71 per 100G", 
+    "p": "2746059P", 
+    "s": "continental-smoky-pulled-pork-recipe-mix", 
+    "u": "583509", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/4/2746059-th.jpg", 
+    "n": "Smoky Pulled Pork Recipe Mix", 
+    "pl": "99"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "120g"
+        ]
+    }, 
+    "s9": "168882", 
+    "p1": {
+        "l4": "2.29", 
+        "o": "1.8"
+    }, 
+    "m": "Lee Kum Kee", 
+    "t1": "S", 
+    "p": "8774319P", 
+    "s": "lee-kum-kee-ready-sauce-honey-soy-chicken", 
+    "n": "Honey Soy Chicken Sauce", 
+    "u": "45712", 
+    "t": "/wcsstore/Coles-CAS/images/8/7/7/8774319-th.jpg", 
+    "u2": "$1.50 per 100G", 
+    "pl": "12"
+}

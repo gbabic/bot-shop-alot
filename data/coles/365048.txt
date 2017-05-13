@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "10 pack"
+        ]
+    }, 
+    "s9": "365113", 
+    "p1": {
+        "o": "5.0"
+    }, 
+    "m": "Faber Castell", 
+    "u2": "$0.50 per 1Ea", 
+    "p": "1839766P", 
+    "s": "faber-castell-connector-pens-1839766p", 
+    "u": "365048", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/3/1839766-th.jpg", 
+    "n": "Connector Pens", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "43g"
+        ]
+    }, 
+    "s9": "136944", 
+    "p1": {
+        "o": "0.01"
+    }, 
+    "m": "Allen's", 
+    "u2": "$0.02 per 100G", 
+    "p": "6336762P", 
+    "s": "allens-killer-python", 
+    "u": "79253", 
+    "t": "/wcsstore/Coles-CAS/images/6/3/3/6336762-th.jpg", 
+    "n": "Jelly Lollies Killer Python", 
+    "pl": "99"
+}

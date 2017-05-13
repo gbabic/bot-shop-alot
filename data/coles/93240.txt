@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "95g"
+        ]
+    }, 
+    "s9": "158492", 
+    "p1": {
+        "o": "2.2"
+    }, 
+    "m": "John West", 
+    "u2": "$23.16 per 1Kg", 
+    "p": "9658663P", 
+    "s": "john-west-tempters-tuna-natural-smoke-flavour", 
+    "u": "93240", 
+    "t": "/wcsstore/Coles-CAS/images/9/6/5/9658663-th.jpg", 
+    "n": "Tempters Natural Smoke Flavour Tuna", 
+    "pl": "20"
+}

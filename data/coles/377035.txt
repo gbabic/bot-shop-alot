@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "377158", 
+    "p1": {
+        "l4": "4.99", 
+        "o": "4.95"
+    }, 
+    "m": "Magazine", 
+    "s7": "Cover may not depict edition offered for sale", 
+    "u2": "$4.95 per 1Ea", 
+    "p": "5505999P", 
+    "s": "magazine-womans-day-puzzler-5505999p", 
+    "u": "377035", 
+    "t": "/wcsstore/Coles-CAS/images/5/5/0/5505999-th.jpg", 
+    "n": "Woman's Day Puzzler", 
+    "pl": "20"
+}

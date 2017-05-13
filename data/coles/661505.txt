@@ -1,0 +1,40 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "370g"
+        ]
+    }, 
+    "pr": "4.00000", 
+    "s9": "661536", 
+    "pq": "2", 
+    "pt": "MultibuyMultiSku", 
+    "u2": "$1.55 per 100KG", 
+    "m": "Betty Crocker", 
+    "n": "Morello Cherry Brownie Mix", 
+    "p": "2870116P", 
+    "s": "betty-crocker-morello-cherry-brownie-mix", 
+    "p1": {
+        "o": "5.72"
+    }, 
+    "u": "661505", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/7/2870116-th.jpg", 
+    "pd": "2 for $8", 
+    "pi": "10141006", 
+    "t1": "M", 
+    "pl": "12"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "0.23g"
+        ]
+    }, 
+    "s9": "118389", 
+    "p1": {
+        "o": "15.62"
+    }, 
+    "m": "Covergirl", 
+    "u2": "$15.62 per 1Ea", 
+    "p": "8007262P", 
+    "s": "covergirl-perfect-point-eyeliner-black-onyx", 
+    "u": "53479", 
+    "t": "/wcsstore/Coles-CAS/images/8/0/0/8007262-th.jpg", 
+    "n": "Perfect Point Plus Black Onyx Eyeliner Crayon", 
+    "pl": "20"
+}

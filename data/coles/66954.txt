@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1.2kg"
+        ]
+    }, 
+    "s9": "131082", 
+    "p1": {
+        "l4": "4.24", 
+        "o": "2.5"
+    }, 
+    "m": "Pedigree", 
+    "t1": "S", 
+    "p": "7335357P", 
+    "s": "pedigree-adult-dog-food-chicken-rice-vegies", 
+    "n": "Homestyle Chicken Canned Dog Food", 
+    "u": "66954", 
+    "t": "/wcsstore/Coles-CAS/images/7/3/3/7335357-th.jpg", 
+    "u2": "$0.21 per 100G", 
+    "pl": "12"
+}

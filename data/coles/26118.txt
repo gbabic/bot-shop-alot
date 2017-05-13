@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "850g"
+        ]
+    }, 
+    "s9": "43181", 
+    "p1": {
+        "o": "4.07"
+    }, 
+    "m": "Garden Fresh", 
+    "u2": "$0.48 per 100G", 
+    "p": "1133430P", 
+    "s": "garden-fresh-polish-dill-cucumbers", 
+    "u": "26118", 
+    "t": "/wcsstore/Coles-CAS/images/1/1/3/1133430-th.jpg", 
+    "n": "Polish Dill Cucumbers", 
+    "pl": "20"
+}

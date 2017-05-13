@@ -1,0 +1,40 @@
+{
+    "a": {
+        "P8": [
+            "Drinks"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1.25L"
+        ]
+    }, 
+    "pr": "1.50000", 
+    "s9": "29596", 
+    "pq": "2", 
+    "pt": "MultibuyMultiSku", 
+    "u2": "$1.93 per 1L", 
+    "m": "Schweppes", 
+    "n": "Pepsi Max", 
+    "p": "5441863P", 
+    "s": "pepsi-max-soft-drink-cola-5441863p", 
+    "p1": {
+        "o": "2.41"
+    }, 
+    "u": "20316", 
+    "t": "/wcsstore/Coles-CAS/images/5/4/4/5441863-th.jpg", 
+    "pd": "2 for $3", 
+    "pi": "10141008", 
+    "t1": "M", 
+    "pl": "12"
+}

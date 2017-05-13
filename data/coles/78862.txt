@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "141377", 
+    "p1": {
+        "o": "8.95"
+    }, 
+    "m": "Magazine", 
+    "s7": "", 
+    "u2": "$8.95 per 1ea", 
+    "p": "5891407P", 
+    "s": "new-scientist-magazine", 
+    "u": "78862", 
+    "t": "/wcsstore/Coles-CAS/images/5/8/9/5891407-th.jpg", 
+    "n": "New Scientist", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "750g"
+        ]
+    }, 
+    "s9": "179506", 
+    "p1": {
+        "o": "4.73"
+    }, 
+    "m": "Wei Chuan", 
+    "u2": "$0.79 per 100G", 
+    "p": "1383481P", 
+    "s": "wei-chuan-noodles-guan-mio-ramen", 
+    "u": "179349", 
+    "t": "/wcsstore/Coles-CAS/images/1/3/8/1383481-th.jpg", 
+    "n": "Guan Mio Ramen Noodles", 
+    "pl": "20"
+}

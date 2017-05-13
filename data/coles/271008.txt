@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Baby"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "45 pack"
+        ]
+    }, 
+    "s9": "271015", 
+    "p1": {
+        "l4": "33.0", 
+        "o": "28.0"
+    }, 
+    "m": "Huggies", 
+    "t1": "S", 
+    "p": "1501577P", 
+    "s": "huggies-nappy-pants-girl-jumbo-junior", 
+    "n": "Ultimate Jumbo Junior Nappy Pants Girl 16+kg", 
+    "u": "271008", 
+    "t": "/wcsstore/Coles-CAS/images/1/5/0/1501577-th.jpg", 
+    "u2": "$0.62 per 1Ea", 
+    "pl": "12"
+}

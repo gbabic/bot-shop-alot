@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Baby"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "7 pack"
+        ]
+    }, 
+    "s9": "162069", 
+    "p1": {
+        "o": "11.0"
+    }, 
+    "m": "Huggies", 
+    "u2": "$1.57 per 1Ea", 
+    "p": "9859814P", 
+    "s": "huggies-drynites-bed-mats", 
+    "u": "102819", 
+    "t": "/wcsstore/Coles-CAS/images/9/8/5/9859814-th.jpg", 
+    "n": "Dry Nites Bed Mats", 
+    "pl": "20"
+}

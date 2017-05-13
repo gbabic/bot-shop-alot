@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "120g"
+        ]
+    }, 
+    "s9": "144316", 
+    "p1": {
+        "o": "2.31"
+    }, 
+    "m": "San Remo", 
+    "u2": "$1.93 per 100G", 
+    "p": "5196420P", 
+    "s": "san-remo-la-pasta-pasta-sauce-macaroni-cheese", 
+    "u": "79925", 
+    "t": "/wcsstore/Coles-CAS/images/5/1/9/5196420-th.jpg", 
+    "n": "La Pasta Macaroni Cheese Pasta & Sauce", 
+    "pl": "20"
+}

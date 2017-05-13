@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "318mL"
+        ]
+    }, 
+    "s9": "33554", 
+    "p1": {
+        "l4": "8.8", 
+        "o": "5.0"
+    }, 
+    "m": "Mars", 
+    "t1": "S", 
+    "p": "9979394P", 
+    "s": "snickers-bars-ice-cream", 
+    "n": "Snickers Frozen Bars 6 pack", 
+    "u": "15800", 
+    "t": "/wcsstore/Coles-CAS/images/9/9/7/9979394-th.jpg", 
+    "u2": "$1.57 per 100mL", 
+    "pl": "12"
+}

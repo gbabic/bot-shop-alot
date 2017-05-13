@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "20 pack"
+        ]
+    }, 
+    "s9": "140501", 
+    "p1": {
+        "l4": "7.15", 
+        "o": "5.2"
+    }, 
+    "m": "Femfresh", 
+    "t1": "S", 
+    "p": "5569222P", 
+    "s": "femfresh-feminine-wipes", 
+    "n": "Feminine Wipes", 
+    "u": "77223", 
+    "t": "/wcsstore/Coles-CAS/images/5/5/6/5569222-th.jpg", 
+    "u2": "$0.26 per 1Ea", 
+    "pl": "12"
+}

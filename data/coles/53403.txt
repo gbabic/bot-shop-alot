@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "280g"
+        ]
+    }, 
+    "s9": "121101", 
+    "p1": {
+        "o": "6.16"
+    }, 
+    "m": "McCain", 
+    "s7": "", 
+    "u2": "$2.05 per 100G", 
+    "p": "8057001P", 
+    "s": "mccain-health-choice-bowls-chinese-chicken-cashews-frozen", 
+    "u": "53403", 
+    "t": "/wcsstore/Coles-CAS/images/8/0/5/8057001-th.jpg", 
+    "n": "Healthy Choice Bowl Chinese Chicken with Cashews Frozen Meal", 
+    "pl": "20"
+}

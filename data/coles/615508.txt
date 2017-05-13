@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200mL"
+        ]
+    }, 
+    "s9": "615534", 
+    "p1": {
+        "l4": "7.65", 
+        "o": "5.56"
+    }, 
+    "m": "Schwarzkopf", 
+    "t1": "S", 
+    "p": "2660962P", 
+    "s": "extra-care-hairspray-body-texture-hairspray", 
+    "n": "Extra Care Hair Styling Body & Texture Hairspray", 
+    "u": "615508", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/6/2660962-th.jpg", 
+    "u2": "$2.22 per 100G", 
+    "pl": "12"
+}

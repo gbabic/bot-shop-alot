@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "292549", 
+    "p1": {
+        "o": "13.5"
+    }, 
+    "m": "Ingham", 
+    "s7": "Weight may vary between 900g and 1.1kg.", 
+    "u2": "$13.50 per 1Kg", 
+    "p": "1623381P", 
+    "s": "ingham-turkey-ham-supreme-smoked", 
+    "u": "292162", 
+    "t": "/wcsstore/Coles-CAS/images/1/6/2/1623381-th.jpg", 
+    "n": "Smoked Turkey Ham Supreme", 
+    "pl": "20"
+}

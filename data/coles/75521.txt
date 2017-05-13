@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "360g"
+        ]
+    }, 
+    "s9": "141205", 
+    "p1": {
+        "l4": "4.35", 
+        "o": "3.0"
+    }, 
+    "m": "Maggi", 
+    "t1": "S", 
+    "p": "5366972P", 
+    "s": "maggi-2-minute-noodles-chicken-5366972p", 
+    "n": "Chicken 2 Minute Noodles 5 pack", 
+    "u": "75521", 
+    "t": "/wcsstore/Coles-CAS/images/5/3/6/5366972-th.jpg", 
+    "u2": "$0.83 per 100G", 
+    "pl": "12"
+}

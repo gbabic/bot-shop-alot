@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "275g"
+        ]
+    }, 
+    "s9": "613585", 
+    "p1": {
+        "o": "7.69"
+    }, 
+    "m": "Old El Paso Stand N Stuff", 
+    "u2": "$2.80 per 100G", 
+    "p": "2745737P", 
+    "s": "old-el-paso-stand-n-stuff-mini-taco-shell-kit", 
+    "u": "613541", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/4/2745737-th.jpg", 
+    "n": "Mini Taco Shell Kit", 
+    "pl": "99"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "30g"
+        ]
+    }, 
+    "s9": "437181", 
+    "p1": {
+        "o": "4.0"
+    }, 
+    "m": "Higher Living", 
+    "u2": "$13.33 per 100G", 
+    "p": "2235639P", 
+    "s": "higher-living-tea-bags-cocoa-sweet-chilli", 
+    "u": "437018", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/3/2235639-th.jpg", 
+    "n": "Tea Bags Cocoa & Sweet Chilli", 
+    "pl": "20"
+}

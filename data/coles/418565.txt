@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "150g"
+        ]
+    }, 
+    "s9": "418660", 
+    "p1": {
+        "o": "7.69"
+    }, 
+    "m": "Morlife", 
+    "u2": "$5.13 per 100G", 
+    "p": "1993030P", 
+    "s": "morlife-dark-chocolate-coated-goji-berries", 
+    "u": "418565", 
+    "t": "/wcsstore/Coles-CAS/images/1/9/9/1993030-th.jpg", 
+    "n": "Dark Chocolate Coated Goji Berries", 
+    "pl": "20"
+}

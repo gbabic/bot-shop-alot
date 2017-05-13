@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "481608", 
+    "p1": {
+        "o": "25.0"
+    }, 
+    "m": "DVD", 
+    "s7": "This film is classified G", 
+    "u2": "$25.00 per 1ea", 
+    "p": "9495693P", 
+    "s": "dvd-a-bugs-life", 
+    "u": "481522", 
+    "t": "/wcsstore/Coles-CAS/images/9/4/9/9495693-th.jpg", 
+    "n": "A Bugs Life", 
+    "pl": "99"
+}

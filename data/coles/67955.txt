@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "425g"
+        ]
+    }, 
+    "s9": "126875", 
+    "p1": {
+        "o": "3.95"
+    }, 
+    "m": "Stagg", 
+    "u2": "$0.93 per 100G", 
+    "p": "7620320P", 
+    "s": "stagg-chili-lean-beef", 
+    "u": "67955", 
+    "t": "/wcsstore/Coles-CAS/images/7/6/2/7620320-th.jpg", 
+    "n": "Chilli Lean Beef", 
+    "pl": "20"
+}

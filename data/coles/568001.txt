@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "150mL"
+        ]
+    }, 
+    "s9": "568006", 
+    "p1": {
+        "o": "8.8"
+    }, 
+    "m": "Beckham", 
+    "u2": "$5.87 per 100mL", 
+    "p": "2649289P", 
+    "s": "beckham-signature-deodorant-body-spray", 
+    "u": "568001", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/4/2649289-th.jpg", 
+    "n": "Signature Deodorant Body Spray", 
+    "pl": "99"
+}

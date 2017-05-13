@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1kg"
+        ]
+    }, 
+    "s9": "136750", 
+    "p1": {
+        "o": "5.8"
+    }, 
+    "m": "Laucke Easy Bakers", 
+    "t1": "V", 
+    "p": "6669608P", 
+    "s": "laucke-easy-bakers-meal-grain-bread-mix", 
+    "n": "Meal & Grain Gluten Free Bread Mix", 
+    "u": "74790", 
+    "t": "/wcsstore/Coles-CAS/images/6/6/6/6669608-th.jpg", 
+    "u2": "$0.58 per 100G", 
+    "pl": "20"
+}

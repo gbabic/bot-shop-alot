@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "161483", 
+    "p1": {
+        "o": "7.99"
+    }, 
+    "m": "Magazine", 
+    "s7": "", 
+    "u2": "$7.99 per 1ea", 
+    "p": "9734218P", 
+    "s": "donna-hay-magazine", 
+    "u": "95760", 
+    "t": "/wcsstore/Coles-CAS/images/9/7/3/9734218-th.jpg", 
+    "n": "Donna Hay", 
+    "pl": "20"
+}

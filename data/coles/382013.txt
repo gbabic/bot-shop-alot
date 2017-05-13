@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "30mL"
+        ]
+    }, 
+    "s9": "382178", 
+    "p1": {
+        "o": "21.95"
+    }, 
+    "m": "Covergirl", 
+    "u2": "$7.32 per 10mL", 
+    "p": "2018029P", 
+    "s": "covergirl-trublend-liquid-make-up-ivory", 
+    "u": "382013", 
+    "t": "/wcsstore/Coles-CAS/images/2/0/1/2018029-th.jpg", 
+    "n": "Tru Blend Ivory Liquid Makeup", 
+    "pl": "20"
+}

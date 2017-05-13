@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Fruit & Vegetables"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "0.1"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "33449", 
+    "p1": {
+        "o": "0.9"
+    }, 
+    "m": "Coles", 
+    "s7": "Each potato approx. 100g; Product of Australia.", 
+    "u2": "$9.00 per 1Kg", 
+    "p": "4764415P", 
+    "s": "potatoes-kipfler-loose", 
+    "u": "14021", 
+    "t": "/wcsstore/Coles-CAS/images/4/7/6/4764415-th.jpg", 
+    "n": "Kipfler Brushed Potatoes", 
+    "pl": "99"
+}

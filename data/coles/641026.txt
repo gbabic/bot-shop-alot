@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "350g"
+        ]
+    }, 
+    "s9": "641207", 
+    "p1": {
+        "l4": "7.7", 
+        "o": "3.5"
+    }, 
+    "m": "Freedom Foods", 
+    "t1": "S", 
+    "p": "2816493P", 
+    "s": "crafted-blends-cereal-vanilla-maple-flaked-amnd", 
+    "n": "Crafted Blends Vanilla Maple & Flaked Almond Clusters", 
+    "u": "641026", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/1/2816493-th.jpg", 
+    "u2": "$1.00 per 100G", 
+    "pl": "12"
+}

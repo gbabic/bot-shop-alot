@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "68g"
+        ]
+    }, 
+    "s9": "431056", 
+    "p1": {
+        "o": "2.09"
+    }, 
+    "m": "MasterFoods", 
+    "u2": "$0.31 per 10G", 
+    "p": "318316P", 
+    "s": "masterfoods-onion-salt-seasoning", 
+    "u": "431016", 
+    "t": "/wcsstore/Coles-CAS/images/3/1/8/318316-th.jpg", 
+    "n": "Onion Salt Seasoning", 
+    "pl": "20"
+}

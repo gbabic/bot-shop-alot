@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "81g"
+        ]
+    }, 
+    "s9": "592161", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "m": "Kellogg's", 
+    "u2": "$6.79 per 100G", 
+    "p": "2741587P", 
+    "s": "kelloggs--special-k-cranberry-coconut-protein-bliss-bites", 
+    "u": "592064", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/4/2741587-th.jpg", 
+    "n": "Special K Cranberry & Coconut Protein Bliss Bites", 
+    "pl": "99"
+}

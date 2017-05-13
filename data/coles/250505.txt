@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "125g"
+        ]
+    }, 
+    "s9": "250543", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "m": "Kellogg's", 
+    "u2": "$4.40 per 100G", 
+    "p": "1491418P", 
+    "s": "kelloggs-biscuits-special-k-moments-strawberry", 
+    "u": "250505", 
+    "t": "/wcsstore/Coles-CAS/images/1/4/9/1491418-th.jpg", 
+    "n": "Special K Moments Strawberry Biscuits", 
+    "pl": "20"
+}

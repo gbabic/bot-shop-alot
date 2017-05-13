@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "2.1"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 2.1kg pack"
+        ]
+    }, 
+    "u2": "$4.00 per 1Kg", 
+    "s9": "30932", 
+    "p1": {
+        "l4": "12.18", 
+        "o": "8.4"
+    }, 
+    "s7": "Indicated price based on approx. weight. Weight may vary between 1.75kg and 2.3kg.", 
+    "m": "Steggles", 
+    "n": "Family Roast Chicken", 
+    "p": "8191150P", 
+    "s": "steggles-chicken-family-roast", 
+    "u": "21598", 
+    "t": "/wcsstore/Coles-CAS/images/8/1/9/8191150-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

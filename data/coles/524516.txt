@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "s9": "524588", 
+    "p1": {
+        "o": "7.37"
+    }, 
+    "m": "Mars", 
+    "u2": "$2.95 per 100G", 
+    "p": "2527361P", 
+    "s": "mars--dark-maltesers", 
+    "u": "524516", 
+    "t": "/wcsstore/Coles-CAS/images/2/5/2/2527361-th.jpg", 
+    "n": "Dark Maltesers", 
+    "pl": "20"
+}

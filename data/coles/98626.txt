@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200mL"
+        ]
+    }, 
+    "s9": "161808", 
+    "p1": {
+        "o": "9.35"
+    }, 
+    "m": "Fauldings", 
+    "u2": "$4.68 per 100mL", 
+    "p": "9436333P", 
+    "s": "fauldings-glycerine", 
+    "u": "98626", 
+    "t": "/wcsstore/Coles-CAS/images/9/4/3/9436333-th.jpg", 
+    "n": "Glycerine", 
+    "pl": "20"
+}

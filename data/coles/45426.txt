@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "109324", 
+    "p1": {
+        "o": "3.93"
+    }, 
+    "m": "Orgran", 
+    "s7": "", 
+    "u2": "$7.86 per 1Kg", 
+    "p": "8907220P", 
+    "s": "orgran-flour-plain-gluten-wheat-free", 
+    "u": "45426", 
+    "t": "/wcsstore/Coles-CAS/images/8/9/0/8907220-th.jpg", 
+    "n": "Plain Gluten & Wheat Free Flour", 
+    "pl": "20"
+}

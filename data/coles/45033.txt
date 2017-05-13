@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "360mL"
+        ]
+    }, 
+    "s9": "163307", 
+    "p1": {
+        "l4": "8.79", 
+        "o": "6.0"
+    }, 
+    "m": "Streets", 
+    "t1": "S", 
+    "p": "9091672P", 
+    "s": "streets-magnum-minis-ice-cream-almond", 
+    "n": "Magnum Almond Mini 6 pack", 
+    "u": "45033", 
+    "t": "/wcsstore/Coles-CAS/images/9/0/9/9091672-th.jpg", 
+    "u2": "$1.67 per 100mL", 
+    "pl": "12"
+}

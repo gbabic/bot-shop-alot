@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "140g"
+        ]
+    }, 
+    "s9": "597516", 
+    "p1": {
+        "o": "2.75"
+    }, 
+    "m": "Farmers Union", 
+    "u2": "$1.96 per 100G", 
+    "p": "2745147P", 
+    "s": "farmers-union-greek-style-vanilla-yogurt-2745147p", 
+    "u": "597502", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/4/2745147-th.jpg", 
+    "n": "Greek Style Vanilla Yogurt", 
+    "pl": "99"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "8 pack"
+        ]
+    }, 
+    "s9": "679614", 
+    "p1": {
+        "l4": "23.09", 
+        "o": "10.49"
+    }, 
+    "m": "Schick", 
+    "t1": "S", 
+    "p": "2862490P", 
+    "s": "schick--quattro-titanium-razor-blade-refill", 
+    "n": "Quattro Titanium Razor Blade Refill", 
+    "u": "679566", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/6/2862490-th.jpg", 
+    "u2": "$1.31 per 1Ea", 
+    "pl": "12"
+}

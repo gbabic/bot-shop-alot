@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100g"
+        ]
+    }, 
+    "u2": "$0.60 per 100G", 
+    "s9": "135111", 
+    "p1": {
+        "o": "0.6"
+    }, 
+    "s7": "", 
+    "m": "Coles", 
+    "n": "Casserole Chicken & Turkey Pouch Cat Food", 
+    "p": "6429014P", 
+    "s": "coles-brand-cat-food-chicken-turkey-casserole-pouch", 
+    "u": "72282", 
+    "t": "/wcsstore/Coles-CAS/images/6/4/2/6429014-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

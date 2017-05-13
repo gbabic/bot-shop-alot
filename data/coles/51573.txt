@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "7kg"
+        ]
+    }, 
+    "s9": "157530", 
+    "p1": {
+        "o": "34.09"
+    }, 
+    "m": "Optimum", 
+    "u2": "$0.49 per 100G", 
+    "p": "8981084P", 
+    "s": "optimum-puppy-dog-food-chicken", 
+    "u": "51573", 
+    "t": "/wcsstore/Coles-CAS/images/8/9/8/8981084-th.jpg", 
+    "n": "Chicken & Rice Dry Puppy Food", 
+    "pl": "20"
+}

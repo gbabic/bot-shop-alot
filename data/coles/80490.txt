@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "907g"
+        ]
+    }, 
+    "s9": "143721", 
+    "p1": {
+        "l4": "5.49", 
+        "o": "4.4"
+    }, 
+    "m": "Lee Kum Kee", 
+    "t1": "S", 
+    "p": "5253207P", 
+    "s": "lee-kum-kee-oyster-sauce", 
+    "n": "Oyster Sauce", 
+    "u": "80490", 
+    "t": "/wcsstore/Coles-CAS/images/5/2/5/5253207-th.jpg", 
+    "u2": "$0.49 per 100G", 
+    "pl": "12"
+}

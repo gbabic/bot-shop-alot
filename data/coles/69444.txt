@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "130178", 
+    "p1": {
+        "o": "7.26"
+    }, 
+    "m": "Pancake Parlour", 
+    "u2": "$1.45 per 100G", 
+    "p": "7571270P", 
+    "s": "pancake-parlour-pancake-mix", 
+    "u": "69444", 
+    "t": "/wcsstore/Coles-CAS/images/7/5/7/7571270-th.jpg", 
+    "n": "Buttermilk Pancake Mix", 
+    "pl": "20"
+}

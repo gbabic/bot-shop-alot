@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.7"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 1.7kg pack"
+        ]
+    }, 
+    "s9": "144073", 
+    "p1": {
+        "o": "20.23"
+    }, 
+    "m": "Inglewood Farms", 
+    "s7": "Indicated price based on approx. weight. Weight may vary between 1.5kg and 2kg.", 
+    "u2": "$11.90 per 1Kg", 
+    "p": "4660067P", 
+    "s": "inglewood-farms-chicken-whole-organic", 
+    "u": "80250", 
+    "t": "/wcsstore/Coles-CAS/images/4/6/6/4660067-th.jpg", 
+    "n": "Whole Organic Chicken", 
+    "pl": "20"
+}

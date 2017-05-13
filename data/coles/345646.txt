@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "540g"
+        ]
+    }, 
+    "s9": "345727", 
+    "p1": {
+        "l4": "4.84", 
+        "o": "3.0"
+    }, 
+    "m": "La Zuppa", 
+    "t1": "S", 
+    "p": "1727569P", 
+    "s": "la-zuppa-thai-coconut-chicken-soup-pouch", 
+    "n": "Thai Coconut Chicken Soup Pouch", 
+    "u": "345646", 
+    "t": "/wcsstore/Coles-CAS/images/1/7/2/1727569-th.jpg", 
+    "u2": "$0.56 per 100G", 
+    "pl": "12"
+}

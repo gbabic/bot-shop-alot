@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "130g"
+        ]
+    }, 
+    "s9": "115488", 
+    "p1": {
+        "o": "4.39"
+    }, 
+    "m": "Celebrate Health", 
+    "u2": "$3.38 per 100G", 
+    "p": "8659048P", 
+    "s": "celebrate-health-quinoa-instant-meal-moroccan", 
+    "u": "48143", 
+    "t": "/wcsstore/Coles-CAS/images/8/6/5/8659048-th.jpg", 
+    "n": "Moroccan Quinoa Instant Meal", 
+    "pl": "20"
+}

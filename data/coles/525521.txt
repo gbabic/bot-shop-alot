@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "130g"
+        ]
+    }, 
+    "s9": "525560", 
+    "p1": {
+        "l4": "4.84", 
+        "o": "3.0"
+    }, 
+    "m": "Ocean Spray", 
+    "t1": "S", 
+    "p": "2554499P", 
+    "s": "ocean-spray-fruits-nuts-trail-mix-craisins", 
+    "n": "Fruits & Nuts Trail Mix Craisins", 
+    "u": "525521", 
+    "t": "/wcsstore/Coles-CAS/images/2/5/5/2554499-th.jpg", 
+    "u2": "$23.08 per 1Kg", 
+    "pl": "12"
+}

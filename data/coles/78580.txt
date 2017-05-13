@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "16 pack"
+        ]
+    }, 
+    "s9": "138093", 
+    "p1": {
+        "o": "5.28"
+    }, 
+    "m": "Moxie", 
+    "u2": "$0.33 per 1Ea", 
+    "p": "5437560P", 
+    "s": "moxie-tampons-super", 
+    "u": "78580", 
+    "t": "/wcsstore/Coles-CAS/images/5/4/3/5437560-th.jpg", 
+    "n": "Super Tampons", 
+    "pl": "20"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "New"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "623g"
+        ]
+    }, 
+    "s9": "251304", 
+    "p1": {
+        "l4": "7.7", 
+        "o": "5.6"
+    }, 
+    "m": "Bob's Red Mill", 
+    "t1": "S", 
+    "p": "1465655P", 
+    "s": "bobs-red-mill-gluten-free-sweet-white-sorghum-flour", 
+    "n": "Gluten Free Sweet White Sorghum Flour", 
+    "u": "251046", 
+    "t": "/wcsstore/Coles-CAS/images/1/4/6/1465655-th.jpg", 
+    "u2": "$0.90 per 100G", 
+    "pl": "12"
+}

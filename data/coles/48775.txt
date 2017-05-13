@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "700g"
+        ]
+    }, 
+    "s9": "168206", 
+    "p1": {
+        "o": "7.03"
+    }, 
+    "m": "Latina", 
+    "u2": "$1.00 per 100G", 
+    "p": "8999400P", 
+    "s": "latina-fresh-pasta-sauce-creamy-carbonara", 
+    "u": "48775", 
+    "t": "/wcsstore/Coles-CAS/images/8/9/9/8999400-th.jpg", 
+    "n": "Creamy Carbonara Pasta Sauce", 
+    "pl": "20"
+}

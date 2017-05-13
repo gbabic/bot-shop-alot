@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "410g"
+        ]
+    }, 
+    "u2": "$4.88 per 1Kg", 
+    "s9": "34439", 
+    "p1": {
+        "o": "2.0"
+    }, 
+    "s7": "", 
+    "m": "Coles", 
+    "n": "Australian Apricot Halves in Juice", 
+    "p": "4396402P", 
+    "s": "coles-apricot-halves-in-juice-4396402p", 
+    "u": "16640", 
+    "t": "/wcsstore/Coles-CAS/images/4/3/9/4396402-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "370g"
+        ]
+    }, 
+    "s9": "145636", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "m": "Bonne Maman", 
+    "u2": "$1.49 per 100G", 
+    "p": "5034203P", 
+    "s": "bonne-maman-jam-apricot", 
+    "u": "81892", 
+    "t": "/wcsstore/Coles-CAS/images/5/0/3/5034203-th.jpg", 
+    "n": "Apricot Jam", 
+    "pl": "20"
+}

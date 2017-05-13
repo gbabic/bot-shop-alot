@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "405g"
+        ]
+    }, 
+    "s9": "667045", 
+    "p1": {
+        "l4": "3.62", 
+        "o": "2.0"
+    }, 
+    "m": "Campbell's", 
+    "t1": "S", 
+    "p": "2887312P", 
+    "s": "campbells-manu-australian-pumpkin-smoky-bacon-canned-soup", 
+    "n": "Manu Australian Pumpkin & Smoky Bacon Canned Soup", 
+    "u": "667013", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/8/2887312-th.jpg", 
+    "u2": "$0.49 per 100G", 
+    "pl": "12"
+}

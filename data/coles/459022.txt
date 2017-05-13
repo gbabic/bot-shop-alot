@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "220g"
+        ]
+    }, 
+    "s9": "459089", 
+    "p1": {
+        "o": "4.4"
+    }, 
+    "m": "The Natural Confectionery Co.", 
+    "u2": "$2.00 per 100G", 
+    "p": "2351221P", 
+    "s": "the-natural-confectionary-co-sour-chews", 
+    "u": "459022", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/5/2351221-th.jpg", 
+    "n": "Sour Chews", 
+    "pl": "20"
+}

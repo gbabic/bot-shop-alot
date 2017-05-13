@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "96g"
+        ]
+    }, 
+    "s9": "403667", 
+    "p1": {
+        "o": "5.45"
+    }, 
+    "m": "Healtheries Kidscare", 
+    "u2": "$5.68 per 100G", 
+    "p": "1996491P", 
+    "s": "healthiers-kidscare-chicken-potato-curls", 
+    "u": "403553", 
+    "t": "/wcsstore/Coles-CAS/images/1/9/9/1996491-th.jpg", 
+    "n": "Chicken Potato Curls", 
+    "pl": "20"
+}

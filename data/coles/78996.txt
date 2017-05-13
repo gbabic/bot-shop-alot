@@ -1,0 +1,72 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1kg"
+        ]
+    }, 
+    "s9": "141521", 
+    "p1": {
+        "o": "5.72"
+    }, 
+    "m": "San Remo", 
+    "u2": "$0.57 per 100G", 
+    "p": "5686430P", 
+    "s": "san-remo-cous-cous-5686430p", 
+    "u": "78996", 
+    "t": "/wcsstore/Coles-CAS/images/5/6/8/5686430-th.jpg", 
+    "m3": [
+        {
+            "a": {
+                "P8": [
+                    "Pantry"
+                ], 
+                "T1": [
+                    "false"
+                ], 
+                "L2": [
+                    "false"
+                ], 
+                "A4": [
+                    "1.0"
+                ], 
+                "W1": [
+                    "false"
+                ], 
+                "O3": [
+                    "175g"
+                ]
+            }, 
+            "q": 1.0, 
+            "s9": "575260", 
+            "p1": {
+                "o": "3.3"
+            }, 
+            "m": "San Remo", 
+            "n": "Microwavable Vegetable Cous Cous", 
+            "a1": "BRAND-PRODUCT-VARIANT", 
+            "p": "2603266P", 
+            "s": "san-remo--microwavable-vegetable-cous-cous", 
+            "u": "575113", 
+            "t": "/wcsstore/Coles-CAS/images/2/6/0/2603266-th.jpg", 
+            "u2": "$1.89 per 100G", 
+            "pl": "20"
+        }
+    ], 
+    "n": "CousCous", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400g"
+        ]
+    }, 
+    "s9": "589575", 
+    "p1": {
+        "o": "5.94"
+    }, 
+    "m": "Aunty Kath's", 
+    "u2": "$1.49 per 100G", 
+    "p": "2709802P", 
+    "s": "aunty-kaths-chocolate-brownie-cookie-dough", 
+    "u": "589518", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/0/2709802-th.jpg", 
+    "n": "Chocolate Brownie Cookie Dough", 
+    "pl": "99"
+}

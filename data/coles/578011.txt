@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "60g"
+        ]
+    }, 
+    "s9": "578039", 
+    "p1": {
+        "o": "3.29"
+    }, 
+    "m": "Felix", 
+    "u2": "$5.48 per 100G", 
+    "p": "2528896P", 
+    "s": "felix-party-mix-orig-mix", 
+    "u": "578011", 
+    "t": "/wcsstore/Coles-CAS/images/2/5/2/2528896-th.jpg", 
+    "n": "Original Party Mix", 
+    "pl": "20"
+}

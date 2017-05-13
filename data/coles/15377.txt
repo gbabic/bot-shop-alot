@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Drinks"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1L"
+        ]
+    }, 
+    "s9": "29911", 
+    "p1": {
+        "o": "2.19"
+    }, 
+    "m": "Dairy Farmers", 
+    "s7": "", 
+    "u2": "$2.19 per 1L", 
+    "p": "8081673P", 
+    "s": "dairy-farmers-milk-long-life-full-cream", 
+    "u": "15377", 
+    "t": "/wcsstore/Coles-CAS/images/8/0/8/8081673-th.jpg", 
+    "n": "Full Cream Long Life Milk", 
+    "pl": "20"
+}

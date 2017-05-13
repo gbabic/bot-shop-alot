@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "145656", 
+    "p1": {
+        "l4": "2.75", 
+        "o": "1.9"
+    }, 
+    "m": "Barilla", 
+    "t1": "V", 
+    "p": "5010453P", 
+    "s": "barilla-pasta-fusille-no-98", 
+    "n": "Fusille Pasta No 98", 
+    "u": "83587", 
+    "t": "/wcsstore/Coles-CAS/images/5/0/1/5010453-th.jpg", 
+    "u2": "$0.38 per 100G", 
+    "pl": "12"
+}

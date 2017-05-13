@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "45mL"
+        ]
+    }, 
+    "s9": "671006", 
+    "p1": {
+        "l4": "16.49", 
+        "o": "14.99"
+    }, 
+    "m": "Rexona Clinical Protection", 
+    "t1": "N", 
+    "p": "2864270P", 
+    "s": "rexona-clinical-protection-clean-scent-deodorant", 
+    "n": "Clean Scent Deodorant", 
+    "u": "671002", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/6/2864270-th.jpg", 
+    "u2": "$33.31 per 100mL", 
+    "pl": "12"
+}

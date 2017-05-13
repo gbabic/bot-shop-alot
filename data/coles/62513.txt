@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "312g"
+        ]
+    }, 
+    "s9": "124716", 
+    "p1": {
+        "o": "17.04"
+    }, 
+    "m": "Nair", 
+    "u2": "$5.46 per 100G", 
+    "p": "7660336P", 
+    "s": "nair-cream-hair-remover-shower-power-max", 
+    "u": "62513", 
+    "t": "/wcsstore/Coles-CAS/images/7/6/6/7660336-th.jpg", 
+    "n": "Shower Power Max Hair Remover Cream", 
+    "pl": "20"
+}

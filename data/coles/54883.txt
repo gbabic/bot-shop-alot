@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "270g"
+        ]
+    }, 
+    "s9": "117317", 
+    "p1": {
+        "o": "3.6"
+    }, 
+    "m": "Nando's", 
+    "u2": "$1.33 per 100G", 
+    "p": "8451240P", 
+    "s": "nandos-marinade-peri-peri-lemon-herb", 
+    "u": "54883", 
+    "t": "/wcsstore/Coles-CAS/images/8/4/5/8451240-th.jpg", 
+    "n": "Lemon & Herb Marinade", 
+    "pl": "20"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "151485", 
+    "p1": {
+        "l4": "3.6", 
+        "o": "2.5"
+    }, 
+    "m": "Meadow Lea", 
+    "t1": "S", 
+    "p": "138766P", 
+    "s": "meadow-lea-spread-margarine-reduced-salt-tub-138766p", 
+    "n": "Reduced Salt MargarineTub", 
+    "u": "89148", 
+    "t": "/wcsstore/Coles-CAS/images/1/3/8/138766-th.jpg", 
+    "u2": "$0.50 per 100G", 
+    "pl": "12"
+}

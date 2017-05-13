@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "160g"
+        ]
+    }, 
+    "s9": "129402", 
+    "p1": {
+        "o": "3.18"
+    }, 
+    "m": "Kan Tong", 
+    "u2": "$1.99 per 100G", 
+    "p": "7177610P", 
+    "s": "kantong-inspirations-honey-chicken", 
+    "u": "65957", 
+    "t": "/wcsstore/Coles-CAS/images/7/1/7/7177610-th.jpg", 
+    "n": "Honey Chicken Cooking Sauce", 
+    "pl": "20"
+}

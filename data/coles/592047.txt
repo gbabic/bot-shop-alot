@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "128g"
+        ]
+    }, 
+    "s9": "592131", 
+    "p1": {
+        "o": "4.29"
+    }, 
+    "m": "Old El Paso", 
+    "u2": "$3.35 per 100G", 
+    "p": "2715612P", 
+    "s": "old-el-paso--stand-n-stuff-bold-cheese-taco-shells", 
+    "u": "592047", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/1/2715612-th.jpg", 
+    "n": "Stand N Stuff Bold Cheese Taco Shells", 
+    "pl": "99"
+}

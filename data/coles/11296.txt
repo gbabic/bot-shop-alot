@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "32g"
+        ]
+    }, 
+    "s9": "31712", 
+    "p1": {
+        "o": "3.03"
+    }, 
+    "m": "Coles", 
+    "s7": "", 
+    "u2": "$0.95 per 10G", 
+    "p": "8987386P", 
+    "s": "coles-fennel-seeds-whole", 
+    "u": "11296", 
+    "t": "/wcsstore/Coles-CAS/images/8/9/8/8987386-th.jpg", 
+    "n": "Whole Fennel Seeds", 
+    "pl": "20"
+}

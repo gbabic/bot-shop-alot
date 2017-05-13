@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "325g"
+        ]
+    }, 
+    "s9": "145600", 
+    "p1": {
+        "o": "3.47"
+    }, 
+    "m": "White Wings", 
+    "u2": "$1.07 per 100G", 
+    "p": "5084868P", 
+    "s": "white-wings-shake-pour-pancake-mix-buttermilk-97%-fat-free", 
+    "u": "81862", 
+    "t": "/wcsstore/Coles-CAS/images/5/0/8/5084868-th.jpg", 
+    "n": "Buttermilk Pancake Shake", 
+    "pl": "20"
+}

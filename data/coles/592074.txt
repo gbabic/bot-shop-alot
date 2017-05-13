@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "32g"
+        ]
+    }, 
+    "s9": "592133", 
+    "p1": {
+        "o": "1.5"
+    }, 
+    "m": "Maggi", 
+    "t1": "V", 
+    "p": "2714959P", 
+    "s": "maggi-mince-chow-mein-dry-recipe-mix", 
+    "n": "Chow Mein Mince Dry Recipe Base", 
+    "u": "592074", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/1/2714959-th.jpg", 
+    "u2": "$4.69 per 100G", 
+    "pl": "20"
+}

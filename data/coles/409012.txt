@@ -1,0 +1,38 @@
+{
+    "a": {
+        "D": [
+            "TOBACCO"
+        ], 
+        "P8": [
+            "Tobacco"
+        ], 
+        "T1": [
+            "true"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "30 pack"
+        ]
+    }, 
+    "s9": "409138", 
+    "p1": {
+        "o": "29.95"
+    }, 
+    "m": "Winfield", 
+    "s7": "Prices include all taxes", 
+    "u2": "$29.95 per 1ea", 
+    "p": "2206299P", 
+    "s": "winfield-sky-blue-cigarettes-2206299p", 
+    "u": "409012", 
+    "t": "/wcsstore/Coles-CAS/images/C/i/g/Cigarettes-th.jpg", 
+    "n": "Sky Blue Cigarettes", 
+    "pl": "5"
+}

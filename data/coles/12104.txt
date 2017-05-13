@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "36341", 
+    "p1": {
+        "o": "3.85"
+    }, 
+    "m": "Yates", 
+    "u2": "$3.85 per 1ea", 
+    "p": "5658184P", 
+    "s": "yates-blitzem-snail-slug-pellets", 
+    "u": "12104", 
+    "t": "/wcsstore/Coles-CAS/images/5/6/5/5658184-th.jpg", 
+    "n": "Blitzem Snail & Slug Pellets", 
+    "pl": "20"
+}

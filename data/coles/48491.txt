@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "535g"
+        ]
+    }, 
+    "s9": "113765", 
+    "p1": {
+        "o": "8.03"
+    }, 
+    "m": "Kellogg's", 
+    "u2": "$1.50 per 100G", 
+    "p": "8495891P", 
+    "s": "kelloggs-cereal-special-k", 
+    "u": "48491", 
+    "t": "/wcsstore/Coles-CAS/images/8/4/9/8495891-th.jpg", 
+    "n": "Special K", 
+    "pl": "20"
+}

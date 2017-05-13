@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 pack"
+        ]
+    }, 
+    "s9": "140612", 
+    "p1": {
+        "o": "7.48"
+    }, 
+    "m": "Damp Rid", 
+    "u2": "$7.48 per 1Ea", 
+    "p": "5400378P", 
+    "s": "damp-rid-moisture-absorber", 
+    "u": "79783", 
+    "t": "/wcsstore/Coles-CAS/images/5/4/0/5400378-th.jpg", 
+    "n": "Moisture Absorber", 
+    "pl": "20"
+}

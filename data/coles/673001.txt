@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 pack"
+        ]
+    }, 
+    "s9": "673127", 
+    "p1": {
+        "o": "24.74"
+    }, 
+    "m": "Gillette", 
+    "u2": "$24.74 per 1Ea", 
+    "p": "2847737P", 
+    "s": "gillette-fusion-proshield-chill-razor", 
+    "u": "673001", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/4/2847737-th.jpg", 
+    "n": "Fusion Proshield Chill Razor", 
+    "pl": "99"
+}

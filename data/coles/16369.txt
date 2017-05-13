@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Fruit & Vegetables"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "0.09"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "33207", 
+    "p1": {
+        "o": "0.36"
+    }, 
+    "m": "Coles", 
+    "s7": "Each potato approx. 90g; Product of Australia.", 
+    "u2": "$4.00 per 1Kg", 
+    "p": "7141758P", 
+    "s": "potatoes-dutch-cream-brushed-loose", 
+    "u": "16369", 
+    "t": "/wcsstore/Coles-CAS/images/7/1/4/7141758-th.jpg", 
+    "n": "Dutch Cream Brushed Potatoes", 
+    "pl": "99"
+}

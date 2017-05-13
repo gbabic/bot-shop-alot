@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "151482", 
+    "p1": {
+        "o": "8.99"
+    }, 
+    "m": "Magazine", 
+    "s7": "", 
+    "u2": "$8.99 per 1ea", 
+    "p": "1438110P", 
+    "s": "australian-country-style-magazine", 
+    "u": "87998", 
+    "t": "/wcsstore/Coles-CAS/images/1/4/3/1438110-th.jpg", 
+    "n": "Australian Country Style", 
+    "pl": "20"
+}

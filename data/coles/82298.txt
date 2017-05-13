@@ -1,0 +1,44 @@
+{
+    "a": {
+        "D": [
+            "LIQUOR"
+        ], 
+        "P8": [
+            "Alcohol"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "true"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "700mL"
+        ]
+    }, 
+    "pr": "35.00000", 
+    "s9": "149610", 
+    "pq": "2", 
+    "pt": "MultibuyMultiSku", 
+    "u2": "$5.29 per 100mL", 
+    "m": "Finlandia", 
+    "n": "Vodka", 
+    "p": "39239P", 
+    "s": "finlandia-vodka", 
+    "p1": {
+        "l4": "41.73", 
+        "o": "37.0"
+    }, 
+    "u": "82298", 
+    "t": "/wcsstore/Coles-CAS/images/3/9/2/39239-th.jpg", 
+    "pd": "2 for $70", 
+    "pi": "10141527", 
+    "t1": "S", 
+    "pl": "4"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 pack"
+        ]
+    }, 
+    "s9": "587739", 
+    "p1": {
+        "l4": "6.6", 
+        "o": "4.2"
+    }, 
+    "m": "Scunci", 
+    "t1": "S", 
+    "p": "2589121P", 
+    "s": "scunci--prepare-detangling-comb", 
+    "n": "Prepare Detangling Comb", 
+    "u": "587543", 
+    "t": "/wcsstore/Coles-CAS/images/2/5/8/2589121-th.jpg", 
+    "u2": "", 
+    "pl": "12"
+}

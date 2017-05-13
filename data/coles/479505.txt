@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "620mL"
+        ]
+    }, 
+    "s9": "479516", 
+    "p1": {
+        "l4": "17.6", 
+        "o": "8.7"
+    }, 
+    "m": "Head & Shoulders", 
+    "t1": "S", 
+    "p": "2350295P", 
+    "s": "head-shoulders-dry-scalp-shampoo", 
+    "n": "Dry Scalp Shampoo", 
+    "u": "479505", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/5/2350295-th.jpg", 
+    "u2": "$1.40 per 100mL", 
+    "pl": "12"
+}

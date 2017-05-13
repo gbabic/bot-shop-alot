@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "285g"
+        ]
+    }, 
+    "s9": "160029", 
+    "p1": {
+        "o": "5.06"
+    }, 
+    "m": "Dick Smith", 
+    "u2": "$1.78 per 100G", 
+    "p": "9912848P", 
+    "s": "dick-smith-spreadable-fruit-strawberry", 
+    "u": "99068", 
+    "t": "/wcsstore/Coles-CAS/images/9/9/1/9912848-th.jpg", 
+    "n": "Spreadable Fruit Strawberry Jam", 
+    "pl": "20"
+}

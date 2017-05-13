@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "110g"
+        ]
+    }, 
+    "s9": "373528", 
+    "p1": {
+        "o": "3.85"
+    }, 
+    "m": "Colgate", 
+    "u2": "$3.50 per 100G", 
+    "p": "1973260P", 
+    "s": "colgate-total-care-toothpaste", 
+    "u": "373514", 
+    "t": "/wcsstore/Coles-CAS/images/1/9/7/1973260-th.jpg", 
+    "n": "Total Care Toothpaste", 
+    "pl": "20"
+}

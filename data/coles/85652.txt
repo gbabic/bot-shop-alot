@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "540g"
+        ]
+    }, 
+    "s9": "148823", 
+    "p1": {
+        "l4": "4.84", 
+        "o": "3.0"
+    }, 
+    "m": "La Zuppa", 
+    "t1": "S", 
+    "p": "1163328P", 
+    "s": "la-zuppa-soup-pouches-roasted-pumpkin", 
+    "n": "Roasted Pumpkin Soup Pouch", 
+    "u": "85652", 
+    "t": "/wcsstore/Coles-CAS/images/1/1/6/1163328-th.jpg", 
+    "u2": "$0.56 per 100G", 
+    "pl": "12"
+}

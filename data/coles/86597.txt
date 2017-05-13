@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "u2": "$0.60 per 100G", 
+    "s9": "147395", 
+    "p1": {
+        "o": "3.0"
+    }, 
+    "s7": "", 
+    "m": "Flora", 
+    "n": "Original Margarine Tub", 
+    "p": "189406P", 
+    "s": "flora-spread-margarine-sunflower-original-tub", 
+    "u": "86597", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/9/189406-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

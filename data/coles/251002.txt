@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "350g"
+        ]
+    }, 
+    "s9": "251342", 
+    "p1": {
+        "o": "4.39"
+    }, 
+    "m": "Goodness", 
+    "u2": "$1.25 per 100G", 
+    "p": "1472242P", 
+    "s": "goodness-superfoods-freekeh", 
+    "u": "251002", 
+    "t": "/wcsstore/Coles-CAS/images/1/4/7/1472242-th.jpg", 
+    "n": "Superfoods Freekeh", 
+    "pl": "20"
+}

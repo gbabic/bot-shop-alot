@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "375g"
+        ]
+    }, 
+    "s9": "150235", 
+    "p1": {
+        "o": "7.37"
+    }, 
+    "m": "Fruit For Life", 
+    "u2": "$19.65 per 1Kg", 
+    "p": "219766P", 
+    "s": "fruit-for-life-dried-figs-garland", 
+    "u": "85926", 
+    "t": "/wcsstore/Coles-CAS/images/2/1/9/219766-th.jpg", 
+    "n": "Garland Dried Figs", 
+    "pl": "20"
+}

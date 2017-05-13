@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "562546", 
+    "p1": {
+        "l4": "4.4", 
+        "o": "2.5"
+    }, 
+    "m": "Campbell's", 
+    "t1": "S", 
+    "p": "2665321P", 
+    "s": "campbells-simply-soup-superfood-nourishing-red-with-lentils", 
+    "n": "Simply Soup Superfood Nourishing Red with Lentils", 
+    "u": "562508", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/6/2665321-th.jpg", 
+    "u2": "$0.50 per 100G", 
+    "pl": "12"
+}

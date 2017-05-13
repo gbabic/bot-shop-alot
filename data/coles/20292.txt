@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1kg"
+        ]
+    }, 
+    "u2": "$2.00 per 1Kg", 
+    "s9": "36322", 
+    "p1": {
+        "o": "2.0"
+    }, 
+    "s7": "", 
+    "m": "Coles", 
+    "n": "Wholemeal Self Raising Flour", 
+    "p": "5880830P", 
+    "s": "coles-flour-self-raising-wholemeal", 
+    "u": "20292", 
+    "t": "/wcsstore/Coles-CAS/images/5/8/8/5880830-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

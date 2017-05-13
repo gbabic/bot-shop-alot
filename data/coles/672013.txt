@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "150g"
+        ]
+    }, 
+    "s9": "672045", 
+    "p1": {
+        "o": "8.8"
+    }, 
+    "m": "Morlife", 
+    "u2": "$5.87 per 100G", 
+    "p": "2746490P", 
+    "s": "morlife-goji-berries", 
+    "u": "672013", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/4/2746490-th.jpg", 
+    "n": "Goji Berries", 
+    "pl": "99"
+}

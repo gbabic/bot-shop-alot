@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "12g"
+        ]
+    }, 
+    "s9": "136489", 
+    "p1": {
+        "o": "27.61"
+    }, 
+    "m": "Covergirl", 
+    "u2": "$23.01 per 10G", 
+    "p": "6925480P", 
+    "s": "covergirl-simply-ageless-foundation-classic-ivory", 
+    "u": "74547", 
+    "t": "/wcsstore/Coles-CAS/images/6/9/2/6925480-th.jpg", 
+    "n": "Simply Ageless Classic Ivory Foundation", 
+    "pl": "20"
+}

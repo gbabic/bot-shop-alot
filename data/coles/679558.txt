@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "510g"
+        ]
+    }, 
+    "s9": "679607", 
+    "p1": {
+        "o": "5.72"
+    }, 
+    "m": "Betty Crocker", 
+    "u2": "$1.12 per 100G", 
+    "p": "2870171P", 
+    "s": "betty-crocker-supreme-lemon-slice-mix", 
+    "u": "679558", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/7/2870171-th.jpg", 
+    "n": "Supreme Lemon Slice Mix", 
+    "pl": "20"
+}

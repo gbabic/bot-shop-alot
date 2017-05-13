@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "50g"
+        ]
+    }, 
+    "s9": "148528", 
+    "p1": {
+        "o": "2.15"
+    }, 
+    "m": "Hoyts", 
+    "u2": "$0.43 per 10G", 
+    "p": "283947P", 
+    "s": "hoyts-curry-powder-hot", 
+    "u": "85904", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/3/283947-th.jpg", 
+    "n": "Hot Curry Powder", 
+    "pl": "20"
+}

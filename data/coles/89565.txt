@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "5 pack"
+        ]
+    }, 
+    "s9": "148505", 
+    "p1": {
+        "o": "7.1"
+    }, 
+    "m": "Quick-Eze", 
+    "u2": "$4.86 per 100G", 
+    "p": "310507P", 
+    "s": "quick-eze-antacid-tablets-310507p", 
+    "u": "89565", 
+    "t": "/wcsstore/Coles-CAS/images/3/1/0/310507-th.jpg", 
+    "n": "Antacid Tablets", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "133132", 
+    "p1": {
+        "o": "2.26"
+    }, 
+    "m": "Vetta", 
+    "u2": "$0.45 per 100G", 
+    "p": "6334439P", 
+    "s": "vetta-pasta-spaghetti-high-fibre", 
+    "u": "71103", 
+    "t": "/wcsstore/Coles-CAS/images/6/3/3/6334439-th.jpg", 
+    "n": "High Fibre Spaghetti", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Drinks"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1L"
+        ]
+    }, 
+    "s9": "143096", 
+    "p1": {
+        "o": "6.96"
+    }, 
+    "m": "Bickfords", 
+    "u2": "$6.96 per 1L", 
+    "p": "5225460P", 
+    "s": "bickfords-juice-prune", 
+    "u": "79908", 
+    "t": "/wcsstore/Coles-CAS/images/5/2/2/5225460-th.jpg", 
+    "n": "Prune Juice", 
+    "pl": "20"
+}

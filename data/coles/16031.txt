@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "2.55"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 2.55kg pack"
+        ]
+    }, 
+    "u2": "$4.00 per 1Kg", 
+    "s9": "28063", 
+    "p1": {
+        "o": "10.2"
+    }, 
+    "s7": "Indicated price based on approx. weight. Weight may vary between 2.1kg and 2.6kg.", 
+    "m": "Coles", 
+    "n": "RSPCA Approved Extra Large Whole Chicken", 
+    "p": "9196739P", 
+    "s": "coles-chicken-whole-extra-large", 
+    "u": "16031", 
+    "t": "/wcsstore/Coles-CAS/images/9/1/9/9196739-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

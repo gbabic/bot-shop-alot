@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1.6kg"
+        ]
+    }, 
+    "s9": "33523", 
+    "p1": {
+        "l4": "19.8", 
+        "o": "13.0"
+    }, 
+    "m": "Latina", 
+    "t1": "S", 
+    "p": "9992814P", 
+    "s": "latina-lasagne-angus-beef-vegetable", 
+    "n": "Lasagne with Angus Beef & Vegetables", 
+    "u": "10990", 
+    "t": "/wcsstore/Coles-CAS/images/9/9/9/9992814-th.jpg", 
+    "u2": "$0.81 per 100G", 
+    "pl": "12"
+}

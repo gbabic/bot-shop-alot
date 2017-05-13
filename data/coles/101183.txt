@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "550g"
+        ]
+    }, 
+    "s9": "166764", 
+    "p1": {
+        "o": "4.36"
+    }, 
+    "m": "Blue Label", 
+    "u2": "$0.79 per 100G", 
+    "p": "9054676P", 
+    "s": "blue-label-molasses", 
+    "u": "101183", 
+    "t": "/wcsstore/Coles-CAS/images/9/0/5/9054676-th.jpg", 
+    "n": "Molasses", 
+    "pl": "20"
+}

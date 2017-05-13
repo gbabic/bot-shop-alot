@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "9.2mL"
+        ]
+    }, 
+    "s9": "137096", 
+    "p1": {
+        "o": "22.0"
+    }, 
+    "m": "Maybelline", 
+    "u2": "$23.91 per 10mL", 
+    "p": "6977280P", 
+    "s": "maybelline-colosal-vol-ex-mascara-black-glam", 
+    "u": "70574", 
+    "t": "/wcsstore/Coles-CAS/images/6/9/7/6977280-th.jpg", 
+    "n": "Volume Express The Colossal Glam Black Mascara", 
+    "pl": "20"
+}

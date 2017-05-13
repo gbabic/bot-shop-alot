@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "3 pack"
+        ]
+    }, 
+    "s9": "118717", 
+    "p1": {
+        "o": "34.21"
+    }, 
+    "m": "Purina", 
+    "u2": "$11.40 per 1Ea", 
+    "p": "7831654P", 
+    "s": "purina-total-care-tasty-chew-heartwormer-allwormer-for-medium-dogs", 
+    "u": "60604", 
+    "t": "/wcsstore/Coles-CAS/images/7/8/3/7831654-th.jpg", 
+    "n": "Total Care Tasty Chew Heartwormer & Allwormer for Medium Dogs", 
+    "pl": "20"
+}

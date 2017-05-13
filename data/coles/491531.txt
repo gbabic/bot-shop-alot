@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100g"
+        ]
+    }, 
+    "s9": "491646", 
+    "p1": {
+        "o": "4.57"
+    }, 
+    "m": "7D", 
+    "u2": "$4.57 per 100G", 
+    "p": "2214719P", 
+    "s": "7d-dried-mangoes", 
+    "u": "491531", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/1/2214719-th.jpg", 
+    "n": "Dried Mangoes", 
+    "pl": "20"
+}

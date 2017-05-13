@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "70g"
+        ]
+    }, 
+    "s9": "221198", 
+    "p1": {
+        "o": "2.2"
+    }, 
+    "m": "Chef's Kitchen", 
+    "u2": "$3.14 per 100G", 
+    "p": "1388022P", 
+    "s": "chefs-kitchen-butterscotch-honey-pokey", 
+    "u": "221062", 
+    "t": "/wcsstore/Coles-CAS/images/1/3/8/1388022-th.jpg", 
+    "n": "Butterscotch Honey Pokey", 
+    "pl": "20"
+}

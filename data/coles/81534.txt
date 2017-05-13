@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "18g"
+        ]
+    }, 
+    "s9": "145943", 
+    "p1": {
+        "o": "25.19"
+    }, 
+    "m": "Maybelline", 
+    "u2": "$13.99 per 10G", 
+    "p": "4438036P", 
+    "s": "maybelline-dream-matte-mousse-foundation-nude", 
+    "u": "81534", 
+    "t": "/wcsstore/Coles-CAS/images/4/4/3/4438036-th.jpg", 
+    "n": "Dream Matte Mousse Nude 40 Foundation", 
+    "pl": "20"
+}

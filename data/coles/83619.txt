@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "142613", 
+    "p1": {
+        "l4": "4.9", 
+        "o": "3.0"
+    }, 
+    "m": "Sanitarium", 
+    "t1": "S", 
+    "p": "4951376P", 
+    "s": "sanitarium-cereal-weet-bix-bites-fruity-apricot", 
+    "n": "Weet-Bix Bites Apricot", 
+    "u": "83619", 
+    "t": "/wcsstore/Coles-CAS/images/4/9/5/4951376-th.jpg", 
+    "u2": "$0.60 per 100G", 
+    "pl": "6"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "190g"
+        ]
+    }, 
+    "s9": "394760", 
+    "p1": {
+        "o": "6.05"
+    }, 
+    "m": "Colgate", 
+    "u2": "$3.18 per 100G", 
+    "p": "1973157P", 
+    "s": "colgate-total-toothpaste-1973157p", 
+    "u": "394613", 
+    "t": "/wcsstore/Coles-CAS/images/1/9/7/1973157-th.jpg", 
+    "n": "Total Toothpaste", 
+    "pl": "20"
+}

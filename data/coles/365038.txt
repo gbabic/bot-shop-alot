@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "454g"
+        ]
+    }, 
+    "s9": "365098", 
+    "p1": {
+        "l4": "2.75", 
+        "o": "1.9"
+    }, 
+    "m": "Barilla", 
+    "t1": "V", 
+    "p": "1688977P", 
+    "s": "barilla-angel-hair-pasta", 
+    "n": "Angel Hair Pasta", 
+    "u": "365038", 
+    "t": "/wcsstore/Coles-CAS/images/1/6/8/1688977-th.jpg", 
+    "u2": "$0.42 per 100G", 
+    "pl": "12"
+}

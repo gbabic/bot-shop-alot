@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Fruit & Vegetables"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "50g"
+        ]
+    }, 
+    "u2": "$60.00 per 1Kg", 
+    "s9": "215535", 
+    "p1": {
+        "o": "3.0"
+    }, 
+    "s7": "", 
+    "m": "Coles", 
+    "n": "Green Chillies Prepacked", 
+    "p": "1501351P", 
+    "s": "coles-fresh-chillies---green-prepacked", 
+    "u": "215518", 
+    "t": "/wcsstore/Coles-CAS/images/1/5/0/1501351-th.jpg", 
+    "t1": "S", 
+    "pl": "99"
+}

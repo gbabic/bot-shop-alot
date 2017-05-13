@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "177554", 
+    "p1": {
+        "o": "6.95"
+    }, 
+    "m": "Magazine", 
+    "s7": "", 
+    "u2": "$6.95 per 1ea", 
+    "p": "1418994P", 
+    "s": "nourish-magazine", 
+    "u": "177516", 
+    "t": "/wcsstore/Coles-CAS/images/1/4/1/1418994-th.jpg", 
+    "n": "Nourish", 
+    "pl": "20"
+}

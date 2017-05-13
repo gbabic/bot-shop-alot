@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "750g"
+        ]
+    }, 
+    "s9": "138792", 
+    "p1": {
+        "o": "4.4"
+    }, 
+    "m": "McCain", 
+    "u2": "$5.87 per 1Kg", 
+    "p": "5394810P", 
+    "s": "mccain-potato-wedges-crunchy-frozen", 
+    "u": "75507", 
+    "t": "/wcsstore/Coles-CAS/images/5/3/9/5394810-th.jpg", 
+    "n": "Crunchy Frozen Potato Wedges", 
+    "pl": "20"
+}

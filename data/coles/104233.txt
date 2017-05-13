@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "350g"
+        ]
+    }, 
+    "s9": "109287", 
+    "p1": {
+        "l4": "4.4", 
+        "o": "2.5"
+    }, 
+    "m": "Leggo's", 
+    "t1": "S", 
+    "p": "8918372P", 
+    "s": "leggos-stir-through--sauce-tomato-bacon", 
+    "n": "Stir Through Tomato & Bacon Pasta Sauce", 
+    "u": "104233", 
+    "t": "/wcsstore/Coles-CAS/images/8/9/1/8918372-th.jpg", 
+    "u2": "$0.71 per 100G", 
+    "pl": "12"
+}

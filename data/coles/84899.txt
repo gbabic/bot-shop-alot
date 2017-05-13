@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "505g"
+        ]
+    }, 
+    "s9": "143942", 
+    "p1": {
+        "l4": "3.62", 
+        "o": "2.0"
+    }, 
+    "m": "Campbell's", 
+    "t1": "S", 
+    "p": "4915339P", 
+    "s": "campbells-chunky-soup-beef", 
+    "n": "Chunky Beef Soup Can", 
+    "u": "84899", 
+    "t": "/wcsstore/Coles-CAS/images/4/9/1/4915339-th.jpg", 
+    "u2": "$0.40 per 100G", 
+    "pl": "12"
+}

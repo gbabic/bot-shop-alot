@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "369345", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "m": "Liquid Paper Dryline", 
+    "u2": "", 
+    "p": "1842261P", 
+    "s": "liquid-paper-dryline-correction-tape-1842261p", 
+    "u": "369031", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/4/1842261-th.jpg", 
+    "n": "Correction Tape", 
+    "pl": "20"
+}

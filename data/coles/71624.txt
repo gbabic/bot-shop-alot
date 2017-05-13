@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "150mL"
+        ]
+    }, 
+    "s9": "133754", 
+    "p1": {
+        "l4": "13.75", 
+        "o": "8.5"
+    }, 
+    "m": "Garnier", 
+    "t1": "S", 
+    "p": "6556306P", 
+    "s": "garnier-pure-3-in-1-wash--scrub-mask", 
+    "n": "Pure Active 3 in 1 Wash Scrub & Mask", 
+    "u": "71624", 
+    "t": "/wcsstore/Coles-CAS/images/6/5/5/6556306-th.jpg", 
+    "u2": "$5.67 per 100mL", 
+    "pl": "12"
+}

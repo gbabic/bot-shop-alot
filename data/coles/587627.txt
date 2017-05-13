@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "350g"
+        ]
+    }, 
+    "s9": "587765", 
+    "p1": {
+        "o": "4.5"
+    }, 
+    "m": "Coles", 
+    "t1": "V", 
+    "p": "2483460P", 
+    "s": "coles-flaxseed-flour", 
+    "n": "Flaxseed Flour", 
+    "u": "587627", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/8/2483460-th.jpg", 
+    "u2": "$12.86 per 1Kg", 
+    "pl": "20"
+}

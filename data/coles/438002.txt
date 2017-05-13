@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "60g"
+        ]
+    }, 
+    "s9": "438023", 
+    "p1": {
+        "o": "2.01"
+    }, 
+    "m": "Cadbury", 
+    "u2": "$3.35 per 100G", 
+    "p": "8348208P", 
+    "s": "cadbury-moro-chocolate-bar", 
+    "u": "438002", 
+    "t": "/wcsstore/Coles-CAS/images/8/3/4/8348208-th.jpg", 
+    "n": "Moro Chocolate Bar", 
+    "pl": "20"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "40g"
+        ]
+    }, 
+    "s9": "319405", 
+    "p1": {
+        "l4": "1.14", 
+        "o": "0.8"
+    }, 
+    "m": "Dine", 
+    "t1": "S", 
+    "p": "1711106P", 
+    "s": "dine-bonito-chicken-melting-soup-cat-food", 
+    "n": "Bonito & Chicken Melting Soup Cat Food", 
+    "u": "319056", 
+    "t": "/wcsstore/Coles-CAS/images/1/7/1/1711106-th.jpg", 
+    "u2": "$2.00 per 100G", 
+    "pl": "12"
+}

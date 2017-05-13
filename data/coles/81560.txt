@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "20 pack"
+        ]
+    }, 
+    "s9": "147167", 
+    "p1": {
+        "l4": "13.59", 
+        "o": "8.64"
+    }, 
+    "m": "Veet", 
+    "t1": "S", 
+    "p": "4394087P", 
+    "s": "veet-hair-removal-wax-strips-for-normal-skin", 
+    "n": "Wax Strips For Normal Skin", 
+    "u": "81560", 
+    "t": "/wcsstore/Coles-CAS/images/4/3/9/4394087-th.jpg", 
+    "u2": "$0.43 per 1Ea", 
+    "pl": "12"
+}

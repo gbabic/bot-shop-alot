@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "s9": "133884", 
+    "p1": {
+        "o": "3.91"
+    }, 
+    "m": "True Foods", 
+    "u2": "$1.56 per 100G", 
+    "p": "6295814P", 
+    "s": "true-foods-bread-naan-traditional", 
+    "u": "73669", 
+    "t": "/wcsstore/Coles-CAS/images/6/2/9/6295814-th.jpg", 
+    "n": "Traditional Naan Bread", 
+    "pl": "20"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "300g"
+        ]
+    }, 
+    "s9": "110418", 
+    "p1": {
+        "l4": "4.0", 
+        "o": "2.0"
+    }, 
+    "m": "Freedom Foods", 
+    "t1": "S", 
+    "p": "8207002P", 
+    "s": "freedom-foods-cereal-rice-flakes-gluten-free", 
+    "n": "Rice Flakes", 
+    "u": "55936", 
+    "t": "/wcsstore/Coles-CAS/images/8/2/0/8207002-th.jpg", 
+    "u2": "$0.67 per 100G", 
+    "pl": "12"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "2.7kg"
+        ]
+    }, 
+    "s9": "349010", 
+    "p1": {
+        "o": "19.03"
+    }, 
+    "m": "Optimum", 
+    "u2": "$7.05 per 1Kg", 
+    "p": "1843162P", 
+    "s": "optimum-adult-chicken-vegetable-rice-dry-dog-food", 
+    "u": "349005", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/4/1843162-th.jpg", 
+    "n": "Adult Chicken Vegetable & Rice Dry Dog Food", 
+    "pl": "20"
+}

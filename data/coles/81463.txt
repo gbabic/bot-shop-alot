@@ -1,0 +1,38 @@
+{
+    "a": {
+        "D": [
+            "TOBACCO"
+        ], 
+        "P8": [
+            "Tobacco"
+        ], 
+        "T1": [
+            "true"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "10 pack"
+        ]
+    }, 
+    "s9": "143474", 
+    "p1": {
+        "o": "22.0"
+    }, 
+    "m": "Wee Willem", 
+    "s7": "Prices include all taxes", 
+    "u2": "$22.00 per 1ea", 
+    "p": "4575762P", 
+    "s": "wee-willem-regular-cigars", 
+    "u": "81463", 
+    "t": "/wcsstore/Coles-CAS/images/C/i/g/Cigarettes-th.jpg", 
+    "n": "Regular Cigars", 
+    "pl": "5"
+}

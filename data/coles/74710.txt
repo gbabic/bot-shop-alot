@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "850g"
+        ]
+    }, 
+    "s9": "133591", 
+    "p1": {
+        "o": "5.2"
+    }, 
+    "m": "CSR", 
+    "u2": "$0.61 per 100G", 
+    "p": "6790416P", 
+    "s": "csr-syrup-treacle", 
+    "u": "74710", 
+    "t": "/wcsstore/Coles-CAS/images/6/7/9/6790416-th.jpg", 
+    "n": "Treacle Syrup", 
+    "pl": "20"
+}

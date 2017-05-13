@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400g"
+        ]
+    }, 
+    "s9": "531613", 
+    "p1": {
+        "o": "2.63"
+    }, 
+    "m": "Optimum", 
+    "u2": "$0.66 per 100G", 
+    "p": "2488623P", 
+    "s": "optimum-chicken-rice-adult-canned-dog-food", 
+    "u": "531560", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/8/2488623-th.jpg", 
+    "n": "Chicken & Rice Adult Canned Dog Food", 
+    "pl": "20"
+}

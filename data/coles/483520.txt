@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Socks & Jocks"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 pack"
+        ]
+    }, 
+    "s9": "483548", 
+    "p1": {
+        "o": "6.6"
+    }, 
+    "m": "Mix", 
+    "s7": "", 
+    "u2": "$6.60 per 1ea", 
+    "p": "1696217P", 
+    "s": "natural-mix-glow-pantyhose-natural-talls", 
+    "u": "483520", 
+    "t": "/wcsstore/Coles-CAS/images/1/6/9/1696217-th.jpg", 
+    "n": "Glow Sheer to Waist Pantyhose Natural Talls", 
+    "pl": "20"
+}

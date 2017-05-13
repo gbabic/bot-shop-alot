@@ -1,0 +1,40 @@
+{
+    "a": {
+        "P8": [
+            "Drinks"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1.25L"
+        ]
+    }, 
+    "pr": "1.50000", 
+    "s9": "517654", 
+    "pq": "2", 
+    "pt": "MultibuyMultiSku", 
+    "u2": "$1.94 per 1L", 
+    "m": "Schweppes", 
+    "n": "Traditionals Fairy Floss", 
+    "p": "2500365P", 
+    "s": "schweppes-traditionals-fairy-floss", 
+    "p1": {
+        "o": "2.42"
+    }, 
+    "u": "517526", 
+    "t": "/wcsstore/Coles-CAS/images/2/5/0/2500365-th.jpg", 
+    "pd": "2 for $3", 
+    "pi": "10141008", 
+    "t1": "M", 
+    "pl": "12"
+}

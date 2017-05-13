@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Healthy Living"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "s9": "131378", 
+    "p1": {
+        "o": "23.1"
+    }, 
+    "m": "Synergy", 
+    "u2": "$11.55 per 100G", 
+    "p": "7110594P", 
+    "s": "synergy-powder-super-greens", 
+    "u": "72421", 
+    "t": "/wcsstore/Coles-CAS/images/7/1/1/7110594-th.jpg", 
+    "n": "Super Greens Powder", 
+    "pl": "20"
+}

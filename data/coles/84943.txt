@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "375g"
+        ]
+    }, 
+    "u2": "$1.47 per 100G", 
+    "s9": "142678", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "s7": "", 
+    "m": "Top 20", 
+    "n": "Variety Potato Chips 20 pack", 
+    "p": "4843850P", 
+    "s": "top-20-potato-chips-variety-20-pack", 
+    "u": "84943", 
+    "t": "/wcsstore/Coles-CAS/images/4/8/4/4843850-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

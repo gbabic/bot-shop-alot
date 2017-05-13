@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100g"
+        ]
+    }, 
+    "s9": "139793", 
+    "p1": {
+        "l4": "7.7", 
+        "o": "3.5"
+    }, 
+    "m": "Bambu", 
+    "t1": "S", 
+    "p": "5750201P", 
+    "s": "bambu-coffee-substitute", 
+    "n": "Coffee Substitute", 
+    "u": "75304", 
+    "t": "/wcsstore/Coles-CAS/images/5/7/5/5750201-th.jpg", 
+    "u2": "$3.50 per 100G", 
+    "pl": "12"
+}

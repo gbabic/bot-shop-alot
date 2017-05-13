@@ -1,0 +1,40 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "pr": "4.00000", 
+    "s9": "165608", 
+    "pq": "2", 
+    "pt": "MultibuyMultiSku", 
+    "u2": "$1.14 per 100G", 
+    "m": "Betty Crocker", 
+    "n": "Cinnamon Crumble Muffin Mix", 
+    "p": "8622004P", 
+    "s": "betty-crocker-cinnamon-crumble-muffin", 
+    "p1": {
+        "o": "5.71"
+    }, 
+    "u": "103586", 
+    "t": "/wcsstore/Coles-CAS/images/8/6/2/8622004-th.jpg", 
+    "pd": "2 for $8", 
+    "pi": "10141006", 
+    "t1": "M", 
+    "pl": "12"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1kg"
+        ]
+    }, 
+    "s9": "455303", 
+    "p1": {
+        "o": "7.98"
+    }, 
+    "m": "Well & Good", 
+    "u2": "$7.98 per 1Kg", 
+    "p": "1996480P", 
+    "s": "well-good-gluten-free-pastry-flour", 
+    "u": "455146", 
+    "t": "/wcsstore/Coles-CAS/images/1/9/9/1996480-th.jpg", 
+    "n": "Gluten Free Pastry Flour", 
+    "pl": "20"
+}

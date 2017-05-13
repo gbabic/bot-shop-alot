@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100g"
+        ]
+    }, 
+    "s9": "584583", 
+    "p1": {
+        "l4": "7.54", 
+        "o": "5.45"
+    }, 
+    "m": "Prime", 
+    "t1": "S", 
+    "p": "2688203P", 
+    "s": "prime-kangaroo-jerky-dog-treats", 
+    "n": "Kangaroo Jerky Dog Treats", 
+    "u": "584515", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/8/2688203-th.jpg", 
+    "u2": "$5.45 per 100G", 
+    "pl": "12"
+}

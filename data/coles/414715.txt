@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "190g"
+        ]
+    }, 
+    "s9": "414901", 
+    "p1": {
+        "o": "5.72"
+    }, 
+    "m": "Maynards", 
+    "u2": "$3.01 per 100G", 
+    "p": "1656110P", 
+    "s": "maynards-wine-gums-bag", 
+    "u": "414715", 
+    "t": "/wcsstore/Coles-CAS/images/1/6/5/1656110-th.jpg", 
+    "n": "Wine Gums Bag", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "280g"
+        ]
+    }, 
+    "s9": "139201", 
+    "p1": {
+        "o": "6.59"
+    }, 
+    "m": "Carmelina", 
+    "u2": "$2.35 per 100G", 
+    "p": "5716382P", 
+    "s": "carmelina-spread-explosive-mixture", 
+    "u": "76497", 
+    "t": "/wcsstore/Coles-CAS/images/5/7/1/5716382-th.jpg", 
+    "n": "Explosive Mixture Spread", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "33297", 
+    "p1": {
+        "o": "4.62"
+    }, 
+    "m": "Kooka's", 
+    "u2": "$0.92 per 100G", 
+    "p": "6121336P", 
+    "s": "kookas-cookies-jam", 
+    "u": "21873", 
+    "t": "/wcsstore/Coles-CAS/images/6/1/2/6121336-th.jpg", 
+    "n": "Jam Cookies", 
+    "pl": "20"
+}

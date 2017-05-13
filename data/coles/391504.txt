@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "391511", 
+    "p1": {
+        "l4": "6.25", 
+        "o": "5.0"
+    }, 
+    "m": "Scotch", 
+    "t1": "S", 
+    "p": "1823610P", 
+    "s": "scotch-magic-tape-dispenser", 
+    "n": "Magic Tape Dispenser", 
+    "u": "391504", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/2/1823610-th.jpg", 
+    "u2": "$5.00 per 1Ea", 
+    "pl": "12"
+}

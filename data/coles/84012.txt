@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "680g"
+        ]
+    }, 
+    "s9": "150776", 
+    "p1": {
+        "o": "5.34"
+    }, 
+    "m": "Paul Newman's Own", 
+    "u2": "$0.79 per 100G", 
+    "p": "33633P", 
+    "s": "paul-newmans-own-bolognese-sauce", 
+    "u": "84012", 
+    "t": "/wcsstore/Coles-CAS/images/3/3/6/33633-th.jpg", 
+    "n": "Bolognese Pasta Sauce", 
+    "pl": "20"
+}

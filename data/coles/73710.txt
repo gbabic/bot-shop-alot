@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Bread & Bakery"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "900g"
+        ]
+    }, 
+    "s9": "136985", 
+    "p1": {
+        "o": "3.99"
+    }, 
+    "m": "Glicks", 
+    "s7": "", 
+    "u2": "$0.44 per 100G", 
+    "p": "6188701P", 
+    "s": "glicks-bread-rye-traditional", 
+    "u": "73710", 
+    "t": "/wcsstore/Coles-CAS/images/6/1/8/6188701-th.jpg", 
+    "n": "Traditional Rye Bread", 
+    "pl": "20"
+}

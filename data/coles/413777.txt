@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "185g"
+        ]
+    }, 
+    "s9": "414110", 
+    "p1": {
+        "o": "4.29"
+    }, 
+    "m": "Prima Taste", 
+    "u2": "$2.32 per 100G", 
+    "p": "1859275P", 
+    "s": "prima-taste-laksa-la-mian", 
+    "u": "413777", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/5/1859275-th.jpg", 
+    "n": "Laksa La Mian", 
+    "pl": "20"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "20 pack"
+        ]
+    }, 
+    "s9": "167455", 
+    "p1": {
+        "l4": "15.73", 
+        "o": "11.4"
+    }, 
+    "m": "Codral", 
+    "t1": "S", 
+    "p": "9013737P", 
+    "s": "codral-relief-tablets-cold-flu--decogestant", 
+    "n": "Relief Cold & Flu Decongestant Tablets", 
+    "u": "99762", 
+    "t": "/wcsstore/Coles-CAS/images/9/0/1/9013737-th.jpg", 
+    "u2": "$0.57 per 1Ea", 
+    "pl": "12"
+}

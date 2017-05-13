@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Baby"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "32 pack"
+        ]
+    }, 
+    "s9": "454600", 
+    "p1": {
+        "l4": "6.0", 
+        "o": "5.0"
+    }, 
+    "m": "Huggies", 
+    "t1": "S", 
+    "p": "2270630P", 
+    "s": "huggies-clutch-go-unscented-baby-wipes", 
+    "n": "Clutch & Go Unscented Baby Wipes", 
+    "u": "454518", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/7/2270630-th.jpg", 
+    "u2": "$15.63 per 100Ea", 
+    "pl": "12"
+}

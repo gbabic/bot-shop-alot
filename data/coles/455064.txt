@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "750g"
+        ]
+    }, 
+    "s9": "455304", 
+    "p1": {
+        "l4": "6.88", 
+        "o": "5.0"
+    }, 
+    "m": "Well & Good", 
+    "t1": "S", 
+    "p": "1994893P", 
+    "s": "well-good-rye-less-rye-bread-mix", 
+    "n": "Rye-Less Rye Bread Mix", 
+    "u": "455064", 
+    "t": "/wcsstore/Coles-CAS/images/1/9/9/1994893-th.jpg", 
+    "u2": "$0.67 per 100G", 
+    "pl": "12"
+}

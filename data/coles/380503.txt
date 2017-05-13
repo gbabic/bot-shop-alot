@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "193g"
+        ]
+    }, 
+    "s9": "380510", 
+    "p1": {
+        "l4": "4.9", 
+        "o": "4.55"
+    }, 
+    "m": "Old El Paso", 
+    "u2": "$2.36 per 100G", 
+    "p": "1868323P", 
+    "s": "old-el-paso-stand-n-stuff-tortillas", 
+    "u": "380503", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/6/1868323-th.jpg", 
+    "n": "Stand N Stuff Tortillas", 
+    "pl": "20"
+}

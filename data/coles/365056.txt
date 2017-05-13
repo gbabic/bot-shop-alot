@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "24 pack"
+        ]
+    }, 
+    "s9": "365095", 
+    "p1": {
+        "l4": "6.16", 
+        "o": "4.48"
+    }, 
+    "m": "Carefree", 
+    "t1": "S", 
+    "p": "1719505P", 
+    "s": "carefree-plus-long-liners", 
+    "n": "Plus Long Liners", 
+    "u": "365056", 
+    "t": "/wcsstore/Coles-CAS/images/1/7/1/1719505-th.jpg", 
+    "u2": "$0.19 per 1Ea", 
+    "pl": "12"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "270g"
+        ]
+    }, 
+    "s9": "647004", 
+    "p1": {
+        "o": "4.4"
+    }, 
+    "m": "Smiths Twisties", 
+    "u2": "$1.63 per 100G", 
+    "p": "2871924P", 
+    "s": "smiths-twisties-pizza-party-bag", 
+    "u": "647002", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/7/2871924-th.jpg", 
+    "n": "Pizza Party Bag", 
+    "pl": "99"
+}

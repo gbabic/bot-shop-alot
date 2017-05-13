@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "360g"
+        ]
+    }, 
+    "s9": "590037", 
+    "p1": {
+        "o": "8.35"
+    }, 
+    "m": "McCain", 
+    "u2": "$2.32 per 100G", 
+    "p": "2742433P", 
+    "s": "mccain-healthy-choice-protein-plus-italian-chicken", 
+    "u": "590014", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/4/2742433-th.jpg", 
+    "n": "Healthy Choice Protein Plus Italian Chicken", 
+    "pl": "99"
+}

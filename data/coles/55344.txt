@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "58g"
+        ]
+    }, 
+    "s9": "117751", 
+    "p1": {
+        "o": "1.97"
+    }, 
+    "m": "Maggi", 
+    "u2": "$3.40 per 100G", 
+    "p": "8109273P", 
+    "s": "maggi-noodle-cup-beef", 
+    "u": "55344", 
+    "t": "/wcsstore/Coles-CAS/images/8/1/0/8109273-th.jpg", 
+    "n": "Beef Noodle Cup", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "s9": "496074", 
+    "p1": {
+        "o": "4.95"
+    }, 
+    "m": "Sugars Of The World", 
+    "u2": "$1.98 per 100G", 
+    "p": "2288307P", 
+    "s": "sugars-of-the-world-mexican-agave-sugar", 
+    "u": "496019", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/8/2288307-th.jpg", 
+    "n": "Mexican Agave Sugar", 
+    "pl": "20"
+}

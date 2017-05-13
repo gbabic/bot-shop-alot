@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "85g"
+        ]
+    }, 
+    "s9": "130747", 
+    "p1": {
+        "o": "1.6"
+    }, 
+    "m": "Fantastic", 
+    "u2": "$1.88 per 100G", 
+    "p": "6992421P", 
+    "s": "fantastic-noodles-bowl-chicken", 
+    "u": "70561", 
+    "t": "/wcsstore/Coles-CAS/images/6/9/9/6992421-th.jpg", 
+    "n": "Chicken Noodles Bowl", 
+    "pl": "20"
+}

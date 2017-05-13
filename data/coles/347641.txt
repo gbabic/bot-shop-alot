@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "45g"
+        ]
+    }, 
+    "s9": "347799", 
+    "p1": {
+        "o": "1.55"
+    }, 
+    "m": "Skittles", 
+    "u2": "$3.44 per 100G", 
+    "p": "1855354P", 
+    "s": "skittles-candy-fruits-box", 
+    "u": "347641", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/5/1855354-th.jpg", 
+    "n": "Fruits Box", 
+    "pl": "20"
+}

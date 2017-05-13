@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "20 pack"
+        ]
+    }, 
+    "s9": "467896", 
+    "p1": {
+        "l4": "12.65", 
+        "o": "8.05"
+    }, 
+    "m": "Veet", 
+    "t1": "S", 
+    "p": "2277934P", 
+    "s": "veet-natural-shea-butter-wax-strips", 
+    "n": "Natural Shea Butter Wax Strips", 
+    "u": "467570", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/7/2277934-th.jpg", 
+    "u2": "$0.40 per 1Ea", 
+    "pl": "12"
+}

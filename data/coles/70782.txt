@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "195g"
+        ]
+    }, 
+    "s9": "134847", 
+    "p1": {
+        "o": "3.8"
+    }, 
+    "m": "Ayam", 
+    "u2": "$1.95 per 100G", 
+    "p": "6801057P", 
+    "s": "ayam-paste-thai-red-curry", 
+    "u": "70782", 
+    "t": "/wcsstore/Coles-CAS/images/6/8/0/6801057-th.jpg", 
+    "n": "Thai Red Curry Paste", 
+    "pl": "20"
+}

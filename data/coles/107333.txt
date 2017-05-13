@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "40g"
+        ]
+    }, 
+    "s9": "154183", 
+    "p1": {
+        "o": "2.52"
+    }, 
+    "m": "MasterFoods", 
+    "s7": "", 
+    "u2": "$6.30 per 100G", 
+    "p": "9182075P", 
+    "s": "masterfoods-chilli-con-carne", 
+    "u": "107333", 
+    "t": "/wcsstore/Coles-CAS/images/9/1/8/9182075-th.jpg", 
+    "n": "Master Mix Chilli Con Carne Recipe Base", 
+    "pl": "20"
+}

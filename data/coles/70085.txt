@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "135390", 
+    "p1": {
+        "o": "6.99"
+    }, 
+    "m": "Reflex", 
+    "u2": "$6.99 per 1ea", 
+    "p": "686499P", 
+    "s": "reflex-a4-copy-paper-500-sheet", 
+    "u": "70085", 
+    "t": "/wcsstore/Coles-CAS/images/6/8/6/686499-th.jpg", 
+    "n": "A4 Copy Paper 500 Sheet", 
+    "pl": "20"
+}

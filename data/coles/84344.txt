@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "24 pack"
+        ]
+    }, 
+    "s9": "143380", 
+    "p1": {
+        "o": "5.17"
+    }, 
+    "m": "Mylanta", 
+    "u2": "$0.22 per 1Ea", 
+    "p": "4801748P", 
+    "s": "mylanta2go-tablets-original", 
+    "u": "84344", 
+    "t": "/wcsstore/Coles-CAS/images/4/8/0/4801748-th.jpg", 
+    "n": "2go Original Tablets", 
+    "pl": "20"
+}

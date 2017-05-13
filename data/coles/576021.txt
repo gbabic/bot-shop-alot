@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "310g"
+        ]
+    }, 
+    "s9": "576164", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "m": "CP", 
+    "u2": "$1.77 per 100G", 
+    "p": "2609932P", 
+    "s": "cp-asia-hong-kong-seafood-noodles-with-choy-sum", 
+    "u": "576021", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/0/2609932-th.jpg", 
+    "n": "Asia Hong Kong Seafood Noodles With Choy Sum", 
+    "pl": "99"
+}

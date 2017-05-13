@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "12g"
+        ]
+    }, 
+    "s9": "133426", 
+    "p1": {
+        "o": "24.15"
+    }, 
+    "m": "Covergirl", 
+    "s7": "", 
+    "u2": "$20.13 per 10G", 
+    "p": "6925854P", 
+    "s": "covergirl-aquasmooth-foundation-buff-beige", 
+    "u": "73905", 
+    "t": "/wcsstore/Coles-CAS/images/6/9/2/6925854-th.jpg", 
+    "n": "Aqua Smooth Buff Beige Compact Foundation", 
+    "pl": "20"
+}

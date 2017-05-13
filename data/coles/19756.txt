@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Fruit & Vegetables"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "0.7"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "32958", 
+    "p1": {
+        "o": "2.66"
+    }, 
+    "m": "Coles", 
+    "s7": "Each cut pumpkin approx. 700g; Product of Australia.", 
+    "u2": "$3.80 per 1Kg", 
+    "p": "4190600P", 
+    "s": "pumpkin-butternut-cut-wrapped", 
+    "u": "19756", 
+    "t": "/wcsstore/Coles-CAS/images/4/1/9/4190600-th.jpg", 
+    "n": "Butternut Pumpkin Cut", 
+    "pl": "99"
+}

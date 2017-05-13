@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "471620", 
+    "p1": {
+        "l4": "12.1", 
+        "o": "9.0"
+    }, 
+    "m": "Schick", 
+    "t1": "V", 
+    "p": "2277311P", 
+    "s": "schick-quattro-titanium-razor-kit-2277311p", 
+    "n": "Quattro Titanium Razor Kit", 
+    "u": "471524", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/7/2277311-th.jpg", 
+    "u2": "$9.00 per 1Ea", 
+    "pl": "12"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "35g"
+        ]
+    }, 
+    "s9": "471026", 
+    "p1": {
+        "l4": "1.14", 
+        "o": "0.8"
+    }, 
+    "m": "Dine", 
+    "t1": "S", 
+    "p": "2283154P", 
+    "s": "dine-fine-flakes-tuna-chicken-cat-food-pouch", 
+    "n": "Fine Flake Tuna & Chicken", 
+    "u": "471006", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/8/2283154-th.jpg", 
+    "u2": "$2.29 per 100G", 
+    "pl": "12"
+}

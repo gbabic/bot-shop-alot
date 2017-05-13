@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "267035", 
+    "p1": {
+        "l4": "6.27", 
+        "o": "4.45"
+    }, 
+    "m": "Guzzi's", 
+    "t1": "S", 
+    "p": "1566346P", 
+    "s": "guzzis-golden\t\t\t-pasta-fettuccine", 
+    "n": "Golden Pasta Fettuccine", 
+    "u": "267009", 
+    "t": "/wcsstore/Coles-CAS/images/1/5/6/1566346-th.jpg", 
+    "u2": "$0.89 per 100G", 
+    "pl": "12"
+}

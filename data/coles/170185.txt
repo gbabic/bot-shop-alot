@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Bread & Bakery"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "620g"
+        ]
+    }, 
+    "s9": "170444", 
+    "p1": {
+        "o": "6.99"
+    }, 
+    "m": "Bill's Organic", 
+    "s7": "", 
+    "u2": "$1.13 per 100G", 
+    "p": "1349461P", 
+    "s": "bills-organic-bread-spelt", 
+    "u": "170185", 
+    "t": "/wcsstore/Coles-CAS/images/1/3/4/1349461-th.jpg", 
+    "n": "Spelt Bread", 
+    "pl": "20"
+}

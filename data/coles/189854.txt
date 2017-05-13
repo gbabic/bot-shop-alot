@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Clothing"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 pack"
+        ]
+    }, 
+    "u2": "$6.00 per 1ea", 
+    "s9": "192131", 
+    "p1": {
+        "l4": "12.0", 
+        "o": "6.0"
+    }, 
+    "s7": "", 
+    "m": "Bonds", 
+    "n": "Womens Cuddles Bed Socks Assorted size 2-8", 
+    "p": "6363222P", 
+    "s": "bonds-socks-womens-home-mary-janes-assorted-stripe-size-2-8", 
+    "u": "189854", 
+    "t": "/wcsstore/Coles-CAS/images/6/3/6/6363222-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100g"
+        ]
+    }, 
+    "s9": "113414", 
+    "p1": {
+        "o": "4.39"
+    }, 
+    "m": "Tuckers", 
+    "u2": "$4.39 per 100G", 
+    "p": "8659139P", 
+    "s": "tuckers-multi-fibre-rosemary-and-rocksalt-snacks", 
+    "u": "103496", 
+    "t": "/wcsstore/Coles-CAS/images/8/6/5/8659139-th.jpg", 
+    "n": "Multi Fibre Rosemary and Rocksalt Snacks", 
+    "pl": "20"
+}

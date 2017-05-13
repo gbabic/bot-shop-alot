@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "490g"
+        ]
+    }, 
+    "s9": "109722", 
+    "p1": {
+        "l4": "4.61", 
+        "o": "3.5"
+    }, 
+    "m": "Praise", 
+    "t1": "S", 
+    "p": "8734744P", 
+    "s": "praise-mayonnaise-traditional-squeezable", 
+    "n": "Traditional Squeezable Mayonnaise", 
+    "u": "104699", 
+    "t": "/wcsstore/Coles-CAS/images/8/7/3/8734744-th.jpg", 
+    "u2": "$0.71 per 100G", 
+    "pl": "12"
+}

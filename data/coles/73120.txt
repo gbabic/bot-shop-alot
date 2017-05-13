@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "300mL"
+        ]
+    }, 
+    "s9": "134652", 
+    "p1": {
+        "o": "8.35"
+    }, 
+    "m": "Gaviscon", 
+    "t1": "V", 
+    "p": "6979387P", 
+    "s": "gaviscon-dual-action-liquid", 
+    "n": "Dual Action Liquid", 
+    "u": "73120", 
+    "t": "/wcsstore/Coles-CAS/images/6/9/7/6979387-th.jpg", 
+    "u2": "$2.78 per 100mL", 
+    "pl": "20"
+}

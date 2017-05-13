@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "46g"
+        ]
+    }, 
+    "s9": "132466", 
+    "p1": {
+        "l4": "2.2", 
+        "o": "1.0"
+    }, 
+    "m": "Mars", 
+    "t1": "S", 
+    "p": "7251359P", 
+    "s": "mars-m-ms-peanut", 
+    "n": "Chocolate Peanut M&M's", 
+    "u": "68962", 
+    "t": "/wcsstore/Coles-CAS/images/7/2/5/7251359-th.jpg", 
+    "u2": "$2.17 per 100G", 
+    "pl": "12"
+}

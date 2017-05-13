@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500mL"
+        ]
+    }, 
+    "s9": "674550", 
+    "p1": {
+        "l4": "4.0", 
+        "o": "3.25"
+    }, 
+    "m": "Sanitarium", 
+    "t1": "S", 
+    "p": "2918245P", 
+    "s": "sanitariium--up-go-chocolate-ice", 
+    "n": "Up & Go Chocolate Ice Liquid Breakfast", 
+    "u": "674502", 
+    "t": "/wcsstore/Coles-CAS/images/2/9/1/2918245-th.jpg", 
+    "u2": "$6.50 per 1L", 
+    "pl": "12"
+}

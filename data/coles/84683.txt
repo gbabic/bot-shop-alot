@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100g"
+        ]
+    }, 
+    "s9": "138243", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "m": "Schwarzkopf", 
+    "u2": "$5.50 per 100G", 
+    "p": "5228731P", 
+    "s": "schwarzkopf-extra-care-hairspray-strong-hold-5228731p", 
+    "u": "84683", 
+    "t": "/wcsstore/Coles-CAS/images/5/2/2/5228731-th.jpg", 
+    "n": "Extra Care Strong Hold Hairspray", 
+    "pl": "20"
+}

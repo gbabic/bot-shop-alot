@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Mothers Day"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400mL"
+        ]
+    }, 
+    "s9": "129991", 
+    "p1": {
+        "o": "8.8"
+    }, 
+    "m": "Nivea", 
+    "u2": "$2.20 per 100mL", 
+    "p": "7199000P", 
+    "s": "nivea-express-hydration-body-lotion", 
+    "u": "67103", 
+    "t": "/wcsstore/Coles-CAS/images/7/1/9/7199000-th.jpg", 
+    "n": "Express Hydration Body Lotion", 
+    "pl": "20"
+}

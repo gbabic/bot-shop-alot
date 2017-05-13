@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "8 pack"
+        ]
+    }, 
+    "s9": "578565", 
+    "p1": {
+        "o": "9.9"
+    }, 
+    "m": "Bic", 
+    "u2": "$1.24 per 1Ea", 
+    "p": "2646575P", 
+    "s": "bic-soleil-colour-collection-8-pack", 
+    "u": "578534", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/4/2646575-th.jpg", 
+    "n": "Soleil Colour Collection for Sensitive Skin", 
+    "pl": "99"
+}

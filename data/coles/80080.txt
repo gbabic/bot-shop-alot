@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "143289", 
+    "p1": {
+        "o": "7.99"
+    }, 
+    "m": "Magazine", 
+    "s7": "", 
+    "u2": "$7.99 per 1ea", 
+    "p": "4992861P", 
+    "s": "diabetic-living-magazine", 
+    "u": "80080", 
+    "t": "/wcsstore/Coles-CAS/images/4/9/9/4992861-th.jpg", 
+    "n": "Diabetic Living", 
+    "pl": "20"
+}

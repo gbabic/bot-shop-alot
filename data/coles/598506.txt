@@ -1,0 +1,40 @@
+{
+    "a": {
+        "P8": [
+            "Drinks"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1.25L"
+        ]
+    }, 
+    "pr": "1.50000", 
+    "s9": "598561", 
+    "pq": "2", 
+    "pt": "MultibuyMultiSku", 
+    "u2": "$1.94 per 1L", 
+    "m": "Schweppes", 
+    "n": "Pepsi Max Vanilla Soft Drink", 
+    "p": "2765494P", 
+    "s": "schweppes-pepsi-max-lime", 
+    "p1": {
+        "o": "2.42"
+    }, 
+    "u": "598506", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/6/2765494-th.jpg", 
+    "pd": "2 for $3", 
+    "pi": "10141008", 
+    "t1": "M", 
+    "pl": "12"
+}

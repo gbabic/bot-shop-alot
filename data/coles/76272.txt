@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "95g"
+        ]
+    }, 
+    "s9": "140746", 
+    "p1": {
+        "o": "2.2"
+    }, 
+    "m": "John West", 
+    "u2": "$23.16 per 1Kg", 
+    "p": "6044097P", 
+    "s": "john-west-tempters-tuna-zesty-vinaigrette", 
+    "u": "76272", 
+    "t": "/wcsstore/Coles-CAS/images/6/0/4/6044097-th.jpg", 
+    "n": "Tempters Zesty Vinaigrette Tuna", 
+    "pl": "20"
+}

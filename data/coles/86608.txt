@@ -1,0 +1,37 @@
+{
+    "a": {
+        "D": [
+            "TOBACCO"
+        ], 
+        "P8": [
+            "Tobacco"
+        ], 
+        "T1": [
+            "true"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100 Pack"
+        ]
+    }, 
+    "s9": "147400", 
+    "p1": {
+        "o": "1.6"
+    }, 
+    "m": "Rizla", 
+    "u2": "$1.60 per 1ea", 
+    "p": "184639P", 
+    "s": "rizla-cigarette-papers-184639p", 
+    "u": "86608", 
+    "t": "/wcsstore/Coles-CAS/images/C/i/g/Cigarettes-th.jpg", 
+    "n": "Cigarette Papers", 
+    "pl": "5"
+}

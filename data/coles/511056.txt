@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "511190", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "m": "Waxworks", 
+    "u2": "$5.50 per 1Ea", 
+    "p": "2179458P", 
+    "s": "waxworks--citronella-vintage-jar-candle", 
+    "u": "511056", 
+    "t": "/wcsstore/Coles-CAS/images/2/1/7/2179458-th.jpg", 
+    "n": "Citronella Vintage Jar Candle", 
+    "pl": "20"
+}

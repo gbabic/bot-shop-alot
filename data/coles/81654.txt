@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "420g"
+        ]
+    }, 
+    "s9": "144839", 
+    "p1": {
+        "o": "2.31"
+    }, 
+    "m": "Heinz", 
+    "u2": "$0.55 per 100G", 
+    "p": "404134P", 
+    "s": "heinz-baked-beans-salt-reduced-404134p", 
+    "u": "81654", 
+    "t": "/wcsstore/Coles-CAS/images/4/0/4/404134-th.jpg", 
+    "n": "Baked Beans Salt Reduced", 
+    "pl": "20"
+}

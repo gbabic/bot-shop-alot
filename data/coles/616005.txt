@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Frozen"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1kg"
+        ]
+    }, 
+    "u2": "$1.00 per 100G", 
+    "s9": "616017", 
+    "p1": {
+        "l4": "22.0", 
+        "o": "10.0"
+    }, 
+    "s7": "", 
+    "m": "Crazy Dragon", 
+    "n": "Pork Dumplings", 
+    "p": "2815650P", 
+    "s": "crazy-dragon-pork-dumplings", 
+    "u": "616005", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/1/2815650-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "142480", 
+    "p1": {
+        "o": "4.62"
+    }, 
+    "m": "Korbond", 
+    "u2": "$4.62 per 1ea", 
+    "p": "5135528P", 
+    "s": "korbond-travel-sewing-kit", 
+    "u": "81826", 
+    "t": "/wcsstore/Coles-CAS/images/5/1/3/5135528-th.jpg", 
+    "n": "Travel Sewing Kit", 
+    "pl": "20"
+}

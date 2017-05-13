@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "680mL"
+        ]
+    }, 
+    "s9": "647552", 
+    "p1": {
+        "o": "7.7"
+    }, 
+    "m": "Streets Paddle Pop", 
+    "u2": "$1.13 per 100mL", 
+    "p": "2857049P", 
+    "s": "streets-paddle-pop-caramel-ice-cream", 
+    "u": "647526", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/5/2857049-th.jpg", 
+    "n": "Caramel Ice Cream", 
+    "pl": "99"
+}

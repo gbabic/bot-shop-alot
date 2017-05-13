@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "66g"
+        ]
+    }, 
+    "s9": "120597", 
+    "p1": {
+        "l4": "2.2", 
+        "o": "1.0"
+    }, 
+    "m": "Continental", 
+    "t1": "S", 
+    "p": "7978200P", 
+    "s": "continental-cup-a-soup-lots-a-noodles-chicken-corn", 
+    "n": "Lots A Noodles Chicken Corn Cup A Soup Serves 2", 
+    "u": "58931", 
+    "t": "/wcsstore/Coles-CAS/images/7/9/7/7978200-th.jpg", 
+    "u2": "$1.52 per 100G", 
+    "pl": "12"
+}

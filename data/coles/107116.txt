@@ -1,0 +1,40 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "150g"
+        ]
+    }, 
+    "pr": "2.50000", 
+    "s9": "166217", 
+    "pq": "2", 
+    "pt": "MultibuyMultiSku", 
+    "u2": "$2.35 per 100G", 
+    "m": "Parkers", 
+    "n": "Original Pretzels 6 pack", 
+    "p": "9283061P", 
+    "s": "parkers-pretzels-original", 
+    "p1": {
+        "o": "3.52"
+    }, 
+    "u": "107116", 
+    "t": "/wcsstore/Coles-CAS/images/9/2/8/9283061-th.jpg", 
+    "pd": "2 for $5", 
+    "pi": "10141009", 
+    "t1": "M", 
+    "pl": "12"
+}

@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "190g"
+        ]
+    }, 
+    "u2": "$1.58 per 100G", 
+    "s9": "153313", 
+    "p1": {
+        "l4": "4.4", 
+        "o": "3.0"
+    }, 
+    "s7": "", 
+    "m": "Aunt Betty's", 
+    "n": "Sticky Date Puddings 2 pack", 
+    "p": "9958237P", 
+    "s": "aunt-bettys-pudding-sticky-date-2-x-95g", 
+    "u": "97004", 
+    "t": "/wcsstore/Coles-CAS/images/9/9/5/9958237-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

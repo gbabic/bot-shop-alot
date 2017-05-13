@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "150863", 
+    "p1": {
+        "o": "1.8"
+    }, 
+    "m": "San Remo", 
+    "t1": "V", 
+    "p": "206196P", 
+    "s": "san-remo-pasta-spag-no-5-standard", 
+    "n": "Spaghetti No 5", 
+    "u": "87944", 
+    "t": "/wcsstore/Coles-CAS/images/2/0/6/206196-th.jpg", 
+    "u2": "$0.36 per 100G", 
+    "pl": "20"
+}

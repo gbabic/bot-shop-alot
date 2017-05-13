@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100 pack"
+        ]
+    }, 
+    "s9": "145227", 
+    "p1": {
+        "o": "24.75"
+    }, 
+    "m": "Metamucil", 
+    "u2": "$0.25 per 1Ea", 
+    "p": "4752450P", 
+    "s": "metamucil-fibre-capsules", 
+    "u": "80841", 
+    "t": "/wcsstore/Coles-CAS/images/4/7/5/4752450-th.jpg", 
+    "n": "Fibrecaps", 
+    "pl": "99"
+}

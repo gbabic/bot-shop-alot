@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "5 pack"
+        ]
+    }, 
+    "s9": "411594", 
+    "p1": {
+        "l4": "4.95", 
+        "o": "3.5"
+    }, 
+    "m": "Vitapet", 
+    "t1": "S", 
+    "p": "2061480P", 
+    "s": "vitapet-chicken-wrapped-rawhide-sticks", 
+    "n": "Chicken Wrapped Rawhide Sticks", 
+    "u": "411551", 
+    "t": "/wcsstore/Coles-CAS/images/2/0/6/2061480-th.jpg", 
+    "u2": "$0.70 per 1Ea", 
+    "pl": "12"
+}

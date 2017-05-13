@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Bread & Bakery"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "129122", 
+    "p1": {
+        "o": "3.99"
+    }, 
+    "m": "Glicks", 
+    "s7": "", 
+    "u2": "$0.80 per 100G", 
+    "p": "7451835P", 
+    "s": "glicks-bagels-mixed-fruit", 
+    "u": "67561", 
+    "t": "/wcsstore/Coles-CAS/images/7/4/5/7451835-th.jpg", 
+    "n": "Mixed Fruit Bagels", 
+    "pl": "20"
+}

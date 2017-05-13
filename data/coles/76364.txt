@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "300g"
+        ]
+    }, 
+    "s9": "138454", 
+    "p1": {
+        "o": "4.5"
+    }, 
+    "m": "Primo", 
+    "t1": "V", 
+    "p": "5946032P", 
+    "s": "primo-bacon-style-pieces-twin-pack", 
+    "n": "Twin Pack Bacon Pieces", 
+    "u": "76364", 
+    "t": "/wcsstore/Coles-CAS/images/5/9/4/5946032-th.jpg", 
+    "u2": "$15.00 per 1Kg", 
+    "pl": "20"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500mL"
+        ]
+    }, 
+    "s9": "397522", 
+    "p1": {
+        "l4": "5.39", 
+        "o": "2.69"
+    }, 
+    "m": "Palmolive", 
+    "t1": "S", 
+    "p": "1879239P", 
+    "s": "palmolive-naturals-black-orchid-shower-gel-1879239p", 
+    "n": "Naturals Black Orchid Shower Gel", 
+    "u": "397510", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/7/1879239-th.jpg", 
+    "u2": "$0.54 per 100mL", 
+    "pl": "12"
+}

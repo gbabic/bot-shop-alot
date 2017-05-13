@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "375g"
+        ]
+    }, 
+    "s9": "368633", 
+    "p1": {
+        "o": "6.5"
+    }, 
+    "m": "Fodmapped", 
+    "u2": "$1.73 per 100G", 
+    "p": "1755713P", 
+    "s": "sue-shepherd-gluten-free-red-wine-italian-herbs-tomato-pasta-sauce", 
+    "u": "368568", 
+    "t": "/wcsstore/Coles-CAS/images/1/7/5/1755713-th.jpg", 
+    "n": "Gluten Free Red Wine & Tomato Pasta Sauce", 
+    "pl": "20"
+}

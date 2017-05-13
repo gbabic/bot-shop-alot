@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "0.5"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 500g"
+        ]
+    }, 
+    "s9": "464563", 
+    "p1": {
+        "o": "4.0"
+    }, 
+    "m": "Coles Deli", 
+    "s7": "Indicated price based on approx. weight. Weight may vary between 450g and 550g.", 
+    "u2": "$8.00 per 1Kg", 
+    "p": "1976461P", 
+    "s": "coles-deli-chicken-breast-chunks", 
+    "u": "464518", 
+    "t": "/wcsstore/Coles-CAS/images/1/9/7/1976461-th.jpg", 
+    "n": "Chicken Breast Chunks", 
+    "pl": "99"
+}

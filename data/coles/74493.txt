@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "4 pack"
+        ]
+    }, 
+    "s9": "133362", 
+    "p1": {
+        "o": "20.63"
+    }, 
+    "m": "Exelpet", 
+    "s7": "", 
+    "u2": "$5.16 per 1Ea", 
+    "p": "6980863P", 
+    "s": "exelpet-ezy-dose-intestinal-all-wormer-chews-for-dogs-6980863p", 
+    "u": "74493", 
+    "t": "/wcsstore/Coles-CAS/images/6/9/8/6980863-th.jpg", 
+    "n": "Ezy-Dose Intestinal All Wormer Chews for Dogs", 
+    "pl": "20"
+}

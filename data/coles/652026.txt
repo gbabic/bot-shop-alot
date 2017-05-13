@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "475g"
+        ]
+    }, 
+    "s9": "652044", 
+    "p1": {
+        "o": "2.5"
+    }, 
+    "m": "Raguletto", 
+    "t1": "V", 
+    "p": "2768255P", 
+    "s": "raguletto-pasta-bake-crmy-sauce-mushroom-basil", 
+    "n": "Creamy Mushroom Pasta Bake Sauce", 
+    "u": "652026", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/6/2768255-th.jpg", 
+    "u2": "$0.53 per 100G", 
+    "pl": "20"
+}

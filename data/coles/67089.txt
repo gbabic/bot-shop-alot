@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "570g"
+        ]
+    }, 
+    "s9": "131230", 
+    "p1": {
+        "l4": "3.63", 
+        "o": "2.3"
+    }, 
+    "m": "Monika", 
+    "t1": "S", 
+    "p": "7209432P", 
+    "s": "monika-curry-paste-butter-chicken", 
+    "n": "Butter Chicken Curry Paste", 
+    "u": "67089", 
+    "t": "/wcsstore/Coles-CAS/images/7/2/0/7209432-th.jpg", 
+    "u2": "$0.40 per 100G", 
+    "pl": "12"
+}

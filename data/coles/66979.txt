@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "350g"
+        ]
+    }, 
+    "s9": "127827", 
+    "p1": {
+        "l4": "4.4", 
+        "o": "2.5"
+    }, 
+    "m": "Leggo's", 
+    "t1": "S", 
+    "p": "7311916P", 
+    "s": "leggos-stir-through--sauce-sundried-tomato-roasted-garlic", 
+    "n": "Stir Through Sundried Tomato & Roasted Garlic Pasta Sauce", 
+    "u": "66979", 
+    "t": "/wcsstore/Coles-CAS/images/7/3/1/7311916-th.jpg", 
+    "u2": "$0.71 per 100G", 
+    "pl": "12"
+}

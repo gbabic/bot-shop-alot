@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1kg"
+        ]
+    }, 
+    "s9": "169206", 
+    "p1": {
+        "o": "5.12"
+    }, 
+    "m": "McKenzie's", 
+    "u2": "$0.51 per 100G", 
+    "p": "9190991P", 
+    "s": "mckenzies-lentils-red-split", 
+    "u": "99380", 
+    "t": "/wcsstore/Coles-CAS/images/9/1/9/9190991-th.jpg", 
+    "n": "Split Red Lentils", 
+    "pl": "20"
+}

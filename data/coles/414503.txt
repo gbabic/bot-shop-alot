@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "504g"
+        ]
+    }, 
+    "s9": "414726", 
+    "p1": {
+        "o": "21.84"
+    }, 
+    "m": "Metamucil", 
+    "u2": "$4.33 per 100G", 
+    "p": "9676042P", 
+    "s": "metamucil-original-natural-dietary-fibre-supplement", 
+    "u": "414503", 
+    "t": "/wcsstore/Coles-CAS/images/9/6/7/9676042-th.jpg", 
+    "n": "Original Natural Granular Dietary Fibre Supplement 72 Doses", 
+    "pl": "20"
+}

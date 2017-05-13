@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "27g"
+        ]
+    }, 
+    "s9": "292306", 
+    "p1": {
+        "o": "1.65"
+    }, 
+    "m": "Wrigley", 
+    "u2": "$6.11 per 100G", 
+    "p": "9899342P", 
+    "s": "wrigleys-eclipse-chewy-mints-spearmint", 
+    "u": "292087", 
+    "t": "/wcsstore/Coles-CAS/images/9/8/9/9899342-th.jpg", 
+    "n": "Eclipse Chewy Spearmint Mints 21 Piece Pack", 
+    "pl": "20"
+}

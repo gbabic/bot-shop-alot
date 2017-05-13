@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Tobacco"
+        ], 
+        "T1": [
+            "true"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "26 pack"
+        ]
+    }, 
+    "s9": "560580", 
+    "p1": {
+        "o": "23.95"
+    }, 
+    "m": "JPS", 
+    "s7": "Prices include all taxes", 
+    "u2": "$23.95 per 1Ea", 
+    "p": "2699050P", 
+    "s": "jps-menthol-cigarettes", 
+    "u": "560517", 
+    "t": "/wcsstore/Coles-CAS/images/C/i/g/Cigarettes-th.jpg", 
+    "n": "Menthol Cigarettes", 
+    "pl": "5"
+}

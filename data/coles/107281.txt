@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "2 pack"
+        ]
+    }, 
+    "s9": "166991", 
+    "p1": {
+        "o": "9.32"
+    }, 
+    "m": "Exelpet", 
+    "u2": "$4.66 per 1Ea", 
+    "p": "9200993P", 
+    "s": "exelpet-ezy-dose-intestinal-all-wormer-chews-for-small-dogs-puppies", 
+    "u": "107281", 
+    "t": "/wcsstore/Coles-CAS/images/9/2/0/9200993-th.jpg", 
+    "n": "Ezy-Dose Intestinal All Wormer Chews for Small Dogs & Puppies", 
+    "pl": "20"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250mL"
+        ]
+    }, 
+    "s9": "138053", 
+    "p1": {
+        "l4": "1.85", 
+        "o": "1.65"
+    }, 
+    "m": "CalciYum", 
+    "t1": "S", 
+    "p": "5474750P", 
+    "s": "calciyum-milk-flavoured-chocolate", 
+    "n": "Mighty Cool Chocolate Flavoured Milk", 
+    "u": "76629", 
+    "t": "/wcsstore/Coles-CAS/images/5/4/7/5474750-th.jpg", 
+    "u2": "$6.60 per 1L", 
+    "pl": "12"
+}

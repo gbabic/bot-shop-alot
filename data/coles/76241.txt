@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "283g"
+        ]
+    }, 
+    "s9": "142404", 
+    "p1": {
+        "o": "6.04"
+    }, 
+    "m": "Pataks", 
+    "u2": "$2.13 per 100G", 
+    "p": "5292989P", 
+    "s": "pataks-paste-rogan-josh-curry", 
+    "u": "76241", 
+    "t": "/wcsstore/Coles-CAS/images/5/2/9/5292989-th.jpg", 
+    "n": "Rogan Josh Curry Paste", 
+    "pl": "20"
+}

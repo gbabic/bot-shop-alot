@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "56g"
+        ]
+    }, 
+    "s9": "511188", 
+    "p1": {
+        "o": "2.09"
+    }, 
+    "m": "Weinz", 
+    "u2": "$0.37 per 10G", 
+    "p": "2195228P", 
+    "s": "weinz--chocolate-yummy-bites", 
+    "u": "511053", 
+    "t": "/wcsstore/Coles-CAS/images/2/1/9/2195228-th.jpg", 
+    "n": "Chocolate Yummy Bites", 
+    "pl": "20"
+}

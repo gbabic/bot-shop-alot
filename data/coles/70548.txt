@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "375g"
+        ]
+    }, 
+    "s9": "133348", 
+    "p1": {
+        "o": "6.93"
+    }, 
+    "m": "Capilano", 
+    "u2": "$1.85 per 100G", 
+    "p": "7000177P", 
+    "s": "capilano-twist-squeeze-yellow-box-honey", 
+    "u": "70548", 
+    "t": "/wcsstore/Coles-CAS/images/7/0/0/7000177-th.jpg", 
+    "n": "Yellow Box Honey Twist & Squeeze", 
+    "pl": "20"
+}

@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "300g"
+        ]
+    }, 
+    "s9": "576172", 
+    "p1": {
+        "o": "6.5"
+    }, 
+    "m": "Coles", 
+    "t1": "V", 
+    "p": "2521627P", 
+    "s": "coles-gluten-free-fibre-topper", 
+    "n": "Gluten Free Fibre Topper", 
+    "u": "576050", 
+    "t": "/wcsstore/Coles-CAS/images/2/5/2/2521627-th.jpg", 
+    "u2": "$2.17 per 100G", 
+    "pl": "20"
+}

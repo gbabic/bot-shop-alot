@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "10.7mL"
+        ]
+    }, 
+    "s9": "408095", 
+    "p1": {
+        "o": "21.95"
+    }, 
+    "m": "Maybelline", 
+    "u2": "$20.51 per 10G", 
+    "p": "1735319P", 
+    "s": "maybelline-the-colossal-volume-express-smokey-black-mascara", 
+    "u": "408045", 
+    "t": "/wcsstore/Coles-CAS/images/1/7/3/1735319-th.jpg", 
+    "n": "The Colossal Volume Express Smokey Black Mascara", 
+    "pl": "20"
+}

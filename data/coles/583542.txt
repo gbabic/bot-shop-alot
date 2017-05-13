@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400g"
+        ]
+    }, 
+    "s9": "583689", 
+    "p1": {
+        "l4": "8.8", 
+        "o": "4.0"
+    }, 
+    "m": "Ingham", 
+    "t1": "S", 
+    "p": "2726798P", 
+    "s": "ingham-frozen-southern-style-chicken-tenders", 
+    "n": "Frozen Southern Style Chicken Tenders", 
+    "u": "583542", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/2/2726798-th.jpg", 
+    "u2": "$10.00 per 1Kg", 
+    "pl": "12"
+}

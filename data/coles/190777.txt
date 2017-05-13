@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Clothing"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "4 pack"
+        ]
+    }, 
+    "u2": "$11.00 per 1ea", 
+    "s9": "193384", 
+    "p1": {
+        "l4": "21.7", 
+        "o": "11.0"
+    }, 
+    "s7": "", 
+    "m": "Bonds", 
+    "n": "Mens Hipster Briefs Medium", 
+    "p": "9093168P", 
+    "s": "bonds-mens-briefs-hipster-medium-9093168p", 
+    "u": "190777", 
+    "t": "/wcsstore/Coles-CAS/images/9/0/9/9093168-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

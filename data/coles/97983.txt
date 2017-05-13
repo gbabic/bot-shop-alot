@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400g"
+        ]
+    }, 
+    "s9": "160064", 
+    "p1": {
+        "o": "4.46"
+    }, 
+    "m": "Slendier", 
+    "u2": "$1.12 per 100G", 
+    "p": "9900850P", 
+    "s": "slendier-slim-noodle-wok-ready", 
+    "u": "97983", 
+    "t": "/wcsstore/Coles-CAS/images/9/9/0/9900850-th.jpg", 
+    "n": "Wok Ready Noodles", 
+    "pl": "20"
+}

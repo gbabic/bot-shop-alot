@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "75g"
+        ]
+    }, 
+    "s9": "553567", 
+    "p1": {
+        "o": "6.05"
+    }, 
+    "m": "Thomas Chipman", 
+    "u2": "$8.07 per 100G", 
+    "p": "2510347P", 
+    "s": "thomas-chipman-sweet-potato-vegetable-chips", 
+    "u": "553547", 
+    "t": "/wcsstore/Coles-CAS/images/2/5/1/2510347-th.jpg", 
+    "n": "Sweet Potato Vegetable Chips", 
+    "pl": "20"
+}

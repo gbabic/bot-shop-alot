@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "150909", 
+    "p1": {
+        "o": "1.8"
+    }, 
+    "m": "San Remo", 
+    "t1": "V", 
+    "p": "170838P", 
+    "s": "san-remo-pasta-penne-rigati-no-18-170838p", 
+    "n": "Penne Rigati Pasta No 18", 
+    "u": "89119", 
+    "t": "/wcsstore/Coles-CAS/images/1/7/0/170838-th.jpg", 
+    "u2": "$0.36 per 100G", 
+    "pl": "20"
+}

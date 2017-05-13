@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "60g"
+        ]
+    }, 
+    "s9": "500147", 
+    "p1": {
+        "l4": "2.15", 
+        "o": "1.5"
+    }, 
+    "m": "Applaws", 
+    "t1": "S", 
+    "p": "2283278P", 
+    "s": "applaws-tuna-calamari-cat-food", 
+    "n": "Tuna & Calamari Cat Food", 
+    "u": "500039", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/8/2283278-th.jpg", 
+    "u2": "$2.50 per 100G", 
+    "pl": "12"
+}

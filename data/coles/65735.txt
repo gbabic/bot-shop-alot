@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "230g"
+        ]
+    }, 
+    "s9": "131735", 
+    "p1": {
+        "o": "3.41"
+    }, 
+    "m": "Mission", 
+    "u2": "$1.48 per 100G", 
+    "p": "7368571P", 
+    "s": "mission-corn-chips-white-corn", 
+    "u": "65735", 
+    "t": "/wcsstore/Coles-CAS/images/7/3/6/7368571-th.jpg", 
+    "n": "White Corn Chips", 
+    "pl": "20"
+}

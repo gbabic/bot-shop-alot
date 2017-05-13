@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "140g"
+        ]
+    }, 
+    "s9": "672041", 
+    "p1": {
+        "l4": "4.95", 
+        "o": "3.0"
+    }, 
+    "m": "Nestle Kit Kat Block", 
+    "t1": "S", 
+    "p": "2894475P", 
+    "s": "nestle-kit-kat-block-mint-cream-cookie-smash", 
+    "n": "Mint Cream & Cookie Smash", 
+    "u": "672016", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/9/2894475-th.jpg", 
+    "u2": "$2.14 per 100G", 
+    "pl": "12"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "s9": "130745", 
+    "p1": {
+        "o": "2.0"
+    }, 
+    "m": "San Remo", 
+    "u2": "$0.80 per 100G", 
+    "p": "69936P", 
+    "s": "san-remo-pasta-tagliatelle-egg", 
+    "u": "71203", 
+    "t": "/wcsstore/Coles-CAS/images/6/9/9/69936-th.jpg", 
+    "n": "Tagliatelle Egg Pasta", 
+    "pl": "20"
+}

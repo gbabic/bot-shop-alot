@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "603157", 
+    "p1": {
+        "o": "11.0"
+    }, 
+    "m": "Brunnings", 
+    "u2": "$2.20 per 100G", 
+    "p": "2765687P", 
+    "s": "brunnings-wasp-ant-dust", 
+    "u": "603090", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/6/2765687-th.jpg", 
+    "n": "Wasp & Ant Dust", 
+    "pl": "99"
+}

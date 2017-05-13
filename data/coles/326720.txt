@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "328429", 
+    "p1": {
+        "o": "3.25"
+    }, 
+    "m": "Garofalo", 
+    "u2": "$0.65 per 100G", 
+    "p": "1690108P", 
+    "s": "garofalo-linguine-pasta", 
+    "u": "326720", 
+    "t": "/wcsstore/Coles-CAS/images/1/6/9/1690108-th.jpg", 
+    "n": "Linguine Pasta", 
+    "pl": "20"
+}

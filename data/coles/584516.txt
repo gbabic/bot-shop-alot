@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100g"
+        ]
+    }, 
+    "s9": "584584", 
+    "p1": {
+        "l4": "7.54", 
+        "o": "5.45"
+    }, 
+    "m": "Prime", 
+    "t1": "S", 
+    "p": "2688190P", 
+    "s": "prime-chicken-jerky-dog-treat", 
+    "n": "Chicken Jerky Dog Treat", 
+    "u": "584516", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/8/2688190-th.jpg", 
+    "u2": "$5.45 per 100G", 
+    "pl": "12"
+}

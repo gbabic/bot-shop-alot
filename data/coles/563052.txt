@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "185g"
+        ]
+    }, 
+    "s9": "563131", 
+    "p1": {
+        "l4": "4.4", 
+        "o": "3.0"
+    }, 
+    "m": "Sirena", 
+    "t1": "S", 
+    "p": "2510245P", 
+    "s": "sirena-mexican-style-tuna-with-beans", 
+    "n": "Mexican Style Tuna with Beans", 
+    "u": "563052", 
+    "t": "/wcsstore/Coles-CAS/images/2/5/1/2510245-th.jpg", 
+    "u2": "$16.22 per 1Kg", 
+    "pl": "12"
+}

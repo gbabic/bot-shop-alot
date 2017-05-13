@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "149215", 
+    "p1": {
+        "o": "8.5"
+    }, 
+    "m": "Magazine", 
+    "s7": "", 
+    "u2": "$8.50 per 1ea", 
+    "p": "1315299P", 
+    "s": "grazia-uk-magazine", 
+    "u": "88016", 
+    "t": "/wcsstore/Coles-CAS/images/1/3/1/1315299-th.jpg", 
+    "n": "Grazia Uk", 
+    "pl": "20"
+}

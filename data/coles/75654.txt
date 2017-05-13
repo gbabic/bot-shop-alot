@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "62g"
+        ]
+    }, 
+    "s9": "133252", 
+    "p1": {
+        "o": "2.31"
+    }, 
+    "m": "Podravka", 
+    "u2": "$3.73 per 100G", 
+    "p": "6093015P", 
+    "s": "podravka-soup-chicken-noodle", 
+    "u": "75654", 
+    "t": "/wcsstore/Coles-CAS/images/6/0/9/6093015-th.jpg", 
+    "n": "Chicken Noodle Soup", 
+    "pl": "20"
+}

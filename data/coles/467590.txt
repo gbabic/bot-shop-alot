@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200mL"
+        ]
+    }, 
+    "s9": "467909", 
+    "p1": {
+        "o": "14.3"
+    }, 
+    "m": "Nair", 
+    "u2": "$7.15 per 100mL", 
+    "p": "2274197P", 
+    "s": "nair-sensitive-shower-power", 
+    "u": "467590", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/7/2274197-th.jpg", 
+    "n": "Sensitive Shower Power", 
+    "pl": "20"
+}

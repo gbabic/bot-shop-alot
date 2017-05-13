@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "900mL"
+        ]
+    }, 
+    "s9": "583688", 
+    "p1": {
+        "l4": "9.89", 
+        "o": "4.49"
+    }, 
+    "m": "Cuddly", 
+    "t1": "S", 
+    "p": "2730922P", 
+    "s": "cuddly--collections-fabric-conditioner-antiwrinkle-2730922p", 
+    "n": "Fabric Conditioner Antiwrinkle", 
+    "u": "583567", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/3/2730922-th.jpg", 
+    "u2": "$4.99 per 1L", 
+    "pl": "12"
+}

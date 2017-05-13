@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "50g"
+        ]
+    }, 
+    "s9": "147358", 
+    "p1": {
+        "l4": "2.64", 
+        "o": "2.15"
+    }, 
+    "m": "Clive of India", 
+    "t1": "S", 
+    "p": "248866P", 
+    "s": "clive-of-india-curry-powder-hot-madras", 
+    "n": "Hot Madras Curry Powder", 
+    "u": "87284", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/8/248866-th.jpg", 
+    "u2": "$0.43 per 10G", 
+    "pl": "12"
+}

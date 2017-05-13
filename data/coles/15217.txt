@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "u2": "$0.36 per 100G", 
+    "s9": "34357", 
+    "p1": {
+        "o": "1.8"
+    }, 
+    "s7": "", 
+    "m": "Coles", 
+    "n": "Corn Flakes", 
+    "p": "8728071P", 
+    "s": "coles-cereal-corn-flakes", 
+    "u": "15217", 
+    "t": "/wcsstore/Coles-CAS/images/8/7/2/8728071-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "170g"
+        ]
+    }, 
+    "s9": "649544", 
+    "p1": {
+        "o": "3.3"
+    }, 
+    "m": "Allens", 
+    "u2": "$1.94 per 100G", 
+    "p": "2869467P", 
+    "s": "allens-jellicons", 
+    "u": "649505", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/6/2869467-th.jpg", 
+    "n": "Jellicons", 
+    "pl": "99"
+}

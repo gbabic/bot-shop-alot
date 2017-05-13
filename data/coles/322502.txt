@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "165g"
+        ]
+    }, 
+    "s9": "322513", 
+    "p1": {
+        "o": "4.95"
+    }, 
+    "m": "Red Rock Deli", 
+    "u2": "$3.00 per 100G", 
+    "p": "1786160P", 
+    "s": "red-rock-deli-honey-soy-chicken-potato-chips", 
+    "u": "322502", 
+    "t": "/wcsstore/Coles-CAS/images/1/7/8/1786160-th.jpg", 
+    "n": "Honey Soy Chicken Potato Chips", 
+    "pl": "20"
+}

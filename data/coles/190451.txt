@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Clothing"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 pack"
+        ]
+    }, 
+    "u2": "$5.40 per 1ea", 
+    "s9": "193103", 
+    "p1": {
+        "l4": "9.9", 
+        "o": "5.4"
+    }, 
+    "s7": "", 
+    "m": "Mix", 
+    "n": "Bodyshaper Tights 80 Denier Black Medium", 
+    "p": "9854650P", 
+    "s": "mix-tights-bodyshaper-80-denier-black-medium", 
+    "u": "190451", 
+    "t": "/wcsstore/Coles-CAS/images/9/8/5/9854650-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

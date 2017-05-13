@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "340g"
+        ]
+    }, 
+    "s9": "528615", 
+    "p1": {
+        "o": "4.39"
+    }, 
+    "m": "Barilla", 
+    "u2": "$1.29 per 100G", 
+    "p": "2599602P", 
+    "s": "barilla-gluten-free-spaghetti-pasta", 
+    "u": "528519", 
+    "t": "/wcsstore/Coles-CAS/images/2/5/9/2599602-th.jpg", 
+    "n": "Gluten Free Spaghetti Pasta", 
+    "pl": "20"
+}

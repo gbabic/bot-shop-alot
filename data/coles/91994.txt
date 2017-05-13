@@ -1,0 +1,37 @@
+{
+    "a": {
+        "D": [
+            "LIQUOR"
+        ], 
+        "P8": [
+            "Alcohol"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "true"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "700mL"
+        ]
+    }, 
+    "s9": "160003", 
+    "p1": {
+        "o": "48.15"
+    }, 
+    "m": "Havana Club", 
+    "u2": "$6.88 per 100mL", 
+    "p": "9918006P", 
+    "s": "havana-club-3-anos-white-rum", 
+    "u": "91994", 
+    "t": "/wcsstore/Coles-CAS/images/9/9/1/9918006-th.jpg", 
+    "n": "3 Anos White Rum", 
+    "pl": "20"
+}

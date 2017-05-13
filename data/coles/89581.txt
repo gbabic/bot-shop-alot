@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100g"
+        ]
+    }, 
+    "s9": "149056", 
+    "p1": {
+        "o": "2.64"
+    }, 
+    "m": "Hoyts", 
+    "s7": "", 
+    "u2": "$0.26 per 10G", 
+    "p": "286956P", 
+    "s": "hoyts-paprika-hungarian-sweet-286956p", 
+    "u": "89581", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/6/286956-th.jpg", 
+    "n": "Hungarian Sweet Paprika", 
+    "pl": "20"
+}

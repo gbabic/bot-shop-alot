@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "40 pack"
+        ]
+    }, 
+    "s9": "575255", 
+    "p1": {
+        "o": "7.69"
+    }, 
+    "m": "Organic Pure", 
+    "u2": "$21.36 per 100G", 
+    "p": "2614070P", 
+    "s": "organic-pure-digest-pyramids", 
+    "u": "575105", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/1/2614070-th.jpg", 
+    "n": "Digest Pyramids", 
+    "pl": "20"
+}

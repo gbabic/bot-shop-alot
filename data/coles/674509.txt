@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "35g"
+        ]
+    }, 
+    "s9": "674551", 
+    "p1": {
+        "o": "2.2"
+    }, 
+    "m": "Cadbury", 
+    "u2": "$6.29 per 100G", 
+    "p": "2909903P", 
+    "s": "cadbury--dark-milk-chocolate-bar", 
+    "u": "674509", 
+    "t": "/wcsstore/Coles-CAS/images/2/9/0/2909903-th.jpg", 
+    "n": "Dark Milk Chocolate Bar", 
+    "pl": "20"
+}

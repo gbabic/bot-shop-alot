@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "27g"
+        ]
+    }, 
+    "s9": "143012", 
+    "p1": {
+        "o": "3.19"
+    }, 
+    "m": "MasterFoods", 
+    "u2": "$1.18 per 10G", 
+    "p": "318553P", 
+    "s": "masterfoods-chillies-ground-hot", 
+    "u": "81709", 
+    "t": "/wcsstore/Coles-CAS/images/3/1/8/318553-th.jpg", 
+    "n": "Ground Hot Chillies", 
+    "pl": "20"
+}

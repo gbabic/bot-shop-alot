@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "35g"
+        ]
+    }, 
+    "s9": "494054", 
+    "p1": {
+        "l4": "2.2", 
+        "o": "1.0"
+    }, 
+    "m": "Mars", 
+    "t1": "S", 
+    "p": "2458509P", 
+    "s": "mars-maltesers-teasers", 
+    "n": "Maltesers Teasers", 
+    "u": "494029", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/5/2458509-th.jpg", 
+    "u2": "$2.86 per 100G", 
+    "pl": "12"
+}

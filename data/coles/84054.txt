@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100g"
+        ]
+    }, 
+    "s9": "141809", 
+    "p1": {
+        "l4": "5.03", 
+        "o": "3.85"
+    }, 
+    "m": "Kong Foo", 
+    "t1": "S", 
+    "p": "5252179P", 
+    "s": "kong-foo-fortune-cookies", 
+    "n": "Fortune Cookies", 
+    "u": "84054", 
+    "t": "/wcsstore/Coles-CAS/images/5/2/5/5252179-th.jpg", 
+    "u2": "$3.85 per 100G", 
+    "pl": "12"
+}

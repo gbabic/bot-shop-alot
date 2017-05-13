@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Clothing"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 pack"
+        ]
+    }, 
+    "u2": "$5.00 per 1ea", 
+    "s9": "453022", 
+    "p1": {
+        "l4": "10.0", 
+        "o": "5.0"
+    }, 
+    "s7": "", 
+    "m": "Bonds", 
+    "n": "Mens Very Comfy Crew Socks Assorted size 11+", 
+    "p": "1837137P", 
+    "s": "bonds-mens-very-comfy-crew-socks-assorted-size-11", 
+    "u": "453001", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/3/1837137-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

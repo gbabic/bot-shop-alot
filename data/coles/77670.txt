@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "750g"
+        ]
+    }, 
+    "s9": "138521", 
+    "p1": {
+        "l4": "4.5", 
+        "o": "2.5"
+    }, 
+    "m": "McCain", 
+    "t1": "S", 
+    "p": "5841023P", 
+    "s": "mccain-potato-fries-beer-battered-thin-crispy-frozen", 
+    "n": "Beer Battered Frozen Shoestring Fries", 
+    "u": "77670", 
+    "t": "/wcsstore/Coles-CAS/images/5/8/4/5841023-th.jpg", 
+    "u2": "$3.33 per 1Kg", 
+    "pl": "12"
+}

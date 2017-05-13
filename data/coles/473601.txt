@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "560g"
+        ]
+    }, 
+    "s9": "473871", 
+    "p1": {
+        "o": "4.39"
+    }, 
+    "m": "Watties", 
+    "u2": "$0.78 per 100G", 
+    "p": "2060615P", 
+    "s": "watties-tomato-sauce", 
+    "u": "473601", 
+    "t": "/wcsstore/Coles-CAS/images/2/0/6/2060615-th.jpg", 
+    "n": "Tomato Sauce", 
+    "pl": "20"
+}

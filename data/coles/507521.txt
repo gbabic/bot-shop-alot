@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Fruit & Vegetables"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "150g"
+        ]
+    }, 
+    "s9": "507544", 
+    "p1": {
+        "o": "5.0"
+    }, 
+    "m": "Coles", 
+    "u2": "$3.33 per 100G", 
+    "p": "2504515P", 
+    "s": "coles-superfood-salad-bowl-2504515p", 
+    "u": "507521", 
+    "t": "/wcsstore/Coles-CAS/images/2/5/0/2504515-th.jpg", 
+    "n": "Superfood Salad Bowl", 
+    "pl": "20"
+}

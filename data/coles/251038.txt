@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "175g"
+        ]
+    }, 
+    "s9": "251232", 
+    "p1": {
+        "o": "5.94"
+    }, 
+    "m": "Go Natural", 
+    "u2": "$3.39 per 100G", 
+    "p": "8662075P", 
+    "s": "go-natural-bars-honey-alm-apr-ripple", 
+    "u": "251038", 
+    "t": "/wcsstore/Coles-CAS/images/8/6/6/8662075-th.jpg", 
+    "n": "Honey Almond Apricot Ripple Bars", 
+    "pl": "20"
+}

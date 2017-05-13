@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "s9": "154321", 
+    "p1": {
+        "o": "3.62"
+    }, 
+    "m": "MasterFoods", 
+    "u2": "$1.45 per 100G", 
+    "p": "9141282P", 
+    "s": "masterfoods-chutney-mango", 
+    "u": "97822", 
+    "t": "/wcsstore/Coles-CAS/images/9/1/4/9141282-th.jpg", 
+    "n": "Mango Chutney", 
+    "pl": "20"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "s9": "251256", 
+    "p1": {
+        "l4": "5.89", 
+        "o": "4.25"
+    }, 
+    "m": "The Happy Snack Company", 
+    "t1": "S", 
+    "p": "1469510P", 
+    "s": "chic-nuts-lightly-salted", 
+    "n": "Lightly Salted Crunchy Roasted Chic Peas", 
+    "u": "251082", 
+    "t": "/wcsstore/Coles-CAS/images/1/4/6/1469510-th.jpg", 
+    "u2": "$2.13 per 100G", 
+    "pl": "12"
+}

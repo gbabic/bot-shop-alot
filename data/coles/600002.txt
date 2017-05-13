@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1L"
+        ]
+    }, 
+    "s9": "600029", 
+    "p1": {
+        "o": "9.7"
+    }, 
+    "m": "Peters", 
+    "u2": "$0.97 per 100mL", 
+    "p": "2749320P", 
+    "s": "peters-connoisseur-peanut-butter-pretzel-ice-cream", 
+    "u": "600002", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/4/2749320-th.jpg", 
+    "n": "Connoisseur Peanut Butter & Pretzel Ice Cream", 
+    "pl": "99"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250mL"
+        ]
+    }, 
+    "s9": "134419", 
+    "p1": {
+        "l4": "8.75", 
+        "o": "5.56"
+    }, 
+    "m": "Garnier", 
+    "t1": "S", 
+    "p": "6560201P", 
+    "s": "garnier-body-summer-moisturising-lotion-sun-kissed-look-medium-to-dark-skin", 
+    "n": "Body Summer Sun-kissed Look Medium To Dark Skin Moisturising Lotion", 
+    "u": "72911", 
+    "t": "/wcsstore/Coles-CAS/images/6/5/6/6560201-th.jpg", 
+    "u2": "$2.22 per 100mL", 
+    "pl": "12"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "132g"
+        ]
+    }, 
+    "u2": "$2.35 per 100G", 
+    "s9": "32794", 
+    "p1": {
+        "o": "3.1"
+    }, 
+    "s7": "", 
+    "m": "Coles", 
+    "n": "French Onion Snack Pack", 
+    "p": "5895747P", 
+    "s": "coles-snack-pack-french-onion", 
+    "u": "20289", 
+    "t": "/wcsstore/Coles-CAS/images/5/8/9/5895747-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "160g"
+        ]
+    }, 
+    "s9": "372128", 
+    "p1": {
+        "o": "2.52"
+    }, 
+    "m": "MasterFoods", 
+    "s7": "", 
+    "u2": "$1.58 per 100G", 
+    "p": "1868152P", 
+    "s": "masterfoods-oven-easy-creamy-chicken-bacon-recipe-base", 
+    "u": "372044", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/6/1868152-th.jpg", 
+    "n": "Oven Easy Creamy Chicken & Bacon Recipe Base", 
+    "pl": "20"
+}

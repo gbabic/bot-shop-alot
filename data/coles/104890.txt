@@ -1,0 +1,39 @@
+{
+    "a": {
+        "D": [
+            "LIQUOR"
+        ], 
+        "P8": [
+            "Alcohol"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "true"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "700mL"
+        ]
+    }, 
+    "s9": "158922", 
+    "p1": {
+        "l4": "44.94", 
+        "o": "35.0"
+    }, 
+    "m": "Southern Comfort", 
+    "t1": "S", 
+    "p": "932097P", 
+    "s": "southern-comfort-bourbon-932097p", 
+    "n": "Bourbon", 
+    "u": "104890", 
+    "t": "/wcsstore/Coles-CAS/images/9/3/2/932097-th.jpg", 
+    "u2": "$5.00 per 100mL", 
+    "pl": "4"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "10 pack"
+        ]
+    }, 
+    "s9": "441032", 
+    "p1": {
+        "o": "4.39"
+    }, 
+    "m": "Multix", 
+    "u2": "$0.44 per 1Ea", 
+    "p": "2191760P", 
+    "s": "multix-super-strong-drawtight-garbage-bags", 
+    "u": "441004", 
+    "t": "/wcsstore/Coles-CAS/images/2/1/9/2191760-th.jpg", 
+    "n": "Super Strong Drawtight Garbage Bags", 
+    "pl": "20"
+}

@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1kg"
+        ]
+    }, 
+    "s9": "110850", 
+    "p1": {
+        "o": "4.2"
+    }, 
+    "m": "McCain", 
+    "s7": "", 
+    "u2": "$4.20 per 1Kg", 
+    "p": "91710P", 
+    "s": "mccain-superfries-potato-chips-straight-cut-frozen", 
+    "u": "100887", 
+    "t": "/wcsstore/Coles-CAS/images/9/1/7/91710-th.jpg", 
+    "n": "Superfries Polyunsaturated Straight Cut Frozen Potato Chips", 
+    "pl": "20"
+}

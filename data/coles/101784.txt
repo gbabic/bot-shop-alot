@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "163827", 
+    "p1": {
+        "o": "17.88"
+    }, 
+    "m": "Exelpet", 
+    "u2": "$17.88 per 1Ea", 
+    "p": "9529490P", 
+    "s": "exelpet-spot-on-flea-control-for-cats-kittens", 
+    "u": "101784", 
+    "t": "/wcsstore/Coles-CAS/images/9/5/2/9529490-th.jpg", 
+    "n": "Spot-On Flea Control for Cats & Kittens", 
+    "pl": "20"
+}

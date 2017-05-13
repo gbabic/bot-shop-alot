@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "40g"
+        ]
+    }, 
+    "s9": "557552", 
+    "p1": {
+        "l4": "3.29", 
+        "o": "2.35"
+    }, 
+    "m": "The Bar Counter", 
+    "t1": "S", 
+    "p": "2483539P", 
+    "s": "the-bar-counter-dark-chocolate-with-sweet-orange-baobab-indulge-bar", 
+    "n": "Dark Chocolate with Sweet Orange & Baobab Indulge Bar", 
+    "u": "557510", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/8/2483539-th.jpg", 
+    "u2": "$5.88 per 100G", 
+    "pl": "12"
+}

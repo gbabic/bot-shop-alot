@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "s9": "147404", 
+    "p1": {
+        "o": "2.86"
+    }, 
+    "m": "IXL", 
+    "u2": "$1.14 per 100G", 
+    "p": "176776P", 
+    "s": "ixl-glass-jam-raspberry", 
+    "u": "89113", 
+    "t": "/wcsstore/Coles-CAS/images/1/7/6/176776-th.jpg", 
+    "n": "Raspberry Jam in Glass", 
+    "pl": "20"
+}

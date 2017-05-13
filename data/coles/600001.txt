@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "14 Piece Envelope Pack"
+        ]
+    }, 
+    "s9": "600019", 
+    "p1": {
+        "l4": "2.2", 
+        "o": "1.5"
+    }, 
+    "m": "Extra", 
+    "t1": "S", 
+    "p": "2799270P", 
+    "s": "wrigleys-extra-envelope-bubble-gum", 
+    "n": "Bubblemint Chewing Gum", 
+    "u": "600001", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/9/2799270-th.jpg", 
+    "u2": "$5.56 per 100G", 
+    "pl": "12"
+}

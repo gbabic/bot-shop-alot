@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Mothers Day"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "175g"
+        ]
+    }, 
+    "s9": "182649", 
+    "p1": {
+        "o": "3.58"
+    }, 
+    "m": "Natural Chip Company", 
+    "u2": "$2.05 per 100G", 
+    "p": "1260335P", 
+    "s": "natural-chip-company-chips-honey-soy-chicken-1260335p", 
+    "u": "182398", 
+    "t": "/wcsstore/Coles-CAS/images/1/2/6/1260335-th.jpg", 
+    "n": "Honey Soy Chicken Potato Chips", 
+    "pl": "20"
+}

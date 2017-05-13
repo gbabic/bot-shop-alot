@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "578595", 
+    "p1": {
+        "l4": "27.5", 
+        "o": "20.0"
+    }, 
+    "m": "Tefal", 
+    "t1": "S", 
+    "p": "2527088P", 
+    "s": "tefal-plus-ptfe-red-frypan-24cm", 
+    "n": "Plus Ptfe Red Frypan 24cm", 
+    "u": "578548", 
+    "t": "/wcsstore/Coles-CAS/images/2/5/2/2527088-th.jpg", 
+    "u2": "$20.00 per 1KGM", 
+    "pl": "12"
+}

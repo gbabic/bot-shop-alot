@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "185g"
+        ]
+    }, 
+    "s9": "160662", 
+    "p1": {
+        "o": "6.0"
+    }, 
+    "m": "Tetley", 
+    "t1": "V", 
+    "p": "8959948P", 
+    "s": "tetley-tea-bags-decaffeinatted", 
+    "n": "Decaffeinatted Tea Bags 100 pack", 
+    "u": "45999", 
+    "t": "/wcsstore/Coles-CAS/images/8/9/5/8959948-th.jpg", 
+    "u2": "$3.24 per 100G", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 Each"
+        ]
+    }, 
+    "s9": "29968", 
+    "p1": {
+        "o": "4.2"
+    }, 
+    "m": "Pope", 
+    "u2": "$4.20 per 1ea", 
+    "p": "7753175P", 
+    "s": "pope-softgripnozzleadjustable", 
+    "u": "15423", 
+    "t": "/wcsstore/Coles-CAS/images/7/7/5/7753175-th.jpg", 
+    "n": "SoftGripNozzleAdjustable", 
+    "pl": "20"
+}

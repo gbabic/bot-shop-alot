@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400mL"
+        ]
+    }, 
+    "s9": "613552", 
+    "p1": {
+        "l4": "16.5", 
+        "o": "10.5"
+    }, 
+    "m": "Garnier Micellar Water", 
+    "t1": "S", 
+    "p": "2792646P", 
+    "s": "garnier-micellar-water-infused-with-oil", 
+    "n": "Infused With Oil", 
+    "u": "613525", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/9/2792646-th.jpg", 
+    "u2": "$2.63 per 100mL", 
+    "pl": "12"
+}

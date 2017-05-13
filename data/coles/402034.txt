@@ -1,0 +1,39 @@
+{
+    "a": {
+        "D": [
+            "LIQUOR"
+        ], 
+        "P8": [
+            "Alcohol"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "true"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "700mL"
+        ]
+    }, 
+    "s9": "402173", 
+    "p1": {
+        "l4": "50.29", 
+        "o": "40.0"
+    }, 
+    "m": "Absolut", 
+    "t1": "S", 
+    "p": "2127851P", 
+    "s": "absolut-mango-vodka", 
+    "n": "Mango Vodka", 
+    "u": "402034", 
+    "t": "/wcsstore/Coles-CAS/images/2/1/2/2127851-th.jpg", 
+    "u2": "$5.71 per 100mL", 
+    "pl": "4"
+}

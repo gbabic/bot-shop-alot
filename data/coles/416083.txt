@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "150g"
+        ]
+    }, 
+    "s9": "416190", 
+    "p1": {
+        "l4": "14.3", 
+        "o": "9.1"
+    }, 
+    "m": "Atkins", 
+    "t1": "S", 
+    "p": "2015144P", 
+    "s": "atkins-advantage-choc-raspberry-bars-5-pack", 
+    "n": "Advantage Choc Raspberry Bars 5 pack", 
+    "u": "416083", 
+    "t": "/wcsstore/Coles-CAS/images/2/0/1/2015144-th.jpg", 
+    "u2": "$6.07 per 100G", 
+    "pl": "12"
+}

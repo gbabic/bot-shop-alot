@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "2 pack"
+        ]
+    }, 
+    "s9": "413860", 
+    "p1": {
+        "o": "8.8"
+    }, 
+    "m": "Duracell", 
+    "u2": "$4.40 per 1Ea", 
+    "p": "8462702P", 
+    "s": "duracell-ultra-alkaline-d-batteries", 
+    "u": "413504", 
+    "t": "/wcsstore/Coles-CAS/images/8/4/6/8462702-th.jpg", 
+    "n": "Ultra Alkaline D Batteries", 
+    "pl": "20"
+}

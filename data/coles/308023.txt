@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "900g"
+        ]
+    }, 
+    "s9": "308060", 
+    "p1": {
+        "o": "6.6"
+    }, 
+    "m": "Pauls", 
+    "s7": "", 
+    "u2": "$0.73 per 100mL", 
+    "p": "1735443P", 
+    "s": "pauls-custard-fruit-snack-pack-strawberry-6-pack", 
+    "u": "308023", 
+    "t": "/wcsstore/Coles-CAS/images/1/7/3/1735443-th.jpg", 
+    "n": "Custard & Fruit Snack Pack Strawberry 6 Pack", 
+    "pl": "20"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "s9": "466629", 
+    "p1": {
+        "l4": "6.92", 
+        "o": "3.14"
+    }, 
+    "m": "Brut", 
+    "t1": "S", 
+    "p": "2276658P", 
+    "s": "brut-original-ultra-shaving-gel", 
+    "n": "Original Ultra Shaving Gel", 
+    "u": "466048", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/7/2276658-th.jpg", 
+    "u2": "$1.57 per 100G", 
+    "pl": "12"
+}

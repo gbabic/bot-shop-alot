@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "70g"
+        ]
+    }, 
+    "s9": "203627", 
+    "p1": {
+        "o": "1.6"
+    }, 
+    "m": "Pauls", 
+    "u2": "$2.29 per 100G", 
+    "p": "1199223P", 
+    "s": "pauls-custard-chocolate", 
+    "u": "203569", 
+    "t": "/wcsstore/Coles-CAS/images/1/1/9/1199223-th.jpg", 
+    "n": "Chocolate Custard", 
+    "pl": "20"
+}

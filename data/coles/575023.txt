@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "6 pack"
+        ]
+    }, 
+    "s9": "575162", 
+    "p1": {
+        "l4": "17.6", 
+        "o": "8.0"
+    }, 
+    "m": "Schick", 
+    "t1": "S", 
+    "p": "2677342P", 
+    "s": "schick-hydro-3-blade-kit", 
+    "n": "Hydro 3 Blade Kit", 
+    "u": "575023", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/7/2677342-th.jpg", 
+    "u2": "$1.33 per 1Ea", 
+    "pl": "12"
+}

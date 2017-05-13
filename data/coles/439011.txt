@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "560g"
+        ]
+    }, 
+    "s9": "439036", 
+    "p1": {
+        "o": "7.15"
+    }, 
+    "m": "Darikay", 
+    "u2": "$1.28 per 100G", 
+    "p": "1196611P", 
+    "s": "darikay-chicken-noodle-soup", 
+    "u": "439011", 
+    "t": "/wcsstore/Coles-CAS/images/1/1/9/1196611-th.jpg", 
+    "n": "Chicken Noodle Soup", 
+    "pl": "20"
+}

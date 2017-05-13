@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250mL"
+        ]
+    }, 
+    "s9": "166759", 
+    "p1": {
+        "l4": "3.29", 
+        "o": "1.49"
+    }, 
+    "m": "Palmolive", 
+    "t1": "S", 
+    "p": "9072408P", 
+    "s": "palmolive-hand-wash-liquid-softwash-milk-honey-pump", 
+    "n": "Milk & Honey Liquid Softwash Pump", 
+    "u": "45832", 
+    "t": "/wcsstore/Coles-CAS/images/9/0/7/9072408-th.jpg", 
+    "u2": "$0.60 per 100mL", 
+    "pl": "12"
+}

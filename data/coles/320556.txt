@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "12 pack"
+        ]
+    }, 
+    "s9": "320599", 
+    "p1": {
+        "o": "12.1"
+    }, 
+    "m": "Purina", 
+    "u2": "$1.19 per 100G", 
+    "p": "1719593P", 
+    "s": "purina-felix-as-good-as-it-looks-country-menu-cat-food", 
+    "u": "320556", 
+    "t": "/wcsstore/Coles-CAS/images/1/7/1/1719593-th.jpg", 
+    "n": "Felix As Good As It Looks Country Menu Cat Food", 
+    "pl": "20"
+}

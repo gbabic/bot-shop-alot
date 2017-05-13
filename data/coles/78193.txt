@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "3kg"
+        ]
+    }, 
+    "s9": "140762", 
+    "p1": {
+        "l4": "7.7", 
+        "o": "5.4"
+    }, 
+    "m": "V.I.P.", 
+    "t1": "S", 
+    "p": "6022571P", 
+    "s": "vip-dog-roll-chicken-gourmet", 
+    "n": "Chicken Gourmet Dog Roll", 
+    "u": "78193", 
+    "t": "/wcsstore/Coles-CAS/images/6/0/2/6022571-th.jpg", 
+    "u2": "$0.18 per 100G", 
+    "pl": "12"
+}

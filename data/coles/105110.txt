@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "505g"
+        ]
+    }, 
+    "s9": "157527", 
+    "p1": {
+        "l4": "3.57", 
+        "o": "2.0"
+    }, 
+    "m": "Campbell's", 
+    "t1": "S", 
+    "p": "9190856P", 
+    "s": "campbells-country-ladle-soup-potato-leek", 
+    "n": "Country Ladle Potato & Leek Soup Can", 
+    "u": "105110", 
+    "t": "/wcsstore/Coles-CAS/images/9/1/9/9190856-th.jpg", 
+    "u2": "$0.40 per 100G", 
+    "pl": "12"
+}

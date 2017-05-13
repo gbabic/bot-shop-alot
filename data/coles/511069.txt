@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "350mL"
+        ]
+    }, 
+    "s9": "511121", 
+    "p1": {
+        "o": "15.4"
+    }, 
+    "m": "Total Care", 
+    "u2": "$4.40 per 100mL", 
+    "p": "2443330P", 
+    "s": "total-care-medicated-shampoo", 
+    "u": "511069", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/4/2443330-th.jpg", 
+    "n": "Medicated Shampoo", 
+    "pl": "20"
+}

@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Fruit & Vegetables"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "0.05"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 50g"
+        ]
+    }, 
+    "s9": "36443", 
+    "p1": {
+        "o": "0.495"
+    }, 
+    "m": "Coles", 
+    "s7": "Each portion approx. 2 squash; product of Australia.", 
+    "u2": "$9.90 per 1Kg", 
+    "p": "4912942P", 
+    "s": "squash-yellow-loose", 
+    "u": "12573", 
+    "t": "/wcsstore/Coles-CAS/images/4/9/1/4912942-th.jpg", 
+    "n": "Yellow Squash loose", 
+    "pl": "99"
+}

@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "0.3"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 300g pack"
+        ]
+    }, 
+    "s9": "158691", 
+    "p1": {
+        "o": "6.9"
+    }, 
+    "m": "Continental Kosher", 
+    "s7": "Indicated price based on approx. weight. Weight may vary between 250g and 350kg.", 
+    "u2": "$23.00 per 1Kg", 
+    "p": "9494613P", 
+    "s": "continental-kosher-pepperoni", 
+    "u": "91143", 
+    "t": "/wcsstore/Coles-CAS/images/9/4/9/9494613-th.jpg", 
+    "n": "Pepperoni", 
+    "pl": "20"
+}

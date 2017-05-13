@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "505g"
+        ]
+    }, 
+    "s9": "319372", 
+    "p1": {
+        "o": "4.06"
+    }, 
+    "m": "MasterFoods", 
+    "u2": "$0.80 per 100G", 
+    "p": "1727489P", 
+    "s": "masterfoods-honey-mustard-chicken-simmer-sauce", 
+    "u": "319180", 
+    "t": "/wcsstore/Coles-CAS/images/1/7/2/1727489-th.jpg", 
+    "n": "Honey Mustard Chicken Simmer Sauce", 
+    "pl": "20"
+}

@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "420g"
+        ]
+    }, 
+    "u2": "$0.71 per 100G", 
+    "s9": "133153", 
+    "p1": {
+        "l4": "4.29", 
+        "o": "3.0"
+    }, 
+    "s7": "", 
+    "m": "La Zuppa", 
+    "n": "Minestrone Microwavable Soup Bowl", 
+    "p": "6299520P", 
+    "s": "la-zuppa-soup-minestrone", 
+    "u": "70451", 
+    "t": "/wcsstore/Coles-CAS/images/6/2/9/6299520-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

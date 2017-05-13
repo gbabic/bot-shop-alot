@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "485080", 
+    "p1": {
+        "o": "13.0"
+    }, 
+    "m": "Brita", 
+    "u2": "$13.00 per 1Ea", 
+    "p": "2343234P", 
+    "s": "brita-fill-go-bottle-sea-green", 
+    "u": "485037", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/4/2343234-th.jpg", 
+    "n": "Classic Fill & Go Bottle Green 700mL", 
+    "pl": "20"
+}

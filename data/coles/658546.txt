@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "50mL"
+        ]
+    }, 
+    "s9": "658603", 
+    "p1": {
+        "o": "4.29"
+    }, 
+    "m": "Dove Men + Care Roll On", 
+    "u2": "$8.58 per 100mL", 
+    "p": "2862173P", 
+    "s": "dove-men--care-roll-on-cool-fresh-antiperspirant", 
+    "u": "658546", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/6/2862173-th.jpg", 
+    "n": "Cool Fresh Antiperspirant", 
+    "pl": "99"
+}

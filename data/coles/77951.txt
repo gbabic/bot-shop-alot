@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "142319", 
+    "p1": {
+        "o": "6.25"
+    }, 
+    "m": "Kraft", 
+    "u2": "$1.25 per 100G", 
+    "p": "5398753P", 
+    "s": "kraft-peanut-butter-smooth-5398753p", 
+    "u": "77951", 
+    "t": "/wcsstore/Coles-CAS/images/5/3/9/5398753-th.jpg", 
+    "n": "Smooth Peanut Butter", 
+    "pl": "20"
+}

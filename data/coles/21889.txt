@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "15g"
+        ]
+    }, 
+    "s9": "38476", 
+    "p1": {
+        "l4": "2.97", 
+        "o": "1.0"
+    }, 
+    "m": "Twinings", 
+    "t1": "S", 
+    "p": "5984870P", 
+    "s": "twinings-herbal-infusions-tea-bags-lemon-ginger", 
+    "n": "Herbal Infusions Lemon & Ginger Tea Bags 10 pack", 
+    "u": "21889", 
+    "t": "/wcsstore/Coles-CAS/images/5/9/8/5984870-th.jpg", 
+    "u2": "$6.67 per 100G", 
+    "pl": "12"
+}

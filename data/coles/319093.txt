@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "495g"
+        ]
+    }, 
+    "s9": "319415", 
+    "p1": {
+        "o": "4.06"
+    }, 
+    "m": "MasterFoods", 
+    "u2": "$0.82 per 100G", 
+    "p": "1727525P", 
+    "s": "masterfoods-beef-stroganoff-simmer-sauce", 
+    "u": "319093", 
+    "t": "/wcsstore/Coles-CAS/images/1/7/2/1727525-th.jpg", 
+    "n": "Beef Stroganoff Simmer Sauce", 
+    "pl": "20"
+}

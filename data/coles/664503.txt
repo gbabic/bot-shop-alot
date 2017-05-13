@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "110g"
+        ]
+    }, 
+    "s9": "664508", 
+    "p1": {
+        "o": "3.0"
+    }, 
+    "m": "Cadbury", 
+    "t1": "V", 
+    "p": "2912840P", 
+    "s": "cadbury-bitesize-bitsa-wispa", 
+    "n": "Bitesize Bitsa Wispa", 
+    "u": "664503", 
+    "t": "/wcsstore/Coles-CAS/images/2/9/1/2912840-th.jpg", 
+    "u2": "$2.73 per 100G", 
+    "pl": "20"
+}

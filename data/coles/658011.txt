@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "6 pack"
+        ]
+    }, 
+    "s9": "658051", 
+    "p1": {
+        "o": "6.05"
+    }, 
+    "m": "Emporia Toilet Paper", 
+    "u2": "$0.72 per 100Ea", 
+    "p": "2888122P", 
+    "s": "emporia-toilet-paper-4ply-white", 
+    "u": "658011", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/8/2888122-th.jpg", 
+    "n": "4ply White", 
+    "pl": "99"
+}

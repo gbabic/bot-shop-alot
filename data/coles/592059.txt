@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "38g"
+        ]
+    }, 
+    "s9": "592144", 
+    "p1": {
+        "o": "3.3"
+    }, 
+    "m": "Wallaby", 
+    "u2": "$8.68 per 100G", 
+    "p": "2481410P", 
+    "s": "wallaby--french-vanilla-with-sour-cherry-le-granola-bar", 
+    "u": "592059", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/8/2481410-th.jpg", 
+    "n": "French Vanilla With Sour Cherry Le Granola Bar", 
+    "pl": "99"
+}

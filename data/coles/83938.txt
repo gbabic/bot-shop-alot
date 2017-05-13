@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "680g"
+        ]
+    }, 
+    "s9": "143650", 
+    "p1": {
+        "o": "3.91"
+    }, 
+    "m": "Optimum", 
+    "u2": "$0.58 per 100G", 
+    "p": "4190688P", 
+    "s": "optimum-dog-food-with-chicken-rice-healthy-weight-management", 
+    "u": "83938", 
+    "t": "/wcsstore/Coles-CAS/images/4/1/9/4190688-th.jpg", 
+    "n": "Light with Chicken & Rice Canned Dog Food", 
+    "pl": "20"
+}

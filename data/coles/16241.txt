@@ -1,0 +1,41 @@
+{
+    "a": {
+        "P8": [
+            "Drinks"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1.25L"
+        ]
+    }, 
+    "pr": "1.50000", 
+    "s9": "38252", 
+    "pq": "2", 
+    "pt": "MultibuyMultiSku", 
+    "u2": "$1.72 per 1L", 
+    "m": "Schweppes", 
+    "n": "Red Creamy Soda", 
+    "p": "7909730P", 
+    "s": "schweppes-soft-drink-creamy-soda-red", 
+    "p1": {
+        "l4": "2.41", 
+        "o": "2.15"
+    }, 
+    "u": "16241", 
+    "t": "/wcsstore/Coles-CAS/images/7/9/0/7909730-th.jpg", 
+    "pd": "2 for $3", 
+    "pi": "10141008", 
+    "t1": "M", 
+    "pl": "12"
+}

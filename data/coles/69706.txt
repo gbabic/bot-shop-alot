@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Fruit & Vegetables"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "175g"
+        ]
+    }, 
+    "u2": "$16.57 per 1Kg", 
+    "s9": "128638", 
+    "p1": {
+        "o": "2.9"
+    }, 
+    "s7": "Product of Australia.", 
+    "m": "Coles", 
+    "n": "Mini Vine Capsicums Prepacked", 
+    "p": "7296299P", 
+    "s": "capsicum-vine-mini-prepacked", 
+    "u": "69706", 
+    "t": "/wcsstore/Coles-CAS/images/7/2/9/7296299-th.jpg", 
+    "t1": "S", 
+    "pl": "99"
+}

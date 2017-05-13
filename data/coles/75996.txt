@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1kg"
+        ]
+    }, 
+    "s9": "139855", 
+    "p1": {
+        "o": "4.4"
+    }, 
+    "m": "Lowan", 
+    "u2": "$0.44 per 100G", 
+    "p": "5625957P", 
+    "s": "lowan-oats-quick", 
+    "u": "75996", 
+    "t": "/wcsstore/Coles-CAS/images/5/6/2/5625957-th.jpg", 
+    "n": "Quick Oats", 
+    "pl": "20"
+}

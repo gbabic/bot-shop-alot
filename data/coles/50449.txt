@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100g"
+        ]
+    }, 
+    "s9": "113698", 
+    "p1": {
+        "o": "3.36"
+    }, 
+    "m": "Pataks", 
+    "u2": "$3.36 per 100G", 
+    "p": "8537233P", 
+    "s": "pataks-pappadums-plain", 
+    "u": "50449", 
+    "t": "/wcsstore/Coles-CAS/images/8/5/3/8537233-th.jpg", 
+    "n": "Plain Pappadums", 
+    "pl": "20"
+}

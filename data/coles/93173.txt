@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "35g"
+        ]
+    }, 
+    "s9": "163609", 
+    "p1": {
+        "l4": "3.63", 
+        "o": "2.6"
+    }, 
+    "m": "MasterFoods", 
+    "t1": "S", 
+    "p": "9755739P", 
+    "s": "masterfoods-paprika-smoked", 
+    "n": "Smoked Paprika", 
+    "u": "93173", 
+    "t": "/wcsstore/Coles-CAS/images/9/7/5/9755739-th.jpg", 
+    "u2": "$0.74 per 10G", 
+    "pl": "12"
+}

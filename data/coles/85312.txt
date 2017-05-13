@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "s9": "151362", 
+    "p1": {
+        "l4": "7.7", 
+        "o": "5.6"
+    }, 
+    "m": "Schwarzkopf", 
+    "t1": "S", 
+    "p": "289794P", 
+    "s": "schwarzkopf-extra-care-hairspray-strong-styling", 
+    "n": "Extra Care Strong Styling Hairspray", 
+    "u": "85312", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/9/289794-th.jpg", 
+    "u2": "$2.24 per 100G", 
+    "pl": "12"
+}

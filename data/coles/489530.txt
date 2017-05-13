@@ -1,0 +1,38 @@
+{
+    "a": {
+        "D": [
+            "TOBACCO"
+        ], 
+        "P8": [
+            "Tobacco"
+        ], 
+        "T1": [
+            "true"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "20 pack"
+        ]
+    }, 
+    "s9": "489590", 
+    "p1": {
+        "o": "19.5"
+    }, 
+    "m": "JPS", 
+    "s7": "Prices include all taxes", 
+    "u2": "$19.50 per 1Ea", 
+    "p": "2516423P", 
+    "s": "jps-gold-cigarettes-2516423p", 
+    "u": "489530", 
+    "t": "/wcsstore/Coles-CAS/images/C/i/g/Cigarettes-th.jpg", 
+    "n": "Gold Cigarettes", 
+    "pl": "5"
+}

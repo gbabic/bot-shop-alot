@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Fruit & Vegetables"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "323013", 
+    "p1": {
+        "o": "3.0"
+    }, 
+    "s7": "Product of Australia.", 
+    "m": "Coles", 
+    "n": "Shepard Avocados", 
+    "p": "5900891P", 
+    "s": "coles-fresh-avocado---shepard", 
+    "u": "323005", 
+    "t": "/wcsstore/Coles-CAS/images/5/9/0/5900891-th.jpg", 
+    "a6": false, 
+    "u2": "$3.00 per 1Ea", 
+    "pl": "99"
+}

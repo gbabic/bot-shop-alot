@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200mL"
+        ]
+    }, 
+    "s9": "239550", 
+    "p1": {
+        "o": "7.69"
+    }, 
+    "m": "VO5", 
+    "u2": "$3.85 per 100mL", 
+    "p": "1442730P", 
+    "s": "vo5-hair-styling-spray-give-me-texture-dry-texturising", 
+    "u": "239516", 
+    "t": "/wcsstore/Coles-CAS/images/1/4/4/1442730-th.jpg", 
+    "n": "Give Me Texture Dry Texturising Spray", 
+    "pl": "20"
+}

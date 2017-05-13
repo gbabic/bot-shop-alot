@@ -1,0 +1,40 @@
+{
+    "a": {
+        "P8": [
+            "Mothers Day"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "pr": "4.00000", 
+    "s9": "143499", 
+    "pq": "2", 
+    "pt": "MultibuyMultiSku", 
+    "u2": "$1.14 per 100G", 
+    "m": "Betty Crocker", 
+    "n": "Triple Chocolate Fudge Brownie Mix", 
+    "p": "4525640P", 
+    "s": "betty-crocker-brownie-mix-triple-chocolate-fudge", 
+    "p1": {
+        "o": "5.71"
+    }, 
+    "u": "80940", 
+    "t": "/wcsstore/Coles-CAS/images/4/5/2/4525640-th.jpg", 
+    "pd": "2 for $8", 
+    "pi": "10141006", 
+    "t1": "M", 
+    "pl": "12"
+}

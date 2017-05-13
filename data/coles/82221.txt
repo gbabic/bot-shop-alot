@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "20 pack"
+        ]
+    }, 
+    "s9": "145428", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "m": "Smith's", 
+    "t1": "V", 
+    "p": "4370635P", 
+    "s": "smiths-potato-chips-kidz-pick", 
+    "n": "Fun Mix Variety Multipack Potato Chips", 
+    "u": "82221", 
+    "t": "/wcsstore/Coles-CAS/images/4/3/7/4370635-th.jpg", 
+    "u2": "$1.49 per 100G", 
+    "pl": "20"
+}

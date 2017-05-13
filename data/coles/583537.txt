@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1L"
+        ]
+    }, 
+    "s9": "583641", 
+    "p1": {
+        "o": "7.69"
+    }, 
+    "m": "Fluffy", 
+    "u2": "$7.69 per 1L", 
+    "p": "2732076P", 
+    "s": "fluffy--ultra-fabric-softener-aqua-desire", 
+    "u": "583537", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/3/2732076-th.jpg", 
+    "n": "Ultra Fabric Softener Aqua Desire", 
+    "pl": "20"
+}

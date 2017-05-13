@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1.14g"
+        ]
+    }, 
+    "s9": "584188", 
+    "p1": {
+        "o": "9.35"
+    }, 
+    "m": "Australis", 
+    "u2": "$82.02 per 10G", 
+    "p": "2616257P", 
+    "s": "australis--eyebrow-pencil-dark-brown", 
+    "u": "584025", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/1/2616257-th.jpg", 
+    "n": "Eyebrow Pencil Dark Brown", 
+    "pl": "20"
+}

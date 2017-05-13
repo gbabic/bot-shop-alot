@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Baby"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "384 pack"
+        ]
+    }, 
+    "s9": "129146", 
+    "p1": {
+        "o": "19.5"
+    }, 
+    "m": "Huggies", 
+    "u2": "$5.08 per 100Ea", 
+    "p": "7422859P", 
+    "s": "huggies-mega-pack-wipes-baby-fragrance-free", 
+    "u": "65680", 
+    "t": "/wcsstore/Coles-CAS/images/7/4/2/7422859-th.jpg", 
+    "n": "Fragrance Free Baby Wipes Mega Pack", 
+    "pl": "20"
+}

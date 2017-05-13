@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "5kg"
+        ]
+    }, 
+    "s9": "130546", 
+    "p1": {
+        "l4": "19.25", 
+        "o": "8.75"
+    }, 
+    "m": "Maharajahs Choice", 
+    "t1": "S", 
+    "p": "7210045P", 
+    "s": "maharajahs-choice-rice-basmati-calico", 
+    "n": "Calico Basmati Rice", 
+    "u": "69803", 
+    "t": "/wcsstore/Coles-CAS/images/7/2/1/7210045-th.jpg", 
+    "u2": "$0.18 per 100G", 
+    "pl": "12"
+}

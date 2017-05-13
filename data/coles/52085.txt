@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "6 pack"
+        ]
+    }, 
+    "s9": "164392", 
+    "p1": {
+        "l4": "23.32", 
+        "o": "16.95"
+    }, 
+    "m": "Exelpet", 
+    "t1": "S", 
+    "p": "8758017P", 
+    "s": "exelpet-capstar-flea-knockdown-tablets-for-medium-large-dogs", 
+    "n": "Capstar Flea Knockdown Tablets for Medium & Large Dogs", 
+    "u": "52085", 
+    "t": "/wcsstore/Coles-CAS/images/8/7/5/8758017-th.jpg", 
+    "u2": "$2.83 per 1Ea", 
+    "pl": "12"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "50g"
+        ]
+    }, 
+    "s9": "138815", 
+    "p1": {
+        "l4": "1.21", 
+        "o": "0.85"
+    }, 
+    "m": "Trident", 
+    "t1": "S", 
+    "p": "5370823P", 
+    "s": "trident-soup-mix-thai-chicken-noodle", 
+    "n": "Thai Chicken Noodle Soup Mix", 
+    "u": "79202", 
+    "t": "/wcsstore/Coles-CAS/images/5/3/7/5370823-th.jpg", 
+    "u2": "$1.70 per 100G", 
+    "pl": "12"
+}

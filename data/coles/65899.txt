@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "660g"
+        ]
+    }, 
+    "s9": "129978", 
+    "p1": {
+        "o": "5.01"
+    }, 
+    "m": "Monika", 
+    "u2": "$0.76 per 100G", 
+    "p": "7210125P", 
+    "s": "monika-chutney-sweet-mango", 
+    "u": "65899", 
+    "t": "/wcsstore/Coles-CAS/images/7/2/1/7210125-th.jpg", 
+    "n": "Sweet Mango Chutney", 
+    "pl": "20"
+}

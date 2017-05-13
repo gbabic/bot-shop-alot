@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "13.1mL"
+        ]
+    }, 
+    "s9": "123975", 
+    "p1": {
+        "o": "21.95"
+    }, 
+    "m": "Covergirl", 
+    "u2": "$16.76 per 10mL", 
+    "p": "7616720P", 
+    "s": "covergirl-lash-blast-mascara-fusion-very-black", 
+    "u": "66051", 
+    "t": "/wcsstore/Coles-CAS/images/7/6/1/7616720-th.jpg", 
+    "n": "Lash Blast Fusion Very Black Mascara", 
+    "pl": "20"
+}

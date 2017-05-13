@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Bread & Bakery"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "580g"
+        ]
+    }, 
+    "s9": "159755", 
+    "p1": {
+        "o": "6.69"
+    }, 
+    "m": "Country Life", 
+    "u2": "$1.15 per 100G", 
+    "p": "9970731P", 
+    "s": "country-life-bread-low-gi-gluten-free", 
+    "u": "98814", 
+    "t": "/wcsstore/Coles-CAS/images/9/9/7/9970731-th.jpg", 
+    "n": "Low GI Bread Gluten Free", 
+    "pl": "20"
+}

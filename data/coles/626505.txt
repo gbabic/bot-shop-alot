@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "160g"
+        ]
+    }, 
+    "s9": "626522", 
+    "p1": {
+        "o": "3.3"
+    }, 
+    "m": "Kantong Meal Base", 
+    "u2": "$2.06 per 100G", 
+    "p": "2849110P", 
+    "s": "kantong-meal-base-chicken-cashew-nut", 
+    "u": "626505", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/4/2849110-th.jpg", 
+    "n": "Chicken & Cashew Nut", 
+    "pl": "99"
+}

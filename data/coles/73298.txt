@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "134194", 
+    "p1": {
+        "o": "3.99"
+    }, 
+    "m": "Magazine", 
+    "s7": "", 
+    "u2": "$3.99 per 1ea", 
+    "p": "6830770P", 
+    "s": "thats-life-puzzler-magazine", 
+    "u": "73298", 
+    "t": "/wcsstore/Coles-CAS/images/6/8/3/6830770-th.jpg", 
+    "n": "That's Life Puzzler", 
+    "pl": "20"
+}

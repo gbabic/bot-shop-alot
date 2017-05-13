@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1.2kg"
+        ]
+    }, 
+    "s9": "129211", 
+    "p1": {
+        "l4": "4.24", 
+        "o": "2.5"
+    }, 
+    "m": "Pedigree", 
+    "t1": "S", 
+    "p": "7335288P", 
+    "s": "pedigree-adult-dog-food-beef--rice-vegies", 
+    "n": "Homestyle With Beef Pasta & Vegies Canned Dog Food", 
+    "u": "65764", 
+    "t": "/wcsstore/Coles-CAS/images/7/3/3/7335288-th.jpg", 
+    "u2": "$0.21 per 100G", 
+    "pl": "12"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100g"
+        ]
+    }, 
+    "s9": "644078", 
+    "p1": {
+        "o": "7.5"
+    }, 
+    "m": "Bertocchi", 
+    "u2": "$75.00 per 1Kg", 
+    "p": "2806820P", 
+    "s": "bertocchi-prosciutto", 
+    "u": "644032", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/0/2806820-th.jpg", 
+    "n": "Prosciutto", 
+    "pl": "99"
+}

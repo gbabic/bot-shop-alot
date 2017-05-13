@@ -1,0 +1,40 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "370g"
+        ]
+    }, 
+    "pr": "3.50000", 
+    "s9": "140659", 
+    "pq": "2", 
+    "pt": "MultibuyMultiSku", 
+    "u2": "$1.72 per 100G", 
+    "m": "Weight Watchers", 
+    "n": "Frozen Beef Lasagne", 
+    "p": "5325024P", 
+    "s": "weight-watchers-lasagne-beef-frozen", 
+    "p1": {
+        "o": "6.38"
+    }, 
+    "u": "79841", 
+    "t": "/wcsstore/Coles-CAS/images/5/3/2/5325024-th.jpg", 
+    "pd": "2 for $7", 
+    "pi": "10141010", 
+    "t1": "M", 
+    "pl": "12"
+}

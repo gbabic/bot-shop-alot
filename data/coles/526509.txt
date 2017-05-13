@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "0.55"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 550g"
+        ]
+    }, 
+    "s9": "526538", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "m": "Coles Deli", 
+    "s7": "Indicated price based on approx. weight. Weight may vary between 500g and 600g.", 
+    "u2": "$10.00 per 1Kg", 
+    "p": "2272657P", 
+    "s": "coles-deli-rspca-approved-chicken-thigh-fillets-4-pieces", 
+    "u": "526509", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/7/2272657-th.jpg", 
+    "n": "RSPCA Approved Chicken Thigh Fillets 4 Pieces", 
+    "pl": "20"
+}

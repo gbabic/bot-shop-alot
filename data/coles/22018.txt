@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "615g"
+        ]
+    }, 
+    "s9": "32916", 
+    "p1": {
+        "l4": "3.96", 
+        "o": "3.2"
+    }, 
+    "m": "Cottee's", 
+    "t1": "S", 
+    "p": "4775921P", 
+    "s": "cottees-topping-squeasy-chocolate", 
+    "n": "Squeezy Chocolate Topping", 
+    "u": "22018", 
+    "t": "/wcsstore/Coles-CAS/images/4/7/7/4775921-th.jpg", 
+    "u2": "$0.52 per 100G", 
+    "pl": "12"
+}

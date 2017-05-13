@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "120g"
+        ]
+    }, 
+    "s9": "144468", 
+    "p1": {
+        "o": "2.739"
+    }, 
+    "m": "Colgate", 
+    "u2": "$2.28 per 100G", 
+    "p": "5011682P", 
+    "s": "colgate-toothpaste-great-regular-flavour", 
+    "u": "80697", 
+    "t": "/wcsstore/Coles-CAS/images/5/0/1/5011682-th.jpg", 
+    "n": "Regular Toothpaste", 
+    "pl": "20"
+}

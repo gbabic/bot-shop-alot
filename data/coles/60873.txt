@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "375g"
+        ]
+    }, 
+    "s9": "123108", 
+    "p1": {
+        "o": "3.29"
+    }, 
+    "m": "MasterFoods", 
+    "u2": "$0.88 per 100G", 
+    "p": "7741507P", 
+    "s": "masterfoods-marinade-teriyaki", 
+    "u": "60873", 
+    "t": "/wcsstore/Coles-CAS/images/7/7/4/7741507-th.jpg", 
+    "n": "Teriyaki Marinade", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100g"
+        ]
+    }, 
+    "s9": "32762", 
+    "p1": {
+        "o": "1.49"
+    }, 
+    "m": "My Dog", 
+    "u2": "$1.49 per 100G", 
+    "p": "6387639P", 
+    "s": "my-dog-light-dog-food-chicken-brown-rice-spinach", 
+    "u": "16450", 
+    "t": "/wcsstore/Coles-CAS/images/6/3/8/6387639-th.jpg", 
+    "n": "Light Tender Chicken Brown Rice & Spinach Dog Food Tray", 
+    "pl": "20"
+}

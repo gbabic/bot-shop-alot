@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "360g"
+        ]
+    }, 
+    "s9": "517197", 
+    "p1": {
+        "o": "9.68"
+    }, 
+    "m": "Eskal Deli", 
+    "u2": "$2.69 per 100G", 
+    "p": "2131407P", 
+    "s": "eskal-deli-date-syrup-2131407p", 
+    "u": "517055", 
+    "t": "/wcsstore/Coles-CAS/images/2/1/3/2131407-th.jpg", 
+    "n": "Date Syrup", 
+    "pl": "20"
+}

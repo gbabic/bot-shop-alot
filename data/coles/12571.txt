@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Bread & Bakery"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "700g"
+        ]
+    }, 
+    "u2": "$0.29 per 100G", 
+    "s9": "31314", 
+    "p1": {
+        "o": "2.0"
+    }, 
+    "s7": "5c from the purchase of this bread will be donated by Coles to Redkite.", 
+    "m": "Coles", 
+    "n": "Wholemeal High Fibre Sliced Bread", 
+    "p": "4938276P", 
+    "s": "-4938276p", 
+    "u": "12571", 
+    "t": "/wcsstore/Coles-CAS/images/4/9/3/4938276-th.jpg", 
+    "t1": "V", 
+    "pl": "12"
+}

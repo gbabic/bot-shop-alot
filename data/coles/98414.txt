@@ -1,0 +1,40 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "pr": "3.00000", 
+    "s9": "159345", 
+    "pq": "2", 
+    "pt": "MultibuyMultiSku", 
+    "u2": "$2.00 per 100G", 
+    "m": "Black Swan", 
+    "n": "Cheese & Chives Dip", 
+    "p": "9608993P", 
+    "s": "black-swan-dip-cheese-chives", 
+    "p1": {
+        "o": "4.0"
+    }, 
+    "u": "98414", 
+    "t": "/wcsstore/Coles-CAS/images/9/6/0/9608993-th.jpg", 
+    "pd": "2 for $6", 
+    "pi": "10141004", 
+    "t1": "M", 
+    "pl": "12"
+}

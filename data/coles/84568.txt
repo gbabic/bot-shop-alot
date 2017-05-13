@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100g"
+        ]
+    }, 
+    "s9": "144816", 
+    "p1": {
+        "o": "1.65"
+    }, 
+    "m": "Maharajah's Choice", 
+    "u2": "$1.65 per 100G", 
+    "p": "419448P", 
+    "s": "maharajahs-choice-pappadams-plain-419448p", 
+    "u": "84568", 
+    "t": "/wcsstore/Coles-CAS/images/4/1/9/419448-th.jpg", 
+    "n": "Plain Pappadums", 
+    "pl": "20"
+}

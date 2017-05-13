@@ -1,0 +1,40 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "320g"
+        ]
+    }, 
+    "pr": "3.50000", 
+    "s9": "118263", 
+    "pq": "2", 
+    "pt": "MultibuyMultiSku", 
+    "u2": "$1.99 per 100G", 
+    "m": "Weight Watchers", 
+    "n": "Beef Cannelloni Frozen Meal", 
+    "p": "8101894P", 
+    "s": "weight-watchers-meal-frozen-beef-cannelloni", 
+    "p1": {
+        "o": "6.38"
+    }, 
+    "u": "53355", 
+    "t": "/wcsstore/Coles-CAS/images/8/1/0/8101894-th.jpg", 
+    "pd": "2 for $7", 
+    "pi": "10141010", 
+    "t1": "M", 
+    "pl": "12"
+}

@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1L"
+        ]
+    }, 
+    "u2": "$0.30 per 100mL", 
+    "s9": "157905", 
+    "p1": {
+        "l4": "4.39", 
+        "o": "2.99"
+    }, 
+    "s7": "", 
+    "m": "Campbell's", 
+    "n": "Real Salt Reduced Chicken  Stock", 
+    "p": "8837306P", 
+    "s": "campbells-stock-real-chicken-salt-reduced-8837306p", 
+    "u": "95171", 
+    "t": "/wcsstore/Coles-CAS/images/8/8/3/8837306-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

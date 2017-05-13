@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "18 pack"
+        ]
+    }, 
+    "s9": "43041", 
+    "p1": {
+        "o": "8.25"
+    }, 
+    "m": "Tampax", 
+    "u2": "$0.46 per 1Ea", 
+    "p": "1166596P", 
+    "s": "tampax-pearl-tampons-super-with-applicator", 
+    "u": "19254", 
+    "t": "/wcsstore/Coles-CAS/images/1/1/6/1166596-th.jpg", 
+    "n": "Pearl Super Tampons with Applicator", 
+    "pl": "20"
+}

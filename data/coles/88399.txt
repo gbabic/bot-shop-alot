@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "149062", 
+    "p1": {
+        "o": "2.15"
+    }, 
+    "m": "Zafarelli", 
+    "u2": "$0.43 per 100G", 
+    "p": "278233P", 
+    "s": "zafarelli-pasta-bucatini-no-9", 
+    "u": "88399", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/8/278233-th.jpg", 
+    "n": "Bucatini Pasta No 9", 
+    "pl": "20"
+}

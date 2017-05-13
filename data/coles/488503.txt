@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.25"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 125g"
+        ]
+    }, 
+    "s9": "488516", 
+    "p1": {
+        "o": "48.75"
+    }, 
+    "m": "Northside Fine Foods", 
+    "s7": "Indicated price based on approx. weight. Weight may vary between 100g and 150g", 
+    "u2": "$39.00 per 1Kg", 
+    "p": "2377349P", 
+    "s": "northside-fine-food-proscuitto-chunk", 
+    "u": "488503", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/7/2377349-th.jpg", 
+    "n": "Proscuitto Chunk", 
+    "pl": "20"
+}

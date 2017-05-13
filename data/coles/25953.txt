@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "575g"
+        ]
+    }, 
+    "s9": "38032", 
+    "p1": {
+        "l4": "3.96", 
+        "o": "3.2"
+    }, 
+    "m": "Cottee's", 
+    "t1": "S", 
+    "p": "1161628P", 
+    "s": "cottees-squeezy-topping-strawberry", 
+    "n": "Squeezy Strawberry Topping", 
+    "u": "25953", 
+    "t": "/wcsstore/Coles-CAS/images/1/1/6/1161628-th.jpg", 
+    "u2": "$0.56 per 100G", 
+    "pl": "12"
+}

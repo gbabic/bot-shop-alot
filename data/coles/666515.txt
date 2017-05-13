@@ -1,0 +1,40 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "320g"
+        ]
+    }, 
+    "pr": "3.50000", 
+    "s9": "666530", 
+    "pq": "2", 
+    "pt": "MultibuyMultiSku", 
+    "u2": "$1.99 per 100G", 
+    "m": "Weight Watchers", 
+    "n": "Chicken & Vegitable Risotto Frozen Meal", 
+    "p": "9789912P", 
+    "s": "weight-watchers--chicken-vegitable-risotto-frozen-meal", 
+    "p1": {
+        "o": "6.38"
+    }, 
+    "u": "666515", 
+    "t": "/wcsstore/Coles-CAS/images/9/7/8/9789912-th.jpg", 
+    "pd": "2 for $7", 
+    "pi": "10141010", 
+    "t1": "M", 
+    "pl": "12"
+}

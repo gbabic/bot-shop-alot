@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "110350", 
+    "p1": {
+        "o": "2.4"
+    }, 
+    "m": "Hoyts", 
+    "u2": "$4.80 per 1Kg", 
+    "p": "8328663P", 
+    "s": "hoyts-luppini-beans", 
+    "u": "53073", 
+    "t": "/wcsstore/Coles-CAS/images/8/3/2/8328663-th.jpg", 
+    "n": "Lupini Beans", 
+    "pl": "20"
+}

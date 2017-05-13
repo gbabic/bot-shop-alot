@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "6.35kg"
+        ]
+    }, 
+    "s9": "612550", 
+    "p1": {
+        "o": "22.0"
+    }, 
+    "m": "Tidy Cats", 
+    "u2": "$3.46 per 1Kg", 
+    "p": "2817918P", 
+    "s": "tidy-cats-instant-action-clumping-cat-litter", 
+    "u": "612516", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/1/2817918-th.jpg", 
+    "n": "Instant Action Clumping Cat Litter", 
+    "pl": "99"
+}

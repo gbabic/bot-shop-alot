@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "198g"
+        ]
+    }, 
+    "u2": "$1.26 per 100G", 
+    "s9": "163591", 
+    "p1": {
+        "l4": "5.5", 
+        "o": "2.5"
+    }, 
+    "s7": "", 
+    "m": "Freedom Foods", 
+    "n": "Gluten Free Muesli Breakfast Bar", 
+    "p": "9777833P", 
+    "s": "freedom-foods-breakfast-bars-muesli-gluten-and-wheat-free", 
+    "u": "96432", 
+    "t": "/wcsstore/Coles-CAS/images/9/7/7/9777833-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

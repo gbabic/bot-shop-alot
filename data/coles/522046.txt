@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "2.8g"
+        ]
+    }, 
+    "s9": "522102", 
+    "p1": {
+        "o": "3.63"
+    }, 
+    "m": "Dr. Oetker", 
+    "u2": "$129.64 per 100G", 
+    "p": "2516208P", 
+    "s": "dr-oetker-edible-wafer-daisies", 
+    "u": "522046", 
+    "t": "/wcsstore/Coles-CAS/images/2/5/1/2516208-th.jpg", 
+    "n": "Edible Wafer Daisies", 
+    "pl": "20"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "159766", 
+    "p1": {
+        "l4": "4.62", 
+        "o": "3.5"
+    }, 
+    "m": "Rose's", 
+    "t1": "S", 
+    "p": "9967770P", 
+    "s": "roses-conserve-strawberry", 
+    "n": "Strawberry Jam in Glass", 
+    "u": "94063", 
+    "t": "/wcsstore/Coles-CAS/images/9/9/6/9967770-th.jpg", 
+    "u2": "$0.70 per 100G", 
+    "pl": "12"
+}

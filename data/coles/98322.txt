@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "161485", 
+    "p1": {
+        "o": "14.95"
+    }, 
+    "m": "Magazine", 
+    "s7": "", 
+    "u2": "$14.95 per 1ea", 
+    "p": "9729706P", 
+    "s": "national-geographic-magazine", 
+    "u": "98322", 
+    "t": "/wcsstore/Coles-CAS/images/9/7/2/9729706-th.jpg", 
+    "n": "National Geographic", 
+    "pl": "20"
+}

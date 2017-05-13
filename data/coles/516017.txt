@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "10 pack"
+        ]
+    }, 
+    "s9": "516025", 
+    "p1": {
+        "l4": "2.97", 
+        "o": "1.0"
+    }, 
+    "m": "Twinings", 
+    "t1": "S", 
+    "p": "2380219P", 
+    "s": "twinings-herbal-infusion-peppermint-spearmint-tea-bags", 
+    "n": "Herbal Infusion Peppermint & Spearmint Tea Bags", 
+    "u": "516017", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/8/2380219-th.jpg", 
+    "u2": "$6.67 per 100G", 
+    "pl": "12"
+}

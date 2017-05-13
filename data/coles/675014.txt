@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "750g"
+        ]
+    }, 
+    "s9": "675072", 
+    "p1": {
+        "o": "4.06"
+    }, 
+    "m": "Mccain Rustic Skin On", 
+    "u2": "$5.41 per 1Kg", 
+    "p": "2913015P", 
+    "s": "mccain-rustic-skin-on-chunky-cut-chips-750g", 
+    "u": "675014", 
+    "t": "/wcsstore/Coles-CAS/images/2/9/1/2913015-th.jpg", 
+    "n": "Chunky Cut Chips 750g", 
+    "pl": "99"
+}

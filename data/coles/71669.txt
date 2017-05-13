@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1.5kg"
+        ]
+    }, 
+    "s9": "133800", 
+    "p1": {
+        "o": "11.0"
+    }, 
+    "m": "Supercoat", 
+    "t1": "V", 
+    "p": "6484522P", 
+    "s": "supercoat-adult-cat-food-chicken-liver", 
+    "n": "Chicken & Liver Adult Dry Cat Food", 
+    "u": "71669", 
+    "t": "/wcsstore/Coles-CAS/images/6/4/8/6484522-th.jpg", 
+    "u2": "$0.73 per 100G", 
+    "pl": "20"
+}

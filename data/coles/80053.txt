@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "300mL"
+        ]
+    }, 
+    "s9": "144454", 
+    "p1": {
+        "o": "3.3"
+    }, 
+    "m": "Maggi", 
+    "u2": "$1.10 per 100mL", 
+    "p": "5030370P", 
+    "s": "maggi-fish-sauce", 
+    "u": "80053", 
+    "t": "/wcsstore/Coles-CAS/images/5/0/3/5030370-th.jpg", 
+    "n": "Fish Sauce", 
+    "pl": "20"
+}

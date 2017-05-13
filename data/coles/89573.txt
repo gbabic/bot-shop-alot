@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "290g"
+        ]
+    }, 
+    "s9": "143041", 
+    "p1": {
+        "o": "5.0"
+    }, 
+    "m": "Old El Paso", 
+    "t1": "V", 
+    "p": "291457P", 
+    "s": "old-el-paso-taco-kit-mild", 
+    "n": "Mild Taco Dinner Kit", 
+    "u": "89573", 
+    "t": "/wcsstore/Coles-CAS/images/2/9/1/291457-th.jpg", 
+    "u2": "$1.72 per 100G", 
+    "pl": "20"
+}

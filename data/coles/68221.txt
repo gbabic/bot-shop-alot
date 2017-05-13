@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "131001", 
+    "p1": {
+        "o": "15.4"
+    }, 
+    "m": "Covergirl", 
+    "u2": "$181.18 per 10G", 
+    "p": "7411488P", 
+    "s": "covergirl-perfect-blend-eye-pencil-smokey-taupe", 
+    "u": "68221", 
+    "t": "/wcsstore/Coles-CAS/images/7/4/1/7411488-th.jpg", 
+    "n": "Perfect Blend Smokey Taupe 130 Eyeliner Pencil", 
+    "pl": "20"
+}

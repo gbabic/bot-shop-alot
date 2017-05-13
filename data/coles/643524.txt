@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Bread & Bakery"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "450g"
+        ]
+    }, 
+    "s9": "643555", 
+    "p1": {
+        "o": "5.0"
+    }, 
+    "m": "Coles", 
+    "t1": "V", 
+    "p": "2820377P", 
+    "s": "coles--simply-chia-and-seed-gluten-free-bread", 
+    "n": "Simply Chia & Seed Gluten Free Bread", 
+    "u": "643524", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/2/2820377-th.jpg", 
+    "u2": "$1.11 per 100G", 
+    "pl": "20"
+}

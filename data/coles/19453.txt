@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "0.4"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 400g"
+        ]
+    }, 
+    "s9": "38314", 
+    "p1": {
+        "o": "2.8"
+    }, 
+    "m": "Coles Deli", 
+    "s7": "Indicated price based on approx. weight. Weight may vary between 350g and 450g.", 
+    "u2": "$7.00 per 1Kg", 
+    "p": "7428265P", 
+    "s": "chicken--nibbles-honey-soy-from-the-deli-7428265p", 
+    "u": "19453", 
+    "t": "/wcsstore/Coles-CAS/images/7/4/2/7428265-th.jpg", 
+    "n": "RSPCA Approved Honey Soy Chicken Nibbles", 
+    "pl": "20"
+}

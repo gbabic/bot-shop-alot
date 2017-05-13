@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250mL"
+        ]
+    }, 
+    "s9": "467782", 
+    "p1": {
+        "o": "6.0"
+    }, 
+    "m": "Garnier", 
+    "u2": "$2.40 per 100mL", 
+    "p": "2292643P", 
+    "s": "garnier-fructis-full-luscious-shampoo", 
+    "u": "467557", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/9/2292643-th.jpg", 
+    "n": "Fructis Full & Luscious Shampoo", 
+    "pl": "20"
+}

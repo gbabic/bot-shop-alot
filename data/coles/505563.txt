@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "60mL"
+        ]
+    }, 
+    "s9": "505662", 
+    "p1": {
+        "o": "4.4"
+    }, 
+    "m": "Tabasco", 
+    "u2": "$7.33 per 100mL", 
+    "p": "1952690P", 
+    "s": "tabasco-chipotle-sauce", 
+    "u": "505563", 
+    "t": "/wcsstore/Coles-CAS/images/1/9/5/1952690-th.jpg", 
+    "n": "Pepper Chipotle Sauce", 
+    "pl": "20"
+}

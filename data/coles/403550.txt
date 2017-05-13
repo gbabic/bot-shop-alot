@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "10 pack"
+        ]
+    }, 
+    "s9": "403726", 
+    "p1": {
+        "l4": "2.97", 
+        "o": "1.0"
+    }, 
+    "m": "Twinings", 
+    "t1": "S", 
+    "p": "2006132P", 
+    "s": "twinings-infused-orange-cinnamon-tea-bags", 
+    "n": "Infused Orange & Cinnamon Tea Bags", 
+    "u": "403550", 
+    "t": "/wcsstore/Coles-CAS/images/2/0/0/2006132-th.jpg", 
+    "u2": "$5.00 per 100G", 
+    "pl": "12"
+}

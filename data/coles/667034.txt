@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "667071", 
+    "p1": {
+        "o": "1.0"
+    }, 
+    "m": "Second Bite", 
+    "u2": "$1.00 per 1Ea", 
+    "p": "2600825P", 
+    "s": "second-bite-green-bag", 
+    "u": "667034", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/0/2600825-th.jpg", 
+    "n": "Green Bag", 
+    "pl": "20"
+}

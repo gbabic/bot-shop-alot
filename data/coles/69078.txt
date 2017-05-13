@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "s9": "128804", 
+    "p1": {
+        "o": "4.13"
+    }, 
+    "m": "Blu Gourmet", 
+    "u2": "$1.65 per 100G", 
+    "p": "7159265P", 
+    "s": "blu-gourmet-cous-cous-pearl", 
+    "u": "69078", 
+    "t": "/wcsstore/Coles-CAS/images/7/1/5/7159265-th.jpg", 
+    "n": "Pearl CousCous", 
+    "pl": "20"
+}

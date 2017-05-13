@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "85g"
+        ]
+    }, 
+    "s9": "424520", 
+    "p1": {
+        "o": "1.3"
+    }, 
+    "m": "Coles", 
+    "u2": "$15.29 per 1Kg", 
+    "p": "2034750P", 
+    "s": "coles-mustard-mayo-shredded-chicken", 
+    "u": "424509", 
+    "t": "/wcsstore/Coles-CAS/images/2/0/3/2034750-th.jpg", 
+    "n": "Shredded Chicken in Mustard Mayo", 
+    "pl": "20"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "85g"
+        ]
+    }, 
+    "s9": "135051", 
+    "p1": {
+        "l4": "4.84", 
+        "o": "3.65"
+    }, 
+    "m": "Hormel", 
+    "t1": "S", 
+    "p": "6552928P", 
+    "s": "hormel-bacon-pieces-real", 
+    "n": "Real Bacon Pieces", 
+    "u": "74267", 
+    "t": "/wcsstore/Coles-CAS/images/6/5/5/6552928-th.jpg", 
+    "u2": "$4.29 per 100G", 
+    "pl": "12"
+}

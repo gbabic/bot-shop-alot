@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400g"
+        ]
+    }, 
+    "u2": "$0.63 per 100G", 
+    "s9": "31354", 
+    "p1": {
+        "o": "2.5"
+    }, 
+    "s7": "", 
+    "m": "Coles", 
+    "n": "Hazelnut Spread Smooth", 
+    "p": "4390993P", 
+    "s": "coles-spread-hazelnut-smooth", 
+    "u": "17274", 
+    "t": "/wcsstore/Coles-CAS/images/4/3/9/4390993-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

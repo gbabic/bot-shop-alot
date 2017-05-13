@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "645506", 
+    "p1": {
+        "o": "4.4"
+    }, 
+    "m": "Bostik Glu Stik", 
+    "u2": "", 
+    "p": "2795280P", 
+    "s": "bostik-glu-stik-bostik-glu-stik", 
+    "u": "645502", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/9/2795280-th.jpg", 
+    "n": "Bostik Glu Stik", 
+    "pl": "99"
+}

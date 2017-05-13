@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 pack"
+        ]
+    }, 
+    "s9": "502095", 
+    "p1": {
+        "o": "22.0"
+    }, 
+    "m": "Gillette", 
+    "u2": "$22.00 per 1Ea", 
+    "p": "2507229P", 
+    "s": "gillette-venus-swirl-blades-2507229p", 
+    "u": "502019", 
+    "t": "/wcsstore/Coles-CAS/images/2/5/0/2507229-th.jpg", 
+    "n": "Venus Swirl Shaving Razor 1 Pack & 1 Blade Refill", 
+    "pl": "20"
+}

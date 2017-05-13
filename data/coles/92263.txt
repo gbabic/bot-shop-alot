@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "90g"
+        ]
+    }, 
+    "s9": "157393", 
+    "p1": {
+        "l4": "2.92", 
+        "o": "2.0"
+    }, 
+    "m": "Red Rock Deli", 
+    "t1": "S", 
+    "p": "9257061P", 
+    "s": "red-rock-deli-potato-chips-sea-salt-9257061p", 
+    "n": "Sea Salt Potato Chips", 
+    "u": "92263", 
+    "t": "/wcsstore/Coles-CAS/images/9/2/5/9257061-th.jpg", 
+    "u2": "$2.22 per 100G", 
+    "pl": "12"
+}

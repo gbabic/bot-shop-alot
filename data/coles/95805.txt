@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "163661", 
+    "p1": {
+        "l4": "3.62", 
+        "o": "2.0"
+    }, 
+    "m": "Campbell's", 
+    "t1": "S", 
+    "p": "9680312P", 
+    "s": "campbells-country-ladle-soup-creamy-chicken", 
+    "n": "Country Ladle Creamy Chicken Soup Can", 
+    "u": "95805", 
+    "t": "/wcsstore/Coles-CAS/images/9/6/8/9680312-th.jpg", 
+    "u2": "$0.40 per 100G", 
+    "pl": "12"
+}

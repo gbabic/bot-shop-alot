@@ -1,0 +1,39 @@
+{
+    "a": {
+        "D": [
+            "LIQUOR"
+        ], 
+        "P8": [
+            "Alcohol"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "true"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "700mL"
+        ]
+    }, 
+    "s9": "509048", 
+    "p1": {
+        "l4": "67.41", 
+        "o": "55.0"
+    }, 
+    "m": "The Glenlivet", 
+    "t1": "S", 
+    "p": "2485319P", 
+    "s": "the-glenlivet-founders-reserve", 
+    "n": "Founder's Reserve", 
+    "u": "509008", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/8/2485319-th.jpg", 
+    "u2": "$7.86 per 100mL", 
+    "pl": "4"
+}

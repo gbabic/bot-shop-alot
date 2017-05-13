@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "190g"
+        ]
+    }, 
+    "s9": "115596", 
+    "p1": {
+        "o": "7.7"
+    }, 
+    "m": "Colgate", 
+    "u2": "$4.05 per 100G", 
+    "p": "8617183P", 
+    "s": "colgate-toothpaste-total-whitening", 
+    "u": "52550", 
+    "t": "/wcsstore/Coles-CAS/images/8/6/1/8617183-th.jpg", 
+    "n": "Total Whitening Toothpaste", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "700g"
+        ]
+    }, 
+    "s9": "139874", 
+    "p1": {
+        "o": "3.91"
+    }, 
+    "m": "Optimum", 
+    "u2": "$0.56 per 100G", 
+    "p": "5589911P", 
+    "s": "optimum-puppy-food-chicken-rice", 
+    "u": "78471", 
+    "t": "/wcsstore/Coles-CAS/images/5/5/8/5589911-th.jpg", 
+    "n": "Chicken & Rice Canned Puppy Food", 
+    "pl": "20"
+}

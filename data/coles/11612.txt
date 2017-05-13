@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "s9": "31054", 
+    "p1": {
+        "o": "3.3"
+    }, 
+    "m": "Arnott's", 
+    "u2": "$1.32 per 100G", 
+    "p": "7411932P", 
+    "s": "arnotts-crispbread-salada-light-original", 
+    "u": "11612", 
+    "t": "/wcsstore/Coles-CAS/images/7/4/1/7411932-th.jpg", 
+    "n": "Light Original Salada", 
+    "pl": "20"
+}

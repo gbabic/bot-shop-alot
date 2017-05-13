@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Bread & Bakery"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "720g"
+        ]
+    }, 
+    "s9": "140775", 
+    "p1": {
+        "o": "3.5"
+    }, 
+    "m": "Helga's Continental Bakehouse", 
+    "t1": "V", 
+    "p": "6009530P", 
+    "s": "helgas-bread-pumpkin-five-seed", 
+    "n": "Pumpkin Five Seed Bread", 
+    "u": "77543", 
+    "t": "/wcsstore/Coles-CAS/images/6/0/0/6009530-th.jpg", 
+    "u2": "$0.49 per 100G", 
+    "pl": "20"
+}

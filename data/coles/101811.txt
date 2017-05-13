@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "0.5"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 500g pack"
+        ]
+    }, 
+    "s9": "165247", 
+    "p1": {
+        "o": "19.0"
+    }, 
+    "m": "Continental Kosher", 
+    "s7": "Indicated price based on approx. weight. Weight may vary between 450g and 550g.", 
+    "u2": "$38.00 per 1Kg", 
+    "p": "9494624P", 
+    "s": "continental-kosher-smoked-chicken-breast-fillet", 
+    "u": "101811", 
+    "t": "/wcsstore/Coles-CAS/images/9/4/9/9494624-th.jpg", 
+    "n": "Smoked Chicken Breast Fillet", 
+    "pl": "20"
+}

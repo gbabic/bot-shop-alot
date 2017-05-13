@@ -1,0 +1,37 @@
+{
+    "a": {
+        "D": [
+            "HOTPLATE"
+        ], 
+        "P8": [
+            "Bread & Bakery"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "16 pack"
+        ]
+    }, 
+    "s9": "162163", 
+    "p1": {
+        "o": "3.99"
+    }, 
+    "m": "Golden", 
+    "u2": "$0.25 per 1Ea", 
+    "p": "9771134P", 
+    "s": "golden-pikelet-bites", 
+    "u": "93155", 
+    "t": "/wcsstore/Coles-CAS/images/9/7/7/9771134-th.jpg", 
+    "n": "Pikelet Bites", 
+    "pl": "20"
+}

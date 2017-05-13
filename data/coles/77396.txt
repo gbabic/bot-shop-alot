@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "85g"
+        ]
+    }, 
+    "s9": "142384", 
+    "p1": {
+        "o": "1.38"
+    }, 
+    "m": "Gefen", 
+    "s7": "", 
+    "u2": "$1.62 per 100G", 
+    "p": "5308692P", 
+    "s": "gefen-noodles-chicken", 
+    "u": "77396", 
+    "t": "/wcsstore/Coles-CAS/images/5/3/0/5308692-th.jpg", 
+    "n": "Chicken Noodles", 
+    "pl": "20"
+}

@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "330g"
+        ]
+    }, 
+    "s9": "137715", 
+    "p1": {
+        "o": "3.6"
+    }, 
+    "m": "Manning Valley", 
+    "s7": "", 
+    "u2": "$1.09 per 100G", 
+    "p": "6004015P", 
+    "s": "manning-valley-eggs-free-range-6-pack", 
+    "u": "78214", 
+    "t": "/wcsstore/Coles-CAS/images/6/0/0/6004015-th.jpg", 
+    "n": "Free Range Large Eggs 6 pack", 
+    "pl": "20"
+}

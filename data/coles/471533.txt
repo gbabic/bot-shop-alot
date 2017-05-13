@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "450g"
+        ]
+    }, 
+    "s9": "471628", 
+    "p1": {
+        "o": "6.59"
+    }, 
+    "m": "Betty Crocker", 
+    "u2": "$1.46 per 100G", 
+    "p": "2255487P", 
+    "s": "betty-crocker-gluten-free-brownie", 
+    "u": "471533", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/5/2255487-th.jpg", 
+    "n": "Gluten Free Chocolate Fudge Brownie Mix", 
+    "pl": "20"
+}

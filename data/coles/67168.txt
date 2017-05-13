@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "0.6"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 600g pack"
+        ]
+    }, 
+    "s9": "127988", 
+    "p1": {
+        "o": "12.6"
+    }, 
+    "m": "Continental Kosher", 
+    "s7": "Indicated price based on approx. weight. Weight may vary between 550g and 650g.", 
+    "u2": "$21.00 per 1Kg", 
+    "p": "7158794P", 
+    "s": "continental-kosher-beef-chubbs-no-garlic", 
+    "u": "67168", 
+    "t": "/wcsstore/Coles-CAS/images/7/1/5/7158794-th.jpg", 
+    "n": "No Garlic Beef Chubbs", 
+    "pl": "20"
+}

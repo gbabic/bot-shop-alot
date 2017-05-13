@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250mL"
+        ]
+    }, 
+    "s9": "481692", 
+    "p1": {
+        "o": "13.2"
+    }, 
+    "m": "Lee Stafford", 
+    "u2": "$5.28 per 100mL", 
+    "p": "2290863P", 
+    "s": "lee-stafford-big-fat-hair-conditioner", 
+    "u": "481592", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/9/2290863-th.jpg", 
+    "n": "Big Fat Hair Conditioner", 
+    "pl": "20"
+}

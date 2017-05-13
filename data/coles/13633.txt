@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400g"
+        ]
+    }, 
+    "s9": "36064", 
+    "p1": {
+        "o": "2.31"
+    }, 
+    "m": "My Dog", 
+    "u2": "$0.58 per 100G", 
+    "p": "8091178P", 
+    "s": "my-dog-senior-dog-food-succulent-turkey-with-rice-carrot", 
+    "u": "13633", 
+    "t": "/wcsstore/Coles-CAS/images/8/0/9/8091178-th.jpg", 
+    "n": "Light Chicken Brown Rice & Vegetables Canned Dog Food", 
+    "pl": "20"
+}

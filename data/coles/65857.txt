@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "20 pack"
+        ]
+    }, 
+    "s9": "128696", 
+    "p1": {
+        "o": "11.11"
+    }, 
+    "m": "Nair", 
+    "u2": "$0.56 per 1Ea", 
+    "p": "7249823P", 
+    "s": "nair-easiwax-large-reusable-wax-strips", 
+    "u": "65857", 
+    "t": "/wcsstore/Coles-CAS/images/7/2/4/7249823-th.jpg", 
+    "n": "Easiwax Large Reusable Wax Strips", 
+    "pl": "20"
+}

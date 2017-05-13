@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "149689", 
+    "p1": {
+        "o": "2.15"
+    }, 
+    "m": "Zafarelli", 
+    "u2": "$0.43 per 100G", 
+    "p": "278255P", 
+    "s": "zafarelli-pasta-spaghetti-no-4-278255p", 
+    "u": "89588", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/8/278255-th.jpg", 
+    "n": "Spaghetti No 4", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "125g"
+        ]
+    }, 
+    "s9": "109342", 
+    "p1": {
+        "o": "5.39"
+    }, 
+    "m": "Gaganis", 
+    "u2": "$4.31 per 100G", 
+    "p": "8902420P", 
+    "s": "our-mate-yeast-extract-spread-savoury-vege", 
+    "u": "106511", 
+    "t": "/wcsstore/Coles-CAS/images/8/9/0/8902420-th.jpg", 
+    "n": "Our Mate Yeast Extract Savoury Vegetable Spread", 
+    "pl": "20"
+}

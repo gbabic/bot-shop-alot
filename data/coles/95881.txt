@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "700g"
+        ]
+    }, 
+    "s9": "162335", 
+    "p1": {
+        "o": "7.87"
+    }, 
+    "m": "Lux", 
+    "u2": "$11.24 per 1Kg", 
+    "p": "9589425P", 
+    "s": "lux-soap-powder-flakes", 
+    "u": "95881", 
+    "t": "/wcsstore/Coles-CAS/images/9/5/8/9589425-th.jpg", 
+    "n": "Soap Powder Flakes", 
+    "pl": "20"
+}

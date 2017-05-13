@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "40g"
+        ]
+    }, 
+    "s9": "517155", 
+    "p1": {
+        "o": "3.07"
+    }, 
+    "m": "Aussie Bodies", 
+    "u2": "$7.68 per 100G", 
+    "p": "2481588P", 
+    "s": "aussie-bodies-lo-carb-crunch-lemon-coconut-bar", 
+    "u": "517079", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/8/2481588-th.jpg", 
+    "n": "FX Lo Carb Lemon Coconut Crunch Protein Bar", 
+    "pl": "20"
+}

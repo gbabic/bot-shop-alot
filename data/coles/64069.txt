@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "s9": "118611", 
+    "p1": {
+        "l4": "9.89", 
+        "o": "7.0"
+    }, 
+    "m": "Oxfam", 
+    "t1": "S", 
+    "p": "7865260P", 
+    "s": "oxfam-fair-fto-africa-coffee-blend-ground", 
+    "n": "Fair Africa Blend Ground Coffee", 
+    "u": "64069", 
+    "t": "/wcsstore/Coles-CAS/images/7/8/6/7865260-th.jpg", 
+    "u2": "$2.80 per 100G", 
+    "pl": "12"
+}

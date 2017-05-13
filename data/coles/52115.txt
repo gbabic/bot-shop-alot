@@ -1,0 +1,40 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "pr": "3.00000", 
+    "s9": "108289", 
+    "pq": "2", 
+    "pt": "MultibuyMultiSku", 
+    "u2": "$2.00 per 100G", 
+    "m": "Black Swan", 
+    "n": "Skinny Spicy Capsicum Dip", 
+    "p": "8750208P", 
+    "s": "black-swan-dip-spicy-capsicum-skinny", 
+    "p1": {
+        "o": "4.0"
+    }, 
+    "u": "52115", 
+    "t": "/wcsstore/Coles-CAS/images/8/7/5/8750208-th.jpg", 
+    "pd": "2 for $6", 
+    "pi": "10141004", 
+    "t1": "M", 
+    "pl": "12"
+}

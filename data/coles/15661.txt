@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "u2": "$0.50 per 100G", 
+    "s9": "36369", 
+    "p1": {
+        "o": "2.5"
+    }, 
+    "s7": "", 
+    "m": "Coles", 
+    "n": "Blackberry Jam", 
+    "p": "5409496P", 
+    "s": "coles-jam-blackberry", 
+    "u": "15661", 
+    "t": "/wcsstore/Coles-CAS/images/5/4/0/5409496-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

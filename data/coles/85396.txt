@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "s9": "147405", 
+    "p1": {
+        "o": "2.86"
+    }, 
+    "m": "IXL", 
+    "u2": "$1.14 per 100G", 
+    "p": "176743P", 
+    "s": "ixl-glass-jam-breakfast-marmalade", 
+    "u": "85396", 
+    "t": "/wcsstore/Coles-CAS/images/1/7/6/176743-th.jpg", 
+    "n": "Breakfast Marmalade in Glass", 
+    "pl": "20"
+}

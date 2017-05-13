@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "573545", 
+    "p1": {
+        "o": "3.5"
+    }, 
+    "m": "Presstik", 
+    "u2": "$3.50 per 1KGM", 
+    "p": "1820531P", 
+    "s": "presstik-cotton-twine-85m", 
+    "u": "573513", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/2/1820531-th.jpg", 
+    "n": "Cotton Twine 85m", 
+    "pl": "99"
+}

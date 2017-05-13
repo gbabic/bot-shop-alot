@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "232g"
+        ]
+    }, 
+    "s9": "643558", 
+    "p1": {
+        "l4": "3.14", 
+        "o": "1.42"
+    }, 
+    "m": "Arnotts", 
+    "t1": "S", 
+    "p": "2801339P", 
+    "s": "arnotts--twisted-fav--scotch-fing-lemon-biscuit", 
+    "n": "Twisted Fav  Scotch Fing Lemon Biscuit", 
+    "u": "643510", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/0/2801339-th.jpg", 
+    "u2": "$0.61 per 100G", 
+    "pl": "12"
+}

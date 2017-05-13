@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Baby"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "75 pack"
+        ]
+    }, 
+    "s9": "642011", 
+    "p1": {
+        "l4": "33.0", 
+        "o": "28.0"
+    }, 
+    "m": "Huggies", 
+    "t1": "S", 
+    "p": "2847410P", 
+    "s": "huggies-ultimate-jumbo-nappy-infant-girl", 
+    "n": "Ultimate Jumbo Infant Nappies Girl 4-8kg", 
+    "u": "642005", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/4/2847410-th.jpg", 
+    "u2": "$0.37 per 1Ea", 
+    "pl": "12"
+}

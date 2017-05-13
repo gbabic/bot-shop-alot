@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "283g"
+        ]
+    }, 
+    "s9": "131113", 
+    "p1": {
+        "o": "6.04"
+    }, 
+    "m": "Pataks", 
+    "u2": "$2.13 per 100G", 
+    "p": "7306177P", 
+    "s": "pataks-paste-tikka-masala-curry", 
+    "u": "66980", 
+    "t": "/wcsstore/Coles-CAS/images/7/3/0/7306177-th.jpg", 
+    "n": "Tikka Masala Curry Paste", 
+    "pl": "20"
+}

@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "192g"
+        ]
+    }, 
+    "s9": "417623", 
+    "p1": {
+        "o": "3.07"
+    }, 
+    "m": "Allen's", 
+    "s7": "", 
+    "u2": "$1.60 per 100G", 
+    "p": "2090900P", 
+    "s": "allens-killer-pythons-2090900p", 
+    "u": "417535", 
+    "t": "/wcsstore/Coles-CAS/images/2/0/9/2090900-th.jpg", 
+    "n": "Killer Pythons", 
+    "pl": "20"
+}

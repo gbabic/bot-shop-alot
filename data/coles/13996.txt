@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "s9": "32894", 
+    "p1": {
+        "l4": "5.6", 
+        "o": "4.25"
+    }, 
+    "m": "Angas Park", 
+    "t1": "S", 
+    "p": "5067880P", 
+    "s": "angas-park-apricots-diced-dried", 
+    "n": "Dried Apricots Diced", 
+    "u": "13996", 
+    "t": "/wcsstore/Coles-CAS/images/5/0/6/5067880-th.jpg", 
+    "u2": "$21.25 per 1Kg", 
+    "pl": "12"
+}

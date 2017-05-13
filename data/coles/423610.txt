@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "s9": "423700", 
+    "p1": {
+        "o": "2.8"
+    }, 
+    "m": "Coles", 
+    "t1": "V", 
+    "p": "2062290P", 
+    "s": "coles-pretzel-twists", 
+    "n": "Pretzel Twists", 
+    "u": "423610", 
+    "t": "/wcsstore/Coles-CAS/images/2/0/6/2062290-th.jpg", 
+    "u2": "$1.40 per 100G", 
+    "pl": "20"
+}

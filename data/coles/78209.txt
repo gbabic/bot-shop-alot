@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Mothers Day"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "s9": "140776", 
+    "p1": {
+        "o": "4.0"
+    }, 
+    "m": "Yumi's", 
+    "s7": "", 
+    "u2": "$2.00 per 100G", 
+    "p": "6008650P", 
+    "s": "yumis-dip-sweet-potato-cashews", 
+    "u": "78209", 
+    "t": "/wcsstore/Coles-CAS/images/6/0/0/6008650-th.jpg", 
+    "n": "Sweet Potato & Cashews Dip", 
+    "pl": "20"
+}

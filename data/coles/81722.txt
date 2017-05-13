@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "s9": "148503", 
+    "p1": {
+        "o": "3.96"
+    }, 
+    "m": "Guzzi", 
+    "u2": "$1.58 per 100G", 
+    "p": "312411P", 
+    "s": "guzzi-pasta-tagliatelle-no-4", 
+    "u": "81722", 
+    "t": "/wcsstore/Coles-CAS/images/3/1/2/312411-th.jpg", 
+    "n": "Tagliatelle Pasta No 4", 
+    "pl": "20"
+}

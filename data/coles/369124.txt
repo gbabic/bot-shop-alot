@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "12 pack"
+        ]
+    }, 
+    "s9": "369370", 
+    "p1": {
+        "o": "3.2"
+    }, 
+    "m": "Bic", 
+    "u2": "", 
+    "p": "1840062P", 
+    "s": "bic-kids-colour-pencils", 
+    "u": "369124", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/4/1840062-th.jpg", 
+    "n": "Kids Colour Pencils", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "9.2mL"
+        ]
+    }, 
+    "s9": "153200", 
+    "p1": {
+        "o": "22.0"
+    }, 
+    "m": "Maybelline", 
+    "u2": "$23.91 per 10mL", 
+    "p": "9333986P", 
+    "s": "maybelline-falsies-flared-mascara-00-blacket-black", 
+    "u": "99150", 
+    "t": "/wcsstore/Coles-CAS/images/9/3/3/9333986-th.jpg", 
+    "n": "Volume Express Falsies Flared Blackest Black Mascara", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400g"
+        ]
+    }, 
+    "s9": "137452", 
+    "p1": {
+        "o": "3.36"
+    }, 
+    "m": "Eskal", 
+    "u2": "$0.84 per 100G", 
+    "p": "6635140P", 
+    "s": "eskal-rice-noodles-sticks", 
+    "u": "74832", 
+    "t": "/wcsstore/Coles-CAS/images/6/6/3/6635140-th.jpg", 
+    "n": "Rice Noodles Sticks", 
+    "pl": "20"
+}

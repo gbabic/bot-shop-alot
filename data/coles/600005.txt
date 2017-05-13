@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "6 pack"
+        ]
+    }, 
+    "s9": "600033", 
+    "p1": {
+        "o": "5.28"
+    }, 
+    "m": "Dine", 
+    "u2": "$1.76 per 100G", 
+    "p": "2741328P", 
+    "s": "dine-finest-serve-cat-food-poultry-selection-in-gravy", 
+    "u": "600005", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/4/2741328-th.jpg", 
+    "n": "Finest Serve Cat Food Poultry Selection In Gravy", 
+    "pl": "99"
+}

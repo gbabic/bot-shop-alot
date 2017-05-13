@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "170g"
+        ]
+    }, 
+    "s9": "460090", 
+    "p1": {
+        "o": "3.3"
+    }, 
+    "m": "Allen's", 
+    "s7": "", 
+    "u2": "$1.94 per 100G", 
+    "p": "2211186P", 
+    "s": "allens-pineapples", 
+    "u": "460041", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/1/2211186-th.jpg", 
+    "n": "Pineapples", 
+    "pl": "20"
+}

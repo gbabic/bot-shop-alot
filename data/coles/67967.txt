@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "126887", 
+    "p1": {
+        "o": "5.38"
+    }, 
+    "m": "Caprilac", 
+    "u2": "$1.08 per 100G", 
+    "p": "7614690P", 
+    "s": "caprilac-yoghurt-natural-goat", 
+    "u": "67967", 
+    "t": "/wcsstore/Coles-CAS/images/7/6/1/7614690-th.jpg", 
+    "n": "Natural Goat Yoghurt", 
+    "pl": "20"
+}

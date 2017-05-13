@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "186523", 
+    "p1": {
+        "o": "14.95"
+    }, 
+    "m": "Magazine", 
+    "s7": "", 
+    "u2": "$14.95 per 1ea", 
+    "p": "1442387P", 
+    "s": "magazine-australian-geographic", 
+    "u": "186506", 
+    "t": "/wcsstore/Coles-CAS/images/1/4/4/1442387-th.jpg", 
+    "n": "Australian Geographic", 
+    "pl": "20"
+}

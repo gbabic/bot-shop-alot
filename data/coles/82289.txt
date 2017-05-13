@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "s9": "144837", 
+    "p1": {
+        "o": "3.52"
+    }, 
+    "m": "Old El Paso", 
+    "u2": "$1.76 per 100G", 
+    "p": "404633P", 
+    "s": "old-el-paso-taco-sauce-hot", 
+    "u": "82289", 
+    "t": "/wcsstore/Coles-CAS/images/4/0/4/404633-th.jpg", 
+    "n": "Taco Hot Sauce", 
+    "pl": "20"
+}

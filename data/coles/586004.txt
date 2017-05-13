@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "85g"
+        ]
+    }, 
+    "s9": "586033", 
+    "p1": {
+        "o": "0.8"
+    }, 
+    "m": "Purr", 
+    "t1": "V", 
+    "p": "2273220P", 
+    "s": "purr-lamb-nibbles-in-gravy-cat-food", 
+    "n": "Lamb Nibbles in Gravy Cat Food", 
+    "u": "586004", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/7/2273220-th.jpg", 
+    "u2": "$0.94 per 100G", 
+    "pl": "20"
+}

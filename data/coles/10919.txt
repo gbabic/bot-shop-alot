@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "u2": "$2.60 per 100G", 
+    "s9": "34384", 
+    "p1": {
+        "o": "6.5"
+    }, 
+    "s7": "", 
+    "m": "Coles", 
+    "n": "Organic Quinoa Flakes Box", 
+    "p": "8668060P", 
+    "s": "coles-brand-organic-quinoa-flakes-box", 
+    "u": "10919", 
+    "t": "/wcsstore/Coles-CAS/images/8/6/6/8668060-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

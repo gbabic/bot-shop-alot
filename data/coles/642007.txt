@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Baby"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "58 pack"
+        ]
+    }, 
+    "s9": "642015", 
+    "p1": {
+        "l4": "33.0", 
+        "o": "28.0"
+    }, 
+    "m": "Huggies", 
+    "t1": "S", 
+    "p": "2847442P", 
+    "s": "huggies-ultimate-jumbo-nappy-toddler-boy", 
+    "n": "Ultimate Jumbo Toddler Nappies Boy 10-15kg", 
+    "u": "642007", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/4/2847442-th.jpg", 
+    "u2": "$0.48 per 1Ea", 
+    "pl": "12"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500mL"
+        ]
+    }, 
+    "s9": "179543", 
+    "p1": {
+        "l4": "13.04", 
+        "o": "9.0"
+    }, 
+    "m": "Bosisto's", 
+    "t1": "S", 
+    "p": "1216162P", 
+    "s": "bosistos-eucalyptus-solution", 
+    "n": "Eucalyptus Solution", 
+    "u": "179313", 
+    "t": "/wcsstore/Coles-CAS/images/1/2/1/1216162-th.jpg", 
+    "u2": "$1.80 per 100mL", 
+    "pl": "12"
+}

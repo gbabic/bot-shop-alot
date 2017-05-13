@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "575230", 
+    "p1": {
+        "o": "1.7"
+    }, 
+    "m": "Raguletto", 
+    "t1": "V", 
+    "p": "2682207P", 
+    "s": "raguletto-meatball-pasta-sauce", 
+    "n": "Meatball Pasta Sauce", 
+    "u": "575021", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/8/2682207-th.jpg", 
+    "u2": "$0.34 per 100G", 
+    "pl": "20"
+}

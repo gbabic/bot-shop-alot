@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "s9": "613587", 
+    "p1": {
+        "l4": "4.29", 
+        "o": "3.1"
+    }, 
+    "m": "The Ginger People", 
+    "t1": "S", 
+    "p": "2802422P", 
+    "s": "the-ginger-people-uncrystallised-ginger", 
+    "n": "Uncrystallised Ginger", 
+    "u": "613510", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/0/2802422-th.jpg", 
+    "u2": "$15.50 per 1Kg", 
+    "pl": "12"
+}

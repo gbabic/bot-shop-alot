@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "450g"
+        ]
+    }, 
+    "s9": "144294", 
+    "p1": {
+        "o": "5.23"
+    }, 
+    "m": "Aviv", 
+    "u2": "$1.16 per 100G", 
+    "p": "348281P", 
+    "s": "aviv-bread-matzo", 
+    "u": "88998", 
+    "t": "/wcsstore/Coles-CAS/images/3/4/8/348281-th.jpg", 
+    "n": "SP Matzo Bread", 
+    "pl": "20"
+}

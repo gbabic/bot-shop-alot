@@ -1,0 +1,37 @@
+{
+    "a": {
+        "D": [
+            "LIQUOR"
+        ], 
+        "P8": [
+            "Alcohol"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "true"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "700mL"
+        ]
+    }, 
+    "s9": "158953", 
+    "p1": {
+        "o": "55.64"
+    }, 
+    "m": "Bundaberg", 
+    "u2": "$7.95 per 100mL", 
+    "p": "9899047P", 
+    "s": "bundaberg-rum-select", 
+    "u": "101246", 
+    "t": "/wcsstore/Coles-CAS/images/9/8/9/9899047-th.jpg", 
+    "n": "Rum Select", 
+    "pl": "20"
+}

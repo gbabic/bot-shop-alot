@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "150mL"
+        ]
+    }, 
+    "u2": "$2.33 per 100mL", 
+    "s9": "163568", 
+    "p1": {
+        "l4": "5.5", 
+        "o": "3.5"
+    }, 
+    "s7": "", 
+    "m": "Rexona", 
+    "n": "Crystal Clear Aqua Anti Perspirant Aerosol Deodorant", 
+    "p": "9826258P", 
+    "s": "rexona-deodorant-aerosol-anti-perspirant-crystal-clear-aqua", 
+    "u": "95705", 
+    "t": "/wcsstore/Coles-CAS/images/9/8/2/9826258-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

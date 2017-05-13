@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 pack"
+        ]
+    }, 
+    "s9": "443011", 
+    "p1": {
+        "o": "21.99"
+    }, 
+    "m": "Gillette", 
+    "u2": "$21.99 per 1Ea", 
+    "p": "2237689P", 
+    "s": "gillette-fusion-proglide-flexball-power-razor", 
+    "u": "443005", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/3/2237689-th.jpg", 
+    "n": "Fusion ProGlide Power Flexball Shaving Razor Includes 1 Battery", 
+    "pl": "20"
+}

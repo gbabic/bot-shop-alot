@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "450g"
+        ]
+    }, 
+    "s9": "260065", 
+    "p1": {
+        "o": "5.49"
+    }, 
+    "m": "Love 'em", 
+    "u2": "$1.22 per 100G", 
+    "p": "1502423P", 
+    "s": "love-em-dog-treat-liver-cookies-lamb-mint", 
+    "u": "260020", 
+    "t": "/wcsstore/Coles-CAS/images/1/5/0/1502423-th.jpg", 
+    "n": "Liver Cookies Lamb Mint Dog Treat", 
+    "pl": "20"
+}

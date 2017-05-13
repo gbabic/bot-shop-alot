@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "42g"
+        ]
+    }, 
+    "s9": "587713", 
+    "p1": {
+        "o": "2.7"
+    }, 
+    "m": "Galaxy", 
+    "u2": "$6.43 per 100G", 
+    "p": "2040414P", 
+    "s": "galaxy-chocolate-bar", 
+    "u": "587636", 
+    "t": "/wcsstore/Coles-CAS/images/2/0/4/2040414-th.jpg", 
+    "n": "Chocolate Bar", 
+    "pl": "20"
+}

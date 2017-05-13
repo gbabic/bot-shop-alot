@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "135597", 
+    "p1": {
+        "o": "1.93"
+    }, 
+    "m": "Tasty", 
+    "u2": "$3.86 per 1Kg", 
+    "p": "6628881P", 
+    "s": "tasty-flour-continental", 
+    "u": "74218", 
+    "t": "/wcsstore/Coles-CAS/images/6/6/2/6628881-th.jpg", 
+    "n": "Continental Flour", 
+    "pl": "20"
+}

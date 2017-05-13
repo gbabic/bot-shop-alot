@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "530511", 
+    "p1": {
+        "l4": "12.0", 
+        "o": "9.0"
+    }, 
+    "m": "Tibaldi", 
+    "t1": "S", 
+    "p": "2610341P", 
+    "s": "tibaldi-authentic-ham-off-the-bone", 
+    "n": "Authentic Ham Off The Bone", 
+    "u": "530501", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/1/2610341-th.jpg", 
+    "u2": "$18.00 per 1Kg", 
+    "pl": "12"
+}

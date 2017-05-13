@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "505g"
+        ]
+    }, 
+    "s9": "136630", 
+    "p1": {
+        "l4": "4.11", 
+        "o": "3.0"
+    }, 
+    "m": "Campbell's", 
+    "t1": "S", 
+    "p": "6811866P", 
+    "s": "campbells-chunky-fully-loaded-peppered-steak-gravy-soup", 
+    "n": "Chunky Fully Loaded Peppered Steak & Gravy Soup Can", 
+    "u": "70138", 
+    "t": "/wcsstore/Coles-CAS/images/6/8/1/6811866-th.jpg", 
+    "u2": "$0.59 per 100G", 
+    "pl": "12"
+}

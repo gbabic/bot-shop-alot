@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "6 pack"
+        ]
+    }, 
+    "s9": "413956", 
+    "p1": {
+        "l4": "4.4", 
+        "o": "2.0"
+    }, 
+    "m": "Freedom Foods", 
+    "t1": "S", 
+    "p": "1995218P", 
+    "s": "freedom-foods-vanilla-crunch-snack-bar", 
+    "n": "Vanilla Crunch Bar", 
+    "u": "413630", 
+    "t": "/wcsstore/Coles-CAS/images/1/9/9/1995218-th.jpg", 
+    "u2": "$1.39 per 100G", 
+    "pl": "12"
+}

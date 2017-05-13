@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 pack"
+        ]
+    }, 
+    "s9": "165193", 
+    "p1": {
+        "o": "12.43"
+    }, 
+    "m": "Imodium", 
+    "u2": "$2.07 per 1Ea", 
+    "p": "9540641P", 
+    "s": "imodium-tablets-zapid-2mg", 
+    "u": "98508", 
+    "t": "/wcsstore/Coles-CAS/images/9/5/4/9540641-th.jpg", 
+    "n": "Zapid Tablets", 
+    "pl": "20"
+}

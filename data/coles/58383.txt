@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "280g"
+        ]
+    }, 
+    "s9": "121396", 
+    "p1": {
+        "o": "5.18"
+    }, 
+    "m": "Nice N' Tasty", 
+    "u2": "$0.19 per 10G", 
+    "p": "7870237P", 
+    "s": "nice-n-tasty-seasoning-kentucky-style-chicken", 
+    "u": "58383", 
+    "t": "/wcsstore/Coles-CAS/images/7/8/7/7870237-th.jpg", 
+    "n": "Kentucky Chicken Seasoning", 
+    "pl": "20"
+}

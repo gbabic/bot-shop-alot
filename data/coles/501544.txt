@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 pack"
+        ]
+    }, 
+    "s9": "501606", 
+    "p1": {
+        "o": "3.7"
+    }, 
+    "m": "Bic", 
+    "u2": "$3.70 per 1ea", 
+    "p": "2395442P", 
+    "s": "bic-4-colour-charm-pen", 
+    "u": "501544", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/9/2395442-th.jpg", 
+    "n": "4 Colour Charm Pen", 
+    "pl": "20"
+}

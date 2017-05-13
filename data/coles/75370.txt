@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "375g"
+        ]
+    }, 
+    "s9": "139862", 
+    "p1": {
+        "o": "1.8"
+    }, 
+    "m": "San Remo", 
+    "t1": "V", 
+    "p": "5615771P", 
+    "s": "san-remo-pasta-spiral-vegeroni-large", 
+    "n": "Large Vegeroni Spiral Pasta", 
+    "u": "75370", 
+    "t": "/wcsstore/Coles-CAS/images/5/6/1/5615771-th.jpg", 
+    "u2": "$0.48 per 100G", 
+    "pl": "20"
+}

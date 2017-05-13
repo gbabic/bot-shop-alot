@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400g"
+        ]
+    }, 
+    "s9": "32152", 
+    "p1": {
+        "o": "3.29"
+    }, 
+    "m": "Kan Tong", 
+    "s7": "", 
+    "u2": "$0.82 per 100G", 
+    "p": "9322083P", 
+    "s": "kan-tong-inspirations-noodles-singapore", 
+    "u": "16937", 
+    "t": "/wcsstore/Coles-CAS/images/9/3/2/9322083-th.jpg", 
+    "n": "Singapore Wok Ready Noodles", 
+    "pl": "20"
+}

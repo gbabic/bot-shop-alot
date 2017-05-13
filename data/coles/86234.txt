@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Clothing"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 pack"
+        ]
+    }, 
+    "u2": "$4.00 per 1ea", 
+    "s9": "147673", 
+    "p1": {
+        "l4": "8.0", 
+        "o": "4.0"
+    }, 
+    "s7": "", 
+    "m": "Kolotex", 
+    "n": "Sheer Relief Pantyhose Black Average", 
+    "p": "1140082P", 
+    "s": "kolotex-sheer-relief-pantyhose-black-average", 
+    "u": "86234", 
+    "t": "/wcsstore/Coles-CAS/images/1/1/4/1140082-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "300g"
+        ]
+    }, 
+    "s9": "162939", 
+    "p1": {
+        "o": "2.53"
+    }, 
+    "m": "Pet Munchies", 
+    "u2": "$0.84 per 100G", 
+    "p": "9229044P", 
+    "s": "pet-munchies-rabbit-guinea-pig-block", 
+    "u": "100725", 
+    "t": "/wcsstore/Coles-CAS/images/9/2/2/9229044-th.jpg", 
+    "n": "Rabbit & Guinea Pig Block", 
+    "pl": "20"
+}

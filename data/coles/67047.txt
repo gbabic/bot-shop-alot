@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "s9": "131191", 
+    "p1": {
+        "o": "4.68"
+    }, 
+    "m": "Schwarzkopf", 
+    "u2": "$2.34 per 100G", 
+    "p": "7241934P", 
+    "s": "schwarzkopf-taft-mousse-power-cashmere-touch", 
+    "u": "67047", 
+    "t": "/wcsstore/Coles-CAS/images/7/2/4/7241934-th.jpg", 
+    "n": "Taft Power Cashmere Touch Mousse", 
+    "pl": "20"
+}

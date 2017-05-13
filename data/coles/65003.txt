@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "8mL"
+        ]
+    }, 
+    "s9": "129166", 
+    "p1": {
+        "o": "21.95"
+    }, 
+    "m": "Maybelline", 
+    "u2": "$27.44 per 10mL", 
+    "p": "7406502P", 
+    "s": "maybelline-colossal-glam-waterproof-mascara-black", 
+    "u": "65003", 
+    "t": "/wcsstore/Coles-CAS/images/7/4/0/7406502-th.jpg", 
+    "n": "Volume Express The Colossal Waterproof Glam Black Mascara", 
+    "pl": "20"
+}

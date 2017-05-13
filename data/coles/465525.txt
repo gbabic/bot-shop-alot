@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "650g"
+        ]
+    }, 
+    "s9": "466639", 
+    "p1": {
+        "l4": "4.95", 
+        "o": "2.5"
+    }, 
+    "m": "McCain", 
+    "t1": "S", 
+    "p": "2257926P", 
+    "s": "mccain-traditional-roast-potatoes", 
+    "n": "Traditional Roast Potatoes", 
+    "u": "465525", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/5/2257926-th.jpg", 
+    "u2": "$3.85 per 1Kg", 
+    "pl": "12"
+}

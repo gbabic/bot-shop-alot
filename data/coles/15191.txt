@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Fruit & Vegetables"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "0.1"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 100g"
+        ]
+    }, 
+    "s9": "38166", 
+    "p1": {
+        "o": "2.8"
+    }, 
+    "m": "Scoop & Weigh", 
+    "s7": "Packed in Australia from imported and ingredients.", 
+    "u2": "$28.00 per 1Kg", 
+    "p": "8412293P", 
+    "s": "scoop-weigh-cashews-roasted-unsalted", 
+    "u": "15191", 
+    "t": "/wcsstore/Coles-CAS/images/8/4/1/8412293-th.jpg", 
+    "n": "Roasted Unsalted Cashews loose", 
+    "pl": "99"
+}

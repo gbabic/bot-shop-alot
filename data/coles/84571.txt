@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Mothers Day"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "s9": "144819", 
+    "p1": {
+        "o": "4.0"
+    }, 
+    "m": "Yumi's", 
+    "u2": "$2.00 per 100G", 
+    "p": "4178401P", 
+    "s": "yumis-dip-spicy-pumpkin-gluten-free", 
+    "u": "84571", 
+    "t": "/wcsstore/Coles-CAS/images/4/1/7/4178401-th.jpg", 
+    "n": "Spicy Pumpkin Dip", 
+    "pl": "20"
+}

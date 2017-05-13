@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "50g"
+        ]
+    }, 
+    "s9": "143398", 
+    "p1": {
+        "o": "2.15"
+    }, 
+    "m": "Hoyts", 
+    "u2": "$0.43 per 10G", 
+    "p": "475959P", 
+    "s": "hoyts-curry-powder-mild", 
+    "u": "84982", 
+    "t": "/wcsstore/Coles-CAS/images/4/7/5/475959-th.jpg", 
+    "n": "Mild Curry Powder", 
+    "pl": "20"
+}

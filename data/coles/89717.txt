@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "55g"
+        ]
+    }, 
+    "s9": "151517", 
+    "p1": {
+        "o": "2.0"
+    }, 
+    "m": "Continental", 
+    "t1": "V", 
+    "p": "129685P", 
+    "s": "continental-cup-a-soup-hearty-beef", 
+    "n": "Hearty Beef Cup A Soup", 
+    "u": "89717", 
+    "t": "/wcsstore/Coles-CAS/images/1/2/9/129685-th.jpg", 
+    "u2": "$3.64 per 100G", 
+    "pl": "20"
+}

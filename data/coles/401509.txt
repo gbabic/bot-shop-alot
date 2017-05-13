@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "70g"
+        ]
+    }, 
+    "s9": "401602", 
+    "p1": {
+        "l4": "2.07", 
+        "o": "1.45"
+    }, 
+    "m": "Bika", 
+    "t1": "S", 
+    "p": "2017638P", 
+    "s": "bika-bbq-corn-snacks", 
+    "n": "Bbq Corn Snacks", 
+    "u": "401509", 
+    "t": "/wcsstore/Coles-CAS/images/2/0/1/2017638-th.jpg", 
+    "u2": "$2.07 per 100G", 
+    "pl": "12"
+}

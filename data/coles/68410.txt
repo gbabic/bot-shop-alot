@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "175g"
+        ]
+    }, 
+    "s9": "131870", 
+    "p1": {
+        "o": "3.9"
+    }, 
+    "m": "Golden Days", 
+    "u2": "$2.23 per 100G", 
+    "p": "7241184P", 
+    "s": "golden-days-citrus-fruit-salad-bites-5-pack", 
+    "u": "68410", 
+    "t": "/wcsstore/Coles-CAS/images/7/2/4/7241184-th.jpg", 
+    "n": "Citrus Fruit Salad Bites 5 Pack", 
+    "pl": "20"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "110g"
+        ]
+    }, 
+    "s9": "31615", 
+    "p1": {
+        "l4": "4.4", 
+        "o": "3.2"
+    }, 
+    "m": "Water Thins", 
+    "t1": "S", 
+    "p": "9482330P", 
+    "s": "waterthins-cheese-twists-classic-cheddar", 
+    "n": "Classic Cheddar Cheese Twists", 
+    "u": "14865", 
+    "t": "/wcsstore/Coles-CAS/images/9/4/8/9482330-th.jpg", 
+    "u2": "$2.91 per 100G", 
+    "pl": "12"
+}

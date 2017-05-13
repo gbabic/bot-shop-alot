@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "260g"
+        ]
+    }, 
+    "s9": "144874", 
+    "p1": {
+        "o": "5.9"
+    }, 
+    "m": "Beerenberg", 
+    "u2": "$2.27 per 100G", 
+    "p": "367446P", 
+    "s": "beerenberg-chutney-tomato", 
+    "u": "88991", 
+    "t": "/wcsstore/Coles-CAS/images/3/6/7/367446-th.jpg", 
+    "n": "Tomato Chutney", 
+    "pl": "20"
+}

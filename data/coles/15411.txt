@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "u2": "$0.20 per 100G", 
+    "s9": "33067", 
+    "p1": {
+        "o": "1.0"
+    }, 
+    "s7": "", 
+    "m": "Coles", 
+    "n": "Dinosaurs Pasta Shapes", 
+    "p": "7877939P", 
+    "s": "coles-pasta-shapes-dinosaurs", 
+    "u": "15411", 
+    "t": "/wcsstore/Coles-CAS/images/7/8/7/7877939-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

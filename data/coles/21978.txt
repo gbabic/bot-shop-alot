@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "2.5kg"
+        ]
+    }, 
+    "s9": "38564", 
+    "p1": {
+        "o": "12.6"
+    }, 
+    "m": "Whiskas", 
+    "u2": "$0.50 per 100G", 
+    "p": "5125739P", 
+    "s": "whiskas-cat-food-sardine-prawn-tuna-whitebait", 
+    "u": "21978", 
+    "t": "/wcsstore/Coles-CAS/images/5/1/2/5125739-th.jpg", 
+    "n": "Sardine Prawn Tuna & Whitebait Adult Dry Cat Food", 
+    "pl": "20"
+}

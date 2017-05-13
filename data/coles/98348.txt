@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "2kg"
+        ]
+    }, 
+    "s9": "161515", 
+    "p1": {
+        "o": "6.58"
+    }, 
+    "m": "Trill", 
+    "u2": "$0.33 per 100G", 
+    "p": "9702040P", 
+    "s": "trill-bird-seed-canary", 
+    "u": "98348", 
+    "t": "/wcsstore/Coles-CAS/images/9/7/0/9702040-th.jpg", 
+    "n": "Canary Bird Seed", 
+    "pl": "20"
+}

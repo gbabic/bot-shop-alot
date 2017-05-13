@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "80g"
+        ]
+    }, 
+    "s9": "676555", 
+    "p1": {
+        "l4": "6.6", 
+        "o": "6.0"
+    }, 
+    "m": "Jed's", 
+    "t1": "N", 
+    "p": "2869140P", 
+    "s": "jeds-coffee-bean-bags-extra-strong", 
+    "n": "Very Strong Coffee Bean Bags", 
+    "u": "676522", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/6/2869140-th.jpg", 
+    "u2": "$7.50 per 100G", 
+    "pl": "12"
+}

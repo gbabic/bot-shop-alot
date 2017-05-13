@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "220g"
+        ]
+    }, 
+    "s9": "293580", 
+    "p1": {
+        "o": "3.95"
+    }, 
+    "m": "Jensens Choice", 
+    "u2": "$0.18 per 10G", 
+    "p": "5444566P", 
+    "s": "jensens-choice-crushed-garlic", 
+    "u": "293300", 
+    "t": "/wcsstore/Coles-CAS/images/5/4/4/5444566-th.jpg", 
+    "n": "Crushed Garlic", 
+    "pl": "20"
+}

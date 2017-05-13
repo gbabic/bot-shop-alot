@@ -1,0 +1,40 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "320g"
+        ]
+    }, 
+    "pr": "3.50000", 
+    "s9": "143905", 
+    "pq": "2", 
+    "pt": "MultibuyMultiSku", 
+    "u2": "$1.99 per 100G", 
+    "m": "Weight Watchers", 
+    "n": "Cottage Pie Frozen Meal", 
+    "p": "5006900P", 
+    "s": "weight-watchers-meal-frozen-cottage-pie", 
+    "p1": {
+        "o": "6.38"
+    }, 
+    "u": "84236", 
+    "t": "/wcsstore/Coles-CAS/images/5/0/0/5006900-th.jpg", 
+    "pd": "2 for $7", 
+    "pi": "10141010", 
+    "t1": "M", 
+    "pl": "12"
+}

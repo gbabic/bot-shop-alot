@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "290g"
+        ]
+    }, 
+    "s9": "603182", 
+    "p1": {
+        "o": "6.6"
+    }, 
+    "m": "Always Fresh", 
+    "u2": "$22.76 per 1Kg", 
+    "p": "2747787P", 
+    "s": "always-fresh-feta-herbs-pepper-strips", 
+    "u": "603049", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/4/2747787-th.jpg", 
+    "n": "Artisan Collection Roasted Peppers Strips with Feta & Herbs", 
+    "pl": "99"
+}

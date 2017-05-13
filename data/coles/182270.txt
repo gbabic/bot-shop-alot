@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "182641", 
+    "p1": {
+        "o": "7.7"
+    }, 
+    "m": "Jordan's", 
+    "u2": "$1.54 per 100G", 
+    "p": "1315368P", 
+    "s": "jordans-crispy-oat-clusters-strawberry", 
+    "u": "182270", 
+    "t": "/wcsstore/Coles-CAS/images/1/3/1/1315368-th.jpg", 
+    "n": "Crispy Oat Clusters Strawberry", 
+    "pl": "20"
+}

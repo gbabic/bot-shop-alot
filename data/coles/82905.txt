@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "120 pack"
+        ]
+    }, 
+    "s9": "146007", 
+    "p1": {
+        "o": "2.4"
+    }, 
+    "m": "Multix", 
+    "t1": "V", 
+    "p": "429306P", 
+    "s": "multix-freezer-bags-small", 
+    "n": "Small Freezer Bags", 
+    "u": "82905", 
+    "t": "/wcsstore/Coles-CAS/images/4/2/9/429306-th.jpg", 
+    "u2": "$0.02 per 1Ea", 
+    "pl": "20"
+}

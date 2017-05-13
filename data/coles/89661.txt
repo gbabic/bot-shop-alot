@@ -1,0 +1,43 @@
+{
+    "a": {
+        "D": [
+            "LIQUOR"
+        ], 
+        "P8": [
+            "Alcohol"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "true"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "2L"
+        ]
+    }, 
+    "pr": "12.50000", 
+    "s9": "149165", 
+    "pq": "2", 
+    "pt": "MultibuyMultiSku", 
+    "u2": "$0.80 per 100mL", 
+    "m": "Banrock Station", 
+    "n": "Shiraz Cabernet Cask", 
+    "p": "168069P", 
+    "s": "banrock-station-shiraz-cabernet-cask", 
+    "p1": {
+        "o": "16.04"
+    }, 
+    "u": "89661", 
+    "t": "/wcsstore/Coles-CAS/images/1/6/8/168069-th.jpg", 
+    "pd": "2 for $25.00", 
+    "pi": "10141504", 
+    "t1": "M", 
+    "pl": "4"
+}

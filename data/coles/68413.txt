@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200mL"
+        ]
+    }, 
+    "s9": "128708", 
+    "p1": {
+        "o": "7.87"
+    }, 
+    "m": "L'Oreal", 
+    "u2": "$3.94 per 100mL", 
+    "p": "7238714P", 
+    "s": "loreal-men-expert-shave-gel-hydra-sensitive", 
+    "u": "68413", 
+    "t": "/wcsstore/Coles-CAS/images/7/2/3/7238714-th.jpg", 
+    "n": "Men Expert Hydra Sensitive Shave Gel", 
+    "pl": "20"
+}

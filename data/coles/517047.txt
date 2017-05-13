@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "45g"
+        ]
+    }, 
+    "s9": "517186", 
+    "p1": {
+        "o": "3.84"
+    }, 
+    "m": "Table Of Plenty", 
+    "u2": "$0.85 per 10G", 
+    "p": "2472055P", 
+    "s": "table-of-plenty-spicy-dukkah", 
+    "u": "517047", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/7/2472055-th.jpg", 
+    "n": "Spicy Dukkah", 
+    "pl": "20"
+}

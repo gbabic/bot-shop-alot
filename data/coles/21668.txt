@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "33113", 
+    "p1": {
+        "o": "10.5"
+    }, 
+    "m": "Coles", 
+    "t1": "V", 
+    "p": "7624434P", 
+    "s": "outdoor-garden-hose", 
+    "n": "Outdoor Garden Hose 15 Metre", 
+    "u": "21668", 
+    "t": "/wcsstore/Coles-CAS/images/7/6/2/7624434-th.jpg", 
+    "u2": "$10.50 per 1ea", 
+    "pl": "20"
+}

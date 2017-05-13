@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "45g"
+        ]
+    }, 
+    "s9": "149842", 
+    "p1": {
+        "l4": "1.05", 
+        "o": "0.95"
+    }, 
+    "m": "Continental", 
+    "t1": "V", 
+    "p": "129335P", 
+    "s": "continental-instant-soup-chicken-noodle", 
+    "n": "Chicken Noodle Soup Mix Serves 4", 
+    "u": "89190", 
+    "t": "/wcsstore/Coles-CAS/images/1/2/9/129335-th.jpg", 
+    "u2": "$2.11 per 100G", 
+    "pl": "12"
+}

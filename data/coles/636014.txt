@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "636037", 
+    "p1": {
+        "o": "5.0"
+    }, 
+    "m": "Scholastic Back To School", 
+    "s7": "Cover may not depict edition offered for sale", 
+    "u2": "", 
+    "p": "2828084P", 
+    "s": "scholastic-back-to-school-marvel-naplan-6-7", 
+    "u": "636014", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/2/2828084-th.jpg", 
+    "n": "Marvel Naplan 6-7", 
+    "pl": "99"
+}

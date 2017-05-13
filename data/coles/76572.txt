@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "50g"
+        ]
+    }, 
+    "s9": "139262", 
+    "p1": {
+        "o": "1.79"
+    }, 
+    "m": "Continental", 
+    "u2": "$3.58 per 100G", 
+    "p": "5564659P", 
+    "s": "continental-recipe-mix-casserole-beef", 
+    "u": "76572", 
+    "t": "/wcsstore/Coles-CAS/images/5/5/6/5564659-th.jpg", 
+    "n": "Beef Casserole Recipe Base Serves 4", 
+    "pl": "20"
+}

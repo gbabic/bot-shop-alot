@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "578574", 
+    "p1": {
+        "l4": "33.0", 
+        "o": "24.0"
+    }, 
+    "m": "Tefal", 
+    "t1": "S", 
+    "p": "2527102P", 
+    "s": "tefal-plus-ptfe-frypan-30cm", 
+    "n": "Plus Ptfe Frypan 30cm", 
+    "u": "578547", 
+    "t": "/wcsstore/Coles-CAS/images/2/5/2/2527102-th.jpg", 
+    "u2": "$24.00 per 1KGM", 
+    "pl": "12"
+}

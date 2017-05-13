@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "680g"
+        ]
+    }, 
+    "s9": "617076", 
+    "p1": {
+        "o": "4.18"
+    }, 
+    "m": "My Dog", 
+    "u2": "$0.61 per 100G", 
+    "p": "2825097P", 
+    "s": "my-dog-home-recipe-d-food-frmhs-casserl-wth-chckn", 
+    "u": "617011", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/2/2825097-th.jpg", 
+    "n": "Home Recipe Farmhouse Casserole with Chicken Dog Food", 
+    "pl": "99"
+}

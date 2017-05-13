@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1kg"
+        ]
+    }, 
+    "u2": "$2.00 per 1Kg", 
+    "s9": "147303", 
+    "p1": {
+        "o": "2.0"
+    }, 
+    "s7": "", 
+    "m": "Coles", 
+    "n": "Crinkle Cut Frozen Potato Chips", 
+    "p": "344269P", 
+    "s": "coles-potato-chips-crinkle-cut-frozen", 
+    "u": "87850", 
+    "t": "/wcsstore/Coles-CAS/images/3/4/4/344269-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

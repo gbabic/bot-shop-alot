@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Fruit & Vegetables"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 bunch"
+        ]
+    }, 
+    "s9": "142642", 
+    "p1": {
+        "o": "2.5"
+    }, 
+    "m": "Coles", 
+    "s7": "Product of Australia.", 
+    "u2": "$2.50 per 1Ea", 
+    "p": "4910980P", 
+    "s": "fennel-bunch", 
+    "u": "81306", 
+    "t": "/wcsstore/Coles-CAS/images/4/9/1/4910980-th.jpg", 
+    "n": "Fennel", 
+    "pl": "99"
+}

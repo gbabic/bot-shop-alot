@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "18g"
+        ]
+    }, 
+    "s9": "494089", 
+    "p1": {
+        "o": "6.59"
+    }, 
+    "m": "Glade", 
+    "u2": "$36.61 per 100G", 
+    "p": "2344496P", 
+    "s": "glade-touch-fresh-citrus-fresh-twin-refill", 
+    "u": "494022", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/4/2344496-th.jpg", 
+    "n": "Touch & Fresh Citrus Fresh Twin Refill", 
+    "pl": "20"
+}

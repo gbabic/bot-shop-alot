@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "120g"
+        ]
+    }, 
+    "s9": "152769", 
+    "p1": {
+        "o": "2.06"
+    }, 
+    "m": "Nong Shim", 
+    "u2": "$1.72 per 100G", 
+    "p": "9755965P", 
+    "s": "nong-shim-noodles-udon-neoguri-mild", 
+    "u": "96454", 
+    "t": "/wcsstore/Coles-CAS/images/9/7/5/9755965-th.jpg", 
+    "n": "Neoguri Mild Udon Noodles", 
+    "pl": "20"
+}

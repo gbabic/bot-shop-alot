@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "414945", 
+    "p1": {
+        "o": "6.0"
+    }, 
+    "m": "Coles", 
+    "t1": "V", 
+    "p": "1972096P", 
+    "s": "coles-natural-calamari-rings", 
+    "n": "Natural Frozen Calamari Squid Rings", 
+    "u": "414668", 
+    "t": "/wcsstore/Coles-CAS/images/1/9/7/1972096-th.jpg", 
+    "u2": "$12.00 per 1Kg", 
+    "pl": "20"
+}

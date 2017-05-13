@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "27g"
+        ]
+    }, 
+    "u2": "$5.56 per 100G", 
+    "s9": "137929", 
+    "p1": {
+        "l4": "2.2", 
+        "o": "1.5"
+    }, 
+    "s7": "", 
+    "m": "Wrigley", 
+    "n": "Extra Peppermint Chewing Gum 14 Piece Envelope Pack", 
+    "p": "5703176P", 
+    "s": "wrigleys-extra-envelope-peppermint", 
+    "u": "75972", 
+    "t": "/wcsstore/Coles-CAS/images/5/7/0/5703176-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

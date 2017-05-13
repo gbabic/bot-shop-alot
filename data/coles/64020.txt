@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "226g"
+        ]
+    }, 
+    "s9": "118076", 
+    "p1": {
+        "o": "2.92"
+    }, 
+    "m": "French's", 
+    "u2": "$1.29 per 100G", 
+    "p": "7905105P", 
+    "s": "frenchs-mustard-yellow-classic-7905105p", 
+    "u": "64020", 
+    "t": "/wcsstore/Coles-CAS/images/7/9/0/7905105-th.jpg", 
+    "n": "Classic Yellow Mustard", 
+    "pl": "20"
+}

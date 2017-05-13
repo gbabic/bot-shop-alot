@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "60g"
+        ]
+    }, 
+    "s9": "142936", 
+    "p1": {
+        "l4": "4.95", 
+        "o": "3.15"
+    }, 
+    "m": "Atkins", 
+    "t1": "S", 
+    "p": "4221318P", 
+    "s": "atkins-advantage-bar-decadence", 
+    "n": "Decadence Advantage Bar", 
+    "u": "81077", 
+    "t": "/wcsstore/Coles-CAS/images/4/2/2/4221318-th.jpg", 
+    "u2": "$5.25 per 100G", 
+    "pl": "12"
+}

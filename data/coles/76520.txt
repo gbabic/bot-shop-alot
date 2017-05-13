@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 1kg pack"
+        ]
+    }, 
+    "s9": "140996", 
+    "p1": {
+        "o": "26.0"
+    }, 
+    "m": "Continental Kosher", 
+    "s7": "Indicated price based on approx. weight. Weight may vary between 900g and 1.1kg.", 
+    "u2": "$26.00 per 1Kg", 
+    "p": "5680241P", 
+    "s": "continental-kosher-butcher-veal-goulash", 
+    "u": "76520", 
+    "t": "/wcsstore/Coles-CAS/images/5/6/8/5680241-th.jpg", 
+    "n": "Veal Goulash", 
+    "pl": "20"
+}

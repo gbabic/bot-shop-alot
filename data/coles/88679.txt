@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "220g"
+        ]
+    }, 
+    "s9": "148778", 
+    "p1": {
+        "o": "1.71"
+    }, 
+    "m": "Heinz", 
+    "u2": "$0.78 per 100G", 
+    "p": "126304P", 
+    "s": "heinz-spaghetti-in-tomato-sauce-126304p", 
+    "u": "88679", 
+    "t": "/wcsstore/Coles-CAS/images/1/2/6/126304-th.jpg", 
+    "n": "Spaghetti In Tomato Sauce", 
+    "pl": "20"
+}

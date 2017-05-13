@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "16 pack"
+        ]
+    }, 
+    "s9": "679676", 
+    "p1": {
+        "o": "3.4"
+    }, 
+    "m": "Miss Moxie", 
+    "u2": "$0.21 per 1Ea", 
+    "p": "2375310P", 
+    "s": "miss-moxie-mini-tampons", 
+    "u": "679585", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/7/2375310-th.jpg", 
+    "n": "Mini Tampons", 
+    "pl": "20"
+}

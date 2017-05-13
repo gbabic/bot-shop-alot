@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "10 pack"
+        ]
+    }, 
+    "s9": "129798", 
+    "p1": {
+        "o": "4.07"
+    }, 
+    "m": "Old El Paso", 
+    "u2": "$1.63 per 100G", 
+    "p": "7395337P", 
+    "s": "old-el-paso-tortillas-mini", 
+    "u": "67611", 
+    "t": "/wcsstore/Coles-CAS/images/7/3/9/7395337-th.jpg", 
+    "n": "Mini Tortillas", 
+    "pl": "20"
+}

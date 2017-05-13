@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "672g"
+        ]
+    }, 
+    "s9": "593578", 
+    "p1": {
+        "l4": "44.0", 
+        "o": "28.0"
+    }, 
+    "m": "Celebrity Slim", 
+    "t1": "S", 
+    "p": "2736099P", 
+    "s": "celebrity-slim-rapid-low-sugar-chocolate", 
+    "n": "Rapid Low Sugar Chocolate", 
+    "u": "593520", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/3/2736099-th.jpg", 
+    "u2": "$4.17 per 100G", 
+    "pl": "12"
+}

@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "125g"
+        ]
+    }, 
+    "s9": "137708", 
+    "p1": {
+        "o": "5.83"
+    }, 
+    "m": "Lucky", 
+    "s7": "", 
+    "u2": "$46.64 per 1Kg", 
+    "p": "6014926P", 
+    "s": "lucky-hazelnut-kernels", 
+    "u": "76300", 
+    "t": "/wcsstore/Coles-CAS/images/6/0/1/6014926-th.jpg", 
+    "n": "Hazelnut Kernels", 
+    "pl": "20"
+}

@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Mothers Day"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.8"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 1.8kg pack"
+        ]
+    }, 
+    "s9": "162895", 
+    "p1": {
+        "o": "18.0"
+    }, 
+    "m": "Coles", 
+    "s7": "Indicated price based on approx. weight. Weight may vary between 1.6kg and 2kg.", 
+    "u2": "$10.00 per 1Kg", 
+    "p": "9246065P", 
+    "s": "coles-lamb-leg-roast-half-9246065p", 
+    "u": "100692", 
+    "t": "/wcsstore/Coles-CAS/images/9/2/4/9246065-th.jpg", 
+    "n": "Half Lamb Leg Roast", 
+    "pl": "20"
+}

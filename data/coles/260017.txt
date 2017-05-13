@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1kg"
+        ]
+    }, 
+    "s9": "260055", 
+    "p1": {
+        "o": "8.97"
+    }, 
+    "m": "Peters", 
+    "u2": "$8.97 per 1Ea", 
+    "p": "1492283P", 
+    "s": "peters-foragers-feast-animal-food-small", 
+    "u": "260017", 
+    "t": "/wcsstore/Coles-CAS/images/1/4/9/1492283-th.jpg", 
+    "n": "Foragers Feast Small Animal Food", 
+    "pl": "20"
+}

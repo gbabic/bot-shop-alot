@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "140g"
+        ]
+    }, 
+    "s9": "216504", 
+    "p1": {
+        "o": "3.7"
+    }, 
+    "m": "Foster Clark", 
+    "t1": "V", 
+    "p": "6603789P", 
+    "s": "foster-clark-custard-snack-pack-banana-4-pack", 
+    "n": "Banana Custard Snack Pack 4 pack", 
+    "u": "216502", 
+    "t": "/wcsstore/Coles-CAS/images/6/6/0/6603789-th.jpg", 
+    "u2": "$0.66 per 100G", 
+    "pl": "20"
+}

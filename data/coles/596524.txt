@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "907g"
+        ]
+    }, 
+    "s9": "596566", 
+    "p1": {
+        "o": "6.92"
+    }, 
+    "m": "Chobani", 
+    "u2": "$0.76 per 100G", 
+    "p": "2745340P", 
+    "s": "chobani-greek-whole-milk-4-yoghurt", 
+    "u": "596524", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/4/2745340-th.jpg", 
+    "n": "Greek Whole Milk 4% Yoghurt", 
+    "pl": "99"
+}

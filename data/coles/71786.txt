@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "135242", 
+    "p1": {
+        "o": "1.8"
+    }, 
+    "m": "San Remo", 
+    "t1": "V", 
+    "p": "6992986P", 
+    "s": "san-remo-pasta-fettuccine-no-15-wide", 
+    "n": "Wide Fettuccine Pasta No 15", 
+    "u": "71786", 
+    "t": "/wcsstore/Coles-CAS/images/6/9/9/6992986-th.jpg", 
+    "u2": "$0.36 per 100G", 
+    "pl": "20"
+}

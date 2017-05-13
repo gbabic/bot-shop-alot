@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "134806", 
+    "p1": {
+        "o": "21.3"
+    }, 
+    "m": "Lavazza", 
+    "u2": "$4.26 per 100G", 
+    "p": "6851055P", 
+    "s": "lavazza-ground-coffee-arabica-gold", 
+    "u": "70094", 
+    "t": "/wcsstore/Coles-CAS/images/6/8/5/6851055-th.jpg", 
+    "n": "Arabica Gold Ground Coffee", 
+    "pl": "20"
+}

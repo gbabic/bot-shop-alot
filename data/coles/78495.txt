@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "s9": "142201", 
+    "p1": {
+        "o": "4.83"
+    }, 
+    "m": "Soyco", 
+    "u2": "$2.42 per 100G", 
+    "p": "5552650P", 
+    "s": "soyco-tofu-japanese-teriyaki", 
+    "u": "78495", 
+    "t": "/wcsstore/Coles-CAS/images/5/5/5/5552650-th.jpg", 
+    "n": "Japanese Teriyaki Tofu", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "49g"
+        ]
+    }, 
+    "s9": "132611", 
+    "p1": {
+        "o": "2.31"
+    }, 
+    "m": "Nestle International", 
+    "u2": "$4.71 per 100G", 
+    "p": "7135020P", 
+    "s": "nestle-peppermint-crisp", 
+    "u": "68533", 
+    "t": "/wcsstore/Coles-CAS/images/7/1/3/7135020-th.jpg", 
+    "n": "Peppermint Crisp", 
+    "pl": "20"
+}

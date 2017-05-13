@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "375g"
+        ]
+    }, 
+    "s9": "137775", 
+    "p1": {
+        "o": "4.29"
+    }, 
+    "m": "Orgran", 
+    "s7": "", 
+    "u2": "$1.14 per 100G", 
+    "p": "5927956P", 
+    "s": "orgran-buckwheat-pancake-mix", 
+    "u": "75794", 
+    "t": "/wcsstore/Coles-CAS/images/5/9/2/5927956-th.jpg", 
+    "n": "Buckwheat Pancake Mix", 
+    "pl": "20"
+}

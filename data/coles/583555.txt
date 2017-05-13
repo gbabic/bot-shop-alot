@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Mothers Day"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "305g"
+        ]
+    }, 
+    "s9": "583700", 
+    "p1": {
+        "l4": "19.8", 
+        "o": "9.0"
+    }, 
+    "m": "Guylian", 
+    "t1": "S", 
+    "p": "2649234P", 
+    "s": "guylian-les-exclusives", 
+    "n": "Les Exclusives", 
+    "u": "583555", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/4/2649234-th.jpg", 
+    "u2": "$2.95 per 100G", 
+    "pl": "12"
+}

@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500mL"
+        ]
+    }, 
+    "s9": "35756", 
+    "p1": {
+        "o": "2.53"
+    }, 
+    "m": "Campbell's", 
+    "s7": "", 
+    "u2": "$0.51 per 100mL", 
+    "p": "1190182P", 
+    "s": "campbells-stock-real-fish", 
+    "u": "18553", 
+    "t": "/wcsstore/Coles-CAS/images/1/1/9/1190182-th.jpg", 
+    "n": "Real Fish Stock", 
+    "pl": "20"
+}

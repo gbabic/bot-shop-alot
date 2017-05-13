@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Clothing"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 pack"
+        ]
+    }, 
+    "u2": "$2.00 per 1ea", 
+    "s9": "134234", 
+    "p1": {
+        "l4": "4.0", 
+        "o": "2.0"
+    }, 
+    "s7": "", 
+    "m": "Bonds", 
+    "n": "Footlets White size 4-11", 
+    "p": "6787590P", 
+    "s": "bonds-ladies-socks-footlet-white-size-4-11", 
+    "u": "74060", 
+    "t": "/wcsstore/Coles-CAS/images/6/7/8/6787590-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

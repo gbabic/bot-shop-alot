@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Bread & Bakery"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "680g"
+        ]
+    }, 
+    "s9": "125298", 
+    "p1": {
+        "o": "4.8"
+    }, 
+    "m": "Grandma Moses", 
+    "s7": "", 
+    "u2": "$0.71 per 100G", 
+    "p": "7697347P", 
+    "s": "grandma-moses-bread-mezonot", 
+    "u": "60965", 
+    "t": "/wcsstore/Coles-CAS/images/7/6/9/7697347-th.jpg", 
+    "n": "Mezonot Bread", 
+    "pl": "20"
+}

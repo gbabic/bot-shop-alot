@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "50g"
+        ]
+    }, 
+    "s9": "118693", 
+    "p1": {
+        "o": "3.3"
+    }, 
+    "m": "MasterFoods", 
+    "u2": "$0.66 per 10G", 
+    "p": "7842184P", 
+    "s": "masterfoods-seasoning-bush-spice", 
+    "u": "61184", 
+    "t": "/wcsstore/Coles-CAS/images/7/8/4/7842184-th.jpg", 
+    "n": "Bush Spice Seasoning", 
+    "pl": "20"
+}

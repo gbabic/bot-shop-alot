@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "221mL"
+        ]
+    }, 
+    "s9": "679616", 
+    "p1": {
+        "l4": "12.1", 
+        "o": "11.0"
+    }, 
+    "m": "Jergens", 
+    "t1": "N", 
+    "p": "2859157P", 
+    "s": "jergens--natural-glow-daily-moisturiser", 
+    "n": "Natural Glow Daily Moisturiser", 
+    "u": "679520", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/5/2859157-th.jpg", 
+    "u2": "$4.98 per 100mL", 
+    "pl": "12"
+}

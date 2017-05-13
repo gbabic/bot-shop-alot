@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "35g"
+        ]
+    }, 
+    "s9": "150194", 
+    "p1": {
+        "o": "2.75"
+    }, 
+    "m": "MasterFoods", 
+    "u2": "$0.79 per 10G", 
+    "p": "318393P", 
+    "s": "masterfoods-paprika-ground", 
+    "u": "81711", 
+    "t": "/wcsstore/Coles-CAS/images/3/1/8/318393-th.jpg", 
+    "n": "Ground Paprika", 
+    "pl": "20"
+}

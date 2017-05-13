@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "490g"
+        ]
+    }, 
+    "s9": "172210", 
+    "p1": {
+        "o": "4.17"
+    }, 
+    "m": "Dolmio", 
+    "u2": "$0.85 per 100G", 
+    "p": "1274646P", 
+    "s": "dolmio-lasagne-pasta-sauce-bechamel", 
+    "u": "172087", 
+    "t": "/wcsstore/Coles-CAS/images/1/2/7/1274646-th.jpg", 
+    "n": "Lasagne Bechamel Sauce", 
+    "pl": "20"
+}

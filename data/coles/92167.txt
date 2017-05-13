@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "0.5"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 500g pack"
+        ]
+    }, 
+    "s9": "153203", 
+    "p1": {
+        "o": "12.5"
+    }, 
+    "m": "Continental Kosher", 
+    "s7": "Indicated price based on approx. weight. Weight may vary between 450g and 550g.", 
+    "u2": "$25.00 per 1Kg", 
+    "p": "9328975P", 
+    "s": "continental-kosher-beef-brisket-pickled", 
+    "u": "92167", 
+    "t": "/wcsstore/Coles-CAS/images/9/3/2/9328975-th.jpg", 
+    "n": "Pickled Beef Brisket", 
+    "pl": "20"
+}

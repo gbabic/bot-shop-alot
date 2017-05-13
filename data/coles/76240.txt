@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "225g"
+        ]
+    }, 
+    "u2": "$5.56 per 1Kg", 
+    "s9": "138875", 
+    "p1": {
+        "o": "1.25"
+    }, 
+    "s7": "", 
+    "m": "Coles", 
+    "n": "Sliced Water Chestnuts", 
+    "p": "5293020P", 
+    "s": "coles-water-chestnuts-sliced", 
+    "u": "76240", 
+    "t": "/wcsstore/Coles-CAS/images/5/2/9/5293020-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

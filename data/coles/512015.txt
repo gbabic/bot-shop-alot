@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "145g"
+        ]
+    }, 
+    "s9": "512040", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "m": "Masterfoods", 
+    "u2": "$0.38 per 10G", 
+    "p": "2473229P", 
+    "s": "masterfoods-szechuan-seasoning", 
+    "u": "512015", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/7/2473229-th.jpg", 
+    "n": "Szechuan Seasoning", 
+    "pl": "20"
+}

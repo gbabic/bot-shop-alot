@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "460g"
+        ]
+    }, 
+    "s9": "680077", 
+    "p1": {
+        "o": "6.6"
+    }, 
+    "m": "Be Natural Organics", 
+    "u2": "$1.43 per 100G", 
+    "p": "2865025P", 
+    "s": "be-natural-organics-whole-grain-bites-orig", 
+    "u": "680044", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/6/2865025-th.jpg", 
+    "n": "Whole Grain Bites Orig", 
+    "pl": "99"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "2.5kg"
+        ]
+    }, 
+    "s9": "30261", 
+    "p1": {
+        "o": "12.6"
+    }, 
+    "m": "Whiskas", 
+    "u2": "$0.50 per 100G", 
+    "p": "5125740P", 
+    "s": "whiskas-cat-food-chicken-turkey-vegetable-cheese-5125740p", 
+    "u": "17220", 
+    "t": "/wcsstore/Coles-CAS/images/5/1/2/5125740-th.jpg", 
+    "n": "Chicken Turkey Vegetables & Cheese Adult Dry Cat Food", 
+    "pl": "20"
+}

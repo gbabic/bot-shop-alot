@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "60g"
+        ]
+    }, 
+    "s9": "131030", 
+    "p1": {
+        "o": "4.5"
+    }, 
+    "m": "Aussie Bodies", 
+    "u2": "$7.50 per 100G", 
+    "p": "7393116P", 
+    "s": "aussie-bodies-fx-lo-carb-chocolate-fudge-bar", 
+    "u": "66907", 
+    "t": "/wcsstore/Coles-CAS/images/7/3/9/7393116-th.jpg", 
+    "n": "FX Lo Carb Chocolate Fudge Protein Bar", 
+    "pl": "20"
+}

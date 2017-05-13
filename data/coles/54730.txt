@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "117167", 
+    "p1": {
+        "o": "6.6"
+    }, 
+    "m": "Tray", 
+    "u2": "$6.60 per 1ea", 
+    "p": "8536693P", 
+    "s": "tray-rectangular-white", 
+    "u": "54730", 
+    "t": "/wcsstore/Coles-CAS/images/8/5/3/8536693-th.jpg", 
+    "n": "Rectangular White", 
+    "pl": "20"
+}

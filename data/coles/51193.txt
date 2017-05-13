@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "30mL"
+        ]
+    }, 
+    "s9": "116419", 
+    "p1": {
+        "l4": "20.13", 
+        "o": "10.98"
+    }, 
+    "m": "Rimmel", 
+    "t1": "S", 
+    "p": "8555439P", 
+    "s": "rimmel-stay-matte-foundation-true-ivory", 
+    "n": "Stay Matte True Ivory Liquid Foundation", 
+    "u": "51193", 
+    "t": "/wcsstore/Coles-CAS/images/8/5/5/8555439-th.jpg", 
+    "u2": "$3.66 per 10mL", 
+    "pl": "12"
+}

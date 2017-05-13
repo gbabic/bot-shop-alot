@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "u2": "$6.00 per 1ea", 
+    "s9": "164763", 
+    "p1": {
+        "o": "6.0"
+    }, 
+    "s7": "", 
+    "m": "Magazine", 
+    "n": "Inside Out", 
+    "p": "8617139P", 
+    "s": "inside-out-magazine", 
+    "u": "50280", 
+    "t": "/wcsstore/Coles-CAS/images/8/6/1/8617139-th.jpg", 
+    "t1": "V", 
+    "pl": "99"
+}

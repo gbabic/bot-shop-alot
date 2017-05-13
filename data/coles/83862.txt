@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "5kg"
+        ]
+    }, 
+    "s9": "145397", 
+    "p1": {
+        "o": "12.16"
+    }, 
+    "m": "Laucke", 
+    "u2": "$2.43 per 1Kg", 
+    "p": "4418990P", 
+    "s": "laucke-flour-plain-bakers-wallaby", 
+    "u": "83862", 
+    "t": "/wcsstore/Coles-CAS/images/4/4/1/4418990-th.jpg", 
+    "n": "Wallaby Bakers Plain Flour", 
+    "pl": "20"
+}

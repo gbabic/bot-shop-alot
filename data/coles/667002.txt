@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "395g"
+        ]
+    }, 
+    "s9": "667046", 
+    "p1": {
+        "l4": "3.62", 
+        "o": "2.0"
+    }, 
+    "m": "Campbell's", 
+    "t1": "S", 
+    "p": "2887287P", 
+    "s": "campbells-manu-free-range-cajun-chicken-rice-canned-soup", 
+    "n": "Manu Free Range Cajun Chicken & Rice Canned Soup", 
+    "u": "667002", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/8/2887287-th.jpg", 
+    "u2": "$0.51 per 100G", 
+    "pl": "12"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "95g"
+        ]
+    }, 
+    "s9": "129168", 
+    "p1": {
+        "o": "2.37"
+    }, 
+    "m": "Drava", 
+    "u2": "$2.49 per 100G", 
+    "p": "7402920P", 
+    "s": "drava-paste-chicken", 
+    "u": "66893", 
+    "t": "/wcsstore/Coles-CAS/images/7/4/0/7402920-th.jpg", 
+    "n": "Chicken Paste", 
+    "pl": "20"
+}

@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "750g"
+        ]
+    }, 
+    "s9": "164018", 
+    "p1": {
+        "o": "11.0"
+    }, 
+    "m": "Chickadee", 
+    "s7": "", 
+    "u2": "$14.67 per 1Kg", 
+    "p": "9360130P", 
+    "s": "chickadee-chicken-tenders-sweet-chilli-9360130p", 
+    "u": "105587", 
+    "t": "/wcsstore/Coles-CAS/images/9/3/6/9360130-th.jpg", 
+    "n": "Frozen Sweet Chilli Chicken Tenders", 
+    "pl": "20"
+}

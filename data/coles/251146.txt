@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "150g"
+        ]
+    }, 
+    "s9": "251240", 
+    "p1": {
+        "o": "4.06"
+    }, 
+    "m": "Sue Shepherd", 
+    "u2": "$2.71 per 100G", 
+    "p": "1466104P", 
+    "s": "sue-shepherds-fruit-salad-mix", 
+    "u": "251146", 
+    "t": "/wcsstore/Coles-CAS/images/1/4/6/1466104-th.jpg", 
+    "n": "Fruit Salad Mix", 
+    "pl": "20"
+}

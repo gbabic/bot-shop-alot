@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "850g"
+        ]
+    }, 
+    "s9": "40958", 
+    "p1": {
+        "o": "4.07"
+    }, 
+    "m": "Garden Fresh", 
+    "u2": "$0.48 per 100G", 
+    "p": "1133429P", 
+    "s": "garden-fresh-red-cabbage", 
+    "u": "22744", 
+    "t": "/wcsstore/Coles-CAS/images/1/1/3/1133429-th.jpg", 
+    "n": "Red Cabbage", 
+    "pl": "20"
+}

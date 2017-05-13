@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "u2": "$0.60 per 100G", 
+    "s9": "113145", 
+    "p1": {
+        "o": "3.0"
+    }, 
+    "s7": "", 
+    "m": "Flora", 
+    "n": "Sunflower Margarine Light Tub", 
+    "p": "87643P", 
+    "s": "flora-spread-margarine-sunflower-light-tub", 
+    "u": "102586", 
+    "t": "/wcsstore/Coles-CAS/images/8/7/6/87643-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

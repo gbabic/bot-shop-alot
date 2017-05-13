@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "220g"
+        ]
+    }, 
+    "s9": "108331", 
+    "p1": {
+        "o": "3.74"
+    }, 
+    "m": "Allen's", 
+    "s7": "", 
+    "u2": "$1.70 per 100G", 
+    "p": "8738224P", 
+    "s": "wonka-candy-redskin-sticks", 
+    "u": "46581", 
+    "t": "/wcsstore/Coles-CAS/images/8/7/3/8738224-th.jpg", 
+    "n": "Redskins", 
+    "pl": "20"
+}

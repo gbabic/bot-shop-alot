@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "285g"
+        ]
+    }, 
+    "s9": "408081", 
+    "p1": {
+        "l4": "4.4", 
+        "o": "2.0"
+    }, 
+    "m": "Freedom Foods", 
+    "t1": "S", 
+    "p": "1992606P", 
+    "s": "freedom-foods-xo-crunch", 
+    "n": "XO Crunch", 
+    "u": "408032", 
+    "t": "/wcsstore/Coles-CAS/images/1/9/9/1992606-th.jpg", 
+    "u2": "$0.70 per 100G", 
+    "pl": "12"
+}

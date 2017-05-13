@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "50g"
+        ]
+    }, 
+    "s9": "574031", 
+    "p1": {
+        "l4": "5.5", 
+        "o": "3.0"
+    }, 
+    "m": "Bref", 
+    "t1": "S", 
+    "p": "2731652P", 
+    "s": "bref-power-active-chlorine", 
+    "n": "Power Active Chlorine", 
+    "u": "574020", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/3/2731652-th.jpg", 
+    "u2": "$6.00 per 100G", 
+    "pl": "12"
+}

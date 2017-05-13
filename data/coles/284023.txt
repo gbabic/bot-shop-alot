@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250mL"
+        ]
+    }, 
+    "s9": "284052", 
+    "p1": {
+        "o": "7.7"
+    }, 
+    "m": "Rexona", 
+    "u2": "$3.08 per 100mL", 
+    "p": "1622265P", 
+    "s": "rexona-women-anti-persperant-stress-control", 
+    "u": "284023", 
+    "t": "/wcsstore/Coles-CAS/images/1/6/2/1622265-th.jpg", 
+    "n": "Stress Control Anti Perspirant Aerosol Deodorant", 
+    "pl": "20"
+}

@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "700g"
+        ]
+    }, 
+    "s9": "108398", 
+    "p1": {
+        "o": "1.5"
+    }, 
+    "m": "Capriccio", 
+    "t1": "V", 
+    "p": "8707617P", 
+    "s": "capriccio-sauce-passata", 
+    "n": "Passata Sauce", 
+    "u": "104756", 
+    "t": "/wcsstore/Coles-CAS/images/8/7/0/8707617-th.jpg", 
+    "u2": "$0.21 per 100G", 
+    "pl": "20"
+}

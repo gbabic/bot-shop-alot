@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "300g"
+        ]
+    }, 
+    "s9": "115111", 
+    "p1": {
+        "o": "6.16"
+    }, 
+    "m": "McCain", 
+    "s7": "", 
+    "u2": "$2.05 per 100G", 
+    "p": "8057078P", 
+    "s": "mccain-healthy-choice-bowls-chicken-carbonara-frozen", 
+    "u": "58112", 
+    "t": "/wcsstore/Coles-CAS/images/8/0/5/8057078-th.jpg", 
+    "n": "Healthy Choice Bowl Chicken Carbonara Frozen Meal", 
+    "pl": "20"
+}

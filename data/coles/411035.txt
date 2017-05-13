@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1kg"
+        ]
+    }, 
+    "s9": "411243", 
+    "p1": {
+        "o": "1.38"
+    }, 
+    "m": "Tata", 
+    "u2": "$1.38 per 1Kg", 
+    "p": "2056571P", 
+    "s": "tata-salt", 
+    "u": "411035", 
+    "t": "/wcsstore/Coles-CAS/images/2/0/5/2056571-th.jpg", 
+    "n": "Salt", 
+    "pl": "20"
+}

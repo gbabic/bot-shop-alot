@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "550g"
+        ]
+    }, 
+    "s9": "531619", 
+    "p1": {
+        "o": "9.13"
+    }, 
+    "m": "Dorset", 
+    "u2": "$1.66 per 100G", 
+    "p": "2499131P", 
+    "s": "dorset-simply-oat-granola-oats", 
+    "u": "531554", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/9/2499131-th.jpg", 
+    "n": "Simply Oat Granola Oats", 
+    "pl": "20"
+}

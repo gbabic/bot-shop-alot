@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "20 pack"
+        ]
+    }, 
+    "s9": "137779", 
+    "p1": {
+        "o": "2.96"
+    }, 
+    "m": "Hercules", 
+    "s7": "", 
+    "u2": "$0.15 per 1Ea", 
+    "p": "5922012P", 
+    "s": "hercules-freezer-guard-bags", 
+    "u": "75188", 
+    "t": "/wcsstore/Coles-CAS/images/5/9/2/5922012-th.jpg", 
+    "n": "Twinzip Freezer Guard Bags 22cm x 18cm", 
+    "pl": "20"
+}

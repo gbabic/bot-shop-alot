@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "138898", 
+    "p1": {
+        "o": "1.7"
+    }, 
+    "m": "Raguletto", 
+    "t1": "V", 
+    "p": "5260279P", 
+    "s": "raguletto-pasta-sauce-bolognese", 
+    "n": "Bolognese Pasta Sauce", 
+    "u": "76781", 
+    "t": "/wcsstore/Coles-CAS/images/5/2/6/5260279-th.jpg", 
+    "u2": "$0.34 per 100G", 
+    "pl": "20"
+}

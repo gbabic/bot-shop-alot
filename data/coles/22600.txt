@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "192g"
+        ]
+    }, 
+    "s9": "44228", 
+    "p1": {
+        "l4": "4.4", 
+        "o": "3.0"
+    }, 
+    "m": "Nice & Natural", 
+    "t1": "S", 
+    "p": "1018271P", 
+    "s": "nice-natural-nut-bar-choc-apricot", 
+    "n": "Chocolate Apricot Nut Bar", 
+    "u": "22600", 
+    "t": "/wcsstore/Coles-CAS/images/1/0/1/1018271-th.jpg", 
+    "u2": "$1.56 per 100G", 
+    "pl": "12"
+}

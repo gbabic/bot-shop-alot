@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Mothers Day"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "s9": "134500", 
+    "p1": {
+        "o": "4.0"
+    }, 
+    "m": "Yumi's", 
+    "u2": "$2.00 per 100G", 
+    "p": "6416624P", 
+    "s": "yumis-dip-baba-ganoush", 
+    "u": "74342", 
+    "t": "/wcsstore/Coles-CAS/images/6/4/1/6416624-th.jpg", 
+    "n": "Baba Ganoush Dip", 
+    "pl": "20"
+}

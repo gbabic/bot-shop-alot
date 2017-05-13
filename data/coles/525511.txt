@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "42g"
+        ]
+    }, 
+    "s9": "525569", 
+    "p1": {
+        "o": "2.37"
+    }, 
+    "m": "Reese's", 
+    "u2": "$5.64 per 100G", 
+    "p": "2137550P", 
+    "s": "reeses-peanut-butter-cup-2-pack", 
+    "u": "525511", 
+    "t": "/wcsstore/Coles-CAS/images/2/1/3/2137550-th.jpg", 
+    "n": "Peanut Butter Cup 2 pack", 
+    "pl": "99"
+}

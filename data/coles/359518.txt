@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "225g"
+        ]
+    }, 
+    "s9": "359530", 
+    "p1": {
+        "l4": "7.69", 
+        "o": "7.58"
+    }, 
+    "m": "Dodoni", 
+    "u2": "$33.69 per 1Kg", 
+    "p": "1843435P", 
+    "s": "dodoni-haloumi", 
+    "u": "359518", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/4/1843435-th.jpg", 
+    "n": "Haloumi", 
+    "pl": "20"
+}

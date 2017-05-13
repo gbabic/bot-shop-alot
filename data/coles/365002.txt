@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "20 pack"
+        ]
+    }, 
+    "s9": "365090", 
+    "p1": {
+        "o": "8.0"
+    }, 
+    "m": "Faber Castell", 
+    "u2": "$0.40 per 1Ea", 
+    "p": "1839744P", 
+    "s": "faber-castell-colour-connector-pens", 
+    "u": "365002", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/3/1839744-th.jpg", 
+    "n": "Coloured Connector Pens", 
+    "pl": "20"
+}

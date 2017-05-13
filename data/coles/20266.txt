@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "300g"
+        ]
+    }, 
+    "s9": "33300", 
+    "p1": {
+        "l4": "4.84", 
+        "o": "3.5"
+    }, 
+    "m": "McVitie's", 
+    "t1": "S", 
+    "p": "6109057P", 
+    "s": "mcvities-biscuits-digestive-dark-chocolate", 
+    "n": "Dark Chocolate Digestive Biscuits", 
+    "u": "20266", 
+    "t": "/wcsstore/Coles-CAS/images/6/1/0/6109057-th.jpg", 
+    "u2": "$1.17 per 100G", 
+    "pl": "12"
+}

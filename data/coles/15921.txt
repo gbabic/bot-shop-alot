@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "8 pack"
+        ]
+    }, 
+    "s9": "30466", 
+    "p1": {
+        "o": "12.5"
+    }, 
+    "m": "Tena", 
+    "t1": "V", 
+    "p": "9886624P", 
+    "s": "tena-pants-for-women-medium", 
+    "n": "Medium Pants for Women", 
+    "u": "15921", 
+    "t": "/wcsstore/Coles-CAS/images/9/8/8/9886624-th.jpg", 
+    "u2": "$1.56 per 1Ea", 
+    "pl": "20"
+}

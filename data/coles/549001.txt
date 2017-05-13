@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "160g"
+        ]
+    }, 
+    "s9": "549012", 
+    "p1": {
+        "o": "4.13"
+    }, 
+    "m": "Maryland", 
+    "u2": "$2.58 per 100G", 
+    "p": "2471449P", 
+    "s": "maryland-gooeys-chocolate-cookies", 
+    "u": "549001", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/7/2471449-th.jpg", 
+    "n": "Gooeys Chocolate Cookies", 
+    "pl": "20"
+}

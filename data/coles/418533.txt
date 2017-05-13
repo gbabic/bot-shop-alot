@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "240g"
+        ]
+    }, 
+    "s9": "418654", 
+    "p1": {
+        "o": "9.35"
+    }, 
+    "m": "Mayvers", 
+    "u2": "$3.90 per 100G", 
+    "p": "1997676P", 
+    "s": "mayvers-almond-coconut-cacao-spread", 
+    "u": "418533", 
+    "t": "/wcsstore/Coles-CAS/images/1/9/9/1997676-th.jpg", 
+    "n": "Almond Coconut & Cacao Spread", 
+    "pl": "20"
+}

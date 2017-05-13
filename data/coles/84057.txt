@@ -1,0 +1,38 @@
+{
+    "a": {
+        "D": [
+            "HOTPLATE"
+        ], 
+        "P8": [
+            "Bread & Bakery"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "700g"
+        ]
+    }, 
+    "s9": "143076", 
+    "p1": {
+        "o": "4.9"
+    }, 
+    "m": "Burgen", 
+    "t1": "V", 
+    "p": "5249684P", 
+    "s": "burgen-bread-rye-5249684p", 
+    "n": "Traditional Rye Bread", 
+    "u": "84057", 
+    "t": "/wcsstore/Coles-CAS/images/5/2/4/5249684-th.jpg", 
+    "u2": "$0.70 per 100G", 
+    "pl": "20"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "50g"
+        ]
+    }, 
+    "s9": "143738", 
+    "p1": {
+        "l4": "1.65", 
+        "o": "1.0"
+    }, 
+    "m": "Werther's Original", 
+    "t1": "S", 
+    "p": "5241809P", 
+    "s": "werthers-original-candies-butter-cream", 
+    "n": "Cream Candies", 
+    "u": "79896", 
+    "t": "/wcsstore/Coles-CAS/images/5/2/4/5241809-th.jpg", 
+    "u2": "$2.00 per 100G", 
+    "pl": "12"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "50g"
+        ]
+    }, 
+    "s9": "408057", 
+    "p1": {
+        "o": "2.08"
+    }, 
+    "m": "Meiji", 
+    "u2": "$4.16 per 100G", 
+    "p": "2020585P", 
+    "s": "meiji-yan-yan-chocolate-dip-stick-biscuits", 
+    "u": "408024", 
+    "t": "/wcsstore/Coles-CAS/images/2/0/2/2020585-th.jpg", 
+    "n": "Yan Yan Chocolate Dip Stick Biscuits", 
+    "pl": "20"
+}

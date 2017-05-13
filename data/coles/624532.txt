@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "624549", 
+    "p1": {
+        "o": "31.9"
+    }, 
+    "m": "Benefiber", 
+    "u2": "$6.38 per 100G", 
+    "p": "2837507P", 
+    "s": "benefiber-powder", 
+    "u": "624532", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/3/2837507-th.jpg", 
+    "n": "Powder", 
+    "pl": "99"
+}

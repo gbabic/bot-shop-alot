@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "450g"
+        ]
+    }, 
+    "s9": "496069", 
+    "p1": {
+        "o": "5.45"
+    }, 
+    "m": "Well & Good", 
+    "u2": "$1.21 per 100G", 
+    "p": "2204792P", 
+    "s": "well-good-chocolate-mud-cake-baking-mix", 
+    "u": "496032", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/0/2204792-th.jpg", 
+    "n": "Chocolate Mud Cake Baking Mix", 
+    "pl": "20"
+}

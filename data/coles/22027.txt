@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Fruit & Vegetables"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "6.5"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "34423", 
+    "p1": {
+        "o": "17.55"
+    }, 
+    "m": "Coles", 
+    "s7": "Each whole pumpkin approx. 6.5kg; Product of Australia.", 
+    "u2": "$2.70 per 1Kg", 
+    "p": "4672237P", 
+    "s": "pumpkin-grey-whole", 
+    "u": "22027", 
+    "t": "/wcsstore/Coles-CAS/images/4/6/7/4672237-th.jpg", 
+    "n": "Grey Pumpkin Whole", 
+    "pl": "99"
+}

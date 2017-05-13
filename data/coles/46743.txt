@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100g"
+        ]
+    }, 
+    "s9": "164655", 
+    "p1": {
+        "l4": "1.49", 
+        "o": "1.0"
+    }, 
+    "m": "Optimum", 
+    "t1": "S", 
+    "p": "8656764P", 
+    "s": "optimum-dog-food-salmon-rice-vegetables", 
+    "n": "Salmon Rice & Vegetables Dog Food Tray", 
+    "u": "46743", 
+    "t": "/wcsstore/Coles-CAS/images/8/6/5/8656764-th.jpg", 
+    "u2": "$1.00 per 100G", 
+    "pl": "12"
+}

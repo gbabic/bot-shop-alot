@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "s9": "139728", 
+    "p1": {
+        "o": "3.58"
+    }, 
+    "m": "Uncle Ben's", 
+    "s7": "", 
+    "u2": "$1.43 per 100G", 
+    "p": "5860221P", 
+    "s": "uncle-bens-express-rice-tomato-basil", 
+    "u": "75236", 
+    "t": "/wcsstore/Coles-CAS/images/5/8/6/5860221-th.jpg", 
+    "n": "Express Tomato Basil Rice", 
+    "pl": "20"
+}

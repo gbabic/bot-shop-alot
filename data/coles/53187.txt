@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "305g"
+        ]
+    }, 
+    "s9": "114904", 
+    "p1": {
+        "o": "7.1"
+    }, 
+    "m": "Mars", 
+    "u2": "$2.33 per 100G", 
+    "p": "8186693P", 
+    "s": "m-ms-crispy-bag", 
+    "u": "53187", 
+    "t": "/wcsstore/Coles-CAS/images/8/1/8/8186693-th.jpg", 
+    "n": "Crispy Chocolate M&M's", 
+    "pl": "20"
+}

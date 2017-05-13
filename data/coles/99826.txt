@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "175g"
+        ]
+    }, 
+    "s9": "156233", 
+    "p1": {
+        "o": "5.28"
+    }, 
+    "m": "Dick Smith", 
+    "u2": "$3.02 per 100G", 
+    "p": "9913115P", 
+    "s": "dick-smith-ozemite", 
+    "u": "99826", 
+    "t": "/wcsstore/Coles-CAS/images/9/9/1/9913115-th.jpg", 
+    "n": "Ozemite Spread", 
+    "pl": "20"
+}

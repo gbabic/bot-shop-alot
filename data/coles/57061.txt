@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "s9": "120779", 
+    "p1": {
+        "l4": "9.89", 
+        "o": "7.0"
+    }, 
+    "m": "Oxfam", 
+    "t1": "S", 
+    "p": "7865226P", 
+    "s": "oxfam-fair-fto-world-coffee-blend-ground", 
+    "n": "Fair World Blend Ground Coffee", 
+    "u": "57061", 
+    "t": "/wcsstore/Coles-CAS/images/7/8/6/7865226-th.jpg", 
+    "u2": "$2.80 per 100G", 
+    "pl": "12"
+}

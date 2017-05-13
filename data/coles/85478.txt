@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "149819", 
+    "p1": {
+        "o": "1.7"
+    }, 
+    "m": "McKenzie's", 
+    "u2": "$0.34 per 100G", 
+    "p": "130017P", 
+    "s": "mckenzies-split-peas-yellow", 
+    "u": "85478", 
+    "t": "/wcsstore/Coles-CAS/images/1/3/0/130017-th.jpg", 
+    "n": "Split Yellow Peas", 
+    "pl": "20"
+}

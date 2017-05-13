@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "95g"
+        ]
+    }, 
+    "s9": "140511", 
+    "p1": {
+        "o": "2.52"
+    }, 
+    "m": "John West", 
+    "s7": "", 
+    "u2": "$26.53 per 1Kg", 
+    "p": "5558780P", 
+    "s": "john-west-tempters-salmon-in-springwater", 
+    "u": "78490", 
+    "t": "/wcsstore/Coles-CAS/images/5/5/5/5558780-th.jpg", 
+    "n": "Springwater Tempters Salmon", 
+    "pl": "20"
+}

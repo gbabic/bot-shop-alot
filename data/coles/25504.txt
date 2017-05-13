@@ -1,0 +1,40 @@
+{
+    "a": {
+        "P8": [
+            "Drinks"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1.25L"
+        ]
+    }, 
+    "pr": "1.50000", 
+    "s9": "42593", 
+    "pq": "2", 
+    "pt": "MultibuyMultiSku", 
+    "u2": "$1.93 per 1L", 
+    "m": "Schweppes", 
+    "n": "Orange & Mango Mineral Water", 
+    "p": "356621P", 
+    "s": "schweppes-mineral-water-orange-mango", 
+    "p1": {
+        "o": "2.41"
+    }, 
+    "u": "25504", 
+    "t": "/wcsstore/Coles-CAS/images/3/5/6/356621-th.jpg", 
+    "pd": "2 for $3", 
+    "pi": "10141008", 
+    "t1": "M", 
+    "pl": "12"
+}

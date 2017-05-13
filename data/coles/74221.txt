@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "800g"
+        ]
+    }, 
+    "s9": "135000", 
+    "p1": {
+        "o": "10.78"
+    }, 
+    "m": "Benny's", 
+    "s7": "", 
+    "u2": "$1.35 per 100G", 
+    "p": "6624519P", 
+    "s": "bennys-borekas-potato-frozen", 
+    "u": "74221", 
+    "t": "/wcsstore/Coles-CAS/images/6/6/2/6624519-th.jpg", 
+    "n": "Kosher Frozen Potato Burekas", 
+    "pl": "20"
+}

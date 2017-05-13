@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "s9": "139520", 
+    "p1": {
+        "l4": "3.74", 
+        "o": "2.5"
+    }, 
+    "m": "Parkers", 
+    "t1": "S", 
+    "p": "6133970P", 
+    "s": "parkers-pretzels-baked-twist", 
+    "n": "Baked Twists Pretzels", 
+    "u": "72383", 
+    "t": "/wcsstore/Coles-CAS/images/6/1/3/6133970-th.jpg", 
+    "u2": "$1.25 per 100G", 
+    "pl": "12"
+}

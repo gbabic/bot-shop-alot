@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "18 pack"
+        ]
+    }, 
+    "s9": "143161", 
+    "p1": {
+        "l4": "12.65", 
+        "o": "5.75"
+    }, 
+    "m": "Schick", 
+    "t1": "S", 
+    "p": "5149602P", 
+    "s": "schick-extra-ii-razor-disposable-sensitive-with-vitamin-e", 
+    "n": "Exacta 2 Disposable Sensitive Razor with Vitamin E", 
+    "u": "81813", 
+    "t": "/wcsstore/Coles-CAS/images/5/1/4/5149602-th.jpg", 
+    "u2": "$0.32 per 1Ea", 
+    "pl": "12"
+}

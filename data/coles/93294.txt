@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "3 pack"
+        ]
+    }, 
+    "s9": "162305", 
+    "p1": {
+        "o": "13.96"
+    }, 
+    "m": "Schick", 
+    "u2": "$4.65 per 1Ea", 
+    "p": "9603297P", 
+    "s": "schick-intuition-plus-razor-cartridges-sensitive-care-with-aloe-vitamin-e", 
+    "u": "93294", 
+    "t": "/wcsstore/Coles-CAS/images/9/6/0/9603297-th.jpg", 
+    "n": "Intuition Moisture Plus Sensitive Care with Aloe & Vitamin E Razor Cartridges", 
+    "pl": "20"
+}

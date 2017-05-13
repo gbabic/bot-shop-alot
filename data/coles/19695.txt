@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Fruit & Vegetables"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "0.12"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 120g"
+        ]
+    }, 
+    "s9": "32896", 
+    "p1": {
+        "o": "3.0"
+    }, 
+    "m": "Coles", 
+    "s7": "Product of Australia.", 
+    "u2": "$25.00 per 1Kg", 
+    "p": "5034484P", 
+    "s": "ginger-loose", 
+    "u": "19695", 
+    "t": "/wcsstore/Coles-CAS/images/5/0/3/5034484-th.jpg", 
+    "n": "Ginger loose", 
+    "pl": "99"
+}

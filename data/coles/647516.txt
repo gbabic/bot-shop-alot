@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "10 pack"
+        ]
+    }, 
+    "s9": "647532", 
+    "p1": {
+        "l4": "2.97", 
+        "o": "1.0"
+    }, 
+    "m": "Twinings", 
+    "t1": "S", 
+    "p": "2872927P", 
+    "s": "twinings-tea-bags-morning-2872927p", 
+    "n": "Tea Bags Morning", 
+    "u": "647516", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/7/2872927-th.jpg", 
+    "u2": "$4.55 per 100G", 
+    "pl": "12"
+}

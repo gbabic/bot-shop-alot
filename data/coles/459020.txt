@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "240g"
+        ]
+    }, 
+    "s9": "459071", 
+    "p1": {
+        "o": "4.4"
+    }, 
+    "m": "The Natural Confectionery Co.", 
+    "u2": "$1.83 per 100G", 
+    "p": "2351254P", 
+    "s": "the-natural-confectionary-co-sour-squirms", 
+    "u": "459020", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/5/2351254-th.jpg", 
+    "n": "Sour Squirms", 
+    "pl": "20"
+}

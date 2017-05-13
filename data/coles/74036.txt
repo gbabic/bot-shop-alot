@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "505g"
+        ]
+    }, 
+    "s9": "132780", 
+    "p1": {
+        "l4": "4.11", 
+        "o": "3.0"
+    }, 
+    "m": "Campbell's", 
+    "t1": "S", 
+    "p": "6811800P", 
+    "s": "campbells-chunky-fully-loaded-beef-stroganoff-soup", 
+    "n": "Chunky Fully Loaded Beef Stroganoff Soup Can", 
+    "u": "74036", 
+    "t": "/wcsstore/Coles-CAS/images/6/8/1/6811800-th.jpg", 
+    "u2": "$0.59 per 100G", 
+    "pl": "12"
+}

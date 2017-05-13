@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "162448", 
+    "p1": {
+        "o": "15.02"
+    }, 
+    "m": "Oates", 
+    "u2": "$15.02 per 1Ea", 
+    "p": "9495864P", 
+    "s": "oates-handled-gardener-broom", 
+    "u": "96696", 
+    "t": "/wcsstore/Coles-CAS/images/9/4/9/9495864-th.jpg", 
+    "n": "Handled Gardener Broom", 
+    "pl": "20"
+}

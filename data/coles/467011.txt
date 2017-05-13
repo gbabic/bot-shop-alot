@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Bread & Bakery"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "700g"
+        ]
+    }, 
+    "s9": "467030", 
+    "p1": {
+        "o": "4.0"
+    }, 
+    "m": "Helga's Continental Bakehouse", 
+    "t1": "V", 
+    "p": "2270425P", 
+    "s": "helgas-continental-bakehouse-lower-carb-wholemeal-seed-bread", 
+    "n": "Lower Carb Wholemeal & Seed Bread", 
+    "u": "467011", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/7/2270425-th.jpg", 
+    "u2": "$0.57 per 100G", 
+    "pl": "20"
+}

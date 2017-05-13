@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400g"
+        ]
+    }, 
+    "s9": "182536", 
+    "p1": {
+        "l4": "4.35", 
+        "o": "3.45"
+    }, 
+    "m": "Robern Menz", 
+    "t1": "S", 
+    "p": "6933615P", 
+    "s": "robern-menz-choc-honeycomb", 
+    "n": "Chocolate Coated Honeycomb", 
+    "u": "182075", 
+    "t": "/wcsstore/Coles-CAS/images/6/9/3/6933615-th.jpg", 
+    "u2": "$0.86 per 100G", 
+    "pl": "12"
+}

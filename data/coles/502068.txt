@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "502152", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "m": "Korbond", 
+    "u2": "$5.50 per 1Ea", 
+    "p": "2407009P", 
+    "s": "korbond-instant-repair-kit", 
+    "u": "502068", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/0/2407009-th.jpg", 
+    "n": "Instant Repair Kit", 
+    "pl": "20"
+}

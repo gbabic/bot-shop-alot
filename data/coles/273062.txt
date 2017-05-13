@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "273259", 
+    "p1": {
+        "o": "21.95"
+    }, 
+    "m": "Magazine", 
+    "s7": "Cover may not depict edition offered for sale", 
+    "u2": "$21.95 per 1KGM", 
+    "p": "1727616P", 
+    "s": "magazine-national-geography-space", 
+    "u": "273062", 
+    "t": "/wcsstore/Coles-CAS/images/1/7/2/1727616-th.jpg", 
+    "n": "National Geographic Special", 
+    "pl": "20"
+}

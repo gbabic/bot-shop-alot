@@ -1,0 +1,38 @@
+{
+    "a": {
+        "D": [
+            "TOBACCO"
+        ], 
+        "P8": [
+            "Tobacco"
+        ], 
+        "T1": [
+            "true"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1carton"
+        ]
+    }, 
+    "s9": "35479", 
+    "p1": {
+        "o": "87.0"
+    }, 
+    "m": "Peter Stuyvesant", 
+    "s7": "Prices include all taxes", 
+    "u2": "", 
+    "p": "135316P", 
+    "s": "peter-stuyvesant-cigarettes-classic-blue-20s", 
+    "u": "19799", 
+    "t": "/wcsstore/Coles-CAS/images/C/i/g/Cigarettes-th.jpg", 
+    "n": "Classic Blue Cigarettes 20s", 
+    "pl": "5"
+}

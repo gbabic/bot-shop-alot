@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "150g"
+        ]
+    }, 
+    "s9": "160717", 
+    "p1": {
+        "l4": "15.57", 
+        "o": "11.32"
+    }, 
+    "m": "Veet", 
+    "t1": "S", 
+    "p": "8944805P", 
+    "s": "veet-in-shower-hair-removal-cream-sensitive", 
+    "n": "In Shower Sensitive Hair Removal Cream", 
+    "u": "51676", 
+    "t": "/wcsstore/Coles-CAS/images/8/9/4/8944805-th.jpg", 
+    "u2": "$7.55 per 100G", 
+    "pl": "12"
+}

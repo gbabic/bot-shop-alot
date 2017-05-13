@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "245mL"
+        ]
+    }, 
+    "s9": "679652", 
+    "p1": {
+        "l4": "7.15", 
+        "o": "3.25"
+    }, 
+    "m": "Brut", 
+    "t1": "S", 
+    "p": "2862560P", 
+    "s": "brut--antiperspirant-marine-cool-deodorant-for-men", 
+    "n": "Antiperspirant Marine Cool Deodorant For Men", 
+    "u": "679565", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/6/2862560-th.jpg", 
+    "u2": "$1.33 per 100mL", 
+    "pl": "12"
+}

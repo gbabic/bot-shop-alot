@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "40g"
+        ]
+    }, 
+    "s9": "147355", 
+    "p1": {
+        "o": "1.05"
+    }, 
+    "m": "Golden Days", 
+    "s7": "", 
+    "u2": "$2.63 per 100G", 
+    "p": "255624P", 
+    "s": "golden-days-sesame-snaps-255624p", 
+    "u": "88405", 
+    "t": "/wcsstore/Coles-CAS/images/2/5/5/255624-th.jpg", 
+    "n": "Sesame Snaps", 
+    "pl": "20"
+}

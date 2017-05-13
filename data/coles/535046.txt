@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "0.8"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 800g"
+        ]
+    }, 
+    "s9": "535077", 
+    "p1": {
+        "o": "5.92"
+    }, 
+    "m": "Coles", 
+    "s7": "Indicated price based on approx. weight. Weight may vary between 750g and 850g", 
+    "u2": "$7.40 per 1Kg", 
+    "p": "2268263P", 
+    "s": "coles-rspca-approved-chicken-maryland-2-pack", 
+    "u": "535046", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/6/2268263-th.jpg", 
+    "n": "RSPCA Approved Chicken Maryland 2 Pack", 
+    "pl": "20"
+}

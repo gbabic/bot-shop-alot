@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "105g"
+        ]
+    }, 
+    "s9": "157236", 
+    "p1": {
+        "o": "3.3"
+    }, 
+    "m": "Massel", 
+    "s7": "", 
+    "u2": "$0.31 per 10G", 
+    "p": "93737P", 
+    "s": "massel-ultra-stock-cubes-chicken-style", 
+    "u": "97341", 
+    "t": "/wcsstore/Coles-CAS/images/9/3/7/93737-th.jpg", 
+    "n": "Chicken Style Stock Cubes", 
+    "pl": "20"
+}

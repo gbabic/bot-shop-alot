@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1kg"
+        ]
+    }, 
+    "s9": "560574", 
+    "p1": {
+        "o": "4.2"
+    }, 
+    "m": "Riviana", 
+    "t1": "V", 
+    "p": "2018222P", 
+    "s": "riviana-brown-basmati-rice", 
+    "n": "Brown Basmati Rice", 
+    "u": "560538", 
+    "t": "/wcsstore/Coles-CAS/images/2/0/1/2018222-th.jpg", 
+    "u2": "$0.42 per 100G", 
+    "pl": "20"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "120g"
+        ]
+    }, 
+    "s9": "613578", 
+    "p1": {
+        "l4": "4.4", 
+        "o": "3.2"
+    }, 
+    "m": "Goodness Me", 
+    "t1": "S", 
+    "p": "2777450P", 
+    "s": "goodness-me-nuggets-variety-pack", 
+    "n": "Nuggets Variety Pack", 
+    "u": "613531", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/7/2777450-th.jpg", 
+    "u2": "$26.67 per 1Kg", 
+    "pl": "12"
+}

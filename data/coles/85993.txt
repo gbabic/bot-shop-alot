@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "420g"
+        ]
+    }, 
+    "s9": "149780", 
+    "p1": {
+        "o": "2.05"
+    }, 
+    "m": "Campbell's", 
+    "u2": "$0.49 per 100G", 
+    "p": "156983P", 
+    "s": "campbells-condensed-soup-beef-vegetable", 
+    "u": "85993", 
+    "t": "/wcsstore/Coles-CAS/images/1/5/6/156983-th.jpg", 
+    "n": "Vegetable Beef Condensed Soup Can", 
+    "pl": "20"
+}

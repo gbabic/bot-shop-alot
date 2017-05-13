@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "40g"
+        ]
+    }, 
+    "s9": "145724", 
+    "p1": {
+        "l4": "3.3", 
+        "o": "2.1"
+    }, 
+    "m": "Atkins", 
+    "t1": "S", 
+    "p": "4877477P", 
+    "s": "atkins-enduldge-bar-coconut-chocolate", 
+    "n": "Enduldge Coconut & Chocolate Bar", 
+    "u": "84916", 
+    "t": "/wcsstore/Coles-CAS/images/4/8/7/4877477-th.jpg", 
+    "u2": "$5.25 per 100G", 
+    "pl": "12"
+}

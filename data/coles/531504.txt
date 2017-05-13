@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "300g"
+        ]
+    }, 
+    "s9": "531571", 
+    "p1": {
+        "o": "3.62"
+    }, 
+    "m": "Uncle Ben's", 
+    "u2": "$1.21 per 100G", 
+    "p": "2598440P", 
+    "s": "uncle-bens-rice-brown", 
+    "u": "531504", 
+    "t": "/wcsstore/Coles-CAS/images/2/5/9/2598440-th.jpg", 
+    "n": "Rice Brown", 
+    "pl": "20"
+}

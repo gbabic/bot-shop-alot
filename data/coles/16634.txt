@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "310g"
+        ]
+    }, 
+    "u2": "$5.65 per 1Kg", 
+    "s9": "29711", 
+    "p1": {
+        "o": "1.75"
+    }, 
+    "s7": "", 
+    "m": "Coles", 
+    "n": "Mandarin Segments Canned", 
+    "p": "4492993P", 
+    "s": "coles-mandarin-segments", 
+    "u": "16634", 
+    "t": "/wcsstore/Coles-CAS/images/4/4/9/4492993-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

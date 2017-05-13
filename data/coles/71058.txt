@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250mL"
+        ]
+    }, 
+    "s9": "133084", 
+    "p1": {
+        "o": "5.41"
+    }, 
+    "m": "Palmolive", 
+    "u2": "$2.16 per 100mL", 
+    "p": "6423991P", 
+    "s": "palmolive-fashion-girl-detangler-spray-rose-petals", 
+    "u": "71058", 
+    "t": "/wcsstore/Coles-CAS/images/6/4/2/6423991-th.jpg", 
+    "n": "Fashion Girl Rose Petals Detangler Spray", 
+    "pl": "20"
+}

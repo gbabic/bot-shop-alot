@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "90g"
+        ]
+    }, 
+    "s9": "508609", 
+    "p1": {
+        "o": "2.8"
+    }, 
+    "m": "Pet Munchies", 
+    "t1": "V", 
+    "p": "2443501P", 
+    "s": "pet-munchies-rabbit-guinea-pig-treat", 
+    "n": "Rabbit & Guinea Pig Treat", 
+    "u": "508548", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/4/2443501-th.jpg", 
+    "u2": "$3.11 per 100G", 
+    "pl": "20"
+}

@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "s9": "406220", 
+    "p1": {
+        "o": "2.0"
+    }, 
+    "m": "Coles", 
+    "t1": "V", 
+    "p": "1948070P", 
+    "s": "coles-chia-microwave-brown-rice", 
+    "n": "Chia Microwave Brown Rice", 
+    "u": "406096", 
+    "t": "/wcsstore/Coles-CAS/images/1/9/4/1948070-th.jpg", 
+    "u2": "$0.80 per 100G", 
+    "pl": "20"
+}

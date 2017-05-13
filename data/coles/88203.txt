@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "540g"
+        ]
+    }, 
+    "s9": "147668", 
+    "p1": {
+        "l4": "4.84", 
+        "o": "3.0"
+    }, 
+    "m": "La Zuppa", 
+    "t1": "S", 
+    "p": "1163317P", 
+    "s": "la-zuppa-soup-pouches-chicken-tuscan-veg-rice", 
+    "n": "Tuscan Chicken & Vegetables With Rice Soup Pouch", 
+    "u": "88203", 
+    "t": "/wcsstore/Coles-CAS/images/1/1/6/1163317-th.jpg", 
+    "u2": "$0.56 per 100G", 
+    "pl": "12"
+}

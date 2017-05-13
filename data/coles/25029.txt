@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "s9": "33498", 
+    "p1": {
+        "o": "3.3"
+    }, 
+    "m": "Arnott's", 
+    "u2": "$1.32 per 100G", 
+    "p": "329800P", 
+    "s": "arnotts-crispbread-salada-original", 
+    "u": "25029", 
+    "t": "/wcsstore/Coles-CAS/images/3/2/9/329800-th.jpg", 
+    "n": "Original Salada", 
+    "pl": "20"
+}

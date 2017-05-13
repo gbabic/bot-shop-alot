@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "425g"
+        ]
+    }, 
+    "s9": "562562", 
+    "p1": {
+        "l4": "4.4", 
+        "o": "3.0"
+    }, 
+    "m": "Campbell's", 
+    "t1": "S", 
+    "p": "2663177P", 
+    "s": "campbells-gourmet-chicken-mushroom-wild-rice-soup-bowl", 
+    "n": "Gourmet Chicken Mushroom & Wild Rice Soup Bowl", 
+    "u": "562524", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/6/2663177-th.jpg", 
+    "u2": "$0.71 per 100G", 
+    "pl": "12"
+}

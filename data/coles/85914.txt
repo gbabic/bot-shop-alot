@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "150mL"
+        ]
+    }, 
+    "s9": "148542", 
+    "p1": {
+        "o": "6.88"
+    }, 
+    "m": "Brylcreem", 
+    "u2": "$4.59 per 100mL", 
+    "p": "252717P", 
+    "s": "brylcreem-for-men-hair-prepara-antidandruff", 
+    "u": "85914", 
+    "t": "/wcsstore/Coles-CAS/images/2/5/2/252717-th.jpg", 
+    "n": "Anti Dandruff Hair Preparation For Men", 
+    "pl": "20"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "140969", 
+    "p1": {
+        "l4": "2.75", 
+        "o": "1.9"
+    }, 
+    "m": "Barilla", 
+    "t1": "V", 
+    "p": "5716430P", 
+    "s": "barilla-pasta-spaghetti-no-5", 
+    "n": "Spaghetti No 5", 
+    "u": "75334", 
+    "t": "/wcsstore/Coles-CAS/images/5/7/1/5716430-th.jpg", 
+    "u2": "$0.38 per 100G", 
+    "pl": "12"
+}

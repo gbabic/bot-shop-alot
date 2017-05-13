@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250mL"
+        ]
+    }, 
+    "s9": "563100", 
+    "p1": {
+        "l4": "8.02", 
+        "o": "5.0"
+    }, 
+    "m": "Dove", 
+    "t1": "S", 
+    "p": "2669796P", 
+    "s": "dove-women-powder-soft-antiperspirant-aerosol-deodorant", 
+    "n": "Women Powder Soft Antiperspirant Aerosol Deodorant", 
+    "u": "563026", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/6/2669796-th.jpg", 
+    "u2": "$2.00 per 100mL", 
+    "pl": "12"
+}

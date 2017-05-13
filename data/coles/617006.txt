@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "72 pack"
+        ]
+    }, 
+    "s9": "617084", 
+    "p1": {
+        "l4": "9.9", 
+        "o": "7.2"
+    }, 
+    "m": "Glad", 
+    "t1": "S", 
+    "p": "2833620P", 
+    "s": "glad-kitchen-tidy-bag-wavetop-large", 
+    "n": "Large Wavetop Kitchen Tidy Bags", 
+    "u": "617006", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/3/2833620-th.jpg", 
+    "u2": "$0.10 per 1Ea", 
+    "pl": "12"
+}

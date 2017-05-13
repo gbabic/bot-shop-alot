@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "425g"
+        ]
+    }, 
+    "s9": "140196", 
+    "p1": {
+        "l4": "6.0", 
+        "o": "3.0"
+    }, 
+    "m": "Latina", 
+    "t1": "S", 
+    "p": "6026890P", 
+    "s": "latina-fresh-pasta-sauce-creamy-sundried-tomato", 
+    "n": "Creamy Sundried Tomato Pasta Sauce", 
+    "u": "79395", 
+    "t": "/wcsstore/Coles-CAS/images/6/0/2/6026890-th.jpg", 
+    "u2": "$0.71 per 100G", 
+    "pl": "12"
+}

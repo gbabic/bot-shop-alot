@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "3kg"
+        ]
+    }, 
+    "u2": "$0.20 per 100G", 
+    "s9": "142368", 
+    "p1": {
+        "o": "6.0"
+    }, 
+    "s7": "", 
+    "m": "Coles", 
+    "n": "Beef & Rice Dry Dog Food", 
+    "p": "5324236P", 
+    "s": "coles-brand-dog-food-adult-beef-rice", 
+    "u": "78005", 
+    "t": "/wcsstore/Coles-CAS/images/5/3/2/5324236-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

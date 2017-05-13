@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "36g"
+        ]
+    }, 
+    "s9": "132222", 
+    "p1": {
+        "l4": "6.38", 
+        "o": "4.9"
+    }, 
+    "m": "Madame Flavour", 
+    "t1": "S", 
+    "p": "7488653P", 
+    "s": "madame-flavour-tea-bags-green-jasmine--pear-18-pack", 
+    "n": "Green Jasmine & Pear Tea Bags18 pack", 
+    "u": "68145", 
+    "t": "/wcsstore/Coles-CAS/images/7/4/8/7488653-th.jpg", 
+    "u2": "$13.61 per 100G", 
+    "pl": "12"
+}

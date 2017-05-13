@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "90g"
+        ]
+    }, 
+    "s9": "144035", 
+    "p1": {
+        "l4": "2.3", 
+        "o": "1.0"
+    }, 
+    "m": "Continental", 
+    "t1": "S", 
+    "p": "4725763P", 
+    "s": "continental-pasta-sauce-chicken-curry", 
+    "n": "Chicken Curry Pasta & Sauce Serves 3", 
+    "u": "80857", 
+    "t": "/wcsstore/Coles-CAS/images/4/7/2/4725763-th.jpg", 
+    "u2": "$1.11 per 100G", 
+    "pl": "12"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "185g"
+        ]
+    }, 
+    "s9": "38560", 
+    "p1": {
+        "o": "4.95"
+    }, 
+    "m": "Nestle", 
+    "u2": "$2.68 per 100G", 
+    "p": "5169687P", 
+    "s": "nestle-kit-kat-fun-pack", 
+    "u": "15701", 
+    "t": "/wcsstore/Coles-CAS/images/5/1/6/5169687-th.jpg", 
+    "n": "Kit Kat Fun Pack", 
+    "pl": "20"
+}

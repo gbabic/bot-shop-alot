@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "385g"
+        ]
+    }, 
+    "s9": "117801", 
+    "p1": {
+        "o": "5.82"
+    }, 
+    "m": "Mayvers", 
+    "u2": "$1.51 per 100G", 
+    "p": "8082020P", 
+    "s": "mayvers-health-time-tahini-spread-gluten-free-unhulled", 
+    "u": "59499", 
+    "t": "/wcsstore/Coles-CAS/images/8/0/8/8082020-th.jpg", 
+    "n": "Gluten Free Health Time Unhulled Tahini Spread", 
+    "pl": "20"
+}

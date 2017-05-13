@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250mL"
+        ]
+    }, 
+    "s9": "113239", 
+    "p1": {
+        "o": "14.3"
+    }, 
+    "m": "Rufus & Coco", 
+    "u2": "$5.72 per 100mL", 
+    "p": "8735215P", 
+    "s": "rufus-coco-chamois", 
+    "u": "104697", 
+    "t": "/wcsstore/Coles-CAS/images/8/7/3/8735215-th.jpg", 
+    "n": "Chew Stopper Spray", 
+    "pl": "20"
+}

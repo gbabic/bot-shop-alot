@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "495g"
+        ]
+    }, 
+    "s9": "129420", 
+    "p1": {
+        "l4": "3.57", 
+        "o": "2.0"
+    }, 
+    "m": "Campbell's", 
+    "t1": "S", 
+    "p": "7165971P", 
+    "s": "campbells-country-ladle-soup-farmhouse-vegetable", 
+    "n": "Country Ladle Farmhouse Vegetable Soup Can", 
+    "u": "69872", 
+    "t": "/wcsstore/Coles-CAS/images/7/1/6/7165971-th.jpg", 
+    "u2": "$0.40 per 100G", 
+    "pl": "12"
+}

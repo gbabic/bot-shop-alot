@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "140444", 
+    "p1": {
+        "o": "1.8"
+    }, 
+    "m": "San Remo", 
+    "t1": "V", 
+    "p": "5694687P", 
+    "s": "san-remo-pasta-penne-wholemeal", 
+    "n": "Wholemeal Penne Pasta", 
+    "u": "78990", 
+    "t": "/wcsstore/Coles-CAS/images/5/6/9/5694687-th.jpg", 
+    "u2": "$0.36 per 100G", 
+    "pl": "20"
+}

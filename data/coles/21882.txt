@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "s9": "30160", 
+    "p1": {
+        "l4": "3.36", 
+        "o": "2.0"
+    }, 
+    "m": "Arnott's", 
+    "t1": "S", 
+    "p": "6027746P", 
+    "s": "arnotts-biscuits-tiny-teddy-half-coated-chocolate", 
+    "n": "Half Coated Chocolate Tiny Teddy Biscuits", 
+    "u": "21882", 
+    "t": "/wcsstore/Coles-CAS/images/6/0/2/6027746-th.jpg", 
+    "u2": "$1.00 per 100G", 
+    "pl": "12"
+}

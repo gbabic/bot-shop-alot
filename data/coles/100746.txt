@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Baby"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "96 pack"
+        ]
+    }, 
+    "s9": "110711", 
+    "p1": {
+        "l4": "33.0", 
+        "o": "28.0"
+    }, 
+    "m": "Huggies", 
+    "t1": "S", 
+    "p": "9224062P", 
+    "s": "huggies-ultra-dry-jumbo-nappies-infant-boy-4-8kg", 
+    "n": "Ultra Dry Infant Care Jumbo Nappies Infant Boy 4-8kg", 
+    "u": "100746", 
+    "t": "/wcsstore/Coles-CAS/images/9/2/2/9224062-th.jpg", 
+    "u2": "$0.29 per 1Ea", 
+    "pl": "12"
+}

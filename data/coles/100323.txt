@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "161643", 
+    "p1": {
+        "o": "6.0"
+    }, 
+    "m": "Hovex", 
+    "t1": "V", 
+    "p": "9565493P", 
+    "s": "hovex-ant-killer-powder", 
+    "n": "Ant Killer Powder", 
+    "u": "100323", 
+    "t": "/wcsstore/Coles-CAS/images/9/5/6/9565493-th.jpg", 
+    "u2": "$1.20 per 100G", 
+    "pl": "20"
+}

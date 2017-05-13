@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "138036", 
+    "p1": {
+        "o": "2.2"
+    }, 
+    "m": "Korbond", 
+    "u2": "$2.20 per 1ea", 
+    "p": "5499820P", 
+    "s": "korbond-hat-elastic-white", 
+    "u": "79097", 
+    "t": "/wcsstore/Coles-CAS/images/5/4/9/5499820-th.jpg", 
+    "n": "White Hat Elastic", 
+    "pl": "20"
+}

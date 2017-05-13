@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "185891", 
+    "p1": {
+        "o": "9.95"
+    }, 
+    "m": "Magazine", 
+    "s7": "", 
+    "u2": "$9.95 per 1ea", 
+    "p": "1444575P", 
+    "s": "elle-magazine", 
+    "u": "185579", 
+    "t": "/wcsstore/Coles-CAS/images/1/4/4/1444575-th.jpg", 
+    "n": "Elle", 
+    "pl": "20"
+}

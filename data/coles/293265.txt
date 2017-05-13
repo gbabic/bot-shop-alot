@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "320g"
+        ]
+    }, 
+    "s9": "293616", 
+    "p1": {
+        "l4": "6.16", 
+        "o": "4.15"
+    }, 
+    "m": "S&W", 
+    "t1": "S", 
+    "p": "6541105P", 
+    "s": "s-w-whole-egg-mayonnaise", 
+    "n": "Whole Egg Mayonnaise", 
+    "u": "293265", 
+    "t": "/wcsstore/Coles-CAS/images/6/5/4/6541105-th.jpg", 
+    "u2": "$1.30 per 100G", 
+    "pl": "12"
+}

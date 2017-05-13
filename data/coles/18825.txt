@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "42077", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "m": "Arnott's", 
+    "u2": "$1.10 per 100G", 
+    "p": "328874P", 
+    "s": "arnotts-biscuits-assorted-creams", 
+    "u": "18825", 
+    "t": "/wcsstore/Coles-CAS/images/3/2/8/328874-th.jpg", 
+    "n": "Assorted Creams Biscuits", 
+    "pl": "20"
+}

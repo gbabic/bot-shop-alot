@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "3kg"
+        ]
+    }, 
+    "s9": "115465", 
+    "p1": {
+        "o": "15.84"
+    }, 
+    "m": "Paws", 
+    "u2": "$0.53 per 100G", 
+    "p": "8668559P", 
+    "s": "paws-dog-food-mince-lean", 
+    "u": "46716", 
+    "t": "/wcsstore/Coles-CAS/images/8/6/6/8668559-th.jpg", 
+    "n": "Lean Dog Mince", 
+    "pl": "20"
+}

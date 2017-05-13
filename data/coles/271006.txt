@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Baby"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "51 pack"
+        ]
+    }, 
+    "s9": "271017", 
+    "p1": {
+        "l4": "33.0", 
+        "o": "28.0"
+    }, 
+    "m": "Huggies", 
+    "t1": "S", 
+    "p": "1501613P", 
+    "s": "huggies-nappy-pants-girl-jumbo-walker", 
+    "n": "Ultimate Jumbo Walker Nappy Pants Girl 14-18kg", 
+    "u": "271006", 
+    "t": "/wcsstore/Coles-CAS/images/1/5/0/1501613-th.jpg", 
+    "u2": "$0.55 per 1Ea", 
+    "pl": "12"
+}

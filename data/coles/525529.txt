@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "150g"
+        ]
+    }, 
+    "s9": "525566", 
+    "p1": {
+        "l4": "16.49", 
+        "o": "11.99"
+    }, 
+    "m": "Veet", 
+    "t1": "S", 
+    "p": "2513403P", 
+    "s": "veet-white-orchid-vanilla-spa-wax-refill", 
+    "n": "Spawax White Orchid & Vanilla Refill", 
+    "u": "525529", 
+    "t": "/wcsstore/Coles-CAS/images/2/5/1/2513403-th.jpg", 
+    "u2": "$7.99 per 100G", 
+    "pl": "12"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "s9": "139468", 
+    "p1": {
+        "o": "1.76"
+    }, 
+    "m": "Osem", 
+    "u2": "$0.70 per 100G", 
+    "p": "5258109P", 
+    "s": "osem-couscous-toasted", 
+    "u": "75605", 
+    "t": "/wcsstore/Coles-CAS/images/5/2/5/5258109-th.jpg", 
+    "n": "Toasted CousCous", 
+    "pl": "20"
+}

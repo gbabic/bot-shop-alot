@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "35g"
+        ]
+    }, 
+    "s9": "589566", 
+    "p1": {
+        "o": "1.5"
+    }, 
+    "m": "Maggi", 
+    "t1": "V", 
+    "p": "2714981P", 
+    "s": "maggi--creamy-carbonara-dry-recipe-base", 
+    "n": "Creamy Carbonara Dry Recipe Base", 
+    "u": "589516", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/1/2714981-th.jpg", 
+    "u2": "$4.29 per 100G", 
+    "pl": "20"
+}

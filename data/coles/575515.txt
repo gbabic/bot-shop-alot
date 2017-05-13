@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "120g"
+        ]
+    }, 
+    "s9": "575552", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "m": "Wholesome Foods", 
+    "u2": "$4.58 per 100G", 
+    "p": "2510030P", 
+    "s": "wholesome-foods-split-pea-chips", 
+    "u": "575515", 
+    "t": "/wcsstore/Coles-CAS/images/2/5/1/2510030-th.jpg", 
+    "n": "Split Pea Chips", 
+    "pl": "99"
+}

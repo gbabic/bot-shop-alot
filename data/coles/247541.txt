@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "375g"
+        ]
+    }, 
+    "s9": "247584", 
+    "p1": {
+        "o": "6.5"
+    }, 
+    "m": "Don", 
+    "u2": "$17.33 per 1Kg", 
+    "p": "1500360P", 
+    "s": "don-chorizo", 
+    "u": "247541", 
+    "t": "/wcsstore/Coles-CAS/images/1/5/0/1500360-th.jpg", 
+    "n": "Chorizo", 
+    "pl": "20"
+}

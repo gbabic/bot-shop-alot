@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "564010", 
+    "p1": {
+        "l4": "17.6", 
+        "o": "12.8"
+    }, 
+    "m": "1000Hour", 
+    "t1": "S", 
+    "p": "2588934P", 
+    "s": "1000hour-daring-black-day-night-natural-lashes", 
+    "n": "Daring Black Day Night Natural Lashes", 
+    "u": "564004", 
+    "t": "/wcsstore/Coles-CAS/images/2/5/8/2588934-th.jpg", 
+    "u2": "$12.80 per 1KGM", 
+    "pl": "12"
+}

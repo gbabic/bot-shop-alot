@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "328426", 
+    "p1": {
+        "o": "2.2"
+    }, 
+    "m": "Vetta", 
+    "u2": "$0.44 per 100G", 
+    "p": "1691086P", 
+    "s": "vetta-high-fibre-penne-rigate-pasta", 
+    "u": "326095", 
+    "t": "/wcsstore/Coles-CAS/images/1/6/9/1691086-th.jpg", 
+    "n": "High Fibre Penne Rigate Pasta", 
+    "pl": "20"
+}

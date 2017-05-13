@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Fruit & Vegetables"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "0.65"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "32946", 
+    "p1": {
+        "o": "3.835"
+    }, 
+    "m": "Coles", 
+    "s7": "Each papaya approx. 650g; Product of Australia.", 
+    "u2": "$5.90 per 1Kg", 
+    "p": "428937P", 
+    "s": "papaya-red-loose", 
+    "u": "18795", 
+    "t": "/wcsstore/Coles-CAS/images/4/2/8/428937-th.jpg", 
+    "n": "Red Papaya", 
+    "pl": "99"
+}

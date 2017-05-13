@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400mL"
+        ]
+    }, 
+    "s9": "372816", 
+    "p1": {
+        "l4": "13.5", 
+        "o": "9.45"
+    }, 
+    "m": "Garnier", 
+    "t1": "S", 
+    "p": "1683893P", 
+    "s": "garnier-micellar-solution", 
+    "n": "Micellar Cleansing Water", 
+    "u": "372685", 
+    "t": "/wcsstore/Coles-CAS/images/1/6/8/1683893-th.jpg", 
+    "u2": "$2.36 per 100mL", 
+    "pl": "12"
+}

@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "600g"
+        ]
+    }, 
+    "s9": "37412", 
+    "p1": {
+        "o": "7.92"
+    }, 
+    "m": "My Dog", 
+    "s7": "", 
+    "u2": "$1.32 per 100G", 
+    "p": "6387209P", 
+    "s": "my-dog-dog-food-chicken-supreme", 
+    "u": "13872", 
+    "t": "/wcsstore/Coles-CAS/images/6/3/8/6387209-th.jpg", 
+    "n": "Chicken Supreme Dog Food Tray", 
+    "pl": "20"
+}

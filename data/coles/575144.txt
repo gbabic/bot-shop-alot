@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "350g"
+        ]
+    }, 
+    "s9": "575169", 
+    "p1": {
+        "o": "6.04"
+    }, 
+    "m": "McKenzies", 
+    "u2": "$1.73 per 100G", 
+    "p": "2668319P", 
+    "s": "mckenzies--super-blend-soup-mix", 
+    "u": "575144", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/6/2668319-th.jpg", 
+    "n": "Super Blend Soup Mix", 
+    "pl": "20"
+}

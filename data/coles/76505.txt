@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400g"
+        ]
+    }, 
+    "s9": "138614", 
+    "p1": {
+        "l4": "3.85", 
+        "o": "2.9"
+    }, 
+    "m": "Leggo's", 
+    "t1": "S", 
+    "p": "5699443P", 
+    "s": "leggos-pizza-sauce-squeezy", 
+    "n": "Pizza Squeezy Sauce", 
+    "u": "76505", 
+    "t": "/wcsstore/Coles-CAS/images/5/6/9/5699443-th.jpg", 
+    "u2": "$0.73 per 100G", 
+    "pl": "12"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "6 pack"
+        ]
+    }, 
+    "s9": "108894", 
+    "p1": {
+        "l4": "20.96", 
+        "o": "15.2"
+    }, 
+    "m": "Exelpet", 
+    "t1": "S", 
+    "p": "8760482P", 
+    "s": "exelpet-flea-capstar-tablets-for-cats-small-dogs", 
+    "n": "Flea Capstar Tablets for Cats & Small Dogs", 
+    "u": "95329", 
+    "t": "/wcsstore/Coles-CAS/images/8/7/6/8760482-th.jpg", 
+    "u2": "$2.53 per 1Ea", 
+    "pl": "12"
+}

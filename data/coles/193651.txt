@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "u2": "$0.54 per 100G", 
+    "s9": "193894", 
+    "p1": {
+        "o": "2.7"
+    }, 
+    "s7": "", 
+    "m": "Coles Simply Gluten Free", 
+    "n": "Penne Pasta", 
+    "p": "1233252P", 
+    "s": "coles-simply-gluten-free-pasta-penne", 
+    "u": "193651", 
+    "t": "/wcsstore/Coles-CAS/images/1/2/3/1233252-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

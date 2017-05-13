@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "s9": "34192", 
+    "p1": {
+        "o": "4.38"
+    }, 
+    "m": "Arnott's", 
+    "s7": "", 
+    "u2": "$1.75 per 100G", 
+    "p": "9391202P", 
+    "s": "arnotts-biscuits-shapes-variety-multipack", 
+    "u": "10238", 
+    "t": "/wcsstore/Coles-CAS/images/9/3/9/9391202-th.jpg", 
+    "n": "Shapes Variety Multipack", 
+    "pl": "20"
+}

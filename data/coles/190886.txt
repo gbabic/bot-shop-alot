@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Clothing"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "4 pack"
+        ]
+    }, 
+    "u2": "$11.00 per 1ea", 
+    "s9": "193344", 
+    "p1": {
+        "l4": "21.7", 
+        "o": "11.0"
+    }, 
+    "s7": "", 
+    "m": "Bonds", 
+    "n": "Mens Hipster Briefs Large", 
+    "p": "9093179P", 
+    "s": "bonds-mens-briefs-hipster-large-9093179p", 
+    "u": "190886", 
+    "t": "/wcsstore/Coles-CAS/images/9/0/9/9093179-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250mL"
+        ]
+    }, 
+    "s9": "133015", 
+    "p1": {
+        "l4": "4.84", 
+        "o": "3.0"
+    }, 
+    "m": "Paul Newman's Own", 
+    "t1": "S", 
+    "p": "6541309P", 
+    "s": "paul-newmans-own-dressing-south-west", 
+    "n": "South West Dressing", 
+    "u": "72924", 
+    "t": "/wcsstore/Coles-CAS/images/6/5/4/6541309-th.jpg", 
+    "u2": "$1.20 per 100mL", 
+    "pl": "12"
+}

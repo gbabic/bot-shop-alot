@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1200g"
+        ]
+    }, 
+    "s9": "130885", 
+    "p1": {
+        "l4": "16.16", 
+        "o": "9.8"
+    }, 
+    "m": "My Dog", 
+    "t1": "S", 
+    "p": "7531967P", 
+    "s": "my-dog-classic-collection-dog-food-gourmet-beef", 
+    "n": "Classic Collection Gourmet Beef Dog Food Tray", 
+    "u": "66750", 
+    "t": "/wcsstore/Coles-CAS/images/7/5/3/7531967-th.jpg", 
+    "u2": "$0.82 per 100G", 
+    "pl": "12"
+}

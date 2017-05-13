@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "592167", 
+    "p1": {
+        "l4": "4.13", 
+        "o": "2.5"
+    }, 
+    "m": "Leggo's", 
+    "t1": "S", 
+    "p": "2715011P", 
+    "s": "leggos-pizza-supreme-pasta-bake-sauce", 
+    "n": "Pizza Supreme Pasta Bake Sauce", 
+    "u": "592073", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/1/2715011-th.jpg", 
+    "u2": "$0.50 per 100G", 
+    "pl": "12"
+}

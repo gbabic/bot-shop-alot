@@ -1,0 +1,38 @@
+{
+    "a": {
+        "D": [
+            "TOBACCO"
+        ], 
+        "P8": [
+            "Tobacco"
+        ], 
+        "T1": [
+            "true"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "30 pack"
+        ]
+    }, 
+    "s9": "145013", 
+    "p1": {
+        "o": "27.95"
+    }, 
+    "m": "Longbeach", 
+    "s7": "Prices include all taxes", 
+    "u2": "$27.95 per 1ea", 
+    "p": "5118744P", 
+    "s": "longbeach-rich-cigarettes-5118744p", 
+    "u": "81839", 
+    "t": "/wcsstore/Coles-CAS/images/C/i/g/Cigarettes-th.jpg", 
+    "n": "Rich Cigarettes", 
+    "pl": "5"
+}

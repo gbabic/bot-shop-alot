@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "2.5g"
+        ]
+    }, 
+    "s9": "467835", 
+    "p1": {
+        "o": "14.25"
+    }, 
+    "m": "Rimmel", 
+    "u2": "$57.00 per 10G", 
+    "p": "2007984P", 
+    "s": "rimmel--exagerate-lip-liner-diva", 
+    "u": "467703", 
+    "t": "/wcsstore/Coles-CAS/images/2/0/0/2007984-th.jpg", 
+    "n": "Exagerate Lip Liner Diva", 
+    "pl": "20"
+}

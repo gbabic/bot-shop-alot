@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "20g"
+        ]
+    }, 
+    "s9": "168316", 
+    "p1": {
+        "o": "2.75"
+    }, 
+    "m": "MasterFoods", 
+    "u2": "$1.38 per 10G", 
+    "p": "9005375P", 
+    "s": "masterfoods-perfect-for-beef-chilli-garlic-and-capsicum", 
+    "u": "94754", 
+    "t": "/wcsstore/Coles-CAS/images/9/0/0/9005375-th.jpg", 
+    "n": "Perfect For Beef Chilli Garlic and Capsicum Seasoning", 
+    "pl": "20"
+}

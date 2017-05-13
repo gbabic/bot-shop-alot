@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "30g"
+        ]
+    }, 
+    "s9": "29081", 
+    "p1": {
+        "o": "2.48"
+    }, 
+    "m": "Coles", 
+    "s7": "", 
+    "u2": "$0.83 per 10G", 
+    "p": "8983625P", 
+    "s": "coles-chilli-flakes-hot", 
+    "u": "13470", 
+    "t": "/wcsstore/Coles-CAS/images/8/9/8/8983625-th.jpg", 
+    "n": "Hot Chilli Flakes", 
+    "pl": "20"
+}

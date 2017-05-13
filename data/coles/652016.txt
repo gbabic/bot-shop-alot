@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400g"
+        ]
+    }, 
+    "s9": "652029", 
+    "p1": {
+        "l4": "7.15", 
+        "o": "6.5"
+    }, 
+    "m": "Herbert Adams Slow Cooked", 
+    "t1": "N", 
+    "p": "2900669P", 
+    "s": "herbert-adams-slow-cooked-chunky-beef-pepper-pies", 
+    "n": "Chunky Beef & Pepper Pies", 
+    "u": "652016", 
+    "t": "/wcsstore/Coles-CAS/images/2/9/0/2900669-th.jpg", 
+    "u2": "$1.63 per 100G", 
+    "pl": "12"
+}

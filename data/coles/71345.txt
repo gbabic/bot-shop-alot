@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250mL"
+        ]
+    }, 
+    "s9": "134129", 
+    "p1": {
+        "o": "11.0"
+    }, 
+    "m": "Palmer's", 
+    "u2": "$4.40 per 100mL", 
+    "p": "6886548P", 
+    "s": "palmers-oil-body", 
+    "u": "71345", 
+    "t": "/wcsstore/Coles-CAS/images/6/8/8/6886548-th.jpg", 
+    "n": "Body Oil", 
+    "pl": "20"
+}

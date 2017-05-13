@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "75g"
+        ]
+    }, 
+    "s9": "575184", 
+    "p1": {
+        "l4": "8.75", 
+        "o": "6.75"
+    }, 
+    "m": "Madame Flavour", 
+    "t1": "S", 
+    "p": "2613361P", 
+    "s": "madame-flavour-ginger-masala-chai-loose-leaf-tea", 
+    "n": "Ginger Masala Chai Loose Leaf Tea", 
+    "u": "575046", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/1/2613361-th.jpg", 
+    "u2": "$9.00 per 100G", 
+    "pl": "12"
+}

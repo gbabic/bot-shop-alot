@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "s9": "377247", 
+    "p1": {
+        "o": "2.2"
+    }, 
+    "m": "Devondale", 
+    "u2": "$0.88 per 100G", 
+    "p": "1778617P", 
+    "s": "devondale-regular-butter", 
+    "u": "377119", 
+    "t": "/wcsstore/Coles-CAS/images/1/7/7/1778617-th.jpg", 
+    "n": "Regular Butter", 
+    "pl": "20"
+}

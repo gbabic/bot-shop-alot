@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "45g"
+        ]
+    }, 
+    "s9": "111778", 
+    "p1": {
+        "l4": "2.15", 
+        "o": "1.55"
+    }, 
+    "m": "Go Natural", 
+    "t1": "S", 
+    "p": "8379290P", 
+    "s": "go-natural-almond-cashew-bar", 
+    "n": "Almond & Cashew Bar", 
+    "u": "51509", 
+    "t": "/wcsstore/Coles-CAS/images/8/3/7/8379290-th.jpg", 
+    "u2": "$3.44 per 100G", 
+    "pl": "12"
+}

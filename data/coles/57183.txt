@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "3kg"
+        ]
+    }, 
+    "s9": "121444", 
+    "p1": {
+        "o": "19.03"
+    }, 
+    "m": "Optimum", 
+    "u2": "$0.63 per 100G", 
+    "p": "7848180P", 
+    "s": "optimum-adult-small-breed-dog-food-chicken--vegetables-rice", 
+    "u": "57183", 
+    "t": "/wcsstore/Coles-CAS/images/7/8/4/7848180-th.jpg", 
+    "n": "Small Breed with Chicken Vegetables & Rice Dry Dog Food", 
+    "pl": "20"
+}

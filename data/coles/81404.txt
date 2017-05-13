@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "150g"
+        ]
+    }, 
+    "s9": "143424", 
+    "p1": {
+        "o": "2.97"
+    }, 
+    "m": "CSR", 
+    "u2": "$1.98 per 100G", 
+    "p": "4694230P", 
+    "s": "csr-sugar-white-sticks-premium-single-serves", 
+    "u": "81404", 
+    "t": "/wcsstore/Coles-CAS/images/4/6/9/4694230-th.jpg", 
+    "n": "Premium Single Serves White Sugar Sticks", 
+    "pl": "20"
+}

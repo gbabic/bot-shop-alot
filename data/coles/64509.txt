@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "650mL"
+        ]
+    }, 
+    "s9": "126571", 
+    "p1": {
+        "l4": "3.8", 
+        "o": "2.75"
+    }, 
+    "m": "Duck", 
+    "t1": "S", 
+    "p": "7710955P", 
+    "s": "duck-liquid-toilet--cleaner-pine-fresh", 
+    "n": "Pine Fresh 5 in 1 Liquid Toilet Cleaner", 
+    "u": "64509", 
+    "t": "/wcsstore/Coles-CAS/images/7/7/1/7710955-th.jpg", 
+    "u2": "$0.42 per 100mL", 
+    "pl": "12"
+}

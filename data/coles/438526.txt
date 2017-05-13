@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "9mL"
+        ]
+    }, 
+    "s9": "438569", 
+    "p1": {
+        "l4": "21.95", 
+        "o": "11.97"
+    }, 
+    "m": "L'Oreal", 
+    "t1": "S", 
+    "p": "2210547P", 
+    "s": "loreal-mega-volume-miss-manga-all-black-mascara", 
+    "n": "Mega Volume Miss Manga All Black Mascara", 
+    "u": "438526", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/1/2210547-th.jpg", 
+    "u2": "$13.30 per 10mL", 
+    "pl": "12"
+}

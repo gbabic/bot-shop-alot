@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "350g"
+        ]
+    }, 
+    "u2": "$0.29 per 100G", 
+    "s9": "137798", 
+    "p1": {
+        "o": "1.0"
+    }, 
+    "s7": "", 
+    "m": "Coles Smart Buy", 
+    "n": "Powder Custard", 
+    "p": "5896229P", 
+    "s": "coles-smart-buy-custard-powder", 
+    "u": "77639", 
+    "t": "/wcsstore/Coles-CAS/images/5/8/9/5896229-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

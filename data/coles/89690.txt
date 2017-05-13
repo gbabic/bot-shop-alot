@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "148627", 
+    "p1": {
+        "l4": "3.6", 
+        "o": "2.5"
+    }, 
+    "m": "Meadow Lea", 
+    "t1": "S", 
+    "p": "138074P", 
+    "s": "meadow-lea-spread-margarine-tub-138074p", 
+    "n": "Original Margarine Spread", 
+    "u": "89690", 
+    "t": "/wcsstore/Coles-CAS/images/1/3/8/138074-th.jpg", 
+    "u2": "$0.50 per 100G", 
+    "pl": "12"
+}

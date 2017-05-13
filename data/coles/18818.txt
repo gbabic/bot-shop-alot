@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "s9": "32980", 
+    "p1": {
+        "o": "4.02"
+    }, 
+    "m": "Arnott's", 
+    "u2": "$2.01 per 100G", 
+    "p": "329571P", 
+    "s": "arnotts-chocolate-biscuits-mint-slice", 
+    "u": "18818", 
+    "t": "/wcsstore/Coles-CAS/images/3/2/9/329571-th.jpg", 
+    "n": "Mint Slice Chocolate Biscuits", 
+    "pl": "20"
+}

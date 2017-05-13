@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "2 pack"
+        ]
+    }, 
+    "s9": "153557", 
+    "p1": {
+        "l4": "29.43", 
+        "o": "21.4"
+    }, 
+    "m": "Exelpet", 
+    "t1": "S", 
+    "p": "9911890P", 
+    "s": "exelpet-vet-series-spot-on-flea-treatment-9911890p", 
+    "n": "Vet Series Spot On Flea Treatment For Medium Dogs", 
+    "u": "92040", 
+    "t": "/wcsstore/Coles-CAS/images/9/9/1/9911890-th.jpg", 
+    "u2": "$10.70 per 1Ea", 
+    "pl": "12"
+}

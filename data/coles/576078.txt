@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "576124", 
+    "p1": {
+        "o": "4.0"
+    }, 
+    "m": "Coles", 
+    "t1": "V", 
+    "p": "2483470P", 
+    "s": "coles-brown-flaxseed-meal", 
+    "n": "Brown Flaxseed Meal", 
+    "u": "576078", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/8/2483470-th.jpg", 
+    "u2": "$0.80 per 100G", 
+    "pl": "20"
+}

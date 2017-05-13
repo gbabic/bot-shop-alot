@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "480g"
+        ]
+    }, 
+    "s9": "631526", 
+    "p1": {
+        "o": "3.85"
+    }, 
+    "m": "Ixl", 
+    "u2": "$0.80 per 100G", 
+    "p": "2824673P", 
+    "s": "ixl--jam-grapefruit-lemon-lime-glass-conserve", 
+    "u": "631503", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/2/2824673-th.jpg", 
+    "n": "Jam Grapefruit Lemon Lime Glass Conserve", 
+    "pl": "99"
+}

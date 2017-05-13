@@ -1,0 +1,38 @@
+{
+    "a": {
+        "D": [
+            "TOBACCO"
+        ], 
+        "P8": [
+            "Tobacco"
+        ], 
+        "T1": [
+            "true"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 carton"
+        ]
+    }, 
+    "s9": "31302", 
+    "p1": {
+        "o": "226.0"
+    }, 
+    "m": "Peter Stuyvesant", 
+    "s7": "Prices include all taxes", 
+    "u2": "$226.00 per 1ea", 
+    "p": "5030246P", 
+    "s": "peter-stuyvesant-cigarettes-king-size-filter-red-25s", 
+    "u": "21993", 
+    "t": "/wcsstore/Coles-CAS/images/C/i/g/Cigarettes-th.jpg", 
+    "n": "King Size Filter Red Cigarettes 26s", 
+    "pl": "5"
+}

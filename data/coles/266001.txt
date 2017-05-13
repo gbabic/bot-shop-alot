@@ -1,0 +1,22 @@
+{
+    "a": {
+        "A4": [
+            "1.0"
+        ]
+    }, 
+    "u2": "$1.03 per 100KGM", 
+    "s9": "266016", 
+    "p1": {
+        "l4": "6.99", 
+        "o": "5.99"
+    }, 
+    "s7": "", 
+    "m": "Helga's Continental Bakehouse", 
+    "n": "5 Seeds Bread Gluten Free", 
+    "p": "1597496P", 
+    "s": "helgas-bread-gluten-free-5-seeds", 
+    "u": "266001", 
+    "t": "/wcsstore/Coles-CAS/images/1/5/9/1597496-th.jpg", 
+    "t1": "S", 
+    "pl": "99"
+}

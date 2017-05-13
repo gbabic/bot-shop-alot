@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Frozen"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "270g"
+        ]
+    }, 
+    "s9": "452565", 
+    "p1": {
+        "o": "6.6"
+    }, 
+    "m": "Annabel Karmel", 
+    "u2": "$2.44 per 100G", 
+    "p": "2346312P", 
+    "s": "annabel-karmel-frozen-my-1st-bolognese-pureed-blocks", 
+    "u": "452506", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/4/2346312-th.jpg", 
+    "n": "Frozen My 1st Bolognese Pureed Blocks", 
+    "pl": "20"
+}

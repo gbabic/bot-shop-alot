@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100g"
+        ]
+    }, 
+    "s9": "530028", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "m": "Vege Deli", 
+    "u2": "$5.50 per 100G", 
+    "p": "2492212P", 
+    "s": "vege-deli-tumeric-cheese-crisps", 
+    "u": "530016", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/9/2492212-th.jpg", 
+    "n": "Tumeric & Cheese Crisps", 
+    "pl": "20"
+}

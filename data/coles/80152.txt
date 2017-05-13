@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "146973", 
+    "p1": {
+        "o": "3.3"
+    }, 
+    "m": "Nuttelex", 
+    "u2": "$0.66 per 100G", 
+    "p": "4844820P", 
+    "s": "nuttelex-spread-margarine-lite-tub", 
+    "u": "80152", 
+    "t": "/wcsstore/Coles-CAS/images/4/8/4/4844820-th.jpg", 
+    "n": "Spread Lite Tub", 
+    "pl": "20"
+}

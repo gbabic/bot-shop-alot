@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "0.55"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 550g"
+        ]
+    }, 
+    "s9": "526530", 
+    "p1": {
+        "o": "2.2"
+    }, 
+    "m": "Coles Deli", 
+    "s7": "Indicated price based on approx. weight. Weight may vary between 500g and 600g.", 
+    "u2": "$4.00 per 1Kg", 
+    "p": "2271643P", 
+    "s": "coles-deli-rspca-approved-chicken-drumsticks-4-pieces", 
+    "u": "526501", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/7/2271643-th.jpg", 
+    "n": "RSPCA Approved Chicken Drumsticks 4 Pieces", 
+    "pl": "20"
+}

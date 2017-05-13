@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "600g"
+        ]
+    }, 
+    "s9": "584265", 
+    "p1": {
+        "o": "10.0"
+    }, 
+    "m": "Red Tractor", 
+    "t1": "V", 
+    "p": "2497668P", 
+    "s": "red-tractor--tricolour-quinoa-grain", 
+    "n": "Tricolour Quinoa Grain", 
+    "u": "584128", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/9/2497668-th.jpg", 
+    "u2": "$1.67 per 100G", 
+    "pl": "20"
+}

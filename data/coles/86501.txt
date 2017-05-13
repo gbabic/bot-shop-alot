@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "50g"
+        ]
+    }, 
+    "s9": "146108", 
+    "p1": {
+        "o": "3.41"
+    }, 
+    "m": "MasterFoods", 
+    "u2": "$0.68 per 10G", 
+    "p": "318702P", 
+    "s": "masterfoods-barbeque-seasoning", 
+    "u": "86501", 
+    "t": "/wcsstore/Coles-CAS/images/3/1/8/318702-th.jpg", 
+    "n": "Barbeque Seasoning", 
+    "pl": "20"
+}

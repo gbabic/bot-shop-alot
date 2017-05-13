@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "587727", 
+    "p1": {
+        "o": "18.65"
+    }, 
+    "m": "Maybelline", 
+    "u2": "$186.50 per 10G", 
+    "p": "2616790P", 
+    "s": "maybelline-colour-sensational-creamy-mattes-lust-for-blush", 
+    "u": "587531", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/1/2616790-th.jpg", 
+    "n": "Color Sensational Creamy Mattes Collection Lust For Blush", 
+    "pl": "20"
+}

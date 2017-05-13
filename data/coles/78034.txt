@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "2 pack"
+        ]
+    }, 
+    "s9": "140683", 
+    "p1": {
+        "o": "3.4"
+    }, 
+    "m": "Handee", 
+    "t1": "V", 
+    "p": "5294180P", 
+    "s": "handee-ultra-paper-towels-white-5294180p", 
+    "n": "Ultra White Paper Towels", 
+    "u": "78034", 
+    "t": "/wcsstore/Coles-CAS/images/5/2/9/5294180-th.jpg", 
+    "u2": "$2.83 per 100Ea", 
+    "pl": "20"
+}

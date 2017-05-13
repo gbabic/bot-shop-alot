@@ -1,0 +1,39 @@
+{
+    "a": {
+        "D": [
+            "LIQUOR"
+        ], 
+        "P8": [
+            "Alcohol"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "true"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500mL"
+        ]
+    }, 
+    "s9": "138259", 
+    "p1": {
+        "l4": "42.8", 
+        "o": "35.0"
+    }, 
+    "m": "Chambord", 
+    "t1": "S", 
+    "p": "521246P", 
+    "s": "chambord-liqueur", 
+    "n": "Liqueur", 
+    "u": "79918", 
+    "t": "/wcsstore/Coles-CAS/images/5/2/1/521246-th.jpg", 
+    "u2": "$7.00 per 100mL", 
+    "pl": "4"
+}

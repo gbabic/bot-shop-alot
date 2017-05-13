@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250mL"
+        ]
+    }, 
+    "s9": "36143", 
+    "p1": {
+        "o": "3.3"
+    }, 
+    "m": "Kraft", 
+    "u2": "$1.32 per 100mL", 
+    "p": "7531275P", 
+    "s": "kraft-cream-cheese-philadelphia-cream-for-cooking-light", 
+    "u": "16292", 
+    "t": "/wcsstore/Coles-CAS/images/7/5/3/7531275-th.jpg", 
+    "n": "Lite Philadelphia Cream for Cooking", 
+    "pl": "20"
+}

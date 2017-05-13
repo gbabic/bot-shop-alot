@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Fruit & Vegetables"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "138012", 
+    "p1": {
+        "o": "2.3"
+    }, 
+    "m": "Coles", 
+    "s7": "Product of Australia.", 
+    "u2": "$2.30 per 1Ea", 
+    "p": "5536981P", 
+    "s": "honeydew-melon-half", 
+    "u": "79675", 
+    "t": "/wcsstore/Coles-CAS/images/5/5/3/5536981-th.jpg", 
+    "n": "Honeydew Melon Half", 
+    "pl": "99"
+}

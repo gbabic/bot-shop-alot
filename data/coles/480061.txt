@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "360g"
+        ]
+    }, 
+    "s9": "480101", 
+    "p1": {
+        "o": "6.0"
+    }, 
+    "m": "By George", 
+    "t1": "V", 
+    "p": "2362240P", 
+    "s": "by-george-crumbed-frozen-calamari-rings", 
+    "n": "Squid Crumbed Rings", 
+    "u": "480061", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/6/2362240-th.jpg", 
+    "u2": "$16.67 per 1Kg", 
+    "pl": "20"
+}

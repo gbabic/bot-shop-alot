@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200mL"
+        ]
+    }, 
+    "s9": "151255", 
+    "p1": {
+        "l4": "11.22", 
+        "o": "8.16"
+    }, 
+    "m": "Brut", 
+    "t1": "S", 
+    "p": "102849P", 
+    "s": "brut-splash-on-deodorant-for-men", 
+    "n": "Splash On Deodorant For Men", 
+    "u": "90013", 
+    "t": "/wcsstore/Coles-CAS/images/1/0/2/102849-th.jpg", 
+    "u2": "$4.08 per 100mL", 
+    "pl": "12"
+}

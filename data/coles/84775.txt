@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500mL"
+        ]
+    }, 
+    "s9": "144389", 
+    "p1": {
+        "l4": "5.39", 
+        "o": "2.69"
+    }, 
+    "m": "Palmolive", 
+    "t1": "S", 
+    "p": "5113809P", 
+    "s": "palmolive-naturals-shower-gel-milk-shea-butter", 
+    "n": "Shea Butter Shower Gel", 
+    "u": "84775", 
+    "t": "/wcsstore/Coles-CAS/images/5/1/1/5113809-th.jpg", 
+    "u2": "$0.54 per 100mL", 
+    "pl": "12"
+}

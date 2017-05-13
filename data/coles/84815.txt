@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "750g"
+        ]
+    }, 
+    "s9": "145057", 
+    "p1": {
+        "l4": "4.5", 
+        "o": "2.5"
+    }, 
+    "m": "McCain", 
+    "t1": "S", 
+    "p": "5070648P", 
+    "s": "mccain-potato-fries-crunchy-beer-batter-thick-chunky-frozen", 
+    "n": "Beer Battered Chunky Frozen Potato Chips", 
+    "u": "84815", 
+    "t": "/wcsstore/Coles-CAS/images/5/0/7/5070648-th.jpg", 
+    "u2": "$3.33 per 1Kg", 
+    "pl": "12"
+}

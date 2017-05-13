@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Fruit & Vegetables"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "0.35"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "u2": "$1.90 per 1Kg", 
+    "s9": "36495", 
+    "p1": {
+        "o": "0.665"
+    }, 
+    "s7": "Each potato approx. 350g; Product of Australia.", 
+    "m": "Coles", 
+    "n": "Gold Sweet Potatoes", 
+    "p": "4199503P", 
+    "s": "potatoes-sweet-gold-loose", 
+    "u": "17747", 
+    "t": "/wcsstore/Coles-CAS/images/4/1/9/4199503-th.jpg", 
+    "t1": "S", 
+    "pl": "99"
+}

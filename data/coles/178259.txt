@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "180g"
+        ]
+    }, 
+    "s9": "178653", 
+    "p1": {
+        "l4": "4.4", 
+        "o": "3.0"
+    }, 
+    "m": "Nice & Natural", 
+    "t1": "S", 
+    "p": "1250615P", 
+    "s": "nice-natural-nutritional-snacks-superfruit-bar--raspberry-pomegranate", 
+    "n": "Raspberry & Pomegranate Superfruit Bars 6 pack", 
+    "u": "178259", 
+    "t": "/wcsstore/Coles-CAS/images/1/2/5/1250615-th.jpg", 
+    "u2": "$1.67 per 100G", 
+    "pl": "12"
+}

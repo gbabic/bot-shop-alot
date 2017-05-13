@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Mothers Day"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "u2": "$1.00 per 100G", 
+    "s9": "133027", 
+    "p1": {
+        "o": "2.0"
+    }, 
+    "s7": "", 
+    "m": "Coles", 
+    "n": "Hommus Dip", 
+    "p": "6530721P", 
+    "s": "coles-dip-hommus", 
+    "u": "71645", 
+    "t": "/wcsstore/Coles-CAS/images/6/5/3/6530721-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

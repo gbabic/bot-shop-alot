@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "300g"
+        ]
+    }, 
+    "s9": "149472", 
+    "p1": {
+        "o": "3.4"
+    }, 
+    "m": "Cussons", 
+    "t1": "V", 
+    "p": "104108P", 
+    "s": "cussons-imperial-leather-talcum-powder-family-fresh", 
+    "n": "Imperial Leather Family Fresh Talcum Powder", 
+    "u": "88816", 
+    "t": "/wcsstore/Coles-CAS/images/1/0/4/104108-th.jpg", 
+    "u2": "$1.36 per 100G", 
+    "pl": "20"
+}

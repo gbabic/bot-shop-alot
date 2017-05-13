@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "340g"
+        ]
+    }, 
+    "s9": "477100", 
+    "p1": {
+        "o": "7.14"
+    }, 
+    "m": "McCain", 
+    "u2": "$2.10 per 100G", 
+    "p": "2409536P", 
+    "s": "mccain-healthy-choice-japanese-teriyaki-chicken-ready-meal", 
+    "u": "477051", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/0/2409536-th.jpg", 
+    "n": "Healthy Choice Japanese Teriyaki Chicken Ready Meal", 
+    "pl": "20"
+}

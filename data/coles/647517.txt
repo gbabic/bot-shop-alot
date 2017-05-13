@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "134g"
+        ]
+    }, 
+    "s9": "647531", 
+    "p1": {
+        "l4": "4.4", 
+        "o": "3.0"
+    }, 
+    "m": "Pringles Potato", 
+    "t1": "S", 
+    "p": "2784080P", 
+    "s": "pringles-potato-chips-green-curry", 
+    "n": "Chips Green Curry", 
+    "u": "647517", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/8/2784080-th.jpg", 
+    "u2": "$2.24 per 100G", 
+    "pl": "12"
+}

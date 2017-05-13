@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "s9": "466632", 
+    "p1": {
+        "l4": "2.75", 
+        "o": "2.0"
+    }, 
+    "m": "Birds Eye", 
+    "t1": "S", 
+    "p": "2271326P", 
+    "s": "birds-eye-frozen-chopped-kale", 
+    "n": "Frozen Chopped Kale", 
+    "u": "465518", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/7/2271326-th.jpg", 
+    "u2": "$8.00 per 1Kg", 
+    "pl": "12"
+}

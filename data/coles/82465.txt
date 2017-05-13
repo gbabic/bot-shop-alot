@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "s9": "143177", 
+    "p1": {
+        "o": "5.25"
+    }, 
+    "m": "Tandaco", 
+    "u2": "$2.10 per 100G", 
+    "p": "5133351P", 
+    "s": "tandaco-suet-mix-prepared", 
+    "u": "82465", 
+    "t": "/wcsstore/Coles-CAS/images/5/1/3/5133351-th.jpg", 
+    "n": "Prepared Suet Mix", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "170g"
+        ]
+    }, 
+    "s9": "511185", 
+    "p1": {
+        "o": "7.1"
+    }, 
+    "m": "Pereg", 
+    "u2": "$4.18 per 100G", 
+    "p": "2214468P", 
+    "s": "pereg-quinoa-with-vegetables", 
+    "u": "511051", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/1/2214468-th.jpg", 
+    "n": "Quinoa with Vegetables", 
+    "pl": "20"
+}

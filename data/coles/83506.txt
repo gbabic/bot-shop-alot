@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "0.125"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 125g"
+        ]
+    }, 
+    "s9": "143201", 
+    "p1": {
+        "o": "1.75"
+    }, 
+    "m": "Coles Deli", 
+    "s7": "Indicated price based on approx. weight. Weight may vary between 100g and 150g.", 
+    "u2": "$14.00 per 1kg", 
+    "p": "5101537P", 
+    "s": "pork-brawn-sliced", 
+    "u": "83506", 
+    "t": "/wcsstore/Coles-CAS/images/5/1/0/5101537-th.jpg", 
+    "n": "Sliced Hans Pork Brawn", 
+    "pl": "20"
+}

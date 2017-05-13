@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "125g"
+        ]
+    }, 
+    "s9": "573559", 
+    "p1": {
+        "o": "6.88"
+    }, 
+    "m": "Pantalica", 
+    "u2": "$55.04 per 1Kg", 
+    "p": "2488656P", 
+    "s": "pantalica-shredded-buffalo-mozzarella", 
+    "u": "573527", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/8/2488656-th.jpg", 
+    "n": "Shredded Buffalo Mozzarella", 
+    "pl": "99"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250mL"
+        ]
+    }, 
+    "s9": "149162", 
+    "p1": {
+        "o": "4.13"
+    }, 
+    "m": "Bluo", 
+    "u2": "$16.52 per 1L", 
+    "p": "170328P", 
+    "s": "bluo-liquid-blue", 
+    "u": "89659", 
+    "t": "/wcsstore/Coles-CAS/images/1/7/0/170328-th.jpg", 
+    "n": "Liquid Blue Laundry Soaker", 
+    "pl": "20"
+}

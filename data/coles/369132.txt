@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "369375", 
+    "p1": {
+        "o": "2.0"
+    }, 
+    "m": "Jotz", 
+    "u2": "", 
+    "p": "1839380P", 
+    "s": "jotz-shopping-list-magnetic-1839380p", 
+    "u": "369132", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/3/1839380-th.jpg", 
+    "n": "Shopping List Magnetic", 
+    "pl": "20"
+}

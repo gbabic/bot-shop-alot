@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "300g"
+        ]
+    }, 
+    "s9": "212566", 
+    "p1": {
+        "o": "6.04"
+    }, 
+    "m": "The Spice Tailor", 
+    "u2": "$2.68 per 100G", 
+    "p": "1330168P", 
+    "s": "the-spice-tailor-sauce-curry-delicate-korma", 
+    "u": "212508", 
+    "t": "/wcsstore/Coles-CAS/images/1/3/3/1330168-th.jpg", 
+    "n": "Delicate Curry Korma Sauce", 
+    "pl": "20"
+}

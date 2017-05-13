@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250mL"
+        ]
+    }, 
+    "s9": "172524", 
+    "p1": {
+        "o": "7.7"
+    }, 
+    "m": "Rexona", 
+    "s7": "", 
+    "u2": "$3.08 per 100mL", 
+    "p": "8949220P", 
+    "s": "rexona-deodorant-anti-perspirant-aerosol-sexy", 
+    "u": "172514", 
+    "t": "/wcsstore/Coles-CAS/images/8/9/4/8949220-th.jpg", 
+    "n": "Sexy Anti Perspirant Aerosol Deodorant", 
+    "pl": "20"
+}

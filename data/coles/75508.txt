@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "24mL"
+        ]
+    }, 
+    "s9": "141189", 
+    "p1": {
+        "o": "12.65"
+    }, 
+    "m": "Selleys", 
+    "u2": "$12.65 per 1ea", 
+    "p": "5393749P", 
+    "s": "selleys-araldite-5-minute-everyday", 
+    "u": "75508", 
+    "t": "/wcsstore/Coles-CAS/images/5/3/9/5393749-th.jpg", 
+    "n": "Araldite 5 Minute Everyday", 
+    "pl": "20"
+}

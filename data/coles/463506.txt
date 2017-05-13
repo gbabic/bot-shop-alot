@@ -1,0 +1,40 @@
+{
+    "a": {
+        "D": [
+            "DONUTS", 
+            "WAVE"
+        ], 
+        "P8": [
+            "Bread & Bakery"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "680g"
+        ]
+    }, 
+    "s9": "463573", 
+    "p1": {
+        "o": "3.0"
+    }, 
+    "s7": "Due to its short shelf life this product is not available for delivery before 2pm", 
+    "m": "Coles Bakery", 
+    "n": "High Fibre Low Gi White Block Loaf", 
+    "p": "2390642P", 
+    "s": "coles-bakery-hi-fibre-high-fibre-white-block-loaf", 
+    "u": "463506", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/9/2390642-th.jpg", 
+    "a6": false, 
+    "u2": "$0.44 per 100G", 
+    "pl": "20"
+}

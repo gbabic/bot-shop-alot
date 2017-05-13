@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "220g"
+        ]
+    }, 
+    "u2": "$1.36 per 100G", 
+    "s9": "473720", 
+    "p1": {
+        "l4": "4.4", 
+        "o": "3.0"
+    }, 
+    "s7": "", 
+    "m": "Aunt Betty's", 
+    "n": "Plum Puddings 2 pack", 
+    "p": "2424212P", 
+    "s": "aunt-betty-plum-pudding-2-pack", 
+    "u": "473511", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/2/2424212-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "470g"
+        ]
+    }, 
+    "s9": "128850", 
+    "p1": {
+        "o": "7.15"
+    }, 
+    "m": "Old El Paso", 
+    "u2": "$1.52 per 100G", 
+    "p": "7136805P", 
+    "s": "old-el-paso-healthy-fiesta-burrito-kit", 
+    "u": "65286", 
+    "t": "/wcsstore/Coles-CAS/images/7/1/3/7136805-th.jpg", 
+    "n": "Healthy Fiesta Burrito Dinner Kit", 
+    "pl": "20"
+}

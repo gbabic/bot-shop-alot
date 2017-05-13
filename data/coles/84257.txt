@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "24 pack"
+        ]
+    }, 
+    "s9": "142602", 
+    "p1": {
+        "l4": "3.63", 
+        "o": "2.64"
+    }, 
+    "m": "Carefree", 
+    "t1": "S", 
+    "p": "4975090P", 
+    "s": "carefree-barely-there-liners-g-string", 
+    "n": "G String Liners", 
+    "u": "84257", 
+    "t": "/wcsstore/Coles-CAS/images/4/9/7/4975090-th.jpg", 
+    "u2": "$0.11 per 1Ea", 
+    "pl": "12"
+}

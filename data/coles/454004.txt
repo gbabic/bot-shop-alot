@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500mL"
+        ]
+    }, 
+    "s9": "454037", 
+    "p1": {
+        "l4": "7.7", 
+        "o": "3.5"
+    }, 
+    "m": "Colgate", 
+    "t1": "S", 
+    "p": "2222740P", 
+    "s": "colgate-optic-white-mouthwash", 
+    "n": "Optic White Mouthwash", 
+    "u": "454004", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/2/2222740-th.jpg", 
+    "u2": "$0.70 per 100mL", 
+    "pl": "12"
+}

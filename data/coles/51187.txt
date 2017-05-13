@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "30mL"
+        ]
+    }, 
+    "s9": "165758", 
+    "p1": {
+        "l4": "20.85", 
+        "o": "11.0"
+    }, 
+    "m": "Rimmel", 
+    "t1": "S", 
+    "p": "8556475P", 
+    "s": "rimmel-lasting-finish-foundation-liquid-true-ivory", 
+    "n": "Lasting Finish Liquid True Ivory Foundation", 
+    "u": "51187", 
+    "t": "/wcsstore/Coles-CAS/images/8/5/5/8556475-th.jpg", 
+    "u2": "$3.67 per 10mL", 
+    "pl": "12"
+}

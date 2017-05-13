@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "425g"
+        ]
+    }, 
+    "s9": "145353", 
+    "p1": {
+        "l4": "21.84", 
+        "o": "15.88"
+    }, 
+    "m": "Metamucil", 
+    "t1": "S", 
+    "p": "4497320P", 
+    "s": "metamucil-fibre-supplement-powder-lemon-lime-sugar-free", 
+    "n": "Sugar Free Lemon Lime Fibre Supplement Powder 72 Doses", 
+    "u": "83824", 
+    "t": "/wcsstore/Coles-CAS/images/4/4/9/4497320-th.jpg", 
+    "u2": "$3.74 per 100G", 
+    "pl": "12"
+}

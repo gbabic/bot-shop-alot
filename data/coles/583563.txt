@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "7.4g"
+        ]
+    }, 
+    "s9": "583680", 
+    "p1": {
+        "o": "14.85"
+    }, 
+    "m": "Australis", 
+    "u2": "$20.07 per 10G", 
+    "p": "2615673P", 
+    "s": "australis--121-browz-it-eyebrow-kit", 
+    "u": "583563", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/1/2615673-th.jpg", 
+    "n": "121 Browz It Eyebrow Kit", 
+    "pl": "20"
+}

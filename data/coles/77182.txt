@@ -1,0 +1,44 @@
+{
+    "a": {
+        "D": [
+            "LIQUOR"
+        ], 
+        "P8": [
+            "Alcohol"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "true"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "700mL"
+        ]
+    }, 
+    "pr": "35.00000", 
+    "s9": "140456", 
+    "pq": "2", 
+    "pt": "MultibuyMultiSku", 
+    "u2": "$5.43 per 100mL", 
+    "m": "Captain Morgan", 
+    "n": "Spiced Rum", 
+    "p": "5677270P", 
+    "s": "captain-morgan-spiced-rum", 
+    "p1": {
+        "l4": "46.01", 
+        "o": "38.0"
+    }, 
+    "u": "77182", 
+    "t": "/wcsstore/Coles-CAS/images/5/6/7/5677270-th.jpg", 
+    "pd": "2 for $70", 
+    "pi": "10141527", 
+    "t1": "S", 
+    "pl": "4"
+}

@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "485g"
+        ]
+    }, 
+    "s9": "146291", 
+    "p1": {
+        "o": "5.0"
+    }, 
+    "m": "Old El Paso", 
+    "t1": "V", 
+    "p": "5030450P", 
+    "s": "old-el-paso-fajita-kit", 
+    "n": "Fajita Dinner Kit", 
+    "u": "80680", 
+    "t": "/wcsstore/Coles-CAS/images/5/0/3/5030450-th.jpg", 
+    "u2": "$1.03 per 100G", 
+    "pl": "20"
+}

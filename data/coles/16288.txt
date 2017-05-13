@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "120g"
+        ]
+    }, 
+    "s9": "32602", 
+    "p1": {
+        "l4": "2.0", 
+        "o": "1.5"
+    }, 
+    "m": "Organic Bubs", 
+    "t1": "S", 
+    "p": "7574289P", 
+    "s": "organic-bubs-6-months-baby-food-blueberry--banana-quinoa-pouch", 
+    "n": "Blueberry Banana & Quinoa 6+ Months", 
+    "u": "16288", 
+    "t": "/wcsstore/Coles-CAS/images/7/5/7/7574289-th.jpg", 
+    "u2": "$1.25 per 100G", 
+    "pl": "12"
+}

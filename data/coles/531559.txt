@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100g"
+        ]
+    }, 
+    "s9": "531625", 
+    "p1": {
+        "l4": "1.49", 
+        "o": "1.0"
+    }, 
+    "m": "Optimum", 
+    "t1": "S", 
+    "p": "2489284P", 
+    "s": "optimum-beef-rice-adult-dog-food-tray", 
+    "n": "Beef & Rice Adult Dog Food Tray", 
+    "u": "531559", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/8/2489284-th.jpg", 
+    "u2": "$1.00 per 100G", 
+    "pl": "12"
+}

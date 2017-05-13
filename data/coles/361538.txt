@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1L"
+        ]
+    }, 
+    "s9": "361696", 
+    "p1": {
+        "o": "4.07"
+    }, 
+    "m": "Australia's Own", 
+    "u2": "$0.41 per 100mL", 
+    "p": "1836291P", 
+    "s": "australias-own-organic-chicken-style-liquid-stock", 
+    "u": "361538", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/3/1836291-th.jpg", 
+    "n": "Organic Chicken Style Liquid Stock", 
+    "pl": "20"
+}

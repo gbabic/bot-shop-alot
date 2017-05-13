@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "428mL"
+        ]
+    }, 
+    "s9": "134408", 
+    "p1": {
+        "l4": "8.79", 
+        "o": "6.0"
+    }, 
+    "m": "Streets", 
+    "t1": "S", 
+    "p": "6583193P", 
+    "s": "streets-magnum-ice-cream-white", 
+    "n": "Magnum White Ice Cream 4 pack", 
+    "u": "72200", 
+    "t": "/wcsstore/Coles-CAS/images/6/5/8/6583193-th.jpg", 
+    "u2": "$1.40 per 100mL", 
+    "pl": "12"
+}

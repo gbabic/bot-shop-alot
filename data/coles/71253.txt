@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Drinks"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "210g"
+        ]
+    }, 
+    "s9": "136478", 
+    "p1": {
+        "o": "8.75"
+    }, 
+    "m": "Lindt", 
+    "u2": "$4.17 per 100G", 
+    "p": "6934039P", 
+    "s": "lindt-flakes-hot-chocolate", 
+    "u": "71253", 
+    "t": "/wcsstore/Coles-CAS/images/6/9/3/6934039-th.jpg", 
+    "n": "Hot Chocolate Flakes", 
+    "pl": "20"
+}

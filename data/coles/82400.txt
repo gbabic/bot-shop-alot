@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Drinks"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "2L"
+        ]
+    }, 
+    "s9": "141827", 
+    "p1": {
+        "o": "3.14"
+    }, 
+    "m": "Devondale", 
+    "u2": "$1.57 per 1L", 
+    "p": "5230926P", 
+    "s": "devondale-milk-long-life-semi-skim-5230926p", 
+    "u": "82400", 
+    "t": "/wcsstore/Coles-CAS/images/5/2/3/5230926-th.jpg", 
+    "n": "Semi Skim Long Life Milk", 
+    "pl": "20"
+}

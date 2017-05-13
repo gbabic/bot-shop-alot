@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "420g"
+        ]
+    }, 
+    "s9": "118367", 
+    "p1": {
+        "l4": "4.29", 
+        "o": "3.0"
+    }, 
+    "m": "La Zuppa", 
+    "t1": "S", 
+    "p": "8026370P", 
+    "s": "la-zuppa-soup-hearty-chicken-vegetable-with-rice", 
+    "n": "Hearty Chicken & Vegetable with Rice Soup Bowl", 
+    "u": "49867", 
+    "t": "/wcsstore/Coles-CAS/images/8/0/2/8026370-th.jpg", 
+    "u2": "$0.71 per 100G", 
+    "pl": "12"
+}

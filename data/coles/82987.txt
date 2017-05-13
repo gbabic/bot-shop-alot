@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "215g"
+        ]
+    }, 
+    "s9": "146161", 
+    "p1": {
+        "o": "4.39"
+    }, 
+    "m": "Maille", 
+    "u2": "$2.04 per 100G", 
+    "p": "5201123P", 
+    "s": "maille-mustard-dijon", 
+    "u": "82987", 
+    "t": "/wcsstore/Coles-CAS/images/5/2/0/5201123-th.jpg", 
+    "n": "Dijon Mustard", 
+    "pl": "20"
+}

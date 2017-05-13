@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "170g"
+        ]
+    }, 
+    "s9": "676543", 
+    "p1": {
+        "l4": "3.08", 
+        "o": "1.4"
+    }, 
+    "m": "Starburst", 
+    "t1": "S", 
+    "p": "2909743P", 
+    "s": "starburst-tropical-chews", 
+    "n": "Tropical Chews", 
+    "u": "676523", 
+    "t": "/wcsstore/Coles-CAS/images/2/9/0/2909743-th.jpg", 
+    "u2": "$0.82 per 100G", 
+    "pl": "12"
+}

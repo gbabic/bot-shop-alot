@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "28g"
+        ]
+    }, 
+    "s9": "623063", 
+    "p1": {
+        "l4": "2.75", 
+        "o": "1.25"
+    }, 
+    "m": "Freedom Foods", 
+    "t1": "S", 
+    "p": "2819094P", 
+    "s": "crafted-blends-bar-dark-berries-cacao", 
+    "n": "Crafted Blends Dark Berries & Cacao Bar", 
+    "u": "623021", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/1/2819094-th.jpg", 
+    "u2": "$4.46 per 100G", 
+    "pl": "12"
+}

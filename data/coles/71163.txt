@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "131411", 
+    "p1": {
+        "l4": "8.79", 
+        "o": "6.35"
+    }, 
+    "m": "Angas Park", 
+    "t1": "S", 
+    "p": "7050324P", 
+    "s": "angas-park-prunes-pitted-in-resealable-bag", 
+    "n": "Dried Pitted Prunes Resealable Pack", 
+    "u": "71163", 
+    "t": "/wcsstore/Coles-CAS/images/7/0/5/7050324-th.jpg", 
+    "u2": "$12.70 per 1Kg", 
+    "pl": "12"
+}

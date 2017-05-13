@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "490g"
+        ]
+    }, 
+    "s9": "566556", 
+    "p1": {
+        "o": "3.3"
+    }, 
+    "m": "Leggo's", 
+    "u2": "$0.66 per 100G", 
+    "p": "2683899P", 
+    "s": "leggos-napoletana-with-chunky-tomato-herbs-pasta-sauce", 
+    "u": "566518", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/8/2683899-th.jpg", 
+    "n": "Napoletana with Chunky Tomato & Herbs Pasta Sauce", 
+    "pl": "20"
+}

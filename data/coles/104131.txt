@@ -1,0 +1,39 @@
+{
+    "a": {
+        "D": [
+            "EASTER"
+        ], 
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "125g"
+        ]
+    }, 
+    "s9": "157576", 
+    "p1": {
+        "l4": "7.2", 
+        "o": "5.0"
+    }, 
+    "m": "Lindt", 
+    "t1": "S", 
+    "p": "8967491P", 
+    "s": "lindt-lindor-white-chocolate-bags", 
+    "n": "Lindor Stracciatella White Chocolate Ball Bags", 
+    "u": "104131", 
+    "t": "/wcsstore/Coles-CAS/images/8/9/6/8967491-th.jpg", 
+    "u2": "$4.00 per 100G", 
+    "pl": "12"
+}

@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "472056", 
+    "p1": {
+        "o": "16.5"
+    }, 
+    "m": "Petstyle", 
+    "s7": "Assorted Colours & Designs", 
+    "u2": "$16.50 per 1Ea", 
+    "p": "1956169P", 
+    "s": "petstyle-medium-melamine-dog-bowl", 
+    "u": "472023", 
+    "t": "/wcsstore/Coles-CAS/images/1/9/5/1956169-th.jpg", 
+    "n": "Medium Melamine Dog Bowl", 
+    "pl": "20"
+}

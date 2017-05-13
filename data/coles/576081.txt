@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "576127", 
+    "p1": {
+        "o": "2.7"
+    }, 
+    "m": "Coles Simply Gluten Free", 
+    "t1": "V", 
+    "p": "2478200P", 
+    "s": "coles-simply-gluten-free-self-raising-flour", 
+    "n": "Self Raising Flour", 
+    "u": "576081", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/7/2478200-th.jpg", 
+    "u2": "$5.40 per 1Kg", 
+    "pl": "99"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "368591", 
+    "p1": {
+        "l4": "4.4", 
+        "o": "3.77"
+    }, 
+    "m": "Sellotape", 
+    "t1": "S", 
+    "p": "1842556P", 
+    "s": "sellotape-tape-with-dispenser-18mmx25m-1842556p", 
+    "n": "Tape with dispenser 18mmx25m", 
+    "u": "368539", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/4/1842556-th.jpg", 
+    "u2": "", 
+    "pl": "12"
+}

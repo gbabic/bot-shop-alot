@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Fruit & Vegetables"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "0.06"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 60g"
+        ]
+    }, 
+    "s9": "281031", 
+    "p1": {
+        "o": "1.8"
+    }, 
+    "m": "Coles", 
+    "s7": "Mix of Local & Imported Products", 
+    "u2": "$30.01 per 1Kg", 
+    "p": "6105715P", 
+    "s": "coles-fresh-garlic---loose", 
+    "u": "281013", 
+    "t": "/wcsstore/Coles-CAS/images/6/1/0/6105715-th.jpg", 
+    "n": "Garlic loose", 
+    "pl": "99"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "45g"
+        ]
+    }, 
+    "s9": "151422", 
+    "p1": {
+        "l4": "2.2", 
+        "o": "1.0"
+    }, 
+    "m": "Mars", 
+    "t1": "S", 
+    "p": "204168P", 
+    "s": "mars-bounty-chocolate-bar", 
+    "n": "Chocolate Bounty Bar", 
+    "u": "85944", 
+    "t": "/wcsstore/Coles-CAS/images/2/0/4/204168-th.jpg", 
+    "u2": "$2.00 per 100G", 
+    "pl": "12"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "7.5mL"
+        ]
+    }, 
+    "s9": "115182", 
+    "p1": {
+        "o": "22.0"
+    }, 
+    "m": "Maybelline", 
+    "u2": "$29.33 per 10mL", 
+    "p": "8012477P", 
+    "s": "maybelline-volume-express-falsies-mascara-blackest-black", 
+    "u": "53473", 
+    "t": "/wcsstore/Coles-CAS/images/8/0/1/8012477-th.jpg", 
+    "n": "Volume Express Falsies Blackest Black Mascara", 
+    "pl": "20"
+}

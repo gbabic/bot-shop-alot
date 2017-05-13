@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "427019", 
+    "p1": {
+        "o": "14.3"
+    }, 
+    "m": "Petstyle", 
+    "s7": "Assorted Colours & Designs", 
+    "u2": "$14.30 per 1Ea", 
+    "p": "1956067P", 
+    "s": "petstyle-dog-collar-small", 
+    "u": "427009", 
+    "t": "/wcsstore/Coles-CAS/images/1/9/5/1956067-th.jpg", 
+    "n": "Dog Collar Small", 
+    "pl": "20"
+}

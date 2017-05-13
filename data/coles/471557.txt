@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "90g"
+        ]
+    }, 
+    "s9": "471622", 
+    "p1": {
+        "o": "3.03"
+    }, 
+    "m": "Continental", 
+    "u2": "$3.37 per 100G", 
+    "p": "2263113P", 
+    "s": "continental-creamy-pumpkin-sage-bacon-pasta-sauce", 
+    "u": "471557", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/6/2263113-th.jpg", 
+    "n": "Creamy Pumpkin Sage & Bacon Pasta & Sauce Serves 3", 
+    "pl": "20"
+}

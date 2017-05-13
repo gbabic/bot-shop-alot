@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100 each"
+        ]
+    }, 
+    "s9": "368624", 
+    "p1": {
+        "o": "1.75"
+    }, 
+    "m": "Marbig", 
+    "u2": "", 
+    "p": "1839121P", 
+    "s": "marbig-paper-clips-1839121p", 
+    "u": "368521", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/3/1839121-th.jpg", 
+    "n": "Paper Clips", 
+    "pl": "20"
+}

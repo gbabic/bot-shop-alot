@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400g"
+        ]
+    }, 
+    "s9": "391189", 
+    "p1": {
+        "o": "7.7"
+    }, 
+    "m": "Genius", 
+    "u2": "$1.93 per 100G", 
+    "p": "1885129P", 
+    "s": "genius-gluten-free-frozen-puff-pastry", 
+    "u": "391054", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/8/1885129-th.jpg", 
+    "n": "Gluten Free Frozen Puff Pastry", 
+    "pl": "20"
+}

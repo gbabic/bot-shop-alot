@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "s9": "37355", 
+    "p1": {
+        "o": "4.79"
+    }, 
+    "m": "Griffins", 
+    "u2": "$2.40 per 100G", 
+    "p": "6961870P", 
+    "s": "griffins-mallowpuffs-chocolate", 
+    "u": "21781", 
+    "t": "/wcsstore/Coles-CAS/images/6/9/6/6961870-th.jpg", 
+    "n": "Mallowpuffs Chocolate", 
+    "pl": "20"
+}

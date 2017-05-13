@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "37g"
+        ]
+    }, 
+    "s9": "583649", 
+    "p1": {
+        "o": "1.79"
+    }, 
+    "m": "Continental", 
+    "u2": "$4.84 per 100G", 
+    "p": "2746070P", 
+    "s": "continental-mild-green-chicken-curry-recipe-mix", 
+    "u": "583508", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/4/2746070-th.jpg", 
+    "n": "Mild Green Chicken Curry Recipe Mix", 
+    "pl": "99"
+}

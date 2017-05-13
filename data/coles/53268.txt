@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "130g"
+        ]
+    }, 
+    "u2": "$2.00 per 1Ea", 
+    "s9": "114965", 
+    "p1": {
+        "o": "2.0"
+    }, 
+    "s7": "", 
+    "m": "Wicked", 
+    "n": "Caramel Dipping Sauce", 
+    "p": "8165740P", 
+    "s": "wicked-dipping-sauce-caramel", 
+    "u": "53268", 
+    "t": "/wcsstore/Coles-CAS/images/8/1/6/8165740-th.jpg", 
+    "t1": "S", 
+    "pl": "99"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Mothers Day"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400mL"
+        ]
+    }, 
+    "s9": "30052", 
+    "p1": {
+        "o": "8.8"
+    }, 
+    "m": "Nivea", 
+    "u2": "$2.20 per 100mL", 
+    "p": "7198992P", 
+    "s": "nivea-body-lotion-rich-nourishing", 
+    "u": "13785", 
+    "t": "/wcsstore/Coles-CAS/images/7/1/9/7198992-th.jpg", 
+    "n": "Rich Nourishing Body Lotion", 
+    "pl": "20"
+}

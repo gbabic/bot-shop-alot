@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "580g"
+        ]
+    }, 
+    "s9": "116840", 
+    "p1": {
+        "o": "4.4"
+    }, 
+    "m": "Green's", 
+    "u2": "$0.76 per 100G", 
+    "p": "8666939P", 
+    "s": "greens-orange-poppyseed-cake", 
+    "u": "103471", 
+    "t": "/wcsstore/Coles-CAS/images/8/6/6/8666939-th.jpg", 
+    "n": "Orange & Poppyseed Cake Mix", 
+    "pl": "20"
+}

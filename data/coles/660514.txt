@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "120g"
+        ]
+    }, 
+    "s9": "660558", 
+    "p1": {
+        "l4": "4.95", 
+        "o": "4.5"
+    }, 
+    "m": "Tyrrells", 
+    "t1": "N", 
+    "p": "2871630P", 
+    "s": "tyrrells-veg-crisps", 
+    "n": "Veg Crisps", 
+    "u": "660514", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/7/2871630-th.jpg", 
+    "u2": "$3.75 per 100G", 
+    "pl": "12"
+}

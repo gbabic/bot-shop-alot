@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "428mL"
+        ]
+    }, 
+    "s9": "31129", 
+    "p1": {
+        "l4": "8.79", 
+        "o": "6.0"
+    }, 
+    "m": "Streets", 
+    "t1": "S", 
+    "p": "6893703P", 
+    "s": "streets-magnum-ice-cream-almond-4-pack", 
+    "n": "Magnum Almond Ice Cream 4 pack", 
+    "u": "19533", 
+    "t": "/wcsstore/Coles-CAS/images/6/8/9/6893703-th.jpg", 
+    "u2": "$1.40 per 100mL", 
+    "pl": "12"
+}

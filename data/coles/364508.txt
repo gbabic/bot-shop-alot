@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "685g"
+        ]
+    }, 
+    "s9": "364531", 
+    "p1": {
+        "o": "5.61"
+    }, 
+    "m": "Goulburn Valley", 
+    "u2": "$8.19 per 1Kg", 
+    "p": "1860140P", 
+    "s": "goulburn-valley-sliced-mangoes-in-juice", 
+    "u": "364508", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/6/1860140-th.jpg", 
+    "n": "Sliced Mangoes In Juice", 
+    "pl": "20"
+}

@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Fruit & Vegetables"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "300g"
+        ]
+    }, 
+    "s9": "31134", 
+    "p1": {
+        "o": "5.0"
+    }, 
+    "m": "Coles", 
+    "s7": "Product of Australia.", 
+    "u2": "$16.67 per 1Kg", 
+    "p": "6837145P", 
+    "s": "figs-prepacked-6837145p", 
+    "u": "16393", 
+    "t": "/wcsstore/Coles-CAS/images/6/8/3/6837145-th.jpg", 
+    "n": "Figs Prepacked", 
+    "pl": "99"
+}

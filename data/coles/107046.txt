@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "0.5"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 500g pack"
+        ]
+    }, 
+    "s9": "158913", 
+    "p1": {
+        "o": "12.5"
+    }, 
+    "m": "Continental Kosher", 
+    "s7": "Indicated price based on approx. weight. Weight may vary between 450g and 550g.", 
+    "u2": "$25.00 per 1Kg", 
+    "p": "9329140P", 
+    "s": "continental-kosher-beef-tongue-pickled", 
+    "u": "107046", 
+    "t": "/wcsstore/Coles-CAS/images/9/3/2/9329140-th.jpg", 
+    "n": "Pickled Beef Tongue", 
+    "pl": "20"
+}

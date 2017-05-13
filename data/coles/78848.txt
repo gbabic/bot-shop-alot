@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "s9": "140294", 
+    "p1": {
+        "o": "10.16"
+    }, 
+    "m": "Lavazza", 
+    "u2": "$5.08 per 100G", 
+    "p": "5896025P", 
+    "s": "lavazza-ground-coffee-torino-caffe-espresso", 
+    "u": "78848", 
+    "t": "/wcsstore/Coles-CAS/images/5/8/9/5896025-th.jpg", 
+    "n": "Caffe Espresso Ground Coffee", 
+    "pl": "20"
+}

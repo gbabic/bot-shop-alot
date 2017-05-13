@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Bread & Bakery"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "650g"
+        ]
+    }, 
+    "u2": "$0.23 per 100G", 
+    "s9": "32908", 
+    "p1": {
+        "o": "1.5"
+    }, 
+    "s7": "5c from the purchase of this bread will be donated by Coles to Redkite.", 
+    "m": "Coles", 
+    "n": "Wholemeal Sandwich Bread", 
+    "p": "4901356P", 
+    "s": "-4901356p", 
+    "u": "22005", 
+    "t": "/wcsstore/Coles-CAS/images/4/9/0/4901356-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

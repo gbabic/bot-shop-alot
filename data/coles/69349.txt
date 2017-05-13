@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.5"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 1.5kg pack"
+        ]
+    }, 
+    "s9": "132063", 
+    "p1": {
+        "o": "10.8"
+    }, 
+    "m": "Lilydale", 
+    "s7": "Indicated price based on approx. weight. Weight may vary between 1kg and 2kg.", 
+    "u2": "$7.20 per 1Kg", 
+    "p": "7607184P", 
+    "s": "lilydale-free-range-whole-chicken", 
+    "u": "69349", 
+    "t": "/wcsstore/Coles-CAS/images/7/6/0/7607184-th.jpg", 
+    "n": "Free Range Whole Chicken", 
+    "pl": "20"
+}

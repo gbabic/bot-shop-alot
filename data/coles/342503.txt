@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Clothing"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "2 pack"
+        ]
+    }, 
+    "u2": "", 
+    "s9": "342569", 
+    "p1": {
+        "l4": "14.0", 
+        "o": "7.0"
+    }, 
+    "s7": "", 
+    "m": "Bonds", 
+    "n": "Womens Ultimate Comfort Socks Assorted 1 size 8+", 
+    "p": "1837160P", 
+    "s": "bonds-womens-ultimate-comfort-socks-assorted-1-size-8", 
+    "u": "342503", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/3/1837160-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

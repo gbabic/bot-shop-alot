@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "2kg"
+        ]
+    }, 
+    "s9": "169061", 
+    "p1": {
+        "o": "7.26"
+    }, 
+    "m": "Peters", 
+    "u2": "$0.36 per 100G", 
+    "p": "9270570P", 
+    "s": "peters-alfalfa-n-fruit-rabbit-guinea-pig-food", 
+    "u": "105695", 
+    "t": "/wcsstore/Coles-CAS/images/9/2/7/9270570-th.jpg", 
+    "n": "Alfalfa n Fruit Rabbit & Guinea Pig Food", 
+    "pl": "20"
+}

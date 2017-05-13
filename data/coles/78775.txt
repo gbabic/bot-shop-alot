@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "375g"
+        ]
+    }, 
+    "s9": "139617", 
+    "p1": {
+        "l4": "4.94", 
+        "o": "3.5"
+    }, 
+    "m": "Kraft", 
+    "t1": "S", 
+    "p": "6010335P", 
+    "s": "kraft-peanut-butter-crunchy-light", 
+    "n": "Light Crunchy Peanut Butter", 
+    "u": "78775", 
+    "t": "/wcsstore/Coles-CAS/images/6/0/1/6010335-th.jpg", 
+    "u2": "$0.93 per 100G", 
+    "pl": "12"
+}

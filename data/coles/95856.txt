@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "90g"
+        ]
+    }, 
+    "s9": "161588", 
+    "p1": {
+        "l4": "2.92", 
+        "o": "2.0"
+    }, 
+    "m": "Red Rock Deli", 
+    "t1": "S", 
+    "p": "9601780P", 
+    "s": "red-rock-deli-potato-chips-sour-cream-sweet-chilli", 
+    "n": "Sour Cream & Sweet Chilli Potato Chips", 
+    "u": "95856", 
+    "t": "/wcsstore/Coles-CAS/images/9/6/0/9601780-th.jpg", 
+    "u2": "$2.22 per 100G", 
+    "pl": "12"
+}

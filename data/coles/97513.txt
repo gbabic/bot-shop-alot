@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "185g"
+        ]
+    }, 
+    "s9": "157385", 
+    "p1": {
+        "l4": "4.4", 
+        "o": "3.0"
+    }, 
+    "m": "Kellogg's", 
+    "t1": "S", 
+    "p": "9264260P", 
+    "s": "kelloggs-k-time-twists-strawberry-yoghurt", 
+    "n": "Strawberry & Yoghurt K-Time Twists", 
+    "u": "97513", 
+    "t": "/wcsstore/Coles-CAS/images/9/2/6/9264260-th.jpg", 
+    "u2": "$1.62 per 100G", 
+    "pl": "12"
+}

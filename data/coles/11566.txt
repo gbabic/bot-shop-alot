@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 Each"
+        ]
+    }, 
+    "s9": "36119", 
+    "p1": {
+        "o": "14.2"
+    }, 
+    "m": "Pope All Rounder", 
+    "u2": "$14.20 per 1ea", 
+    "p": "7751985P", 
+    "s": "pope-all-rounder-bypass-pruner", 
+    "u": "11566", 
+    "t": "/wcsstore/Coles-CAS/images/7/7/5/7751985-th.jpg", 
+    "n": "Bypass Pruner", 
+    "pl": "20"
+}

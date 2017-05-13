@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "350g"
+        ]
+    }, 
+    "s9": "147366", 
+    "p1": {
+        "l4": "7.7", 
+        "o": "6.15"
+    }, 
+    "m": "Ratsak", 
+    "t1": "S", 
+    "p": "221713P", 
+    "s": "ratsak-rat-mouse-bait", 
+    "n": "Rat & Mouse Bait", 
+    "u": "89063", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/1/221713-th.jpg", 
+    "u2": "$1.76 per 100G", 
+    "pl": "12"
+}

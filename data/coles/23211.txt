@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 pack"
+        ]
+    }, 
+    "s9": "41448", 
+    "p1": {
+        "o": "32.99"
+    }, 
+    "m": "Duracell", 
+    "u2": "$32.99 per 1Ea", 
+    "p": "1014601P", 
+    "s": "duracell-rechargeable-battery-charger-cef14", 
+    "u": "23211", 
+    "t": "/wcsstore/Coles-CAS/images/1/0/1/1014601-th.jpg", 
+    "n": "CEF14 Hi-Speed Rechargeable Battery Charger", 
+    "pl": "20"
+}

@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "0.8"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 800g pack"
+        ]
+    }, 
+    "s9": "169071", 
+    "p1": {
+        "o": "8.8"
+    }, 
+    "m": "Coles", 
+    "s7": "Indicated price based on approx. weight. Weight may vary between 750g and 850g.", 
+    "u2": "$11.00 per 1Kg", 
+    "p": "9264533P", 
+    "s": "coles-lamb-shanks-2-pieces", 
+    "u": "47403", 
+    "t": "/wcsstore/Coles-CAS/images/9/2/6/9264533-th.jpg", 
+    "n": "Lamb Shanks 2 pieces", 
+    "pl": "20"
+}

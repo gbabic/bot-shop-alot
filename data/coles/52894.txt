@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "300g"
+        ]
+    }, 
+    "s9": "116630", 
+    "p1": {
+        "o": "8.09"
+    }, 
+    "m": "Freshlife", 
+    "u2": "$26.97 per 1Kg", 
+    "p": "8442320P", 
+    "s": "freshlife-pepitas", 
+    "u": "52894", 
+    "t": "/wcsstore/Coles-CAS/images/8/4/4/8442320-th.jpg", 
+    "n": "Pepitas", 
+    "pl": "20"
+}

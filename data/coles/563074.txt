@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400g"
+        ]
+    }, 
+    "s9": "563151", 
+    "p1": {
+        "o": "2.15"
+    }, 
+    "m": "Edgell", 
+    "u2": "$5.38 per 1Kg", 
+    "p": "2612777P", 
+    "s": "edgell-black-eye-beans", 
+    "u": "563074", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/1/2612777-th.jpg", 
+    "n": "Black Eye Beans", 
+    "pl": "20"
+}

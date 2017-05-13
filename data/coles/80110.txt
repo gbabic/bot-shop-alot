@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "34g"
+        ]
+    }, 
+    "s9": "146353", 
+    "p1": {
+        "l4": "3.3", 
+        "o": "2.1"
+    }, 
+    "m": "Atkins", 
+    "t1": "S", 
+    "p": "4912873P", 
+    "s": "atkins-enduldge-bar-caramel-nut-chew", 
+    "n": "Enduldge Caramel Nut Chew Bar", 
+    "u": "80110", 
+    "t": "/wcsstore/Coles-CAS/images/4/9/1/4912873-th.jpg", 
+    "u2": "$6.18 per 100G", 
+    "pl": "12"
+}

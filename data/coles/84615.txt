@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "148461", 
+    "p1": {
+        "l4": "2.75", 
+        "o": "1.9"
+    }, 
+    "m": "Barilla", 
+    "t1": "V", 
+    "p": "354193P", 
+    "s": "barilla-pasta-spaghettoni-no-7", 
+    "n": "Spaghettoni No 7", 
+    "u": "84615", 
+    "t": "/wcsstore/Coles-CAS/images/3/5/4/354193-th.jpg", 
+    "u2": "$0.38 per 100G", 
+    "pl": "12"
+}

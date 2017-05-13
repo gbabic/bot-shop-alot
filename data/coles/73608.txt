@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400g"
+        ]
+    }, 
+    "u2": "$0.21 per 100G", 
+    "s9": "135712", 
+    "p1": {
+        "o": "0.85"
+    }, 
+    "s7": "", 
+    "m": "Coles", 
+    "n": "Casserole Chicken & Turkey Canned Cat Food", 
+    "p": "6429080P", 
+    "s": "coles-brand-cat-food-chicken-turkey-casserole", 
+    "u": "73608", 
+    "t": "/wcsstore/Coles-CAS/images/6/4/2/6429080-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

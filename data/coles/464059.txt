@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "300g"
+        ]
+    }, 
+    "s9": "464085", 
+    "p1": {
+        "o": "6.59"
+    }, 
+    "m": "Flax Farms", 
+    "u2": "$21.97 per 1Kg", 
+    "p": "2276545P", 
+    "s": "flax-farms-almond-baking-meal", 
+    "u": "464059", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/7/2276545-th.jpg", 
+    "n": "Almond Baking Meal", 
+    "pl": "20"
+}

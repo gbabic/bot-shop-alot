@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250mL"
+        ]
+    }, 
+    "s9": "115604", 
+    "p1": {
+        "o": "2.63"
+    }, 
+    "m": "MasterFoods", 
+    "u2": "$1.05 per 100mL", 
+    "p": "8615440P", 
+    "s": "masterfoods-barbeque-sauce-squeeze", 
+    "u": "51069", 
+    "t": "/wcsstore/Coles-CAS/images/8/6/1/8615440-th.jpg", 
+    "n": "Squeezy BBQ Sauce", 
+    "pl": "20"
+}

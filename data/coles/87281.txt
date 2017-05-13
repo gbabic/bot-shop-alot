@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "60g"
+        ]
+    }, 
+    "s9": "147354", 
+    "p1": {
+        "l4": "2.2", 
+        "o": "1.0"
+    }, 
+    "m": "Continental", 
+    "t1": "S", 
+    "p": "255646P", 
+    "s": "continental-cup-a-soup-lots-a-noodles-cream-of-chicken", 
+    "n": "Lots A Noodles Cream of Chicken Cup A Soup 2 pack", 
+    "u": "87281", 
+    "t": "/wcsstore/Coles-CAS/images/2/5/5/255646-th.jpg", 
+    "u2": "$1.67 per 100G", 
+    "pl": "12"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "240g"
+        ]
+    }, 
+    "s9": "118888", 
+    "p1": {
+        "o": "4.4"
+    }, 
+    "m": "Mother Earth", 
+    "u2": "$1.83 per 100G", 
+    "p": "8221513P", 
+    "s": "mother-earth-baked-oaty-slices-almond-honey", 
+    "u": "55904", 
+    "t": "/wcsstore/Coles-CAS/images/8/2/2/8221513-th.jpg", 
+    "n": "Almond Honey Baked Oaty Slices", 
+    "pl": "20"
+}

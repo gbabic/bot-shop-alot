@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "150g"
+        ]
+    }, 
+    "s9": "660535", 
+    "p1": {
+        "l4": "3.63", 
+        "o": "1.65"
+    }, 
+    "m": "Smiths Crinkle", 
+    "t1": "S", 
+    "p": "2872585P", 
+    "s": "smiths-crinkle-bega-cheese-chips", 
+    "n": "Bega Cheese Chips", 
+    "u": "660523", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/7/2872585-th.jpg", 
+    "u2": "$1.10 per 100G", 
+    "pl": "12"
+}

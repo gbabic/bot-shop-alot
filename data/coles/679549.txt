@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Fruit & Vegetables"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "perkg"
+        ]
+    }, 
+    "s9": "679681", 
+    "p1": {
+        "o": "20.0"
+    }, 
+    "m": "Scoop And Weigh", 
+    "u2": "$20.00 per 1Kg", 
+    "p": "1944206P", 
+    "s": "scoop-and-weigh-mango-slice", 
+    "u": "679549", 
+    "t": "/wcsstore/Coles-CAS/images/1/9/4/1944206-th.jpg", 
+    "n": "Mango Slice", 
+    "pl": "99"
+}

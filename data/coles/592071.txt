@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "351g"
+        ]
+    }, 
+    "s9": "592165", 
+    "p1": {
+        "o": "7.7"
+    }, 
+    "m": "Old El Paso", 
+    "u2": "$2.19 per 100G", 
+    "p": "2715452P", 
+    "s": "old-el-paso--stand-n-stuff-crispy-chicken-soft-taco-kit", 
+    "u": "592071", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/1/2715452-th.jpg", 
+    "n": "Stand N Stuff Crispy Chicken Soft Taco Kit", 
+    "pl": "99"
+}

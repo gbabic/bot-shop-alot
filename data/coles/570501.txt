@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "175g"
+        ]
+    }, 
+    "s9": "570504", 
+    "p1": {
+        "l4": "4.84", 
+        "o": "3.0"
+    }, 
+    "m": "Kettle", 
+    "t1": "S", 
+    "p": "2670081P", 
+    "s": "kettle-sweet-chilli-sour-cream-potato-chips", 
+    "n": "Sweet Chilli & Sour Cream Potato Chips", 
+    "u": "570501", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/7/2670081-th.jpg", 
+    "u2": "$1.71 per 100G", 
+    "pl": "12"
+}

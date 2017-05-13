@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "92g"
+        ]
+    }, 
+    "s9": "660553", 
+    "p1": {
+        "l4": "4.84", 
+        "o": "3.5"
+    }, 
+    "m": "Kettle Sweet Potato", 
+    "t1": "S", 
+    "p": "2872450P", 
+    "s": "kettle-sweet-potato-multipack-5pk", 
+    "n": "Multipack 5pk", 
+    "u": "660510", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/7/2872450-th.jpg", 
+    "u2": "$3.80 per 100G", 
+    "pl": "12"
+}

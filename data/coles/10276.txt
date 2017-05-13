@@ -1,0 +1,39 @@
+{
+    "a": {
+        "D": [
+            "LIQUOR"
+        ], 
+        "P8": [
+            "Alcohol"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "true"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "4 pack"
+        ]
+    }, 
+    "s9": "28062", 
+    "p1": {
+        "l4": "21.4", 
+        "o": "18.0"
+    }, 
+    "m": "Woodstock", 
+    "t1": "S", 
+    "p": "9196998P", 
+    "s": "woodstock-bourbon-cola-6%-375ml-cans", 
+    "n": "Bourbon & Cola 6% 375mL Cans", 
+    "u": "10276", 
+    "t": "/wcsstore/Coles-CAS/images/9/1/9/9196998-th.jpg", 
+    "u2": "$1.20 per 100mL", 
+    "pl": "4"
+}

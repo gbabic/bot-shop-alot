@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "4 pack"
+        ]
+    }, 
+    "s9": "124714", 
+    "p1": {
+        "o": "7.69"
+    }, 
+    "m": "Gillette", 
+    "u2": "$1.92 per 1Ea", 
+    "p": "7660664P", 
+    "s": "gillette-simply-venus-disposable-razors", 
+    "u": "60416", 
+    "t": "/wcsstore/Coles-CAS/images/7/6/6/7660664-th.jpg", 
+    "n": "Simply Venus Disposable Shaving Razor", 
+    "pl": "20"
+}

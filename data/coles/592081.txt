@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "300g"
+        ]
+    }, 
+    "s9": "592173", 
+    "p1": {
+        "l4": "10.45", 
+        "o": "8.0"
+    }, 
+    "m": "Red Tractor", 
+    "t1": "S", 
+    "p": "2618263P", 
+    "s": "red-tractor--paleo-cereal-nut-crunch", 
+    "n": "Paleo Nut Crunch Cereal", 
+    "u": "592081", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/1/2618263-th.jpg", 
+    "u2": "$2.67 per 100G", 
+    "pl": "12"
+}

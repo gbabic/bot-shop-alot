@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "375g"
+        ]
+    }, 
+    "u2": "$0.88 per 100G", 
+    "s9": "608509", 
+    "p1": {
+        "o": "3.3"
+    }, 
+    "s7": "Voted Product Of The Year 2017", 
+    "m": "Coles", 
+    "n": "Chicken Teriyaki", 
+    "p": "2742014P", 
+    "s": "coles-chicken-teriyaki", 
+    "u": "608505", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/4/2742014-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

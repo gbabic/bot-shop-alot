@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "2L"
+        ]
+    }, 
+    "s9": "141110", 
+    "p1": {
+        "o": "5.65"
+    }, 
+    "m": "Oak", 
+    "u2": "$2.83 per 1L", 
+    "p": "5467233P", 
+    "s": "oak-classic-milk-flavoured-strawberry", 
+    "u": "79123", 
+    "t": "/wcsstore/Coles-CAS/images/5/4/6/5467233-th.jpg", 
+    "n": "Classic Strawberry Flavoured Milk", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "300g"
+        ]
+    }, 
+    "s9": "157073", 
+    "p1": {
+        "o": "5.82"
+    }, 
+    "m": "Schwarzkopt", 
+    "u2": "$1.94 per 100G", 
+    "p": "9512216P", 
+    "s": "schwarzkopt-taft-mega-styling-gel", 
+    "u": "91126", 
+    "t": "/wcsstore/Coles-CAS/images/9/5/1/9512216-th.jpg", 
+    "n": "Taft Mega Styling Gel", 
+    "pl": "20"
+}

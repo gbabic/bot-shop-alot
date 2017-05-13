@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "27g"
+        ]
+    }, 
+    "s9": "140201", 
+    "p1": {
+        "l4": "2.2", 
+        "o": "1.5"
+    }, 
+    "m": "Wrigley", 
+    "t1": "S", 
+    "p": "6023031P", 
+    "s": "wrigleys-extra-strawberry-envelope-14-pieces", 
+    "n": "Extra Strawberry Chewing Gum 14 Piece Envelope Pack", 
+    "u": "78764", 
+    "t": "/wcsstore/Coles-CAS/images/6/0/2/6023031-th.jpg", 
+    "u2": "$5.56 per 100G", 
+    "pl": "12"
+}

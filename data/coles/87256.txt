@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "135g"
+        ]
+    }, 
+    "s9": "149678", 
+    "p1": {
+        "o": "3.52"
+    }, 
+    "m": "Old El Paso", 
+    "u2": "$2.61 per 100G", 
+    "p": "291468P", 
+    "s": "old-el-paso-taco-shells", 
+    "u": "87256", 
+    "t": "/wcsstore/Coles-CAS/images/2/9/1/291468-th.jpg", 
+    "n": "Taco Shells", 
+    "pl": "20"
+}

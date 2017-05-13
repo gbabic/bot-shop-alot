@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "380g"
+        ]
+    }, 
+    "s9": "427787", 
+    "p1": {
+        "o": "8.25"
+    }, 
+    "m": "Pic's", 
+    "u2": "$2.17 per 100G", 
+    "p": "2120207P", 
+    "s": "pics-really-good-original-peanut-butter", 
+    "u": "427618", 
+    "t": "/wcsstore/Coles-CAS/images/2/1/2/2120207-th.jpg", 
+    "n": "Really Good Crunchy Peanut Butter", 
+    "pl": "20"
+}

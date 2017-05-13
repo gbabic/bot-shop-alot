@@ -1,0 +1,38 @@
+{
+    "a": {
+        "D": [
+            "TOBACCO"
+        ], 
+        "P8": [
+            "Tobacco"
+        ], 
+        "T1": [
+            "true"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "20 pack"
+        ]
+    }, 
+    "s9": "32969", 
+    "p1": {
+        "o": "25.95"
+    }, 
+    "m": "Benson & Hedges", 
+    "s7": "Prices include all taxes", 
+    "u2": "$25.95 per 1ea", 
+    "p": "39560P", 
+    "s": "benson-hedges-cigarettes-smooth-dark-blue-39560p", 
+    "u": "19769", 
+    "t": "/wcsstore/Coles-CAS/images/C/i/g/Cigarettes-th.jpg", 
+    "n": "Smooth Dark Blue Cigarettes", 
+    "pl": "5"
+}

@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "0.4"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 400g pack"
+        ]
+    }, 
+    "s9": "161534", 
+    "p1": {
+        "o": "12.0"
+    }, 
+    "m": "Otway", 
+    "s7": "Indicated price based on approx. weight. Weight may vary between 350g and 450g.", 
+    "u2": "$30.00 per 1Kg", 
+    "p": "9668463P", 
+    "s": "otway-pork-pork-loin-steak", 
+    "u": "101610", 
+    "t": "/wcsstore/Coles-CAS/images/9/6/6/9668463-th.jpg", 
+    "n": "Pork Loin Steak", 
+    "pl": "20"
+}

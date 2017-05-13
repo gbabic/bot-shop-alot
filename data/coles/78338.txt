@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "40g"
+        ]
+    }, 
+    "s9": "140901", 
+    "p1": {
+        "l4": "2.2", 
+        "o": "1.0"
+    }, 
+    "m": "Nestle", 
+    "t1": "S", 
+    "p": "5823950P", 
+    "s": "nestle-peppermint-aero-chocolate-bar", 
+    "n": "Peppermint Chocolate Aero Bar", 
+    "u": "78338", 
+    "t": "/wcsstore/Coles-CAS/images/5/8/2/5823950-th.jpg", 
+    "u2": "$2.50 per 100G", 
+    "pl": "12"
+}

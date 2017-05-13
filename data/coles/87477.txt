@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "50 pack"
+        ]
+    }, 
+    "s9": "151016", 
+    "p1": {
+        "o": "5.27"
+    }, 
+    "m": "Deeko", 
+    "u2": "$10.54 per 100Ea", 
+    "p": "128900P", 
+    "s": "deeko-entertainers-serviettes-assorted-colours", 
+    "u": "87477", 
+    "t": "/wcsstore/Coles-CAS/images/1/2/8/128900-th.jpg", 
+    "n": "2 Ply Luncheon Serviettes", 
+    "pl": "20"
+}

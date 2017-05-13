@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "u2": "$13.20 per 1ea", 
+    "s9": "31079", 
+    "p1": {
+        "l4": "22.0", 
+        "o": "13.2"
+    }, 
+    "s7": "", 
+    "m": "Pyrex", 
+    "n": "Easy Grab Covered Casserole Dish 1.9L", 
+    "p": "7306563P", 
+    "s": "pyrex-easy-grab-casserole-dish-covered-19l", 
+    "u": "20154", 
+    "t": "/wcsstore/Coles-CAS/images/7/3/0/7306563-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

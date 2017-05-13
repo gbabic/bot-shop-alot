@@ -1,0 +1,40 @@
+{
+    "a": {
+        "D": [
+            "LIQUOR"
+        ], 
+        "P8": [
+            "Alcohol"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "true"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "24 pack"
+        ]
+    }, 
+    "u2": "$0.45 per 100mL", 
+    "s9": "561533", 
+    "p1": {
+        "l4": "40.66", 
+        "o": "36.0"
+    }, 
+    "m": "Hahn", 
+    "n": "Ultra 330mL Bottles", 
+    "p": "2690690P", 
+    "s": "hahn-ultra-330ml-bottles-2690690p", 
+    "u": "561516", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/9/2690690-th.jpg", 
+    "a6": false, 
+    "t1": "S", 
+    "pl": "12"
+}

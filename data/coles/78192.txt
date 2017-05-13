@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "110g"
+        ]
+    }, 
+    "u2": "$42.27 per 1Kg", 
+    "s9": "140199", 
+    "p1": {
+        "l4": "6.44", 
+        "o": "4.65"
+    }, 
+    "s7": "", 
+    "m": "Lucky", 
+    "n": "Slivered Almonds", 
+    "p": "6023326P", 
+    "s": "lucky-almonds-slivered-6023326p", 
+    "u": "78192", 
+    "t": "/wcsstore/Coles-CAS/images/6/0/2/6023326-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

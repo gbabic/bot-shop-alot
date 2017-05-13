@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "s9": "116834", 
+    "p1": {
+        "o": "4.0"
+    }, 
+    "m": "Yumi's", 
+    "s7": "", 
+    "u2": "$2.00 per 100G", 
+    "p": "8670878P", 
+    "s": "yumis-dip-classic-mediterranean-eggplant", 
+    "u": "48124", 
+    "t": "/wcsstore/Coles-CAS/images/8/6/7/8670878-th.jpg", 
+    "n": "Classic Mediterranean Eggplant Dip", 
+    "pl": "20"
+}

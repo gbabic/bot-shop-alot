@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "136393", 
+    "p1": {
+        "o": "6.5"
+    }, 
+    "m": "Magazine", 
+    "s7": "", 
+    "u2": "", 
+    "p": "641210P", 
+    "s": "better-homes-gardens-magazine", 
+    "u": "71708", 
+    "t": "/wcsstore/Coles-CAS/images/6/4/1/641210-th.jpg", 
+    "n": "Better Homes & Gardens", 
+    "pl": "20"
+}

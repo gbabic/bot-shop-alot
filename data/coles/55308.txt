@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "150g"
+        ]
+    }, 
+    "s9": "120358", 
+    "p1": {
+        "o": "5.61"
+    }, 
+    "m": "Schwarzkopf", 
+    "u2": "$3.74 per 100mL", 
+    "p": "8142938P", 
+    "s": "schwarzkopf-extra-care-hair-mousse-ultimate-styling", 
+    "u": "55308", 
+    "t": "/wcsstore/Coles-CAS/images/8/1/4/8142938-th.jpg", 
+    "n": "Extra Care Ultimate Styling Hair Mousse", 
+    "pl": "20"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "80g"
+        ]
+    }, 
+    "s9": "613568", 
+    "p1": {
+        "l4": "4.29", 
+        "o": "3.12"
+    }, 
+    "m": "Ducks", 
+    "t1": "S", 
+    "p": "2799340P", 
+    "s": "ducks-macadamia-nuts", 
+    "n": "Macadamia Nuts", 
+    "u": "613504", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/9/2799340-th.jpg", 
+    "u2": "$39.00 per 1Kg", 
+    "pl": "12"
+}

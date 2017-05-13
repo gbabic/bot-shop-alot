@@ -1,0 +1,40 @@
+{
+    "a": {
+        "P8": [
+            "Mothers Day"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "540g"
+        ]
+    }, 
+    "pr": "4.00000", 
+    "s9": "145643", 
+    "pq": "2", 
+    "pt": "MultibuyMultiSku", 
+    "u2": "$1.06 per 100G", 
+    "m": "Betty Crocker", 
+    "n": "Devils Food Cake Mix", 
+    "p": "5028448P", 
+    "s": "betty-crocker-cake-mix-devils-food", 
+    "p1": {
+        "o": "5.71"
+    }, 
+    "u": "83568", 
+    "t": "/wcsstore/Coles-CAS/images/5/0/2/5028448-th.jpg", 
+    "pd": "2 for $8", 
+    "pi": "10141006", 
+    "t1": "M", 
+    "pl": "12"
+}

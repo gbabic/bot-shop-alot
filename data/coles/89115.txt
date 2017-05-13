@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "75g"
+        ]
+    }, 
+    "s9": "149158", 
+    "p1": {
+        "o": "2.5"
+    }, 
+    "m": "Sanofi", 
+    "t1": "V", 
+    "p": "173086P", 
+    "s": "fauldings-shaving-cream", 
+    "n": "Shaving Cream", 
+    "u": "89115", 
+    "t": "/wcsstore/Coles-CAS/images/1/7/3/173086-th.jpg", 
+    "u2": "$3.33 per 100G", 
+    "pl": "20"
+}

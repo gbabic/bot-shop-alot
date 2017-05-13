@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "s9": "167926", 
+    "p1": {
+        "o": "9.63"
+    }, 
+    "m": "Elite", 
+    "u2": "$3.85 per 100G", 
+    "p": "9149230P", 
+    "s": "elite-bars-mini-caramel", 
+    "u": "97803", 
+    "t": "/wcsstore/Coles-CAS/images/9/1/4/9149230-th.jpg", 
+    "n": "Mini Caramel Bars", 
+    "pl": "20"
+}

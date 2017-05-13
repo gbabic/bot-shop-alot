@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "133116", 
+    "p1": {
+        "o": "6.99"
+    }, 
+    "m": "Magazine", 
+    "s7": "", 
+    "u2": "$6.99 per 1ea", 
+    "p": "636640P", 
+    "s": "womens-weekly-magazine", 
+    "u": "74365", 
+    "t": "/wcsstore/Coles-CAS/images/6/3/6/636640-th.jpg", 
+    "n": "Women's Weekly", 
+    "pl": "20"
+}

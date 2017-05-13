@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "134g"
+        ]
+    }, 
+    "s9": "593550", 
+    "p1": {
+        "l4": "4.4", 
+        "o": "3.0"
+    }, 
+    "m": "Pringles", 
+    "t1": "S", 
+    "p": "2784058P", 
+    "s": "pringles-sour-cream-onion-potato-chips", 
+    "n": "Sour Cream & Onion Potato Chips", 
+    "u": "593504", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/8/2784058-th.jpg", 
+    "u2": "$2.24 per 100G", 
+    "pl": "12"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "125g"
+        ]
+    }, 
+    "s9": "626512", 
+    "p1": {
+        "o": "3.3"
+    }, 
+    "m": "Kantong Meal Base", 
+    "u2": "$2.64 per 100G", 
+    "p": "2849109P", 
+    "s": "kantong-meal-base-massaman-curry-paste", 
+    "u": "626511", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/4/2849109-th.jpg", 
+    "n": "Massaman Curry Paste", 
+    "pl": "99"
+}

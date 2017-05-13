@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "128g"
+        ]
+    }, 
+    "s9": "143985", 
+    "p1": {
+        "o": "2.64"
+    }, 
+    "m": "Kedem", 
+    "u2": "$2.06 per 100G", 
+    "p": "4843001P", 
+    "s": "kedem-biscuits-sugerfree-choc", 
+    "u": "82648", 
+    "t": "/wcsstore/Coles-CAS/images/4/8/4/4843001-th.jpg", 
+    "n": "Sugerfree Chocolate Biscuit", 
+    "pl": "20"
+}

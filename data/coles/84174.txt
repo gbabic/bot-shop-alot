@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "680g"
+        ]
+    }, 
+    "s9": "146813", 
+    "p1": {
+        "o": "3.58"
+    }, 
+    "m": "My Dog", 
+    "u2": "$0.53 per 100G", 
+    "p": "5102960P", 
+    "s": "my-dog-dog-food-prime-beef-veal-5102960p", 
+    "u": "84174", 
+    "t": "/wcsstore/Coles-CAS/images/5/1/0/5102960-th.jpg", 
+    "n": "Prime Beef & Veal Canned Dog Food", 
+    "pl": "20"
+}

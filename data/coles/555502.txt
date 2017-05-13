@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Bread & Bakery"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "165g"
+        ]
+    }, 
+    "s9": "555505", 
+    "p1": {
+        "l4": "4.0", 
+        "o": "3.0"
+    }, 
+    "m": "Mr Kipling", 
+    "t1": "S", 
+    "p": "1647164P", 
+    "s": "mr-kipling-lemon-snack-pack", 
+    "n": "Layered Lemon Slices 6 Pack", 
+    "u": "555502", 
+    "t": "/wcsstore/Coles-CAS/images/1/6/4/1647164-th.jpg", 
+    "u2": "$1.82 per 100G", 
+    "pl": "12"
+}

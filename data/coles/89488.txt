@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "480g"
+        ]
+    }, 
+    "s9": "149518", 
+    "p1": {
+        "o": "4.39"
+    }, 
+    "m": "Tragano", 
+    "u2": "$9.15 per 1Kg", 
+    "p": "1020080P", 
+    "s": "tragano-greek-peppers-roasted-red", 
+    "u": "89488", 
+    "t": "/wcsstore/Coles-CAS/images/1/0/2/1020080-th.jpg", 
+    "n": "Greek Roasted Red Peppers", 
+    "pl": "20"
+}

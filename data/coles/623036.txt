@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "150mL"
+        ]
+    }, 
+    "s9": "623058", 
+    "p1": {
+        "o": "4.0"
+    }, 
+    "m": "Nivea Double Effect", 
+    "t1": "V", 
+    "p": "2839604P", 
+    "s": "nivea-double-effect-antiperspirant-deodorant", 
+    "n": "Antiperspirant Deodorant", 
+    "u": "623036", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/3/2839604-th.jpg", 
+    "u2": "$2.67 per 100mL", 
+    "pl": "20"
+}

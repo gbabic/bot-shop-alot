@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "442575", 
+    "p1": {
+        "o": "3.0"
+    }, 
+    "m": "Marbig", 
+    "u2": "$3.00 per 1ea", 
+    "p": "1818880P", 
+    "s": "marbig-poly-string-80m", 
+    "u": "442515", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/1/1818880-th.jpg", 
+    "n": "Poly String 80m", 
+    "pl": "20"
+}

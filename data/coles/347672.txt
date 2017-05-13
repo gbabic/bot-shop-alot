@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Mothers Day"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "175g"
+        ]
+    }, 
+    "s9": "347811", 
+    "p1": {
+        "l4": "4.84", 
+        "o": "3.0"
+    }, 
+    "m": "Kettle", 
+    "t1": "S", 
+    "p": "1795310P", 
+    "s": "kettle-honey-soy-chicken-potato-chips", 
+    "n": "Honey Soy Chicken Potato Chips", 
+    "u": "347672", 
+    "t": "/wcsstore/Coles-CAS/images/1/7/9/1795310-th.jpg", 
+    "u2": "$1.71 per 100G", 
+    "pl": "12"
+}

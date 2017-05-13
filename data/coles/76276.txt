@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "32 pack"
+        ]
+    }, 
+    "s9": "139583", 
+    "p1": {
+        "o": "9.35"
+    }, 
+    "m": "U By Kotex", 
+    "u2": "$0.29 per 1Ea", 
+    "p": "6041678P", 
+    "s": "u-by-kotex-tampons-regular", 
+    "u": "76276", 
+    "t": "/wcsstore/Coles-CAS/images/6/0/4/6041678-th.jpg", 
+    "n": "Regular Tampons", 
+    "pl": "20"
+}

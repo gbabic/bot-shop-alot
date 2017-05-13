@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Clothing"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 pack"
+        ]
+    }, 
+    "u2": "", 
+    "s9": "359178", 
+    "p1": {
+        "l4": "20.0", 
+        "o": "10.0"
+    }, 
+    "s7": "", 
+    "m": "Bonds", 
+    "n": "Skinny Legging Assorted Colours Average/Tall", 
+    "p": "1721915P", 
+    "s": "bonds-skinny-legging-mix-colour-average-talls", 
+    "u": "359083", 
+    "t": "/wcsstore/Coles-CAS/images/1/7/2/1721915-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

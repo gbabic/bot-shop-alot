@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 pack"
+        ]
+    }, 
+    "s9": "623515", 
+    "p1": {
+        "l4": "54.99", 
+        "o": "24.99"
+    }, 
+    "m": "Veet Sensitive", 
+    "t1": "S", 
+    "p": "2837482P", 
+    "s": "veet-sensitive-precision-beauty-styler", 
+    "n": "Precision Beauty Styler", 
+    "u": "623507", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/3/2837482-th.jpg", 
+    "u2": "$24.99 per 1Ea", 
+    "pl": "12"
+}

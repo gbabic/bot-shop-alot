@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "175g"
+        ]
+    }, 
+    "s9": "166245", 
+    "p1": {
+        "o": "2.41"
+    }, 
+    "m": "MasterFoods", 
+    "s7": "", 
+    "u2": "$1.38 per 100G", 
+    "p": "9270988P", 
+    "s": "masterfoods-recipe-base-italian-chicken-casserole", 
+    "u": "105692", 
+    "t": "/wcsstore/Coles-CAS/images/9/2/7/9270988-th.jpg", 
+    "n": "Italian Chicken Casserole Recipe Base", 
+    "pl": "20"
+}

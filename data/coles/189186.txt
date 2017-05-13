@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Clothing"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 pack"
+        ]
+    }, 
+    "u2": "$6.00 per 1ea", 
+    "s9": "192082", 
+    "p1": {
+        "l4": "13.2", 
+        "o": "6.0"
+    }, 
+    "s7": "", 
+    "m": "Razza matazz", 
+    "n": "Opaque Tights 120 Denier Black Small/Medium", 
+    "p": "7432229P", 
+    "s": "razzamatazz-tights-opaque-120-denier-black-average-tall", 
+    "u": "189186", 
+    "t": "/wcsstore/Coles-CAS/images/7/4/3/7432229-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "450g"
+        ]
+    }, 
+    "s9": "146988", 
+    "p1": {
+        "l4": "2.75", 
+        "o": "1.9"
+    }, 
+    "m": "Barilla", 
+    "t1": "V", 
+    "p": "4814739P", 
+    "s": "barilla-pasta-fettuccine", 
+    "n": "Fettuccine Pasta", 
+    "u": "80170", 
+    "t": "/wcsstore/Coles-CAS/images/4/8/1/4814739-th.jpg", 
+    "u2": "$0.42 per 100G", 
+    "pl": "12"
+}

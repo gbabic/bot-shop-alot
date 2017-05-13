@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "220g"
+        ]
+    }, 
+    "s9": "583642", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "m": "White Wings", 
+    "u2": "$2.50 per 100G", 
+    "p": "2731255P", 
+    "s": "white-wings-salted-caramel-cake-in-a-cup", 
+    "u": "583566", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/3/2731255-th.jpg", 
+    "n": "Salted Caramel Cake In A Cup", 
+    "pl": "20"
+}

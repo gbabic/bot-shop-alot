@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "6 pack"
+        ]
+    }, 
+    "s9": "598577", 
+    "p1": {
+        "o": "5.28"
+    }, 
+    "m": "Dine", 
+    "u2": "$1.76 per 100G", 
+    "p": "2741339P", 
+    "s": "dine-finest-serve-cat-food-mixed-selection-in-gravy-pouch", 
+    "u": "598530", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/4/2741339-th.jpg", 
+    "n": "Finest Serve Cat Food Mixed Selection In Gravy Pouch", 
+    "pl": "99"
+}

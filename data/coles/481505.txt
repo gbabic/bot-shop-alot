@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "275g"
+        ]
+    }, 
+    "s9": "481606", 
+    "p1": {
+        "o": "5.67"
+    }, 
+    "m": "Sharwood's", 
+    "u2": "$2.06 per 100G", 
+    "p": "6622025P", 
+    "s": "sharwoods-tikka-curry-paste", 
+    "u": "481505", 
+    "t": "/wcsstore/Coles-CAS/images/6/6/2/6622025-th.jpg", 
+    "n": "Tikka Curry Paste", 
+    "pl": "20"
+}

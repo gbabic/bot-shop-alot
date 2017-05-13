@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Mothers Day"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "300g"
+        ]
+    }, 
+    "s9": "517620", 
+    "p1": {
+        "l4": "3.3", 
+        "o": "2.0"
+    }, 
+    "m": "Green's", 
+    "t1": "S", 
+    "p": "2516730P", 
+    "s": "greens-gluten-free-pancake-mix", 
+    "n": "Gluten Free Pancake Mix", 
+    "u": "517523", 
+    "t": "/wcsstore/Coles-CAS/images/2/5/1/2516730-th.jpg", 
+    "u2": "$0.67 per 100G", 
+    "pl": "12"
+}

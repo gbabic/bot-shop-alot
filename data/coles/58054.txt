@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "145g"
+        ]
+    }, 
+    "s9": "119733", 
+    "p1": {
+        "l4": "2.29", 
+        "o": "1.8"
+    }, 
+    "m": "Lee Kum Kee", 
+    "t1": "S", 
+    "p": "8104564P", 
+    "s": "lee-kum-kee-sauce-lemon-chicken", 
+    "n": "Lemon Chicken Sauce", 
+    "u": "58054", 
+    "t": "/wcsstore/Coles-CAS/images/8/1/0/8104564-th.jpg", 
+    "u2": "$1.24 per 100G", 
+    "pl": "12"
+}

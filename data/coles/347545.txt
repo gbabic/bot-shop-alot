@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "230g"
+        ]
+    }, 
+    "s9": "347804", 
+    "p1": {
+        "l4": "4.35", 
+        "o": "3.2"
+    }, 
+    "m": "Oreo", 
+    "t1": "S", 
+    "p": "1843854P", 
+    "s": "kraft-mini-original-oreo-cookies", 
+    "n": "Original Mini Biscuit Multipack", 
+    "u": "347545", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/4/1843854-th.jpg", 
+    "u2": "$1.39 per 100G", 
+    "pl": "12"
+}

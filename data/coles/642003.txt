@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Baby"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "58 pack"
+        ]
+    }, 
+    "s9": "642009", 
+    "p1": {
+        "l4": "33.0", 
+        "o": "28.0"
+    }, 
+    "m": "Huggies", 
+    "t1": "S", 
+    "p": "2847453P", 
+    "s": "huggies-ultimate-jumbo-nappy-toddler-girl", 
+    "n": "Ultimate Jumbo Toddler Nappies Girl 10-15kg", 
+    "u": "642003", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/4/2847453-th.jpg", 
+    "u2": "$0.48 per 1Ea", 
+    "pl": "12"
+}

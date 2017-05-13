@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "340g"
+        ]
+    }, 
+    "s9": "528596", 
+    "p1": {
+        "o": "7.14"
+    }, 
+    "m": "McCain", 
+    "u2": "$2.10 per 100G", 
+    "p": "2605487P", 
+    "s": "mccain-healthy-choice-whole-grains-tandoori-chicken", 
+    "u": "528516", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/0/2605487-th.jpg", 
+    "n": "Healthy Choice Whole Grains Tandoori Chicken", 
+    "pl": "20"
+}

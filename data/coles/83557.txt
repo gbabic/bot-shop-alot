@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "120g"
+        ]
+    }, 
+    "s9": "143246", 
+    "p1": {
+        "o": "2.31"
+    }, 
+    "m": "San Remo", 
+    "u2": "$1.93 per 100G", 
+    "p": "5045083P", 
+    "s": "san-remo-la-pasta-pasta-sauce-alfredo", 
+    "u": "83557", 
+    "t": "/wcsstore/Coles-CAS/images/5/0/4/5045083-th.jpg", 
+    "n": "La Pasta Alfredo Pasta & Sauce", 
+    "pl": "20"
+}

@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Clothing"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 pack"
+        ]
+    }, 
+    "u2": "$4.00 per 1ea", 
+    "s9": "166007", 
+    "p1": {
+        "l4": "8.0", 
+        "o": "4.0"
+    }, 
+    "s7": "", 
+    "m": "Kolotex", 
+    "n": "Sheer Relief Trouser Sock Beige One size Fits All", 
+    "p": "8424317P", 
+    "s": "sheer-relief-cotton-pantyhose-trouser-sock-beige", 
+    "u": "54939", 
+    "t": "/wcsstore/Coles-CAS/images/8/4/2/8424317-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

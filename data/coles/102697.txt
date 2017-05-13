@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "20g"
+        ]
+    }, 
+    "s9": "158976", 
+    "p1": {
+        "o": "5.49"
+    }, 
+    "m": "McKenzie's", 
+    "u2": "$27.45 per 100G", 
+    "p": "9889848P", 
+    "s": "mckenzies-gelatine-leaves", 
+    "u": "102697", 
+    "t": "/wcsstore/Coles-CAS/images/9/8/8/9889848-th.jpg", 
+    "n": "Gelatine Leaves", 
+    "pl": "20"
+}

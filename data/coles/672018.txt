@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "672036", 
+    "p1": {
+        "l4": "7.14", 
+        "o": "7.0"
+    }, 
+    "m": "Jordans Granola", 
+    "t1": "N", 
+    "p": "2876098P", 
+    "s": "jordans-granola-totally-tropical", 
+    "n": "Totally Tropical", 
+    "u": "672018", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/7/2876098-th.jpg", 
+    "u2": "$1.40 per 100G", 
+    "pl": "12"
+}

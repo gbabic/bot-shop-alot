@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "150g"
+        ]
+    }, 
+    "s9": "482157", 
+    "p1": {
+        "o": "1.93"
+    }, 
+    "m": "Bundaberg", 
+    "u2": "$1.29 per 100G", 
+    "p": "2291287P", 
+    "s": "bundaberg-white-sugar-sticks-50s", 
+    "u": "482074", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/9/2291287-th.jpg", 
+    "n": "White Sugar Sticks 50's", 
+    "pl": "20"
+}

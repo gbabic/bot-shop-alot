@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "s9": "260085", 
+    "p1": {
+        "o": "11.88"
+    }, 
+    "m": "Vitapet", 
+    "u2": "$5.94 per 100G", 
+    "p": "1502365P", 
+    "s": "vitapet-dog-treat-tenders", 
+    "u": "260042", 
+    "t": "/wcsstore/Coles-CAS/images/1/5/0/1502365-th.jpg", 
+    "n": "Chicken Tenders Dog Treat", 
+    "pl": "20"
+}

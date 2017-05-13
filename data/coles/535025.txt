@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.2"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 1.2kg"
+        ]
+    }, 
+    "s9": "535100", 
+    "p1": {
+        "o": "15.6"
+    }, 
+    "m": "Coles", 
+    "s7": "Indicated price based on approx. weight. Weight may vary between 1kg and 1.4kg", 
+    "u2": "$13.00 per 1Kg", 
+    "p": "2263328P", 
+    "s": "coles-rspca-approved-chicken-thigh-fillet-large-pack", 
+    "u": "535025", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/6/2263328-th.jpg", 
+    "n": "RSPCA Approved Chicken Thigh Fillet Large Pack", 
+    "pl": "20"
+}

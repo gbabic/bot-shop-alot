@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "147410", 
+    "p1": {
+        "o": "3.69"
+    }, 
+    "m": "Cottee's", 
+    "u2": "$0.74 per 100G", 
+    "p": "174395P", 
+    "s": "cottees-jam-plum", 
+    "u": "85970", 
+    "t": "/wcsstore/Coles-CAS/images/1/7/4/174395-th.jpg", 
+    "n": "Plum Jam in Glass", 
+    "pl": "20"
+}

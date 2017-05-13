@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Baby"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "2 pack"
+        ]
+    }, 
+    "u2": "$5.52 per 1Ea", 
+    "s9": "311587", 
+    "p1": {
+        "l4": "6.5", 
+        "o": "5.52"
+    }, 
+    "s7": "", 
+    "m": "Pigeon", 
+    "n": "Medium Peristaltic Slim Neck Teat", 
+    "p": "1567178P", 
+    "s": "pigeon-peristaltic-slim-neck-teat-medium", 
+    "u": "311536", 
+    "t": "/wcsstore/Coles-CAS/images/1/5/6/1567178-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

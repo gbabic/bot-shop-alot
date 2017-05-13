@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "175g"
+        ]
+    }, 
+    "s9": "613569", 
+    "p1": {
+        "o": "4.95"
+    }, 
+    "m": "Be Natural", 
+    "u2": "$2.83 per 100G", 
+    "p": "2795906P", 
+    "s": "be-natural--quinoa-bars-almond-pepita-cashew", 
+    "u": "613505", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/9/2795906-th.jpg", 
+    "n": "Quinoa Bars Almond Pepita Cashew", 
+    "pl": "99"
+}

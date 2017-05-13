@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "328748", 
+    "p1": {
+        "o": "2.2"
+    }, 
+    "m": "Vetta", 
+    "u2": "$0.44 per 100G", 
+    "p": "1696680P", 
+    "s": "vetta-high-fibre-fettuccine-pasta-no-12", 
+    "u": "326719", 
+    "t": "/wcsstore/Coles-CAS/images/1/6/9/1696680-th.jpg", 
+    "n": "High Fibre Fettuccine Pasta No 12", 
+    "pl": "20"
+}

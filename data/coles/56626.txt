@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Mothers Day"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "175g"
+        ]
+    }, 
+    "s9": "122252", 
+    "p1": {
+        "l4": "4.84", 
+        "o": "3.0"
+    }, 
+    "m": "Kettle", 
+    "t1": "S", 
+    "p": "8156535P", 
+    "s": "kettle--potato-chips-sea-salt", 
+    "n": "Sea Salt Potato Chips", 
+    "u": "56626", 
+    "t": "/wcsstore/Coles-CAS/images/8/1/5/8156535-th.jpg", 
+    "u2": "$1.71 per 100G", 
+    "pl": "12"
+}

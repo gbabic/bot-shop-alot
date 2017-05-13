@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "146344", 
+    "p1": {
+        "l4": "2.75", 
+        "o": "1.9"
+    }, 
+    "m": "Barilla", 
+    "t1": "V", 
+    "p": "493338P", 
+    "s": "barilla-pasta-farfalle-no-65", 
+    "n": "Farfalle Pasta No 65", 
+    "u": "80739", 
+    "t": "/wcsstore/Coles-CAS/images/4/9/3/493338-th.jpg", 
+    "u2": "$0.38 per 100G", 
+    "pl": "12"
+}

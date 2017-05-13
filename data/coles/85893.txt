@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "25g"
+        ]
+    }, 
+    "s9": "149054", 
+    "p1": {
+        "o": "2.15"
+    }, 
+    "m": "Hoyts", 
+    "u2": "$0.86 per 10G", 
+    "p": "287143P", 
+    "s": "hoyts-cumin-ground", 
+    "u": "85893", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/7/287143-th.jpg", 
+    "n": "Ground Cumin", 
+    "pl": "20"
+}

@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Clothing"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 pack"
+        ]
+    }, 
+    "u2": "", 
+    "s9": "369321", 
+    "p1": {
+        "l4": "20.0", 
+        "o": "11.0"
+    }, 
+    "s7": "", 
+    "m": "Bonds", 
+    "n": "Mens Flexits Trunks Assorted Large", 
+    "p": "1721700P", 
+    "s": "bonds--mens-flexits-trunks-assorted-large", 
+    "u": "369102", 
+    "t": "/wcsstore/Coles-CAS/images/1/7/2/1721700-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

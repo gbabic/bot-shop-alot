@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "50mL"
+        ]
+    }, 
+    "s9": "154332", 
+    "p1": {
+        "o": "32.5"
+    }, 
+    "m": "L'Oreal", 
+    "u2": "$65.00 per 100mL", 
+    "p": "9138925P", 
+    "s": "loreal-youth-code-luminosity-day", 
+    "u": "47721", 
+    "t": "/wcsstore/Coles-CAS/images/9/1/3/9138925-th.jpg", 
+    "n": "Youth Code Luminosity Day", 
+    "pl": "20"
+}

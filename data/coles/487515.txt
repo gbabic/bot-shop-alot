@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "350g"
+        ]
+    }, 
+    "s9": "487534", 
+    "p1": {
+        "l4": "6.93", 
+        "o": "5.0"
+    }, 
+    "m": "Super Nature", 
+    "t1": "S", 
+    "p": "2409376P", 
+    "s": "super-nature-super-foods-beef-kale-red-quinoa-lasagne-frozen-meal", 
+    "n": "Super Foods Beef Kale Red Quinoa Lasagne Frozen Meal", 
+    "u": "487515", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/0/2409376-th.jpg", 
+    "u2": "$1.43 per 100G", 
+    "pl": "12"
+}

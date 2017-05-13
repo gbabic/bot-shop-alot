@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "u2": "$0.68 per 100G", 
+    "s9": "148592", 
+    "p1": {
+        "o": "1.35"
+    }, 
+    "s7": "", 
+    "m": "Coles Smart Buy", 
+    "n": "Seasoned Stuffing Mix", 
+    "p": "194133P", 
+    "s": "coles-smart-buy-stuffing-mix-seasoned", 
+    "u": "88459", 
+    "t": "/wcsstore/Coles-CAS/images/1/9/4/194133-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

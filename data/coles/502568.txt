@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "170g"
+        ]
+    }, 
+    "s9": "502619", 
+    "p1": {
+        "o": "2.96"
+    }, 
+    "m": "Tamar Valley", 
+    "u2": "$1.74 per 100G", 
+    "p": "2367662P", 
+    "s": "tamar-valley-raspberry-tasmanian-yoghurt", 
+    "u": "502568", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/6/2367662-th.jpg", 
+    "n": "Raspberry Tasmanian Yoghurt", 
+    "pl": "20"
+}

@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "700g"
+        ]
+    }, 
+    "s9": "148242", 
+    "p1": {
+        "o": "1.65"
+    }, 
+    "m": "Chum", 
+    "t1": "V", 
+    "p": "107897P", 
+    "s": "chum-dog-food-with-beef", 
+    "n": "Beef Canned Dog Food", 
+    "u": "87624", 
+    "t": "/wcsstore/Coles-CAS/images/1/0/7/107897-th.jpg", 
+    "u2": "$0.24 per 100G", 
+    "pl": "20"
+}

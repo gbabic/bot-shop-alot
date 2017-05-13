@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "20 pack"
+        ]
+    }, 
+    "s9": "33705", 
+    "p1": {
+        "o": "7.15"
+    }, 
+    "m": "Tampax", 
+    "u2": "$0.36 per 1Ea", 
+    "p": "9539664P", 
+    "s": "tampax-tampons-regular", 
+    "u": "14851", 
+    "t": "/wcsstore/Coles-CAS/images/9/5/3/9539664-th.jpg", 
+    "n": "Regular Tampons with Applicator", 
+    "pl": "20"
+}

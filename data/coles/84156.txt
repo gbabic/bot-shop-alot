@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "s9": "143810", 
+    "p1": {
+        "o": "2.45"
+    }, 
+    "m": "Tandaco", 
+    "u2": "$1.23 per 100G", 
+    "p": "5138140P", 
+    "s": "tandaco-stuffing-mix-seasoned", 
+    "u": "84156", 
+    "t": "/wcsstore/Coles-CAS/images/5/1/3/5138140-th.jpg", 
+    "n": "Seasoned Stuffing Mix", 
+    "pl": "20"
+}

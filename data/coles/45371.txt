@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "112778", 
+    "p1": {
+        "o": "7.95"
+    }, 
+    "m": "Magazine", 
+    "s7": "", 
+    "u2": "$7.95 per 1ea", 
+    "p": "892333P", 
+    "s": "home-beautiful-magazine", 
+    "u": "45371", 
+    "t": "/wcsstore/Coles-CAS/images/8/9/2/892333-th.jpg", 
+    "n": "Home Beautiful", 
+    "pl": "20"
+}

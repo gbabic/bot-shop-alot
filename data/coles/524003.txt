@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Fruit & Vegetables"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "40g"
+        ]
+    }, 
+    "s9": "524004", 
+    "p1": {
+        "o": "6.0"
+    }, 
+    "m": "Marlborough", 
+    "u2": "$150.00 per 1Kg", 
+    "p": "2609105P", 
+    "s": "marlborough-noir-black-garlic-cloves-prepacked", 
+    "u": "524003", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/0/2609105-th.jpg", 
+    "n": "Noir Black Garlic Cloves Prepacked", 
+    "pl": "99"
+}

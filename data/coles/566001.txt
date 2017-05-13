@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1kg"
+        ]
+    }, 
+    "u2": "$1.45 per 100G", 
+    "s9": "566004", 
+    "p1": {
+        "o": "14.5"
+    }, 
+    "s7": "Voted Product Of The Year 2017", 
+    "m": "Coles", 
+    "n": "Australian White Quinoa", 
+    "p": "2726379P", 
+    "s": "coles-australian-white-quinoa", 
+    "u": "566001", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/2/2726379-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

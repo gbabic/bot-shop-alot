@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "150g"
+        ]
+    }, 
+    "s9": "471623", 
+    "p1": {
+        "o": "3.0"
+    }, 
+    "m": "Continental", 
+    "u2": "$2.00 per 100G", 
+    "p": "2263066P", 
+    "s": "continental-butter-herbs-pasta-sauce", 
+    "u": "471529", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/6/2263066-th.jpg", 
+    "n": "Butter & Herbs Pasta & Sauce Serves 5", 
+    "pl": "20"
+}

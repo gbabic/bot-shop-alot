@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "85g"
+        ]
+    }, 
+    "s9": "127757", 
+    "p1": {
+        "o": "2.19"
+    }, 
+    "m": "Heinz", 
+    "u2": "$25.76 per 1Kg", 
+    "p": "7376897P", 
+    "s": "heinz-chicken-shredded-mustard-mayonnaise", 
+    "u": "66333", 
+    "t": "/wcsstore/Coles-CAS/images/7/3/7/7376897-th.jpg", 
+    "n": "Mustard Mayonnaise Shredded Chicken", 
+    "pl": "20"
+}

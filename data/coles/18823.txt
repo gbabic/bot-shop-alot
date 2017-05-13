@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "s9": "42074", 
+    "p1": {
+        "l4": "3.14", 
+        "o": "1.42"
+    }, 
+    "m": "Arnott's", 
+    "t1": "S", 
+    "p": "329174P", 
+    "s": "arnotts-biscuits-scotch-finger", 
+    "n": "Scotch Finger Biscuits", 
+    "u": "18823", 
+    "t": "/wcsstore/Coles-CAS/images/3/2/9/329174-th.jpg", 
+    "u2": "$0.57 per 100G", 
+    "pl": "12"
+}

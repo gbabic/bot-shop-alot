@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "750g"
+        ]
+    }, 
+    "s9": "133297", 
+    "p1": {
+        "o": "4.0"
+    }, 
+    "m": "Lowan", 
+    "t1": "V", 
+    "p": "6021943P", 
+    "s": "lowan-muesli-original", 
+    "n": "Original Muesli", 
+    "u": "76928", 
+    "t": "/wcsstore/Coles-CAS/images/6/0/2/6021943-th.jpg", 
+    "u2": "$0.53 per 100G", 
+    "pl": "20"
+}

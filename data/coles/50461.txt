@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "50g"
+        ]
+    }, 
+    "s9": "115787", 
+    "p1": {
+        "l4": "2.92", 
+        "o": "2.12"
+    }, 
+    "m": "Sweet William", 
+    "t1": "S", 
+    "p": "8507899P", 
+    "s": "sweet-william-chocolate-bar-rice-crackle-bar-dairy-free", 
+    "n": "Chocolate Rice Crackle Bar Dairy Free", 
+    "u": "50461", 
+    "t": "/wcsstore/Coles-CAS/images/8/5/0/8507899-th.jpg", 
+    "u2": "$4.24 per 100G", 
+    "pl": "12"
+}

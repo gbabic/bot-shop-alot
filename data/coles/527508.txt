@@ -1,0 +1,38 @@
+{
+    "a": {
+        "D": [
+            "XMAS", 
+            "EASTER"
+        ], 
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "240g"
+        ]
+    }, 
+    "s9": "527531", 
+    "p1": {
+        "o": "18.0"
+    }, 
+    "m": "Ferrero", 
+    "u2": "$7.50 per 100G", 
+    "p": "2409343P", 
+    "s": "ferrero-grand-rocher", 
+    "u": "527508", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/0/2409343-th.jpg", 
+    "n": "Grand Rocher", 
+    "pl": "99"
+}

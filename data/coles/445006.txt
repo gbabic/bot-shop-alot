@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "170g"
+        ]
+    }, 
+    "s9": "445020", 
+    "p1": {
+        "l4": "3.63", 
+        "o": "1.65"
+    }, 
+    "m": "Smith's", 
+    "t1": "S", 
+    "p": "2358264P", 
+    "s": "smiths-crinkle-cut-bbq-potato-chips", 
+    "n": "Crinkle Cut BBQ Potato Chips", 
+    "u": "445006", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/5/2358264-th.jpg", 
+    "u2": "$0.97 per 100G", 
+    "pl": "12"
+}

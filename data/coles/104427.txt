@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "410g"
+        ]
+    }, 
+    "s9": "108731", 
+    "p1": {
+        "l4": "2.37", 
+        "o": "1.9"
+    }, 
+    "m": "UFC", 
+    "t1": "S", 
+    "p": "8853710P", 
+    "s": "ufc-bean-sprouts", 
+    "n": "Bean Sprouts", 
+    "u": "104427", 
+    "t": "/wcsstore/Coles-CAS/images/8/8/5/8853710-th.jpg", 
+    "u2": "$4.63 per 1Kg", 
+    "pl": "12"
+}

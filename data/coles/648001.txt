@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "24g"
+        ]
+    }, 
+    "s9": "648004", 
+    "p1": {
+        "o": "1.98"
+    }, 
+    "m": "Tic Tac T50", 
+    "u2": "$8.25 per 100G", 
+    "p": "2877476P", 
+    "s": "tic-tac-t50-coconut-pineapple", 
+    "u": "648001", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/7/2877476-th.jpg", 
+    "n": "Coconut Pineapple", 
+    "pl": "99"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "s9": "249125", 
+    "p1": {
+        "o": "6.38"
+    }, 
+    "m": "RW Garcia", 
+    "u2": "$3.19 per 100G", 
+    "p": "1477993P", 
+    "s": "rw-garcia-tortilla-chips-blue-maize", 
+    "u": "249011", 
+    "t": "/wcsstore/Coles-CAS/images/1/4/7/1477993-th.jpg", 
+    "n": "Organic Blue Maize Tortilla Chips", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "270g"
+        ]
+    }, 
+    "s9": "37780", 
+    "p1": {
+        "o": "3.96"
+    }, 
+    "m": "British Provender", 
+    "u2": "$1.47 per 100G", 
+    "p": "1229379P", 
+    "s": "british-provender-bartons-piccalilli", 
+    "u": "25739", 
+    "t": "/wcsstore/Coles-CAS/images/1/2/2/1229379-th.jpg", 
+    "n": "Bartons Piccalilli", 
+    "pl": "20"
+}

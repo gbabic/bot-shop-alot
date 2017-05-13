@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400g"
+        ]
+    }, 
+    "s9": "141204", 
+    "p1": {
+        "o": "1.96"
+    }, 
+    "m": "Edgell", 
+    "u2": "$4.90 per 1Kg", 
+    "p": "5370051P", 
+    "s": "edgell-beans-red-kidney", 
+    "u": "79204", 
+    "t": "/wcsstore/Coles-CAS/images/5/3/7/5370051-th.jpg", 
+    "n": "Red Kidney Beans", 
+    "pl": "20"
+}

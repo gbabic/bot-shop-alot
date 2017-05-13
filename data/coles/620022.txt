@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "4 pack"
+        ]
+    }, 
+    "s9": "620123", 
+    "p1": {
+        "o": "6.05"
+    }, 
+    "m": "Lucky Dog Meaty Chews", 
+    "u2": "$1.51 per 1Ea", 
+    "p": "2819695P", 
+    "s": "lucky-dog-meaty-chews-dog-treat-real-beef-rwhd", 
+    "u": "620022", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/1/2819695-th.jpg", 
+    "n": "Dog Treat Real Beef&rwhd", 
+    "pl": "99"
+}

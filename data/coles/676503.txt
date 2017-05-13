@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "140g"
+        ]
+    }, 
+    "s9": "676563", 
+    "p1": {
+        "o": "2.0"
+    }, 
+    "m": "Haribro", 
+    "t1": "V", 
+    "p": "2904637P", 
+    "s": "haribo-bags-sweet-sour-bears", 
+    "n": "Sweet & Sour Bears", 
+    "u": "676503", 
+    "t": "/wcsstore/Coles-CAS/images/2/9/0/2904637-th.jpg", 
+    "u2": "$1.43 per 100G", 
+    "pl": "20"
+}

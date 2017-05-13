@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "s9": "606034", 
+    "p1": {
+        "o": "4.95"
+    }, 
+    "m": "Australian Eatwell", 
+    "u2": "$1.98 per 100G", 
+    "p": "2752357P", 
+    "s": "australian-eatwell-kale-burgers-with-smoked-paprika", 
+    "u": "606013", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/5/2752357-th.jpg", 
+    "n": "Kale Burgers With Smoked Paprika", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "141213", 
+    "p1": {
+        "o": "4.18"
+    }, 
+    "m": "Pureharvest", 
+    "u2": "$0.84 per 100G", 
+    "p": "5356119P", 
+    "s": "pureharvest-rice-syrup-natural", 
+    "u": "79213", 
+    "t": "/wcsstore/Coles-CAS/images/5/3/5/5356119-th.jpg", 
+    "n": "Natural Rice Malt Syrup", 
+    "pl": "20"
+}

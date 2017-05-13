@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400mL"
+        ]
+    }, 
+    "s9": "124248", 
+    "p1": {
+        "l4": "13.75", 
+        "o": "8.7"
+    }, 
+    "m": "Head & Shoulders", 
+    "t1": "S", 
+    "p": "7833886P", 
+    "s": "head-shoulders-shampoo-itchy-scalp-7833886p", 
+    "n": "Itchy Scalp Shampoo", 
+    "u": "60599", 
+    "t": "/wcsstore/Coles-CAS/images/7/8/3/7833886-th.jpg", 
+    "u2": "$2.18 per 100mL", 
+    "pl": "12"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "95g"
+        ]
+    }, 
+    "s9": "145705", 
+    "p1": {
+        "o": "2.2"
+    }, 
+    "m": "John West", 
+    "u2": "$23.16 per 1Kg", 
+    "p": "4925004P", 
+    "s": "john-west-tempters-tuna-onion-tomato-light", 
+    "u": "84893", 
+    "t": "/wcsstore/Coles-CAS/images/4/9/2/4925004-th.jpg", 
+    "n": "Tempters Onion & Tomato Light Tuna", 
+    "pl": "20"
+}

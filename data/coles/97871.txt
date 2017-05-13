@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "169429", 
+    "p1": {
+        "o": "5.34"
+    }, 
+    "m": "Pataks", 
+    "u2": "$1.07 per 100G", 
+    "p": "9125865P", 
+    "s": "pataks-simmer-sauce-korma", 
+    "u": "97871", 
+    "t": "/wcsstore/Coles-CAS/images/9/1/2/9125865-th.jpg", 
+    "n": "Korma Simmer Sauce", 
+    "pl": "20"
+}

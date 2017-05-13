@@ -1,0 +1,40 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "450g"
+        ]
+    }, 
+    "pr": "4.00000", 
+    "s9": "136493", 
+    "pq": "2", 
+    "pt": "MultibuyMultiSku", 
+    "u2": "$1.27 per 100G", 
+    "m": "Betty Crocker", 
+    "n": "Chocolate Cupcake Mix", 
+    "p": "6922700P", 
+    "s": "betty-crocker-cupcake-mix-chocolate", 
+    "p1": {
+        "o": "5.71"
+    }, 
+    "u": "71843", 
+    "t": "/wcsstore/Coles-CAS/images/6/9/2/6922700-th.jpg", 
+    "pd": "2 for $8", 
+    "pi": "10141006", 
+    "t1": "M", 
+    "pl": "12"
+}

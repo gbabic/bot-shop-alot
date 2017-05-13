@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Fruit & Vegetables"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "0.2"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 200g"
+        ]
+    }, 
+    "s9": "337064", 
+    "p1": {
+        "o": "1.98"
+    }, 
+    "m": "Coles", 
+    "s7": "Product of Australia.", 
+    "u2": "$9.90 per 1Kg", 
+    "p": "410319P", 
+    "s": "coles-fresh-chestnuts-loose", 
+    "u": "337001", 
+    "t": "/wcsstore/Coles-CAS/images/4/1/0/410319-th.jpg", 
+    "n": "Chestnuts loose", 
+    "pl": "99"
+}

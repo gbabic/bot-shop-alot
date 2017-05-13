@@ -1,0 +1,38 @@
+{
+    "a": {
+        "D": [
+            "TOBACCO"
+        ], 
+        "P8": [
+            "Tobacco"
+        ], 
+        "T1": [
+            "true"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "25g"
+        ]
+    }, 
+    "s9": "322511", 
+    "p1": {
+        "o": "31.25"
+    }, 
+    "m": "White Ox", 
+    "s7": "Prices include all taxes", 
+    "u2": "$31.25 per 1Ea", 
+    "p": "1837589P", 
+    "s": "white-ox-roll-your-own-tobacco", 
+    "u": "322506", 
+    "t": "/wcsstore/Coles-CAS/images/C/i/g/Cigarettes-th.jpg", 
+    "n": "Roll Your Own Tobacco", 
+    "pl": "5"
+}

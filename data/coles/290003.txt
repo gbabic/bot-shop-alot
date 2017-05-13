@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "290053", 
+    "p1": {
+        "o": "3.69"
+    }, 
+    "m": "Divella", 
+    "u2": "$0.74 per 100G", 
+    "p": "1557491P", 
+    "s": "divella-gnocchi-di-patate", 
+    "u": "290003", 
+    "t": "/wcsstore/Coles-CAS/images/1/5/5/1557491-th.jpg", 
+    "n": "Di Patate Gnocchi", 
+    "pl": "20"
+}

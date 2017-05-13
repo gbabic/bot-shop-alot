@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100g"
+        ]
+    }, 
+    "s9": "141741", 
+    "p1": {
+        "o": "14.25"
+    }, 
+    "m": "Just For Men", 
+    "u2": "$14.25 per 100G", 
+    "p": "5338795P", 
+    "s": "just-for-men-hair-colour-brown-black", 
+    "u": "79222", 
+    "t": "/wcsstore/Coles-CAS/images/5/3/3/5338795-th.jpg", 
+    "n": "Brown Black Hair Colour", 
+    "pl": "20"
+}

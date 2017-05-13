@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "195g"
+        ]
+    }, 
+    "s9": "138301", 
+    "p1": {
+        "o": "7.92"
+    }, 
+    "m": "Gillette", 
+    "u2": "$4.06 per 100G", 
+    "p": "6124618P", 
+    "s": "gillette-satin-care-shave-gel-sensitive-skin-aloe-viatmin-e", 
+    "u": "75039", 
+    "t": "/wcsstore/Coles-CAS/images/6/1/2/6124618-th.jpg", 
+    "n": "Satin Care Sensitive Skin Shaving Gel", 
+    "pl": "20"
+}

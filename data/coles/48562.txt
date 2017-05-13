@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "32g"
+        ]
+    }, 
+    "s9": "111655", 
+    "p1": {
+        "l4": "2.86", 
+        "o": "2.0"
+    }, 
+    "m": "Maggi", 
+    "t1": "S", 
+    "p": "8459027P", 
+    "s": "maggi-onion-soup", 
+    "n": "Onion Soup", 
+    "u": "48562", 
+    "t": "/wcsstore/Coles-CAS/images/8/4/5/8459027-th.jpg", 
+    "u2": "$6.25 per 100G", 
+    "pl": "12"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "380g"
+        ]
+    }, 
+    "s9": "134541", 
+    "p1": {
+        "l4": "4.35", 
+        "o": "3.0"
+    }, 
+    "m": "Maggi", 
+    "t1": "S", 
+    "p": "6304959P", 
+    "s": "maggi-2-minute-noodles-chicken-99%-fat-free", 
+    "n": "99% Fat Free Chicken 2 Minute Noodles 5 pack", 
+    "u": "73664", 
+    "t": "/wcsstore/Coles-CAS/images/6/3/0/6304959-th.jpg", 
+    "u2": "$0.79 per 100G", 
+    "pl": "12"
+}

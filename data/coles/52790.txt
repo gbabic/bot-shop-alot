@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "3g"
+        ]
+    }, 
+    "s9": "116525", 
+    "p1": {
+        "o": "19.03"
+    }, 
+    "m": "Maybelline", 
+    "u2": "$63.44 per 10G", 
+    "p": "8494913P", 
+    "s": "maybelline-eye-studio-lasting-drama-gel-liner-blackest-black", 
+    "u": "52790", 
+    "t": "/wcsstore/Coles-CAS/images/8/4/9/8494913-th.jpg", 
+    "n": "Lasting Drama Blackest Black Gel Eyeliner", 
+    "pl": "20"
+}

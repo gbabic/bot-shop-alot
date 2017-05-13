@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "s9": "131898", 
+    "p1": {
+        "o": "3.85"
+    }, 
+    "m": "Maharajah's Choice", 
+    "u2": "$0.15 per 10G", 
+    "p": "7209862P", 
+    "s": "maharajahs-choice-spice-crushed-chilli", 
+    "u": "65902", 
+    "t": "/wcsstore/Coles-CAS/images/7/2/0/7209862-th.jpg", 
+    "n": "Crushed Chilli", 
+    "pl": "20"
+}

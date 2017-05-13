@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "s9": "135766", 
+    "p1": {
+        "o": "3.85"
+    }, 
+    "m": "Sunsweet", 
+    "u2": "$19.25 per 1Kg", 
+    "p": "6325700P", 
+    "s": "sunsweet-prunes-pitted-preservative-free", 
+    "u": "72322", 
+    "t": "/wcsstore/Coles-CAS/images/6/3/2/6325700-th.jpg", 
+    "n": "Dried Pitted Prunes", 
+    "pl": "20"
+}

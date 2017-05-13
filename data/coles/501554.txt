@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500mL"
+        ]
+    }, 
+    "s9": "501598", 
+    "p1": {
+        "o": "6.59"
+    }, 
+    "m": "Heinz", 
+    "u2": "$1.32 per 100mL", 
+    "p": "2454745P", 
+    "s": "heinz-seriously-good-original-squeezy-mayonnaise", 
+    "u": "501554", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/5/2454745-th.jpg", 
+    "n": "Seriously Good Original Squeezy Mayonnaise", 
+    "pl": "20"
+}

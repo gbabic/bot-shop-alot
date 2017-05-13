@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Fruit & Vegetables"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "0.13"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "u2": "$2.50 per 1Kg", 
+    "s9": "665510", 
+    "p1": {
+        "o": "0.325"
+    }, 
+    "s7": "Each mandarin approx. 130g", 
+    "m": "Coles", 
+    "n": "Imperial Mandarins", 
+    "p": "409750P", 
+    "s": "fresh-imperial-mandarins", 
+    "u": "665502", 
+    "t": "/wcsstore/Coles-CAS/images/4/0/9/409750-th.jpg", 
+    "t1": "S", 
+    "pl": "99"
+}

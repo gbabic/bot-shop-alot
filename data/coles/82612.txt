@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "143941", 
+    "p1": {
+        "l4": "3.62", 
+        "o": "2.0"
+    }, 
+    "m": "Campbell's", 
+    "t1": "S", 
+    "p": "4915372P", 
+    "s": "campbells-chunky-soup-stockpot", 
+    "n": "Chunky Stockpot Soup Can", 
+    "u": "82612", 
+    "t": "/wcsstore/Coles-CAS/images/4/9/1/4915372-th.jpg", 
+    "u2": "$0.40 per 100G", 
+    "pl": "12"
+}

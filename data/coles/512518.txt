@@ -1,0 +1,37 @@
+{
+    "a": {
+        "D": [
+            "LIQUOR"
+        ], 
+        "P8": [
+            "Liquor"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "true"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "375mL"
+        ]
+    }, 
+    "s9": "512550", 
+    "p1": {
+        "o": "6.42"
+    }, 
+    "m": "Captain Morgan", 
+    "u2": "$1.71 per 100mL", 
+    "p": "2464910P", 
+    "s": "captain-morgan-spiced-rum-cola-can", 
+    "u": "512518", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/6/2464910-th.jpg", 
+    "n": "Spiced Rum & Cola Can", 
+    "pl": "20"
+}

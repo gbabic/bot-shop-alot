@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "300mL"
+        ]
+    }, 
+    "s9": "135350", 
+    "p1": {
+        "o": "6.04"
+    }, 
+    "m": "Herbal Essences", 
+    "u2": "$2.01 per 100mL", 
+    "p": "6898911P", 
+    "s": "herbal-essences-shampoo-long-term-relationship-for-long-hair", 
+    "u": "71898", 
+    "t": "/wcsstore/Coles-CAS/images/6/8/9/6898911-th.jpg", 
+    "n": "Long Term Relationship for Long Hair Shampoo", 
+    "pl": "20"
+}

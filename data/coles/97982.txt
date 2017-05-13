@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "600g"
+        ]
+    }, 
+    "s9": "152393", 
+    "p1": {
+        "l4": "7.32", 
+        "o": "3.32"
+    }, 
+    "m": "Freedom Foods", 
+    "t1": "S", 
+    "p": "9900940P", 
+    "s": "freedom-foods-crunchola-cereal-apple-blueberry", 
+    "n": "Crunchola Apple & Blueberry Cereal", 
+    "u": "97982", 
+    "t": "/wcsstore/Coles-CAS/images/9/9/0/9900940-th.jpg", 
+    "u2": "$0.55 per 100G", 
+    "pl": "12"
+}

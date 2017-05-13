@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100 pack"
+        ]
+    }, 
+    "s9": "652037", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "m": "Hercules Clickzip", 
+    "u2": "$0.06 per 1Ea", 
+    "p": "2858766P", 
+    "s": "hercules-clickzip-sandwich-bags", 
+    "u": "652020", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/5/2858766-th.jpg", 
+    "n": "Sandwich Bags", 
+    "pl": "99"
+}

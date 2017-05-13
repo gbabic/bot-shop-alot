@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "3kg"
+        ]
+    }, 
+    "s9": "166825", 
+    "p1": {
+        "o": "19.03"
+    }, 
+    "m": "Optimum", 
+    "u2": "$0.63 per 100G", 
+    "p": "8997583P", 
+    "s": "optimum-puppy-dog-food-dry", 
+    "u": "94776", 
+    "t": "/wcsstore/Coles-CAS/images/8/9/9/8997583-th.jpg", 
+    "n": "Chicken Dry Puppy Food", 
+    "pl": "20"
+}

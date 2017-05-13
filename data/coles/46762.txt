@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "475g"
+        ]
+    }, 
+    "s9": "116196", 
+    "p1": {
+        "o": "8.2"
+    }, 
+    "m": "Marion's Kitchen", 
+    "u2": "$1.73 per 100G", 
+    "p": "8643300P", 
+    "s": "marions-kitchen-kit-thai-green-curry", 
+    "u": "46762", 
+    "t": "/wcsstore/Coles-CAS/images/8/6/4/8643300-th.jpg", 
+    "n": "Thai Green Curry Meal Kit", 
+    "pl": "20"
+}

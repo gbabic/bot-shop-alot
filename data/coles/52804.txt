@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "530g"
+        ]
+    }, 
+    "s9": "116535", 
+    "p1": {
+        "l4": "6.38", 
+        "o": "4.0"
+    }, 
+    "m": "Kellogg's", 
+    "t1": "S", 
+    "p": "8491915P", 
+    "s": "kelloggs-cereal-all-bran", 
+    "n": "All Bran", 
+    "u": "52804", 
+    "t": "/wcsstore/Coles-CAS/images/8/4/9/8491915-th.jpg", 
+    "u2": "$0.75 per 100G", 
+    "pl": "12"
+}

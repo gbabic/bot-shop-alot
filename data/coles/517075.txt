@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500mL"
+        ]
+    }, 
+    "s9": "517182", 
+    "p1": {
+        "o": "8.25"
+    }, 
+    "m": "Nivea", 
+    "u2": "$1.65 per 100mL", 
+    "p": "2497817P", 
+    "s": "nivea-men-active-clean-shower-gel", 
+    "u": "517075", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/9/2497817-th.jpg", 
+    "n": "Men Active Clean Shower Gel", 
+    "pl": "20"
+}

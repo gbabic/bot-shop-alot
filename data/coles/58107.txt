@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400mL"
+        ]
+    }, 
+    "s9": "115109", 
+    "p1": {
+        "l4": "7.12", 
+        "o": "4.52"
+    }, 
+    "m": "Garnier", 
+    "t1": "S", 
+    "p": "8061392P", 
+    "s": "garnier-body-intensive-7-days-lotion-shea-butter", 
+    "n": "Body Intensive 7 Days Shea Butter Lotion", 
+    "u": "58107", 
+    "t": "/wcsstore/Coles-CAS/images/8/0/6/8061392-th.jpg", 
+    "u2": "$1.13 per 100mL", 
+    "pl": "12"
+}

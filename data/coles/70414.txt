@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "7.5kg"
+        ]
+    }, 
+    "s9": "133105", 
+    "p1": {
+        "o": "26.4"
+    }, 
+    "m": "Supercoat", 
+    "u2": "$0.35 per 100G", 
+    "p": "6384426P", 
+    "s": "supercoat-dog-food-puppy", 
+    "u": "70414", 
+    "t": "/wcsstore/Coles-CAS/images/6/3/8/6384426-th.jpg", 
+    "n": "Real Meat Dry Puppy Dog Food", 
+    "pl": "20"
+}

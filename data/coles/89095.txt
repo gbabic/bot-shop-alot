@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "s9": "147935", 
+    "p1": {
+        "o": "1.85"
+    }, 
+    "m": "Fairy", 
+    "u2": "$0.74 per 100G", 
+    "p": "189279P", 
+    "s": "fairy-spread-margarine-cooking", 
+    "u": "89095", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/9/189279-th.jpg", 
+    "n": "Cooking Margarine", 
+    "pl": "20"
+}

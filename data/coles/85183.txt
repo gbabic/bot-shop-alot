@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "142900", 
+    "p1": {
+        "l4": "2.75", 
+        "o": "1.9"
+    }, 
+    "m": "Barilla", 
+    "t1": "V", 
+    "p": "4370690P", 
+    "s": "barilla-pasta-rigatoni", 
+    "n": "Rigatoni Pasta", 
+    "u": "85183", 
+    "t": "/wcsstore/Coles-CAS/images/4/3/7/4370690-th.jpg", 
+    "u2": "$0.38 per 100G", 
+    "pl": "12"
+}

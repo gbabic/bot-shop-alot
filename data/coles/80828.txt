@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "70g"
+        ]
+    }, 
+    "s9": "142708", 
+    "p1": {
+        "o": "4.39"
+    }, 
+    "m": "Kraft", 
+    "s7": "", 
+    "u2": "$1.57 per 100G", 
+    "p": "4770509P", 
+    "s": "kraft-easy-mac-microwaveable-chicken-snack", 
+    "u": "80828", 
+    "t": "/wcsstore/Coles-CAS/images/4/7/7/4770509-th.jpg", 
+    "n": "Easy Mac Chicken Microwavable Macaroni Snack Multi Pack 4 Pack", 
+    "pl": "20"
+}

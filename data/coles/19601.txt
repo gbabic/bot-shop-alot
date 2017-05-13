@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "u2": "$14.80 per 1Kg", 
+    "s9": "30169", 
+    "p1": {
+        "o": "3.7"
+    }, 
+    "s7": "", 
+    "m": "Coles", 
+    "n": "Pepperoni Style Salami", 
+    "p": "5938840P", 
+    "s": "coles-salami-pepperoni-style", 
+    "u": "19601", 
+    "t": "/wcsstore/Coles-CAS/images/5/9/3/5938840-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

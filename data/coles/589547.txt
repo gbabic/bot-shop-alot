@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "75mL"
+        ]
+    }, 
+    "s9": "589601", 
+    "p1": {
+        "l4": "17.55", 
+        "o": "11.16"
+    }, 
+    "m": "L'Oreal", 
+    "t1": "S", 
+    "p": "2677896P", 
+    "s": "loreal-magic-retouch-brown", 
+    "n": "Magic Retouch Brown", 
+    "u": "589547", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/7/2677896-th.jpg", 
+    "u2": "$14.88 per 100mL", 
+    "pl": "12"
+}

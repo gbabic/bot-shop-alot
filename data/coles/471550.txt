@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "950mL"
+        ]
+    }, 
+    "s9": "471614", 
+    "p1": {
+        "l4": "10.45", 
+        "o": "7.6"
+    }, 
+    "m": "Dettol", 
+    "t1": "S", 
+    "p": "2289128P", 
+    "s": "dettol-profresh-citrus-shower-gel", 
+    "n": "Profresh Citrus Shower Gel", 
+    "u": "471550", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/8/2289128-th.jpg", 
+    "u2": "$0.80 per 100mL", 
+    "pl": "12"
+}

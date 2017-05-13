@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "370g"
+        ]
+    }, 
+    "s9": "125760", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "m": "Bonne Maman", 
+    "u2": "$1.49 per 100G", 
+    "p": "7797385P", 
+    "s": "bonne-maman-jam-blackberry", 
+    "u": "57335", 
+    "t": "/wcsstore/Coles-CAS/images/7/7/9/7797385-th.jpg", 
+    "n": "Blackberry Jam", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "175g"
+        ]
+    }, 
+    "s9": "140438", 
+    "p1": {
+        "o": "3.63"
+    }, 
+    "m": "Smith's", 
+    "u2": "$2.07 per 100G", 
+    "p": "5706254P", 
+    "s": "smiths-thin-cut-salt-vinegar-potato-chips", 
+    "u": "79591", 
+    "t": "/wcsstore/Coles-CAS/images/5/7/0/5706254-th.jpg", 
+    "n": "Thinly Cut Salt & Vinegar Potato Chips", 
+    "pl": "20"
+}

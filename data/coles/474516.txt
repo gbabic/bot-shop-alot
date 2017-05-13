@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "6.5mL"
+        ]
+    }, 
+    "s9": "474600", 
+    "p1": {
+        "o": "15.35"
+    }, 
+    "m": "Rimmel", 
+    "u2": "$23.62 per 10mL", 
+    "p": "2359653P", 
+    "s": "rimmel-oh-my-gloss!-crystal-clear-800-lip-gloss", 
+    "u": "474516", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/5/2359653-th.jpg", 
+    "n": "Oh My Gloss! Crystal Clear 800 Lip Gloss", 
+    "pl": "20"
+}

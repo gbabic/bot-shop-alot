@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "620mL"
+        ]
+    }, 
+    "s9": "475633", 
+    "p1": {
+        "l4": "17.6", 
+        "o": "8.7"
+    }, 
+    "m": "Head & Shoulders", 
+    "t1": "S", 
+    "p": "2350240P", 
+    "s": "head-shoulders-apple-fresh-shampoo", 
+    "n": "Apple Fresh Shampoo", 
+    "u": "475557", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/5/2350240-th.jpg", 
+    "u2": "$1.40 per 100mL", 
+    "pl": "12"
+}

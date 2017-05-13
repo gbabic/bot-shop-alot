@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "425g"
+        ]
+    }, 
+    "s9": "124841", 
+    "p1": {
+        "o": "3.95"
+    }, 
+    "m": "Stagg", 
+    "u2": "$0.93 per 100G", 
+    "p": "7619875P", 
+    "s": "stagg-chili-chunky-beef-chilli-with-beans", 
+    "u": "67341", 
+    "t": "/wcsstore/Coles-CAS/images/7/6/1/7619875-th.jpg", 
+    "n": "Chilli Beef with Beans", 
+    "pl": "20"
+}

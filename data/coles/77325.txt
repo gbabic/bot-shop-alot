@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "170g"
+        ]
+    }, 
+    "s9": "141159", 
+    "p1": {
+        "l4": "3.74", 
+        "o": "2.7"
+    }, 
+    "m": "Abundant Earth", 
+    "t1": "S", 
+    "p": "5419161P", 
+    "s": "abundant-earth-puffed-corn-cereal", 
+    "n": "Puffed Corn Cereal", 
+    "u": "77325", 
+    "t": "/wcsstore/Coles-CAS/images/5/4/1/5419161-th.jpg", 
+    "u2": "$1.59 per 100G", 
+    "pl": "12"
+}

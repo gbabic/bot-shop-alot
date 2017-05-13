@@ -1,0 +1,32 @@
+{
+    "a": {
+        "L2": [
+            "false"
+        ], 
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "O3": [
+            "1 each"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "T1": [
+            "false"
+        ]
+    }, 
+    "s9": "161438", 
+    "p1": {
+        "o": "15.5"
+    }, 
+    "m": "Magazine", 
+    "s7": "", 
+    "u2": "", 
+    "p": "9830801P", 
+    "s": "modern-wedding-magazine", 
+    "u": "90831", 
+    "t": "/wcsstore/Coles-CAS/images/9/8/3/9830801-th.jpg", 
+    "n": "Modern Wedding", 
+    "pl": "20"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "30mL"
+        ]
+    }, 
+    "s9": "467834", 
+    "p1": {
+        "l4": "20.85", 
+        "o": "11.0"
+    }, 
+    "m": "Rimmel", 
+    "t1": "S", 
+    "p": "2010537P", 
+    "s": "rimmel--lasting-finish-sand-foundation", 
+    "n": "Lasting Finish Sand Foundation", 
+    "u": "467605", 
+    "t": "/wcsstore/Coles-CAS/images/2/0/1/2010537-th.jpg", 
+    "u2": "$3.67 per 10mL", 
+    "pl": "12"
+}

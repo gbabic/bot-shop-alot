@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100g"
+        ]
+    }, 
+    "s9": "131908", 
+    "p1": {
+        "o": "9.69"
+    }, 
+    "m": "Lekker", 
+    "u2": "$9.69 per 100G", 
+    "p": "7201995P", 
+    "s": "lekker-biltong-stokkies-peri", 
+    "u": "67790", 
+    "t": "/wcsstore/Coles-CAS/images/7/2/0/7201995-th.jpg", 
+    "n": "Peri Biltong Stokkies", 
+    "pl": "20"
+}

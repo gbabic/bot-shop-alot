@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100g"
+        ]
+    }, 
+    "s9": "128428", 
+    "p1": {
+        "o": "9.0"
+    }, 
+    "m": "Moosehead", 
+    "t1": "V", 
+    "p": "7534070P", 
+    "s": "moosehead-wax-hard-core", 
+    "n": "Hard Core Wax", 
+    "u": "68669", 
+    "t": "/wcsstore/Coles-CAS/images/7/5/3/7534070-th.jpg", 
+    "u2": "$9.00 per 100G", 
+    "pl": "20"
+}

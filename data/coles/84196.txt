@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "3 pack"
+        ]
+    }, 
+    "s9": "146259", 
+    "p1": {
+        "o": "3.74"
+    }, 
+    "m": "Multix", 
+    "s7": "", 
+    "u2": "$1.25 per 1Ea", 
+    "p": "5073486P", 
+    "s": "multix-garden-bags", 
+    "u": "84196", 
+    "t": "/wcsstore/Coles-CAS/images/5/0/7/5073486-th.jpg", 
+    "n": "Drawtight Garbage Bags 120cm x 80cm", 
+    "pl": "20"
+}

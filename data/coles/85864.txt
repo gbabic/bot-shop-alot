@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "825g"
+        ]
+    }, 
+    "s9": "148497", 
+    "p1": {
+        "o": "3.5"
+    }, 
+    "m": "SPC", 
+    "u2": "$4.24 per 1Kg", 
+    "p": "314723P", 
+    "s": "spc-peaches-sliced-in-juice", 
+    "u": "85864", 
+    "t": "/wcsstore/Coles-CAS/images/3/1/4/314723-th.jpg", 
+    "n": "Peach Slices in Juice Canned", 
+    "pl": "20"
+}

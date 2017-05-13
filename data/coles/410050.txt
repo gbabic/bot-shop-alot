@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "460g"
+        ]
+    }, 
+    "s9": "410163", 
+    "p1": {
+        "o": "7.21"
+    }, 
+    "m": "Kellogg's", 
+    "u2": "$1.57 per 100G", 
+    "p": "2011289P", 
+    "s": "kelloggs-crispix", 
+    "u": "410050", 
+    "t": "/wcsstore/Coles-CAS/images/2/0/1/2011289-th.jpg", 
+    "n": "Crispix", 
+    "pl": "20"
+}

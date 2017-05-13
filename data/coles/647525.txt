@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "170g"
+        ]
+    }, 
+    "s9": "647550", 
+    "p1": {
+        "l4": "4.95", 
+        "o": "3.5"
+    }, 
+    "m": "Arnotts Bites", 
+    "t1": "S", 
+    "p": "2869897P", 
+    "s": "arnotts-bites-biscuits-mint-slice", 
+    "n": "Biscuits Mint Slice", 
+    "u": "647525", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/6/2869897-th.jpg", 
+    "u2": "$2.06 per 100G", 
+    "pl": "12"
+}

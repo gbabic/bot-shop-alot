@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400mL"
+        ]
+    }, 
+    "s9": "474640", 
+    "p1": {
+        "o": "17.6"
+    }, 
+    "m": "Batiste", 
+    "u2": "$4.40 per 100mL", 
+    "p": "2343198P", 
+    "s": "batiste-tropical-dry-shampoo", 
+    "u": "474519", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/4/2343198-th.jpg", 
+    "n": "Coconut & Exotic Tropical Dry Shampoo", 
+    "pl": "20"
+}

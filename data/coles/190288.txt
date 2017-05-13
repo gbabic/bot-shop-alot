@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Clothing"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 pack"
+        ]
+    }, 
+    "u2": "$6.00 per 1ea", 
+    "s9": "192985", 
+    "p1": {
+        "l4": "11.0", 
+        "o": "6.0"
+    }, 
+    "s7": "", 
+    "m": "Mix", 
+    "n": "Luxury Tights 140 Denier Black Medium", 
+    "p": "9854344P", 
+    "s": "mix-tights-luxury-140-denier-black-medium", 
+    "u": "190288", 
+    "t": "/wcsstore/Coles-CAS/images/9/8/5/9854344-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

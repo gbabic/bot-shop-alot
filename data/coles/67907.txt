@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "150g"
+        ]
+    }, 
+    "s9": "130114", 
+    "p1": {
+        "o": "17.49"
+    }, 
+    "m": "Veet", 
+    "u2": "$11.66 per 100G", 
+    "p": "7126029P", 
+    "s": "veet-spray-on-hair-removal-cream-sensitive", 
+    "u": "67907", 
+    "t": "/wcsstore/Coles-CAS/images/7/1/2/7126029-th.jpg", 
+    "n": "Spray On Hair Removal Cream Sensitive", 
+    "pl": "20"
+}

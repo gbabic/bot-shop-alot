@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "65g"
+        ]
+    }, 
+    "s9": "502667", 
+    "p1": {
+        "o": "2.75"
+    }, 
+    "m": "Shneiders", 
+    "u2": "$0.42 per 10G", 
+    "p": "2195240P", 
+    "s": "shneiders--delinut-colour", 
+    "u": "502579", 
+    "t": "/wcsstore/Coles-CAS/images/2/1/9/2195240-th.jpg", 
+    "n": "Delinut Colour", 
+    "pl": "20"
+}

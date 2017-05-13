@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "10 pack"
+        ]
+    }, 
+    "s9": "478036", 
+    "p1": {
+        "l4": "2.97", 
+        "o": "1.0"
+    }, 
+    "m": "Twinings", 
+    "t1": "S", 
+    "p": "2384526P", 
+    "s": "twinings-herbal-infusions-tea-bags-ginger-apple", 
+    "n": "Herbal Infusions Tea Bags Ginger & Apple", 
+    "u": "478004", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/8/2384526-th.jpg", 
+    "u2": "$5.00 per 100G", 
+    "pl": "12"
+}

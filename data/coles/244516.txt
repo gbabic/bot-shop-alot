@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400g"
+        ]
+    }, 
+    "u2": "$1.00 per 100G", 
+    "s9": "244561", 
+    "p1": {
+        "o": "4.0"
+    }, 
+    "s7": "", 
+    "m": "Coles Simply Gluten Free", 
+    "n": "White Bread Mix", 
+    "p": "1252133P", 
+    "s": "coles-simply-gluten-free-bread-mix-white-1252133p", 
+    "u": "244516", 
+    "t": "/wcsstore/Coles-CAS/images/1/2/5/1252133-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Mothers Day"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "166278", 
+    "p1": {
+        "l4": "8.1", 
+        "o": "5.5"
+    }, 
+    "m": "Capilano", 
+    "t1": "S", 
+    "p": "9247578P", 
+    "s": "capilano-honey-premium-blend-up-side-down", 
+    "n": "Pure Australian Honey Squeeze", 
+    "u": "107184", 
+    "t": "/wcsstore/Coles-CAS/images/9/2/4/9247578-th.jpg", 
+    "u2": "$1.10 per 100G", 
+    "pl": "12"
+}

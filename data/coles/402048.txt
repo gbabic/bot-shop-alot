@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "210g"
+        ]
+    }, 
+    "s9": "402185", 
+    "p1": {
+        "o": "3.3"
+    }, 
+    "m": "IXL", 
+    "u2": "$1.57 per 100G", 
+    "p": "2080667P", 
+    "s": "ixl-strawberry-jam-with-stevia", 
+    "u": "402048", 
+    "t": "/wcsstore/Coles-CAS/images/2/0/8/2080667-th.jpg", 
+    "n": "Strawberry Jam With Stevia", 
+    "pl": "20"
+}

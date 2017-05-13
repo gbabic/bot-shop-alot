@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "350g"
+        ]
+    }, 
+    "s9": "482100", 
+    "p1": {
+        "o": "3.5"
+    }, 
+    "m": "Pataks", 
+    "t1": "V", 
+    "p": "9891169P", 
+    "s": "pataks-tikka-masala-simmer-sauce-9891169p", 
+    "n": "Tikka Masala Simmer Sauce", 
+    "u": "482015", 
+    "t": "/wcsstore/Coles-CAS/images/9/8/9/9891169-th.jpg", 
+    "u2": "$1.00 per 100G", 
+    "pl": "20"
+}

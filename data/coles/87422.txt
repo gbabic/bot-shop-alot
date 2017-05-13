@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "75g"
+        ]
+    }, 
+    "s9": "148650", 
+    "p1": {
+        "o": "2.0"
+    }, 
+    "m": "Continental", 
+    "t1": "V", 
+    "p": "129674P", 
+    "s": "continental-cup-a-soup-cream-of-chicken", 
+    "n": "Cream of Chicken Cup A Soup", 
+    "u": "87422", 
+    "t": "/wcsstore/Coles-CAS/images/1/2/9/129674-th.jpg", 
+    "u2": "$2.67 per 100G", 
+    "pl": "20"
+}

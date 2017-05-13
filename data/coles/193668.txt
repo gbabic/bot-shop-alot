@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 pack"
+        ]
+    }, 
+    "s9": "193842", 
+    "p1": {
+        "o": "21.23"
+    }, 
+    "m": "L'Oreal", 
+    "u2": "$21.23 per 1Ea", 
+    "p": "1298462P", 
+    "s": "loreal-preference-hair-colour-wild-ombre-2-brown", 
+    "u": "193668", 
+    "t": "/wcsstore/Coles-CAS/images/1/2/9/1298462-th.jpg", 
+    "n": "Paris Preference Wild Ombre 2 Brown Permanent Hair Colour", 
+    "pl": "20"
+}

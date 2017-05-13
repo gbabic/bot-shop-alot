@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "u2": "$0.40 per 100G", 
+    "s9": "172161", 
+    "p1": {
+        "o": "2.0"
+    }, 
+    "s7": "", 
+    "m": "Dolmio", 
+    "n": "Classic Basil Pasta Sauce", 
+    "p": "1268155P", 
+    "s": "dolmio-pasta-sauce-basil", 
+    "u": "172050", 
+    "t": "/wcsstore/Coles-CAS/images/1/2/6/1268155-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

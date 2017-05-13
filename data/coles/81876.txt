@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "143870", 
+    "p1": {
+        "o": "7.99"
+    }, 
+    "m": "Magazine", 
+    "s7": "", 
+    "u2": "$7.99 per 1ea", 
+    "p": "5061013P", 
+    "s": "girlfriend-magazine", 
+    "u": "81876", 
+    "t": "/wcsstore/Coles-CAS/images/5/0/6/5061013-th.jpg", 
+    "n": "Girlfriend", 
+    "pl": "20"
+}

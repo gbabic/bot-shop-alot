@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400g"
+        ]
+    }, 
+    "s9": "593562", 
+    "p1": {
+        "o": "6.6"
+    }, 
+    "m": "Coles Simply Gluten Free", 
+    "u2": "$1.65 per 100G", 
+    "p": "2750056P", 
+    "s": "coles-simply-gluten-free-frozen-chicken-nuggets", 
+    "u": "593530", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/5/2750056-th.jpg", 
+    "n": "Frozen Chicken Nuggets", 
+    "pl": "20"
+}

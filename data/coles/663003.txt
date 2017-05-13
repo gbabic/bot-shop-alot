@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500mL"
+        ]
+    }, 
+    "s9": "663007", 
+    "p1": {
+        "l4": "16.5", 
+        "o": "15.0"
+    }, 
+    "m": "Dermal", 
+    "t1": "N", 
+    "p": "2864780P", 
+    "s": "dermal-very-dry-skin-lotion", 
+    "n": "Very Dry Skin Lotion", 
+    "u": "663003", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/6/2864780-th.jpg", 
+    "u2": "$3.00 per 100mL", 
+    "pl": "12"
+}

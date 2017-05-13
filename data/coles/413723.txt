@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "10m"
+        ]
+    }, 
+    "s9": "413937", 
+    "p1": {
+        "o": "4.39"
+    }, 
+    "m": "Multix", 
+    "u2": "$0.44 per 1M", 
+    "p": "2016056P", 
+    "s": "multix-printed-baking-paper", 
+    "u": "413723", 
+    "t": "/wcsstore/Coles-CAS/images/2/0/1/2016056-th.jpg", 
+    "n": "Printed Baking Paper", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "s9": "620095", 
+    "p1": {
+        "o": "12.98"
+    }, 
+    "m": "Vitapet", 
+    "u2": "$6.49 per 100G", 
+    "p": "2820399P", 
+    "s": "vitapet-chewz-bf-spr-ribs-dog-trt", 
+    "u": "620019", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/2/2820399-th.jpg", 
+    "n": "Chewz Bf Spr Ribs Dog Trt", 
+    "pl": "99"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1kg"
+        ]
+    }, 
+    "s9": "596560", 
+    "p1": {
+        "o": "7.69"
+    }, 
+    "m": "Jalna", 
+    "u2": "$0.77 per 100G", 
+    "p": "2744701P", 
+    "s": "jalna-greek-sweet-creamy-strawberry-yoghurt", 
+    "u": "596502", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/4/2744701-th.jpg", 
+    "n": "Greek Sweet & Creamy Strawberry Yoghurt", 
+    "pl": "99"
+}

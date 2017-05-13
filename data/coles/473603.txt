@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "38g"
+        ]
+    }, 
+    "s9": "473874", 
+    "p1": {
+        "o": "1.65"
+    }, 
+    "m": "Chocofreta", 
+    "u2": "$4.34 per 100G", 
+    "p": "2015632P", 
+    "s": "chocofreta-strawberry", 
+    "u": "473603", 
+    "t": "/wcsstore/Coles-CAS/images/2/0/1/2015632-th.jpg", 
+    "n": "Strawberry", 
+    "pl": "20"
+}

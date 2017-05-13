@@ -1,0 +1,41 @@
+{
+    "a": {
+        "D": [
+            "LIQUOR"
+        ], 
+        "P8": [
+            "Alcohol"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "true"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "24 pack"
+        ]
+    }, 
+    "s9": "140632", 
+    "p1": {
+        "l4": "85.6", 
+        "o": "72.0"
+    }, 
+    "s7": "", 
+    "t1": "S", 
+    "m": "Bundaberg", 
+    "n": "UP Rum & Cola 375mL Cans", 
+    "p": "536899P", 
+    "s": "bundaberg-up-rum-cola-can-375ml", 
+    "u": "78641", 
+    "t": "/wcsstore/Coles-CAS/images/5/3/6/536899-th.jpg", 
+    "a6": false, 
+    "u2": "$0.80 per 100mL", 
+    "pl": "4"
+}

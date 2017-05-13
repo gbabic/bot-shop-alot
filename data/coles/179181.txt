@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "340g"
+        ]
+    }, 
+    "s9": "179720", 
+    "p1": {
+        "o": "2.86"
+    }, 
+    "m": "B2", 
+    "u2": "$0.84 per 100G", 
+    "p": "1383947P", 
+    "s": "b2-luncheon-meat-pork-spicy", 
+    "u": "179181", 
+    "t": "/wcsstore/Coles-CAS/images/1/3/8/1383947-th.jpg", 
+    "n": "Spicy Pork Luncheon Meat", 
+    "pl": "20"
+}

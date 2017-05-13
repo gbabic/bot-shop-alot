@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Baby"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "11 pack"
+        ]
+    }, 
+    "s9": "112611", 
+    "p1": {
+        "o": "14.99"
+    }, 
+    "m": "Huggies", 
+    "u2": "$1.36 per 1Ea", 
+    "p": "8383333P", 
+    "s": "huggies-little-swimmers-medium-11-15kg", 
+    "u": "47260", 
+    "t": "/wcsstore/Coles-CAS/images/8/3/8/8383333-th.jpg", 
+    "n": "Medium Little Swimmers Swim Pants Unisex 11-15kg", 
+    "pl": "20"
+}

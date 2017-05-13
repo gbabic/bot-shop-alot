@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "130g"
+        ]
+    }, 
+    "s9": "575233", 
+    "p1": {
+        "o": "4.4"
+    }, 
+    "m": "Pringles", 
+    "u2": "$3.38 per 100G", 
+    "p": "2672735P", 
+    "s": "pringles-original-tortilla-chips", 
+    "u": "575026", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/7/2672735-th.jpg", 
+    "n": "Original Tortilla Corn Chips", 
+    "pl": "99"
+}

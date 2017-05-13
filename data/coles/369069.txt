@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "369281", 
+    "p1": {
+        "o": "3.5"
+    }, 
+    "m": "Jotz", 
+    "u2": "$3.50 per 1Ea", 
+    "p": "1839303P", 
+    "s": "jotz-notebook-a4-spiral", 
+    "u": "369069", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/3/1839303-th.jpg", 
+    "n": "Spiral A4 Notebook", 
+    "pl": "20"
+}

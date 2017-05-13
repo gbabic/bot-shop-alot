@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Baby"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "11 pack"
+        ]
+    }, 
+    "u2": "$0.73 per 1Ea", 
+    "s9": "113459", 
+    "p1": {
+        "o": "8.0"
+    }, 
+    "s7": "", 
+    "m": "Comfy Bots", 
+    "n": "Medium Swim Pants Unisex", 
+    "p": "8633215P", 
+    "s": "cofy-bots-swim-pants-medium", 
+    "u": "50227", 
+    "t": "/wcsstore/Coles-CAS/images/8/6/3/8633215-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

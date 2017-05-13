@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "64g"
+        ]
+    }, 
+    "s9": "676569", 
+    "p1": {
+        "l4": "5.09", 
+        "o": "4.0"
+    }, 
+    "m": "Wrigley", 
+    "t1": "N", 
+    "p": "2887855P", 
+    "s": "wrigleys-extra-bottle-strawberry", 
+    "n": "Extra Strawberry Chewing Gum Bottle 46 Pack", 
+    "u": "676532", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/8/2887855-th.jpg", 
+    "u2": "$6.25 per 100G", 
+    "pl": "12"
+}

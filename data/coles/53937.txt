@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "u2": "$1.00 per 100G", 
+    "s9": "165689", 
+    "p1": {
+        "o": "2.0"
+    }, 
+    "s7": "", 
+    "m": "Coles", 
+    "n": "Spicy Capsicum Dip", 
+    "p": "8587253P", 
+    "s": "coles-dip-spicy-capsicum", 
+    "u": "53937", 
+    "t": "/wcsstore/Coles-CAS/images/8/5/8/8587253-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

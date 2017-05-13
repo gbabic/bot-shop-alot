@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Frozen"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "625g"
+        ]
+    }, 
+    "u2": "$0.72 per 100G", 
+    "s9": "142447", 
+    "p1": {
+        "l4": "6.04", 
+        "o": "4.5"
+    }, 
+    "s7": "", 
+    "m": "Borgs", 
+    "n": "Spanakopita Frozen Spinach & Fetta Pastizzi", 
+    "p": "5233174P", 
+    "s": "borgs-pastizzi-spanakopita-spinach-fetta-frozen", 
+    "u": "80512", 
+    "t": "/wcsstore/Coles-CAS/images/5/2/3/5233174-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "385mL"
+        ]
+    }, 
+    "s9": "641183", 
+    "p1": {
+        "l4": "19.79", 
+        "o": "8.5"
+    }, 
+    "m": "Ogx", 
+    "t1": "S", 
+    "p": "2675493P", 
+    "s": "ogx-bamboo-fiber-shampoo", 
+    "n": "Bamboo Fiber Shampoo", 
+    "u": "641059", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/7/2675493-th.jpg", 
+    "u2": "$2.21 per 100mL", 
+    "pl": "12"
+}

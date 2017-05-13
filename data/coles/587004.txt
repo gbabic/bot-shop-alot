@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.8"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 1.8kg pack"
+        ]
+    }, 
+    "u2": "$4.00 per 11.00", 
+    "s9": "587007", 
+    "p1": {
+        "o": "7.2"
+    }, 
+    "s7": "Indicated price based on approx. weight. Weight may vary between 1.6kg and 2kg.", 
+    "m": "Coles", 
+    "n": "RSPCA Approved Medium Whole Chicken", 
+    "p": "2782438P", 
+    "s": "coles-rspca-approved-medium-whole-chicken", 
+    "u": "587004", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/8/2782438-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

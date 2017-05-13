@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "165mL"
+        ]
+    }, 
+    "s9": "163928", 
+    "p1": {
+        "o": "0.92"
+    }, 
+    "m": "TCC", 
+    "u2": "$0.56 per 100mL", 
+    "p": "9434644P", 
+    "s": "tcc-milk-coconut-lite", 
+    "u": "103274", 
+    "t": "/wcsstore/Coles-CAS/images/9/4/3/9434644-th.jpg", 
+    "n": "Lite Coconut Milk", 
+    "pl": "20"
+}

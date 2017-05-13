@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "9.6g"
+        ]
+    }, 
+    "s9": "493033", 
+    "p1": {
+        "o": "26.4"
+    }, 
+    "m": "Maybelline", 
+    "u2": "$27.50 per 10G", 
+    "p": "2385449P", 
+    "s": "maybelline-expert-wear-eyeshadow-the-nudes-palette", 
+    "u": "493002", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/8/2385449-th.jpg", 
+    "n": "Expert Wear Eyeshadow The Nudes Palette", 
+    "pl": "20"
+}

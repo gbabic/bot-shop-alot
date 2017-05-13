@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "149105", 
+    "p1": {
+        "o": "1.8"
+    }, 
+    "m": "San Remo", 
+    "t1": "V", 
+    "p": "209900P", 
+    "s": "san-remo-pasta-spirals-wholemeal", 
+    "n": "Wholemeal Pasta Spirals", 
+    "u": "85354", 
+    "t": "/wcsstore/Coles-CAS/images/2/0/9/209900-th.jpg", 
+    "u2": "$0.36 per 100G", 
+    "pl": "20"
+}

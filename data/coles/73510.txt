@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "132986", 
+    "p1": {
+        "o": "3.36"
+    }, 
+    "m": "4 Legs", 
+    "u2": "$0.67 per 100G", 
+    "p": "6586920P", 
+    "s": "4-legs-puppy-food-3-meats-parsley", 
+    "u": "73510", 
+    "t": "/wcsstore/Coles-CAS/images/6/5/8/6586920-th.jpg", 
+    "n": "3 Meats & Parsley Puppy Food", 
+    "pl": "20"
+}

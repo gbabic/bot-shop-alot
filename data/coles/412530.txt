@@ -1,0 +1,44 @@
+{
+    "a": {
+        "D": [
+            "LIQUOR"
+        ], 
+        "P8": [
+            "Alcohol"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "true"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "pr": "6.66000", 
+    "s9": "412560", 
+    "pq": "3", 
+    "pt": "MultibuyMultiSku", 
+    "u2": "$1.93 per 100mL", 
+    "m": "Bundaberg", 
+    "n": "Dark & Stormy Rum 500mL Bottle", 
+    "p": "1258763P", 
+    "s": "bundaberg-dark-stormy-rum-500ml-bottle", 
+    "p1": {
+        "o": "9.63"
+    }, 
+    "u": "412530", 
+    "t": "/wcsstore/Coles-CAS/images/1/2/5/1258763-th.jpg", 
+    "pd": "3 for $20", 
+    "a6": false, 
+    "pi": "10141668", 
+    "t1": "M", 
+    "pl": "4"
+}

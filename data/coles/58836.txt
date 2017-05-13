@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "236g"
+        ]
+    }, 
+    "s9": "121134", 
+    "p1": {
+        "l4": "6.59", 
+        "o": "2.99"
+    }, 
+    "m": "Schick", 
+    "t1": "S", 
+    "p": "8037208P", 
+    "s": "schick-hydro-shave-gel-sensitive", 
+    "n": "Hydro Sensitive Shave Gel", 
+    "u": "58836", 
+    "t": "/wcsstore/Coles-CAS/images/8/0/3/8037208-th.jpg", 
+    "u2": "$1.27 per 100G", 
+    "pl": "12"
+}

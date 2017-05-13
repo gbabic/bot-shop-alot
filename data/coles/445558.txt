@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "125mL"
+        ]
+    }, 
+    "s9": "445676", 
+    "p1": {
+        "l4": "8.8", 
+        "o": "5.6"
+    }, 
+    "m": "Garnier", 
+    "t1": "S", 
+    "p": "2207291P", 
+    "s": "garnier-express-2-in-1-make-up-remover", 
+    "n": "Express 2 in 1 Make Up Remover", 
+    "u": "445558", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/0/2207291-th.jpg", 
+    "u2": "$4.48 per 100mL", 
+    "pl": "12"
+}

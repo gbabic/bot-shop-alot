@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "96g"
+        ]
+    }, 
+    "s9": "403728", 
+    "p1": {
+        "o": "5.45"
+    }, 
+    "m": "Healtheries Kidscare", 
+    "u2": "$5.68 per 100G", 
+    "p": "1996301P", 
+    "s": "healthiers-kidscare-burger-potato-curls", 
+    "u": "403501", 
+    "t": "/wcsstore/Coles-CAS/images/1/9/9/1996301-th.jpg", 
+    "n": "Burger Potato Curls", 
+    "pl": "20"
+}

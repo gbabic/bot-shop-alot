@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Clothing"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "2 pack"
+        ]
+    }, 
+    "u2": "", 
+    "s9": "192543", 
+    "p1": {
+        "l4": "12.0", 
+        "o": "7.0"
+    }, 
+    "s7": "", 
+    "m": "Bonds", 
+    "n": "Womens Cottontails Briefs Assorted size 20", 
+    "p": "1063094P", 
+    "s": "bonds-womens-briefs-cottontails-assorted-size-20-1063094p", 
+    "u": "190005", 
+    "t": "/wcsstore/Coles-CAS/images/1/0/6/1063094-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

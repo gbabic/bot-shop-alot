@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "6.35kg"
+        ]
+    }, 
+    "s9": "633015", 
+    "p1": {
+        "o": "22.0"
+    }, 
+    "m": "Tidy Cats", 
+    "u2": "$3.46 per 1Kg", 
+    "p": "2817882P", 
+    "s": "tidy-cats--24-07-performance-clumping-cat-litter", 
+    "u": "633004", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/1/2817882-th.jpg", 
+    "n": "24/07 Performance Clumping Cat Litter", 
+    "pl": "99"
+}

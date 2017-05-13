@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "240g"
+        ]
+    }, 
+    "s9": "159482", 
+    "p1": {
+        "l4": "6.82", 
+        "o": "4.8"
+    }, 
+    "m": "Dilmah", 
+    "t1": "S", 
+    "p": "9505163P", 
+    "s": "dilmah-tea-bags-extra-stength", 
+    "n": "Extra Strength Tea Cup Tea Bags 100 pack", 
+    "u": "93411", 
+    "t": "/wcsstore/Coles-CAS/images/9/5/0/9505163-th.jpg", 
+    "u2": "$2.00 per 100G", 
+    "pl": "12"
+}

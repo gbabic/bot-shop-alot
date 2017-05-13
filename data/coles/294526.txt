@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "115g"
+        ]
+    }, 
+    "s9": "294629", 
+    "p1": {
+        "o": "6.55"
+    }, 
+    "m": "MasterFoods", 
+    "u2": "$0.57 per 10G", 
+    "p": "163810P", 
+    "s": "masterfoods-ground-mild-paprika", 
+    "u": "294526", 
+    "t": "/wcsstore/Coles-CAS/images/1/6/3/163810-th.jpg", 
+    "n": "Ground Mild Paprika", 
+    "pl": "20"
+}

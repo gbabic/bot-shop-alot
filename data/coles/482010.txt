@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "0.5g"
+        ]
+    }, 
+    "s9": "482120", 
+    "p1": {
+        "o": "19.75"
+    }, 
+    "m": "Maybelline", 
+    "u2": "$395.00 per 10G", 
+    "p": "2363617P", 
+    "s": "maybelline-hyper-sharp-wing-black-eye-liner", 
+    "u": "482010", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/6/2363617-th.jpg", 
+    "n": "Hyper Sharp Wing Black Eye Liner", 
+    "pl": "20"
+}

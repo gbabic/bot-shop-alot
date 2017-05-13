@@ -1,0 +1,37 @@
+{
+    "a": {
+        "D": [
+            "HOTPLATE"
+        ], 
+        "P8": [
+            "Bread & Bakery"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "4 pack"
+        ]
+    }, 
+    "s9": "135290", 
+    "p1": {
+        "o": "5.39"
+    }, 
+    "m": "Bagel House", 
+    "u2": "$1.35 per 1Ea", 
+    "p": "6927736P", 
+    "s": "bagel-house-bagels-poppy-seed", 
+    "u": "72546", 
+    "t": "/wcsstore/Coles-CAS/images/6/9/2/6927736-th.jpg", 
+    "n": "Poppy Seed Bagels", 
+    "pl": "20"
+}

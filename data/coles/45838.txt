@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "180g"
+        ]
+    }, 
+    "s9": "168144", 
+    "p1": {
+        "l4": "3.08", 
+        "o": "1.4"
+    }, 
+    "m": "Starburst", 
+    "t1": "S", 
+    "p": "9038884P", 
+    "s": "starburst-rattlesnakes", 
+    "n": "Snakes", 
+    "u": "45838", 
+    "t": "/wcsstore/Coles-CAS/images/9/0/3/9038884-th.jpg", 
+    "u2": "$0.78 per 100G", 
+    "pl": "12"
+}

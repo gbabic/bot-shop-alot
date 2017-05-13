@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "12 pack"
+        ]
+    }, 
+    "s9": "134259", 
+    "p1": {
+        "l4": "4.39", 
+        "o": "3.2"
+    }, 
+    "m": "Mission", 
+    "t1": "S", 
+    "p": "6767709P", 
+    "s": "mission-burrito-tortillas-12-pack", 
+    "n": "Burrito Tortillas", 
+    "u": "74088", 
+    "t": "/wcsstore/Coles-CAS/images/6/7/6/6767709-th.jpg", 
+    "u2": "$0.56 per 100G", 
+    "pl": "12"
+}

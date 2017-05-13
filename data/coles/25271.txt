@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "337g"
+        ]
+    }, 
+    "s9": "35705", 
+    "p1": {
+        "l4": "4.95", 
+        "o": "3.5"
+    }, 
+    "m": "Arnott's", 
+    "t1": "S", 
+    "p": "1213415P", 
+    "s": "arnotts-chocolate-biscuits-mint-slice-value-pack", 
+    "n": "Mint Slice Chocolate Biscuits Value Pack", 
+    "u": "25271", 
+    "t": "/wcsstore/Coles-CAS/images/1/2/1/1213415-th.jpg", 
+    "u2": "$1.04 per 100G", 
+    "pl": "12"
+}

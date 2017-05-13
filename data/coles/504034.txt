@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "504126", 
+    "p1": {
+        "o": "14.3"
+    }, 
+    "m": "Lady Jayne", 
+    "s7": "Cannot select product colour online", 
+    "u2": "$14.30 per 1Ea", 
+    "p": "2303590P", 
+    "s": "lady-jayne-tangleze-detangling-brush", 
+    "u": "504034", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/0/2303590-th.jpg", 
+    "n": "Tangleze Detangling Brush", 
+    "pl": "20"
+}

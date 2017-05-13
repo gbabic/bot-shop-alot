@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "u2": "$3.32 per 1Ea", 
+    "s9": "111874", 
+    "p1": {
+        "l4": "7.32", 
+        "o": "3.32"
+    }, 
+    "s7": "", 
+    "m": "Schick", 
+    "n": "Silk Effects Plus Razor Kit", 
+    "p": "8270246P", 
+    "s": "schick-silk-effects-razor-kit", 
+    "u": "55880", 
+    "t": "/wcsstore/Coles-CAS/images/8/2/7/8270246-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

@@ -1,0 +1,38 @@
+{
+    "a": {
+        "D": [
+            "TOBACCO"
+        ], 
+        "P8": [
+            "Tobacco"
+        ], 
+        "T1": [
+            "true"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 carton"
+        ]
+    }, 
+    "s9": "32890", 
+    "p1": {
+        "o": "170.0"
+    }, 
+    "m": "Peter Jackson", 
+    "s7": "Prices include all taxes", 
+    "u2": "$170.00 per 1ea", 
+    "p": "5099719P", 
+    "s": "peter-jackson-cigarettes-fine-30s", 
+    "u": "12550", 
+    "t": "/wcsstore/Coles-CAS/images/C/i/g/Cigarettes-th.jpg", 
+    "n": "Fine Cigarettes 30's", 
+    "pl": "5"
+}

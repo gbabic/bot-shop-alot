@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "750g"
+        ]
+    }, 
+    "s9": "140203", 
+    "p1": {
+        "o": "4.0"
+    }, 
+    "m": "Lowan", 
+    "t1": "V", 
+    "p": "6022083P", 
+    "s": "lowan-muesli-swiss", 
+    "n": "Swiss Muesli", 
+    "u": "78195", 
+    "t": "/wcsstore/Coles-CAS/images/6/0/2/6022083-th.jpg", 
+    "u2": "$0.53 per 100G", 
+    "pl": "20"
+}

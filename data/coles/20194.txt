@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Mothers Day"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "u2": "$1.00 per 100G", 
+    "s9": "36221", 
+    "p1": {
+        "o": "2.0"
+    }, 
+    "s7": "", 
+    "m": "Coles", 
+    "n": "Original Corn Chips", 
+    "p": "6993038P", 
+    "s": "coles-corn-chips-original", 
+    "u": "20194", 
+    "t": "/wcsstore/Coles-CAS/images/6/9/9/6993038-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

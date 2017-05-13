@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "s9": "111565", 
+    "p1": {
+        "o": "3.96"
+    }, 
+    "m": "Podravka", 
+    "u2": "$0.20 per 10G", 
+    "p": "8496985P", 
+    "s": "podravka-vegeta-chicken-stock", 
+    "u": "103837", 
+    "t": "/wcsstore/Coles-CAS/images/8/4/9/8496985-th.jpg", 
+    "n": "Vegeta Chicken Stock", 
+    "pl": "20"
+}

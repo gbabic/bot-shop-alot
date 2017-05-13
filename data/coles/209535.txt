@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "60g"
+        ]
+    }, 
+    "s9": "209619", 
+    "p1": {
+        "l4": "2.15", 
+        "o": "1.5"
+    }, 
+    "m": "Applaws", 
+    "t1": "S", 
+    "p": "1328530P", 
+    "s": "applaws-cat-food-chicken-breast-with-duck", 
+    "n": "Juicy Chicken Breast with Duck Pot Cat Food", 
+    "u": "209535", 
+    "t": "/wcsstore/Coles-CAS/images/1/3/2/1328530-th.jpg", 
+    "u2": "$2.50 per 100G", 
+    "pl": "12"
+}

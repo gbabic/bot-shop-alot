@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "55g"
+        ]
+    }, 
+    "s9": "160250", 
+    "p1": {
+        "l4": "2.2", 
+        "o": "1.0"
+    }, 
+    "m": "Continental", 
+    "t1": "S", 
+    "p": "9151537P", 
+    "s": "continental-cup-a-soup-creamy-pumpkin-with-croutons", 
+    "n": "Creamy Pumpkin with Croutons Cup A Soup Serves 2", 
+    "u": "105993", 
+    "t": "/wcsstore/Coles-CAS/images/9/1/5/9151537-th.jpg", 
+    "u2": "$1.82 per 100G", 
+    "pl": "12"
+}

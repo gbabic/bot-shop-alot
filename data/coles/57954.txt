@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Bread & Bakery"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "800g"
+        ]
+    }, 
+    "s9": "120291", 
+    "p1": {
+        "o": "5.1"
+    }, 
+    "m": "Schwobs Swiss Bakery", 
+    "s7": "", 
+    "u2": "$0.64 per 100G", 
+    "p": "8165081P", 
+    "s": "schwobs-swiss-bakery-cob-light-rye", 
+    "u": "57954", 
+    "t": "/wcsstore/Coles-CAS/images/8/1/6/8165081-th.jpg", 
+    "n": "Light Rye Cobb", 
+    "pl": "20"
+}

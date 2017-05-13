@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "13.1mL"
+        ]
+    }, 
+    "s9": "135650", 
+    "p1": {
+        "o": "21.95"
+    }, 
+    "m": "Covergirl", 
+    "u2": "$16.76 per 10mL", 
+    "p": "6554639P", 
+    "s": "covergirl-lash-blast-mascara-very-black-6554639p", 
+    "u": "70989", 
+    "t": "/wcsstore/Coles-CAS/images/6/5/5/6554639-th.jpg", 
+    "n": "Lash Blast Volume Blasting Very Black 885 Mascara", 
+    "pl": "20"
+}

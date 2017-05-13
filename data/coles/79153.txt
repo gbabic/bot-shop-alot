@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1kg"
+        ]
+    }, 
+    "u2": "$2.50 per 1Kg", 
+    "s9": "142288", 
+    "p1": {
+        "l4": "4.72", 
+        "o": "2.5"
+    }, 
+    "s7": "", 
+    "m": "McCain", 
+    "n": "Healthy Choice Straight Cut Frozen Potato Chips", 
+    "p": "5442709P", 
+    "s": "mccain-healthy-choice-chips-straight-cut-frozen", 
+    "u": "79153", 
+    "t": "/wcsstore/Coles-CAS/images/5/4/4/5442709-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "34g"
+        ]
+    }, 
+    "s9": "583627", 
+    "p1": {
+        "o": "1.79"
+    }, 
+    "m": "Continental", 
+    "u2": "$5.26 per 100G", 
+    "p": "2746026P", 
+    "s": "continental-chicken-satay-skewers-recipe-mix", 
+    "u": "583521", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/4/2746026-th.jpg", 
+    "n": "Chicken Satay Skewers Recipe Mix", 
+    "pl": "99"
+}

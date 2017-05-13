@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "245mL"
+        ]
+    }, 
+    "s9": "114144", 
+    "p1": {
+        "l4": "7.15", 
+        "o": "3.25"
+    }, 
+    "m": "Brut", 
+    "t1": "S", 
+    "p": "8947122P", 
+    "s": "brut-body-spray-deodorant-stamina", 
+    "n": "Antiperspirnt Stamina Deodorant For Men", 
+    "u": "104182", 
+    "t": "/wcsstore/Coles-CAS/images/8/9/4/8947122-th.jpg", 
+    "u2": "$1.33 per 100mL", 
+    "pl": "12"
+}

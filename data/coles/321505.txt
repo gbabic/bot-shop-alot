@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "0.25"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 250g"
+        ]
+    }, 
+    "s9": "321515", 
+    "p1": {
+        "o": "6.5"
+    }, 
+    "m": "Coles Deli", 
+    "s7": "Indicated price based on approx. weight. Weight may vary between 225g and 275g.", 
+    "u2": "$26.00 per 1Kg", 
+    "p": "1850612P", 
+    "s": "coles-deli-salami---bertocchi-chorizo", 
+    "u": "321505", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/5/1850612-th.jpg", 
+    "n": "Bertocchi Brothers Chorizo Salami", 
+    "pl": "20"
+}

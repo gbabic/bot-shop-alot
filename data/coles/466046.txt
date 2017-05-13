@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400mL"
+        ]
+    }, 
+    "s9": "466627", 
+    "p1": {
+        "l4": "6.92", 
+        "o": "5.03"
+    }, 
+    "m": "Brut", 
+    "t1": "S", 
+    "p": "2277130P", 
+    "s": "brut-original-fresh-shower-gel", 
+    "n": "Original Fresh Shower Gel", 
+    "u": "466046", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/7/2277130-th.jpg", 
+    "u2": "$1.26 per 100mL", 
+    "pl": "12"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "30g"
+        ]
+    }, 
+    "s9": "147486", 
+    "p1": {
+        "l4": "1.54", 
+        "o": "1.4"
+    }, 
+    "m": "Continental", 
+    "t1": "V", 
+    "p": "129437P", 
+    "s": "continental-instant-soup-spring-vegetable", 
+    "n": "Spring Vegetable Soup Mix Serves 4", 
+    "u": "85488", 
+    "t": "/wcsstore/Coles-CAS/images/1/2/9/129437-th.jpg", 
+    "u2": "$4.67 per 100G", 
+    "pl": "12"
+}

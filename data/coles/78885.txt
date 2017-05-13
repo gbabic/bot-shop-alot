@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "s9": "139729", 
+    "p1": {
+        "o": "3.58"
+    }, 
+    "m": "Uncle Ben's", 
+    "s7": "", 
+    "u2": "$1.43 per 100G", 
+    "p": "5860185P", 
+    "s": "uncle-bens-express-rice-savoury-chicken", 
+    "u": "78885", 
+    "t": "/wcsstore/Coles-CAS/images/5/8/6/5860185-th.jpg", 
+    "n": "Express Savoury Chicken Rice", 
+    "pl": "20"
+}

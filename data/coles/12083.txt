@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1L"
+        ]
+    }, 
+    "u2": "$0.19 per 100mL", 
+    "s9": "37432", 
+    "p1": {
+        "o": "1.9"
+    }, 
+    "s7": "", 
+    "m": "Coles", 
+    "n": "Longlife Custard", 
+    "p": "5945459P", 
+    "s": "coles-custard-uht", 
+    "u": "12083", 
+    "t": "/wcsstore/Coles-CAS/images/5/9/4/5945459-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

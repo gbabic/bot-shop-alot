@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "180g"
+        ]
+    }, 
+    "s9": "182664", 
+    "p1": {
+        "o": "3.3"
+    }, 
+    "m": "White Rabbit", 
+    "u2": "$1.83 per 100G", 
+    "p": "1384928P", 
+    "s": "white-rabbit-creamy-candy", 
+    "u": "182120", 
+    "t": "/wcsstore/Coles-CAS/images/1/3/8/1384928-th.jpg", 
+    "n": "Creamy Candy", 
+    "pl": "20"
+}

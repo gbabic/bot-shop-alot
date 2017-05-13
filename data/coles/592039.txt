@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "180g"
+        ]
+    }, 
+    "s9": "592122", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "m": "Kellogg's", 
+    "u2": "$3.06 per 100G", 
+    "p": "2741598P", 
+    "s": "kelloggs--nutri-grain-edge-roasted-peanuts", 
+    "u": "592039", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/4/2741598-th.jpg", 
+    "n": "Nutri Grain Edge Roasted Peanuts", 
+    "pl": "99"
+}

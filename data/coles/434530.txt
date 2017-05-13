@@ -1,0 +1,38 @@
+{
+    "a": {
+        "D": [
+            "XMAS", 
+            "EASTER"
+        ], 
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "308g"
+        ]
+    }, 
+    "s9": "434589", 
+    "p1": {
+        "o": "16.0"
+    }, 
+    "m": "Lindt", 
+    "u2": "$5.19 per 100G", 
+    "p": "2202232P", 
+    "s": "lindt-lindor-bag-assorted", 
+    "u": "434530", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/0/2202232-th.jpg", 
+    "n": "Lindor Assorted Chocolate Bag", 
+    "pl": "20"
+}

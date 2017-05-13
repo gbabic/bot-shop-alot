@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "30mL"
+        ]
+    }, 
+    "s9": "128038", 
+    "p1": {
+        "o": "25.19"
+    }, 
+    "m": "Maybelline", 
+    "u2": "$8.40 per 10mL", 
+    "p": "7131925P", 
+    "s": "maybelline-dream-liquid-mousse-foundation-sandy-beige", 
+    "u": "67213", 
+    "t": "/wcsstore/Coles-CAS/images/7/1/3/7131925-th.jpg", 
+    "n": "Dream Liquid Mousse Foundation 60 Sandy Beige", 
+    "pl": "20"
+}

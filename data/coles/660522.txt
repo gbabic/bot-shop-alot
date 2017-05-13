@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "150g"
+        ]
+    }, 
+    "s9": "660551", 
+    "p1": {
+        "l4": "3.63", 
+        "o": "1.65"
+    }, 
+    "m": "Smiths Crinkle", 
+    "t1": "S", 
+    "p": "2872596P", 
+    "s": "smiths-crinkle-heinz-tomato-chips", 
+    "n": "Heinz Tomato Chips", 
+    "u": "660522", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/7/2872596-th.jpg", 
+    "u2": "$1.10 per 100G", 
+    "pl": "12"
+}

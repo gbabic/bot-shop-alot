@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1L"
+        ]
+    }, 
+    "s9": "163606", 
+    "p1": {
+        "o": "2.8"
+    }, 
+    "m": "A2", 
+    "t1": "V", 
+    "p": "9760047P", 
+    "s": "a2-milk-reduced-fat", 
+    "n": "Reduced Fat Milk", 
+    "u": "98297", 
+    "t": "/wcsstore/Coles-CAS/images/9/7/6/9760047-th.jpg", 
+    "u2": "$2.80 per 1L", 
+    "pl": "20"
+}

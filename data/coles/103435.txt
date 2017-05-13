@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "40 pack"
+        ]
+    }, 
+    "u2": "$0.05 per 1Ea", 
+    "s9": "158243", 
+    "p1": {
+        "o": "2.0"
+    }, 
+    "s7": "", 
+    "m": "Hercules", 
+    "n": "Clickzip Snack Bags Small 15cm x 10cm", 
+    "p": "8688953P", 
+    "s": "hercules-snack-bags-mini-click-zip-resealable", 
+    "u": "103435", 
+    "t": "/wcsstore/Coles-CAS/images/8/6/8/8688953-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

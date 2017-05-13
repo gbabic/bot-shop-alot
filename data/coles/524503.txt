@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100g"
+        ]
+    }, 
+    "s9": "524562", 
+    "p1": {
+        "l4": "1.4", 
+        "o": "1.0"
+    }, 
+    "m": "Supercoat", 
+    "t1": "S", 
+    "p": "2535472P", 
+    "s": "purina-supercoat-real-beef-adult-dog-food-loaf-tray", 
+    "n": "Adult Casserole Beef Dog Food Pouch", 
+    "u": "524503", 
+    "t": "/wcsstore/Coles-CAS/images/2/5/3/2535472-th.jpg", 
+    "u2": "$1.00 per 100G", 
+    "pl": "12"
+}

@@ -1,0 +1,37 @@
+{
+    "a": {
+        "D": [
+            "LIQUOR"
+        ], 
+        "P8": [
+            "Alcohol"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "true"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "750mL"
+        ]
+    }, 
+    "s9": "420548", 
+    "p1": {
+        "o": "21.4"
+    }, 
+    "m": "The Peoples", 
+    "u2": "$2.85 per 100mL", 
+    "p": "2037464P", 
+    "s": "the-peoples-pinot-gris", 
+    "u": "420521", 
+    "t": "/wcsstore/Coles-CAS/images/2/0/3/2037464-th.jpg", 
+    "n": "Pinot Gris", 
+    "pl": "20"
+}

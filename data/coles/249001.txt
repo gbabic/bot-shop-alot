@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400g"
+        ]
+    }, 
+    "s9": "249142", 
+    "p1": {
+        "o": "4.24"
+    }, 
+    "m": "Slendier", 
+    "u2": "$1.06 per 100G", 
+    "p": "1463194P", 
+    "s": "slendier-slim-rice-konjac", 
+    "u": "249001", 
+    "t": "/wcsstore/Coles-CAS/images/1/4/6/1463194-th.jpg", 
+    "n": "Rice Style Konjac", 
+    "pl": "20"
+}

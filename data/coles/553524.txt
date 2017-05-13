@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "s9": "553593", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "m": "Thomas Chipman", 
+    "u2": "$2.75 per 100G", 
+    "p": "2510096P", 
+    "s": "thomas-chipman-kale-spirulina-corn-chips", 
+    "u": "553524", 
+    "t": "/wcsstore/Coles-CAS/images/2/5/1/2510096-th.jpg", 
+    "n": "Kale & Spirulina Corn Chips", 
+    "pl": "20"
+}

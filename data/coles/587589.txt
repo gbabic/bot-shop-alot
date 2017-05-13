@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "3.5g"
+        ]
+    }, 
+    "s9": "587726", 
+    "p1": {
+        "o": "3.0"
+    }, 
+    "m": "Mode", 
+    "t1": "V", 
+    "p": "2616891P", 
+    "s": "mode--berry-nice-lipstick", 
+    "n": "Berry Nice Lipstick", 
+    "u": "587589", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/1/2616891-th.jpg", 
+    "u2": "$8.57 per 10G", 
+    "pl": "20"
+}

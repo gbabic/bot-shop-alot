@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "275g"
+        ]
+    }, 
+    "s9": "146158", 
+    "p1": {
+        "o": "7.37"
+    }, 
+    "m": "Kellogg's", 
+    "u2": "$2.68 per 100G", 
+    "p": "5203956P", 
+    "s": "kelloggs-cereal-variety-pack-8-pack", 
+    "u": "82985", 
+    "t": "/wcsstore/Coles-CAS/images/5/2/0/5203956-th.jpg", 
+    "n": "Variety Pack", 
+    "pl": "20"
+}

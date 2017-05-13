@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "4g"
+        ]
+    }, 
+    "s9": "583706", 
+    "p1": {
+        "o": "13.2"
+    }, 
+    "m": "Australis", 
+    "u2": "$33.00 per 10G", 
+    "p": "2617001P", 
+    "s": "australis--black-liquid-eyeliner", 
+    "u": "583560", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/1/2617001-th.jpg", 
+    "n": "Black Liquid Eyeliner", 
+    "pl": "20"
+}

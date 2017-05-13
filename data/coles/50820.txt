@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Fruit & Vegetables"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "115g"
+        ]
+    }, 
+    "s9": "111862", 
+    "p1": {
+        "o": "4.0"
+    }, 
+    "m": "Gourmet Garden", 
+    "s7": "", 
+    "u2": "$0.35 per 10G", 
+    "p": "8322179P", 
+    "s": "gourmet-garden-garlic", 
+    "u": "50820", 
+    "t": "/wcsstore/Coles-CAS/images/8/3/2/8322179-th.jpg", 
+    "n": "Garlic", 
+    "pl": "99"
+}

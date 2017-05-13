@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "43g"
+        ]
+    }, 
+    "s9": "584562", 
+    "p1": {
+        "o": "1.5"
+    }, 
+    "m": "Maggi", 
+    "t1": "V", 
+    "p": "2715099P", 
+    "s": "maggi-dry-recipe-base-satay-chicken", 
+    "n": "Satay Chicken Dry Recipe Base", 
+    "u": "584512", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/1/2715099-th.jpg", 
+    "u2": "$3.49 per 100G", 
+    "pl": "20"
+}

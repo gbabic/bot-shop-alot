@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "45g"
+        ]
+    }, 
+    "s9": "133697", 
+    "p1": {
+        "l4": "3.09", 
+        "o": "2.2"
+    }, 
+    "m": "Go Natural", 
+    "t1": "S", 
+    "p": "6636165P", 
+    "s": "go-natural-bar-macadamia-dream", 
+    "n": "Macadamia Dream Bar", 
+    "u": "73467", 
+    "t": "/wcsstore/Coles-CAS/images/6/6/3/6636165-th.jpg", 
+    "u2": "$4.89 per 100G", 
+    "pl": "12"
+}

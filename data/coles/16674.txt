@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "375g"
+        ]
+    }, 
+    "s9": "35470", 
+    "p1": {
+        "o": "1.65"
+    }, 
+    "m": "McKenzie's", 
+    "u2": "$4.40 per 1Kg", 
+    "p": "199206P", 
+    "s": "mckenzies-flour-rice-gluten-free", 
+    "u": "16674", 
+    "t": "/wcsstore/Coles-CAS/images/1/9/9/199206-th.jpg", 
+    "n": "Rice Flour Gluten Free", 
+    "pl": "20"
+}

@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "270599", 
+    "p1": {
+        "o": "5.95"
+    }, 
+    "m": "Magazine", 
+    "s7": "Cover may not depict edition offered for sale", 
+    "u2": "$5.95 per 1Ea", 
+    "p": "7499955P", 
+    "s": "magazine-puzzler-sudoku", 
+    "u": "270533", 
+    "t": "/wcsstore/Coles-CAS/images/7/4/9/7499955-th.jpg", 
+    "n": "Puzzler Sudoku", 
+    "pl": "20"
+}

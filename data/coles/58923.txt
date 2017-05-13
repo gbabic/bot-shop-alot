@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100g"
+        ]
+    }, 
+    "s9": "119912", 
+    "p1": {
+        "o": "1.1"
+    }, 
+    "m": "Maharajah's Choice", 
+    "u2": "$1.10 per 100G", 
+    "p": "7979790P", 
+    "s": "maharajahs-choice-pappadams-garlic", 
+    "u": "58923", 
+    "t": "/wcsstore/Coles-CAS/images/7/9/7/7979790-th.jpg", 
+    "n": "Garlic Polybag Pappadams", 
+    "pl": "20"
+}

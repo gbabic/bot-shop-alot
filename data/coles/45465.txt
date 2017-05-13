@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "56g"
+        ]
+    }, 
+    "s9": "157763", 
+    "p1": {
+        "o": "3.96"
+    }, 
+    "m": "Wrigley", 
+    "s7": "", 
+    "u2": "$7.07 per 100G", 
+    "p": "8894605P", 
+    "s": "wrigleys-air-waves-chewing-gum-menthol-eucalyptus-sugar-free", 
+    "u": "45465", 
+    "t": "/wcsstore/Coles-CAS/images/8/8/9/8894605-th.jpg", 
+    "n": "Air Waves Menthol & Eucalyptus Chewing Gum", 
+    "pl": "20"
+}

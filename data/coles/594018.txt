@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "340g"
+        ]
+    }, 
+    "s9": "594171", 
+    "p1": {
+        "l4": "7.15", 
+        "o": "4.0"
+    }, 
+    "m": "Weight Watchers", 
+    "t1": "S", 
+    "p": "2745180P", 
+    "s": "weight-watchers-gourmet-menu-mango-coconut-chicken-frozen-meal", 
+    "n": "Gourmet Menu Mango Coconut Chicken Frozen Meal", 
+    "u": "594018", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/4/2745180-th.jpg", 
+    "u2": "$1.18 per 100G", 
+    "pl": "12"
+}

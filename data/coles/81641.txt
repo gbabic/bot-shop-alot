@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "145494", 
+    "p1": {
+        "o": "5.99"
+    }, 
+    "m": "Magazine", 
+    "s7": "", 
+    "u2": "$5.99 per 1ea", 
+    "p": "4179572P", 
+    "s": "girlpower-magazine", 
+    "u": "81641", 
+    "t": "/wcsstore/Coles-CAS/images/4/1/7/4179572-th.jpg", 
+    "n": "Girlpower", 
+    "pl": "20"
+}

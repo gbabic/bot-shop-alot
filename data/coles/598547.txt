@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "150mL"
+        ]
+    }, 
+    "s9": "598563", 
+    "p1": {
+        "l4": "5.5", 
+        "o": "3.5"
+    }, 
+    "m": "Rexona", 
+    "t1": "S", 
+    "p": "2749217P", 
+    "s": "rexona-men-antiperspirant-original", 
+    "n": "Men Antiperspirant Original", 
+    "u": "598547", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/4/2749217-th.jpg", 
+    "u2": "$2.33 per 100mL", 
+    "pl": "12"
+}

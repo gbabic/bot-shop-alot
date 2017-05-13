@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250mL"
+        ]
+    }, 
+    "s9": "140193", 
+    "p1": {
+        "l4": "15.18", 
+        "o": "11.0"
+    }, 
+    "m": "Exelpet", 
+    "t1": "S", 
+    "p": "6032098P", 
+    "s": "exelpet-fleaban-insecticidal-spray-for-cats-dogs", 
+    "n": "Fleaban Insecticidal Spray for Cats & Dogs", 
+    "u": "76919", 
+    "t": "/wcsstore/Coles-CAS/images/6/0/3/6032098-th.jpg", 
+    "u2": "$44.00 per 1L", 
+    "pl": "12"
+}

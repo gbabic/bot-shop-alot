@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "25g"
+        ]
+    }, 
+    "s9": "141056", 
+    "p1": {
+        "o": "1.5"
+    }, 
+    "m": "Maggi", 
+    "t1": "V", 
+    "p": "5548222P", 
+    "s": "maggi-vegetable-sensations-recipe-mix-sour-cream-chive-potato", 
+    "n": "Vegetable Sensations Sour Cream & Chive Potato Recipe Base", 
+    "u": "79070", 
+    "t": "/wcsstore/Coles-CAS/images/5/5/4/5548222-th.jpg", 
+    "u2": "$6.00 per 100G", 
+    "pl": "20"
+}

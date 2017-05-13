@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "40 pack"
+        ]
+    }, 
+    "s9": "617074", 
+    "p1": {
+        "o": "3.8"
+    }, 
+    "m": "Glad", 
+    "t1": "V", 
+    "p": "2832820P", 
+    "s": "glad-kitchen-tidy-bag-wavetop-medium", 
+    "n": "Medium Wavetop Kitchen Tidy Bags", 
+    "u": "617036", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/3/2832820-th.jpg", 
+    "u2": "$0.10 per 1Ea", 
+    "pl": "20"
+}

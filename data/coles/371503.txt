@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "20mL"
+        ]
+    }, 
+    "s9": "371505", 
+    "p1": {
+        "o": "24.15"
+    }, 
+    "m": "Covergirl", 
+    "u2": "$12.08 per 10mL", 
+    "p": "1854250P", 
+    "s": "covergirl-very-black-bombshell-mascara", 
+    "u": "371503", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/5/1854250-th.jpg", 
+    "n": "Very Black Bombshell Mascara", 
+    "pl": "20"
+}

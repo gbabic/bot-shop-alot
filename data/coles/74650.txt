@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "420g"
+        ]
+    }, 
+    "s9": "132745", 
+    "p1": {
+        "l4": "2.19", 
+        "o": "1.5"
+    }, 
+    "m": "Edgell", 
+    "t1": "S", 
+    "p": "6835809P", 
+    "s": "edgell-peas-baby-super-sweet-corn", 
+    "n": "Baby Peas & Super Sweet Corn", 
+    "u": "74650", 
+    "t": "/wcsstore/Coles-CAS/images/6/8/3/6835809-th.jpg", 
+    "u2": "$3.57 per 1Kg", 
+    "pl": "12"
+}

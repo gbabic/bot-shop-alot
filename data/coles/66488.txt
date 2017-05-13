@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "425g"
+        ]
+    }, 
+    "s9": "131882", 
+    "p1": {
+        "l4": "22.55", 
+        "o": "16.4"
+    }, 
+    "m": "Metamucil", 
+    "t1": "S", 
+    "p": "7229600P", 
+    "s": "metamucil-dietary-fibre-supplement-wild-berry-smooth-72-dose", 
+    "n": "Wild Berry Smooth Daily Fibre Supplement Wild Berry Smooth 72 Doses", 
+    "u": "66488", 
+    "t": "/wcsstore/Coles-CAS/images/7/2/2/7229600-th.jpg", 
+    "u2": "$3.86 per 100G", 
+    "pl": "12"
+}

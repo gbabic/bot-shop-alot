@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "30g"
+        ]
+    }, 
+    "s9": "156256", 
+    "p1": {
+        "o": "2.19"
+    }, 
+    "m": "Celebrity Slim", 
+    "u2": "$7.30 per 100G", 
+    "p": "9907928P", 
+    "s": "celebrity-slim-low-carb-bar-chocolate-nut-delight", 
+    "u": "92855", 
+    "t": "/wcsstore/Coles-CAS/images/9/9/0/9907928-th.jpg", 
+    "n": "Low Carb Chocolate Nut Delight Bar", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "25g"
+        ]
+    }, 
+    "s9": "149060", 
+    "p1": {
+        "o": "1.76"
+    }, 
+    "m": "Hoyts", 
+    "u2": "$0.70 per 10G", 
+    "p": "286843P", 
+    "s": "hoyts-mixed-herbs-286843p", 
+    "u": "85898", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/6/286843-th.jpg", 
+    "n": "Mixed Herbs", 
+    "pl": "20"
+}

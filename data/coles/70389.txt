@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "s9": "135118", 
+    "p1": {
+        "l4": "7.58", 
+        "o": "5.51"
+    }, 
+    "m": "Schwarzkopf", 
+    "t1": "S", 
+    "p": "6421599P", 
+    "s": "schwarzkopf-extra-care-hair-spray-volume-styling", 
+    "n": "Extra Care Volume Styling Hair Spray", 
+    "u": "70389", 
+    "t": "/wcsstore/Coles-CAS/images/6/4/2/6421599-th.jpg", 
+    "u2": "$2.20 per 100G", 
+    "pl": "12"
+}

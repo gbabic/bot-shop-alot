@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 pack"
+        ]
+    }, 
+    "s9": "477551", 
+    "p1": {
+        "l4": "13.75", 
+        "o": "10.0"
+    }, 
+    "m": "Clairol", 
+    "t1": "S", 
+    "p": "2290546P", 
+    "s": "clairol-nicen-easy-dark-auburn-hair-colour", 
+    "n": "Nice'N Easy Root Touch Up 4R Dark Auburn Hair Colour", 
+    "u": "477530", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/9/2290546-th.jpg", 
+    "u2": "$10.00 per 1Ea", 
+    "pl": "12"
+}

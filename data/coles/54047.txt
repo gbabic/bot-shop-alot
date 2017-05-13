@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "116458", 
+    "p1": {
+        "o": "7.95"
+    }, 
+    "m": "Magazine", 
+    "s7": "Cover may not depict edition offered for sale", 
+    "u2": "$7.95 per 1Ea", 
+    "p": "854210P", 
+    "s": "cosmopolitan-magazine", 
+    "u": "54047", 
+    "t": "/wcsstore/Coles-CAS/images/8/5/4/854210-th.jpg", 
+    "n": "Cosmopolitan", 
+    "pl": "20"
+}

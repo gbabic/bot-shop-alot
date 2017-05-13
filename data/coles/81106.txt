@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "40g"
+        ]
+    }, 
+    "s9": "142961", 
+    "p1": {
+        "l4": "1.05", 
+        "o": "0.95"
+    }, 
+    "m": "Continental", 
+    "t1": "V", 
+    "p": "404440P", 
+    "s": "continental-instant-soup-chicken-noodle-salt-reduced", 
+    "n": "Chicken Noodle Salt Reduced Soup Mix Serves 4", 
+    "u": "81106", 
+    "t": "/wcsstore/Coles-CAS/images/4/0/4/404440-th.jpg", 
+    "u2": "$2.38 per 100G", 
+    "pl": "12"
+}

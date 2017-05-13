@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "283g"
+        ]
+    }, 
+    "s9": "135331", 
+    "p1": {
+        "o": "3.76"
+    }, 
+    "m": "Beneful", 
+    "u2": "$1.33 per 100G", 
+    "p": "6910664P", 
+    "s": "beneful-prepared-meals-beef-stew", 
+    "u": "73219", 
+    "t": "/wcsstore/Coles-CAS/images/6/9/1/6910664-th.jpg", 
+    "n": "Prepared Meals Beef Stew Dog Food Tray", 
+    "pl": "20"
+}

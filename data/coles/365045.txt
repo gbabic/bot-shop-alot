@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "365088", 
+    "p1": {
+        "o": "2.8"
+    }, 
+    "m": "Bic", 
+    "u2": "$2.80 per 1Ea", 
+    "p": "1840211P", 
+    "s": "bic-4-colour-pen-1840211p", 
+    "u": "365045", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/4/1840211-th.jpg", 
+    "n": "4 Colour Pen", 
+    "pl": "20"
+}

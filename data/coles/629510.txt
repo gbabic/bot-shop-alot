@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "5 pack"
+        ]
+    }, 
+    "u2": "$0.80 per 1Ea", 
+    "s9": "629578", 
+    "p1": {
+        "l4": "6.6", 
+        "o": "4.0"
+    }, 
+    "s7": "", 
+    "m": "Bow Wow", 
+    "n": "Kangaroo Sticks Skin & Coat Healthy Pet Treats", 
+    "p": "2820129P", 
+    "s": "bow--wow--kangaroo-sticks-skin-coat-treat", 
+    "u": "629510", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/2/2820129-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

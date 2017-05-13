@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "3.5g"
+        ]
+    }, 
+    "s9": "110109", 
+    "p1": {
+        "o": "14.52"
+    }, 
+    "m": "Maybelline", 
+    "u2": "$41.49 per 10G", 
+    "p": "8488036P", 
+    "s": "maybelline-eye-studio-master-liner-black", 
+    "u": "103873", 
+    "t": "/wcsstore/Coles-CAS/images/8/4/8/8488036-th.jpg", 
+    "n": "Master Crayon Black Eyeliner", 
+    "pl": "20"
+}

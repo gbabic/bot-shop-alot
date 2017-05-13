@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Bread & Bakery"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "440g"
+        ]
+    }, 
+    "s9": "143290", 
+    "p1": {
+        "o": "5.99"
+    }, 
+    "m": "Bazaar", 
+    "u2": "$1.36 per 100G", 
+    "p": "4991778P", 
+    "s": "bazaar-pizza-bases-gourmet", 
+    "u": "84243", 
+    "t": "/wcsstore/Coles-CAS/images/4/9/9/4991778-th.jpg", 
+    "n": "Gourmet Pizza Bases 2 pack", 
+    "pl": "20"
+}

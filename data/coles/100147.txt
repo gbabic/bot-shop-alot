@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "85g"
+        ]
+    }, 
+    "s9": "158434", 
+    "p1": {
+        "o": "2.37"
+    }, 
+    "m": "Leda", 
+    "s7": "", 
+    "u2": "$2.79 per 100G", 
+    "p": "9735775P", 
+    "s": "leda-bar-banana", 
+    "u": "100147", 
+    "t": "/wcsstore/Coles-CAS/images/9/7/3/9735775-th.jpg", 
+    "n": "Banana Bar 97% Fat Free", 
+    "pl": "20"
+}

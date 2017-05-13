@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "395g"
+        ]
+    }, 
+    "s9": "149337", 
+    "p1": {
+        "o": "3.52"
+    }, 
+    "m": "Nestle", 
+    "u2": "$0.89 per 100G", 
+    "p": "126698P", 
+    "s": "nestle-milk-condensed-sweetened", 
+    "u": "86808", 
+    "t": "/wcsstore/Coles-CAS/images/1/2/6/126698-th.jpg", 
+    "n": "Sweetened Condensed Milk", 
+    "pl": "20"
+}

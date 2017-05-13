@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 pack"
+        ]
+    }, 
+    "s9": "575245", 
+    "p1": {
+        "l4": "17.6", 
+        "o": "8.0"
+    }, 
+    "m": "Schick", 
+    "t1": "S", 
+    "p": "2629747P", 
+    "s": "schick--hydro-5-power-select-razor", 
+    "n": "Hydro 5 Power Select Razor", 
+    "u": "575096", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/2/2629747-th.jpg", 
+    "u2": "$8.00 per 1Ea", 
+    "pl": "12"
+}

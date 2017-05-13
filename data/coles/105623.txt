@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "470g"
+        ]
+    }, 
+    "s9": "165466", 
+    "p1": {
+        "o": "3.03"
+    }, 
+    "m": "Green's", 
+    "u2": "$0.64 per 100G", 
+    "p": "9316488P", 
+    "s": "greens-traditional-cake-mix-lemon", 
+    "u": "105623", 
+    "t": "/wcsstore/Coles-CAS/images/9/3/1/9316488-th.jpg", 
+    "n": "Traditional Lemon Cake Mix", 
+    "pl": "20"
+}

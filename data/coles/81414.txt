@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "2.1kg"
+        ]
+    }, 
+    "s9": "144621", 
+    "p1": {
+        "o": "25.3"
+    }, 
+    "m": "Luv A Duck", 
+    "u2": "$12.05 per 1Kg", 
+    "p": "4683889P", 
+    "s": "luv-a-duck-duck-size-21-frozen", 
+    "u": "81414", 
+    "t": "/wcsstore/Coles-CAS/images/4/6/8/4683889-th.jpg", 
+    "n": "No 21 Frozen Duck", 
+    "pl": "20"
+}

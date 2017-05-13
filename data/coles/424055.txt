@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100g"
+        ]
+    }, 
+    "s9": "424201", 
+    "p1": {
+        "o": "2.8"
+    }, 
+    "m": "Coles Simply Gluten Free", 
+    "t1": "V", 
+    "p": "1928119P", 
+    "s": "coles-simply-gluten-free-salt-vinegar-potato-chips", 
+    "n": "Salt & Vinegar Potato Chips", 
+    "u": "424055", 
+    "t": "/wcsstore/Coles-CAS/images/1/9/2/1928119-th.jpg", 
+    "u2": "$2.80 per 100G", 
+    "pl": "20"
+}

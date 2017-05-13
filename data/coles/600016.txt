@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Baby"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "80 pack"
+        ]
+    }, 
+    "s9": "600025", 
+    "p1": {
+        "l4": "5.82", 
+        "o": "3.5"
+    }, 
+    "m": "Huggies", 
+    "t1": "S", 
+    "p": "2737568P", 
+    "s": "huggies-baby-wipes-coconut", 
+    "n": "Baby Wipes Coconut", 
+    "u": "600016", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/3/2737568-th.jpg", 
+    "u2": "$4.38 per 100Ea", 
+    "pl": "12"
+}

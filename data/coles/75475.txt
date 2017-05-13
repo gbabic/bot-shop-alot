@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "16 pack"
+        ]
+    }, 
+    "s9": "138758", 
+    "p1": {
+        "o": "5.28"
+    }, 
+    "m": "Moxie", 
+    "u2": "$0.33 per 1Ea", 
+    "p": "5437301P", 
+    "s": "moxie-tampons-regular", 
+    "u": "75475", 
+    "t": "/wcsstore/Coles-CAS/images/5/4/3/5437301-th.jpg", 
+    "n": "Regular Tampons", 
+    "pl": "20"
+}

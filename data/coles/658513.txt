@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 pack"
+        ]
+    }, 
+    "s9": "658582", 
+    "p1": {
+        "l4": "6.6", 
+        "o": "6.0"
+    }, 
+    "m": "Band Aid", 
+    "t1": "N", 
+    "p": "2864292P", 
+    "s": "band-aid-1m-dressing-strip-1-pack", 
+    "n": "1m Dressing Strip 1 Pack", 
+    "u": "658513", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/6/2864292-th.jpg", 
+    "u2": "$6.00 per 1Ea", 
+    "pl": "12"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Baby"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "72 pack"
+        ]
+    }, 
+    "s9": "110709", 
+    "p1": {
+        "l4": "33.0", 
+        "o": "28.0"
+    }, 
+    "m": "Huggies", 
+    "t1": "S", 
+    "p": "9224142P", 
+    "s": "huggies-ultra-dry-jumbo-nappies-toddler-girl-10-15kg", 
+    "n": "Ultra Dry Infant Care Jumbo Nappies Toddler Girl 10-15kg", 
+    "u": "105790", 
+    "t": "/wcsstore/Coles-CAS/images/9/2/2/9224142-th.jpg", 
+    "u2": "$0.39 per 1Ea", 
+    "pl": "12"
+}

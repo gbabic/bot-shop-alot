@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Healthy Living"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "10 pack"
+        ]
+    }, 
+    "s9": "403760", 
+    "p1": {
+        "o": "4.33"
+    }, 
+    "m": "Voost", 
+    "u2": "$43.30 per 100Ea", 
+    "p": "1805017P", 
+    "s": "voost-magnesium-effervescent-tablets", 
+    "u": "403622", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/0/1805017-th.jpg", 
+    "n": "Magnesium Effervescent Tablet", 
+    "pl": "20"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "360g"
+        ]
+    }, 
+    "s9": "481673", 
+    "p1": {
+        "l4": "17.05", 
+        "o": "12.4"
+    }, 
+    "m": "Veet", 
+    "t1": "S", 
+    "p": "2276749P", 
+    "s": "veet-natural-argan-oil-warm-wax", 
+    "n": "Natural Argan Oil Warm Wax", 
+    "u": "481575", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/7/2276749-th.jpg", 
+    "u2": "$3.44 per 100G", 
+    "pl": "12"
+}

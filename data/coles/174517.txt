@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "340g"
+        ]
+    }, 
+    "s9": "175048", 
+    "p1": {
+        "o": "3.03"
+    }, 
+    "m": "Green's", 
+    "u2": "$0.89 per 100G", 
+    "p": "1311425P", 
+    "s": "greens-traditional-cake-classic-sultana", 
+    "u": "174517", 
+    "t": "/wcsstore/Coles-CAS/images/1/3/1/1311425-th.jpg", 
+    "n": "Traditional Sultana Cake Mix", 
+    "pl": "20"
+}

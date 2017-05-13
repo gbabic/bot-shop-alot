@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "900g"
+        ]
+    }, 
+    "s9": "178606", 
+    "p1": {
+        "o": "3.63"
+    }, 
+    "m": "Kangaroo", 
+    "u2": "$0.40 per 100G", 
+    "p": "1323253P", 
+    "s": "kangaroo-vermicelli-rice-bun-bo-hue", 
+    "u": "178314", 
+    "t": "/wcsstore/Coles-CAS/images/1/3/2/1323253-th.jpg", 
+    "n": "Bun Bo Hue Rice Vermicelli", 
+    "pl": "20"
+}

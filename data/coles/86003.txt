@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "2kg"
+        ]
+    }, 
+    "s9": "151477", 
+    "p1": {
+        "o": "8.09"
+    }, 
+    "m": "Pauls", 
+    "u2": "$0.40 per 100G", 
+    "p": "146196P", 
+    "s": "pauls-custard-vanilla-pouring", 
+    "u": "86003", 
+    "t": "/wcsstore/Coles-CAS/images/1/4/6/146196-th.jpg", 
+    "n": "Pouring Vanilla Custard", 
+    "pl": "20"
+}

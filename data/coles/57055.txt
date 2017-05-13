@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "118129", 
+    "p1": {
+        "o": "5.0"
+    }, 
+    "m": "Magazine", 
+    "s7": "", 
+    "u2": "$5.00 per 1ea", 
+    "p": "7868927P", 
+    "s": "big-league-magazine", 
+    "u": "57055", 
+    "t": "/wcsstore/Coles-CAS/images/7/8/6/7868927-th.jpg", 
+    "n": "Big League", 
+    "pl": "20"
+}

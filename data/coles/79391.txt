@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "2 pack"
+        ]
+    }, 
+    "s9": "141883", 
+    "p1": {
+        "o": "11.77"
+    }, 
+    "m": "Exelpet", 
+    "u2": "$5.89 per 1Ea", 
+    "p": "6032032P", 
+    "s": "exelpet-intestinal-all-wormer-tablets-for-cats", 
+    "u": "79391", 
+    "t": "/wcsstore/Coles-CAS/images/6/0/3/6032032-th.jpg", 
+    "n": "Intestinal All Wormer Tablets for Cats", 
+    "pl": "20"
+}

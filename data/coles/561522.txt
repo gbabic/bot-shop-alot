@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "46g"
+        ]
+    }, 
+    "s9": "561536", 
+    "p1": {
+        "l4": "2.2", 
+        "o": "1.0"
+    }, 
+    "m": "Continental", 
+    "t1": "S", 
+    "p": "2667622P", 
+    "s": "continental-homestyle-chicken-cup-a-soup-2-pack", 
+    "n": "Homestyle Chicken Cup A Soup Serves 2", 
+    "u": "561522", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/6/2667622-th.jpg", 
+    "u2": "$2.17 per 100G", 
+    "pl": "12"
+}

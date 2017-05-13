@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Fruit & Vegetables"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "0.25"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 250g"
+        ]
+    }, 
+    "u2": "$8.00 per 1Kg", 
+    "s9": "173679", 
+    "p1": {
+        "o": "2.0"
+    }, 
+    "s7": "Product of Australia", 
+    "m": "Coles", 
+    "n": "Red Bullhorn Chillies loose", 
+    "p": "1111288P", 
+    "s": "chillies-red-bullhorn", 
+    "u": "173563", 
+    "t": "/wcsstore/Coles-CAS/images/1/1/1/1111288-th.jpg", 
+    "t1": "S", 
+    "pl": "99"
+}

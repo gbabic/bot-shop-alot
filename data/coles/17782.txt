@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "34970", 
+    "p1": {
+        "o": "6.95"
+    }, 
+    "m": "Magazine", 
+    "s7": "", 
+    "u2": "$6.95 per 1ea", 
+    "p": "1515301P", 
+    "s": "weight-watchers-magazine", 
+    "u": "17782", 
+    "t": "/wcsstore/Coles-CAS/images/1/5/1/1515301-th.jpg", 
+    "n": "Weight Watchers", 
+    "pl": "20"
+}

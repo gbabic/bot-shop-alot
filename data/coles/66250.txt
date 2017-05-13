@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400g"
+        ]
+    }, 
+    "s9": "130931", 
+    "p1": {
+        "o": "1.6"
+    }, 
+    "m": "Banquet", 
+    "t1": "V", 
+    "p": "7479663P", 
+    "s": "banquet-dog-food-lamb-casserole", 
+    "n": "Casserole Tender Lamb Canned Dog Food", 
+    "u": "66250", 
+    "t": "/wcsstore/Coles-CAS/images/7/4/7/7479663-th.jpg", 
+    "u2": "$0.40 per 100G", 
+    "pl": "20"
+}

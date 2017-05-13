@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "215g"
+        ]
+    }, 
+    "s9": "365096", 
+    "p1": {
+        "l4": "6.16", 
+        "o": "5.15"
+    }, 
+    "m": "Bassetts", 
+    "t1": "S", 
+    "p": "1689131P", 
+    "s": "bassetts-liquorice-allsorts-1689131p", 
+    "n": "Liquorice Allsorts", 
+    "u": "365058", 
+    "t": "/wcsstore/Coles-CAS/images/1/6/8/1689131-th.jpg", 
+    "u2": "$2.40 per 100G", 
+    "pl": "12"
+}

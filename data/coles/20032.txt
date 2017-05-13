@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "3kg"
+        ]
+    }, 
+    "s9": "32547", 
+    "p1": {
+        "l4": "12.05", 
+        "o": "7.0"
+    }, 
+    "m": "Pedigree", 
+    "t1": "S", 
+    "p": "7976078P", 
+    "s": "pedigree-dog-food-adult-with-beef", 
+    "n": "Real Beef Dry Dog Food", 
+    "u": "20032", 
+    "t": "/wcsstore/Coles-CAS/images/7/9/7/7976078-th.jpg", 
+    "u2": "$0.23 per 100G", 
+    "pl": "12"
+}

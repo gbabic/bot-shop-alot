@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "260g"
+        ]
+    }, 
+    "s9": "467738", 
+    "p1": {
+        "o": "2.79"
+    }, 
+    "m": "Green's", 
+    "u2": "$1.07 per 100G", 
+    "p": "7302744P", 
+    "s": "greens-butterscotch-pudding", 
+    "u": "467507", 
+    "t": "/wcsstore/Coles-CAS/images/7/3/0/7302744-th.jpg", 
+    "n": "Butterscotch Pudding", 
+    "pl": "20"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Baby"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "120g"
+        ]
+    }, 
+    "s9": "495017", 
+    "p1": {
+        "l4": "2.0", 
+        "o": "1.5"
+    }, 
+    "m": "Organic Bubs", 
+    "t1": "S", 
+    "p": "2367924P", 
+    "s": "organic-bubs-sweet-potato-carrot-pumpkin-baby-food-4-months", 
+    "n": "Sweet Potato Carrot & Pumpkin Baby Food 4+ Months", 
+    "u": "495012", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/6/2367924-th.jpg", 
+    "u2": "$1.25 per 100G", 
+    "pl": "12"
+}

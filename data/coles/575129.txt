@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "240g"
+        ]
+    }, 
+    "s9": "575276", 
+    "p1": {
+        "l4": "2.99", 
+        "o": "2.5"
+    }, 
+    "m": "Hansells", 
+    "t1": "S", 
+    "p": "2424201P", 
+    "s": "hansells-tapoioca-creamy-rice", 
+    "n": "Tapoioca Creamy Rice", 
+    "u": "575129", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/2/2424201-th.jpg", 
+    "u2": "$1.04 per 100G", 
+    "pl": "12"
+}

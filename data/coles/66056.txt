@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "50 pack"
+        ]
+    }, 
+    "s9": "123983", 
+    "p1": {
+        "o": "8.75"
+    }, 
+    "m": "Multix", 
+    "u2": "$0.18 per 1Ea", 
+    "p": "7613857P", 
+    "s": "multix-garbage-bags-extra-wide-85cm-x-70cm-56l", 
+    "u": "66056", 
+    "t": "/wcsstore/Coles-CAS/images/7/6/1/7613857-th.jpg", 
+    "n": "Extra Wide Garbage Bags 85cm x 70cm 56L", 
+    "pl": "20"
+}

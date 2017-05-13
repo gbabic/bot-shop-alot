@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Drinks"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "6 pack"
+        ]
+    }, 
+    "s9": "641158", 
+    "p1": {
+        "o": "4.7"
+    }, 
+    "m": "Devondale", 
+    "u2": "$3.92 per 1L", 
+    "p": "2806729P", 
+    "s": "devondale--banana-milk", 
+    "u": "641030", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/0/2806729-th.jpg", 
+    "n": "Banana Milk", 
+    "pl": "99"
+}

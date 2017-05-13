@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "140g"
+        ]
+    }, 
+    "u2": "$0.66 per 100G", 
+    "s9": "146037", 
+    "p1": {
+        "o": "3.7"
+    }, 
+    "s7": "", 
+    "m": "Foster Clark", 
+    "n": "Chocolate Custard Snak pack 4 pack", 
+    "p": "4178944P", 
+    "s": "foster-clarks-snak-pack-flavoured-custard-snack-chocolate-4-pack", 
+    "u": "83944", 
+    "t": "/wcsstore/Coles-CAS/images/4/1/7/4178944-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

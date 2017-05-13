@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "5g"
+        ]
+    }, 
+    "s9": "149173", 
+    "p1": {
+        "o": "2.53"
+    }, 
+    "m": "MasterFoods", 
+    "u2": "$5.06 per 10G", 
+    "p": "163945P", 
+    "s": "masterfoods-oregano-leaves-163945p", 
+    "u": "87362", 
+    "t": "/wcsstore/Coles-CAS/images/1/6/3/163945-th.jpg", 
+    "n": "Oregano Leaves", 
+    "pl": "20"
+}

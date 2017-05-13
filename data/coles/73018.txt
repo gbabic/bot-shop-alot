@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100mL"
+        ]
+    }, 
+    "s9": "133124", 
+    "p1": {
+        "o": "2.42"
+    }, 
+    "m": "Palmolive", 
+    "u2": "$2.42 per 100mL", 
+    "p": "6346325P", 
+    "s": "palmolive-naturals-shower-gel-milk-honey", 
+    "u": "73018", 
+    "t": "/wcsstore/Coles-CAS/images/6/3/4/6346325-th.jpg", 
+    "n": "Naturals Milk Honey Shower Gel", 
+    "pl": "20"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "45g"
+        ]
+    }, 
+    "s9": "124082", 
+    "p1": {
+        "l4": "2.7", 
+        "o": "1.9"
+    }, 
+    "m": "Continental", 
+    "t1": "S", 
+    "p": "7571134P", 
+    "s": "continental-cook-in-bag-honey-bbq-chicken", 
+    "n": "Cook in Bag Honey BBQ Chicken Recipe Base", 
+    "u": "67444", 
+    "t": "/wcsstore/Coles-CAS/images/7/5/7/7571134-th.jpg", 
+    "u2": "$4.22 per 100G", 
+    "pl": "12"
+}

@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "800g"
+        ]
+    }, 
+    "s9": "365123", 
+    "p1": {
+        "o": "10.23"
+    }, 
+    "m": "Benny's", 
+    "s7": "", 
+    "u2": "$1.28 per 100G", 
+    "p": "1720399P", 
+    "s": "bennys-crunchy-peanut-butter-1720399p", 
+    "u": "365037", 
+    "t": "/wcsstore/Coles-CAS/images/1/7/2/1720399-th.jpg", 
+    "n": "Crunchy Peanut Butter", 
+    "pl": "20"
+}

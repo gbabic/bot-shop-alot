@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "375mL"
+        ]
+    }, 
+    "s9": "156258", 
+    "p1": {
+        "o": "4.4"
+    }, 
+    "m": "Celebrity Slim", 
+    "u2": "$1.17 per 100mL", 
+    "p": "9907101P", 
+    "s": "celebrity-slim-to-go-drink-chocolate", 
+    "u": "90581", 
+    "t": "/wcsstore/Coles-CAS/images/9/9/0/9907101-th.jpg", 
+    "n": "Slim To Go Chocolate Drink", 
+    "pl": "20"
+}

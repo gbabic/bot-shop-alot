@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Tobacco"
+        ], 
+        "T1": [
+            "true"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "30g"
+        ]
+    }, 
+    "s9": "664511", 
+    "p1": {
+        "o": "38.95"
+    }, 
+    "m": "Manitou", 
+    "s7": "Prices include all taxes", 
+    "u2": "", 
+    "p": "2919055P", 
+    "s": "manitou-organic-ryo-30gram", 
+    "u": "664507", 
+    "t": "/wcsstore/Coles-CAS/images/C/i/g/Cigarettes-th.jpg", 
+    "n": "Organic Roll Your Own Cigarettes", 
+    "pl": "5"
+}

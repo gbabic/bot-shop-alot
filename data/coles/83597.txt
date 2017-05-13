@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1L"
+        ]
+    }, 
+    "s9": "146897", 
+    "p1": {
+        "o": "4.2"
+    }, 
+    "m": "Massel", 
+    "u2": "$0.42 per 100mL", 
+    "p": "5000303P", 
+    "s": "massel-salt-reduced-liquid-stock-chicken-style", 
+    "u": "83597", 
+    "t": "/wcsstore/Coles-CAS/images/5/0/0/5000303-th.jpg", 
+    "n": "Salt Reduced Chicken Style Liquid Stock", 
+    "pl": "20"
+}

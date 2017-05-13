@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1.7g"
+        ]
+    }, 
+    "s9": "107905", 
+    "p1": {
+        "o": "11.11"
+    }, 
+    "m": "Covergirl", 
+    "u2": "$65.35 per 10G", 
+    "p": "8913415P", 
+    "s": "covergirl-eyemakers-pencil-soft-blonde", 
+    "u": "46101", 
+    "t": "/wcsstore/Coles-CAS/images/8/9/1/8913415-th.jpg", 
+    "n": "Eyemakers Pencil Soft Blonde 520 Eyeliner", 
+    "pl": "20"
+}

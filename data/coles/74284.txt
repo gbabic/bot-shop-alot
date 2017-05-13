@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "133784", 
+    "p1": {
+        "l4": "28.88", 
+        "o": "13.12"
+    }, 
+    "m": "Braun", 
+    "t1": "S", 
+    "p": "6526291P", 
+    "s": "braun-m-30-pocket-go-shaver", 
+    "n": "M-30  Pocket Go Shaver", 
+    "u": "74284", 
+    "t": "/wcsstore/Coles-CAS/images/6/5/2/6526291.jpg", 
+    "u2": "$13.12 per 1Ea", 
+    "pl": "12"
+}

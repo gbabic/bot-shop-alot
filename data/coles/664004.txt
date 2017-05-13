@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "664008", 
+    "p1": {
+        "l4": "31.85", 
+        "o": "17.37"
+    }, 
+    "m": "Loc False Lash", 
+    "t1": "S", 
+    "p": "2615221P", 
+    "s": "loc-false-lash-superstar-mascara", 
+    "n": "Superstar Mascara", 
+    "u": "664004", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/1/2615221-th.jpg", 
+    "u2": "$173.70 per 10mL", 
+    "pl": "12"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "255g"
+        ]
+    }, 
+    "s9": "593553", 
+    "p1": {
+        "o": "8.79"
+    }, 
+    "m": "Amy's Kitchen", 
+    "u2": "$3.45 per 100G", 
+    "p": "2749862P", 
+    "s": "amys-kitchen-gluten-free-frozen-vegetable-lasagne", 
+    "u": "593507", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/4/2749862-th.jpg", 
+    "n": "Gluten Free Frozen Vegetable Lasagne", 
+    "pl": "20"
+}

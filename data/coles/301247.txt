@@ -1,0 +1,43 @@
+{
+    "a": {
+        "D": [
+            "LIQUOR"
+        ], 
+        "P8": [
+            "Alcohol"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "true"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "pr": "6.66000", 
+    "s9": "305327", 
+    "pq": "3", 
+    "pt": "MultibuyMultiSku", 
+    "u2": "$1.93 per 100mL", 
+    "m": "Bundaberg", 
+    "n": "Smooth & Sneaky Rum 500mL Bottles", 
+    "p": "1516563P", 
+    "s": "bundaberg-smooth-sneaky-rum-500ml-bottles-1516563p", 
+    "p1": {
+        "o": "9.63"
+    }, 
+    "u": "301247", 
+    "t": "/wcsstore/Coles-CAS/images/1/5/1/1516563-th.jpg", 
+    "pd": "3 for $20", 
+    "pi": "10141668", 
+    "t1": "M", 
+    "pl": "4"
+}

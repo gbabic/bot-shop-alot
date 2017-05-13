@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "35g"
+        ]
+    }, 
+    "s9": "150047", 
+    "p1": {
+        "l4": "1.05", 
+        "o": "0.95"
+    }, 
+    "m": "Continental", 
+    "t1": "V", 
+    "p": "105280P", 
+    "s": "continental-instant-soup-french-onion-salt-reduced", 
+    "n": "French Onion Salt Reduced Soup Mix Serves 4", 
+    "u": "86280", 
+    "t": "/wcsstore/Coles-CAS/images/1/0/5/105280-th.jpg", 
+    "u2": "$2.71 per 100G", 
+    "pl": "12"
+}

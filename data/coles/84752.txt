@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "170g"
+        ]
+    }, 
+    "s9": "144369", 
+    "p1": {
+        "l4": "3.08", 
+        "o": "1.4"
+    }, 
+    "m": "Starburst", 
+    "t1": "S", 
+    "p": "5136291P", 
+    "s": "starburst-fruit-chews", 
+    "n": "Candy Fruit Chews", 
+    "u": "84752", 
+    "t": "/wcsstore/Coles-CAS/images/5/1/3/5136291-th.jpg", 
+    "u2": "$0.82 per 100G", 
+    "pl": "12"
+}

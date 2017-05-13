@@ -1,0 +1,41 @@
+{
+    "a": {
+        "P8": [
+            "Mothers Day"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1.25L"
+        ]
+    }, 
+    "pr": "1.50000", 
+    "s9": "32096", 
+    "pq": "2", 
+    "pt": "MultibuyMultiSku", 
+    "u2": "$1.72 per 1L", 
+    "m": "Schweppes", 
+    "n": "Light Agrum", 
+    "p": "9828800P", 
+    "s": "schweppes-mixer-agrum-light", 
+    "p1": {
+        "l4": "2.41", 
+        "o": "2.15"
+    }, 
+    "u": "16887", 
+    "t": "/wcsstore/Coles-CAS/images/9/8/2/9828800-th.jpg", 
+    "pd": "2 for $3", 
+    "pi": "10141008", 
+    "t1": "M", 
+    "pl": "12"
+}

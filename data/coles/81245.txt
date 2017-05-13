@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "146298", 
+    "p1": {
+        "o": "5.0"
+    }, 
+    "m": "Devondale", 
+    "u2": "$1.00 per 100G", 
+    "p": "5017496P", 
+    "s": "devondale-butter-blend-soft-reduced-salt-tub", 
+    "u": "81245", 
+    "t": "/wcsstore/Coles-CAS/images/5/0/1/5017496-th.jpg", 
+    "n": "Salt Reduced Soft Butter Blend Tub", 
+    "pl": "20"
+}

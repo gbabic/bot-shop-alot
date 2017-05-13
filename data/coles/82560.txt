@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Baby"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "10 pack"
+        ]
+    }, 
+    "s9": "144462", 
+    "p1": {
+        "l4": "12.0", 
+        "o": "10.0"
+    }, 
+    "m": "Huggies", 
+    "t1": "S", 
+    "p": "5016813P", 
+    "s": "huggies-pyjama-pants-dry-nites-boy-4-7-years-5016813p", 
+    "n": "Dry Nites Pyjama Pants Boys 4-7 Years", 
+    "u": "82560", 
+    "t": "/wcsstore/Coles-CAS/images/5/0/1/5016813-th.jpg", 
+    "u2": "$1.00 per 1Ea", 
+    "pl": "12"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "255g"
+        ]
+    }, 
+    "s9": "473721", 
+    "p1": {
+        "l4": "3.07", 
+        "o": "2.2"
+    }, 
+    "m": "White Wings", 
+    "t1": "S", 
+    "p": "2424074P", 
+    "s": "white-wings-butterscotch-pudding", 
+    "n": "Butterscotch Pudding", 
+    "u": "473520", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/2/2424074-th.jpg", 
+    "u2": "$0.86 per 100G", 
+    "pl": "12"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "425g"
+        ]
+    }, 
+    "s9": "146699", 
+    "p1": {
+        "o": "3.3"
+    }, 
+    "m": "Old El Paso", 
+    "u2": "$0.78 per 100G", 
+    "p": "386032P", 
+    "s": "old-el-paso-beans-mexican", 
+    "u": "80461", 
+    "t": "/wcsstore/Coles-CAS/images/3/8/6/386032-th.jpg", 
+    "n": "Beans Mexican", 
+    "pl": "20"
+}

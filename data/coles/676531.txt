@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "s9": "676549", 
+    "p1": {
+        "l4": "5.5", 
+        "o": "5.0"
+    }, 
+    "m": "Darrell Lea", 
+    "t1": "N", 
+    "p": "2895820P", 
+    "s": "darrell-lea-little-brittle-almond", 
+    "n": "Almond Little Brittle", 
+    "u": "676531", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/9/2895820-th.jpg", 
+    "u2": "$2.50 per 100G", 
+    "pl": "12"
+}

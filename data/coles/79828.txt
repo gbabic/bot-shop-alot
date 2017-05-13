@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "75g"
+        ]
+    }, 
+    "s9": "138828", 
+    "p1": {
+        "l4": "2.2", 
+        "o": "1.0"
+    }, 
+    "m": "Continental", 
+    "t1": "S", 
+    "p": "5342920P", 
+    "s": "continental-cup-a-soup-hearty-italian-minestrone", 
+    "n": "Hearty Italian Minestrone Cup A Soup Serves 2", 
+    "u": "79828", 
+    "t": "/wcsstore/Coles-CAS/images/5/3/4/5342920-th.jpg", 
+    "u2": "$1.33 per 100G", 
+    "pl": "12"
+}

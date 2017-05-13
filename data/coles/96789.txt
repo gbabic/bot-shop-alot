@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "157184", 
+    "p1": {
+        "l4": "2.75", 
+        "o": "1.9"
+    }, 
+    "m": "Barilla", 
+    "t1": "V", 
+    "p": "9423808P", 
+    "s": "barilla-pasta-risoni-no-26", 
+    "n": "Risoni Pasta No 26", 
+    "u": "96789", 
+    "t": "/wcsstore/Coles-CAS/images/9/4/2/9423808-th.jpg", 
+    "u2": "$0.38 per 100G", 
+    "pl": "12"
+}

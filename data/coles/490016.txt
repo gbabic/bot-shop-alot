@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "2kg"
+        ]
+    }, 
+    "s9": "490139", 
+    "p1": {
+        "o": "12.09"
+    }, 
+    "m": "Jalna", 
+    "u2": "$0.60 per 100G", 
+    "p": "2376288P", 
+    "s": "jalna-sweet-creamy-greek-yoghourt", 
+    "u": "490016", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/7/2376288-th.jpg", 
+    "n": "Sweet & Creamy Greek Yoghourt", 
+    "pl": "20"
+}

@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "161283", 
+    "p1": {
+        "o": "6.95"
+    }, 
+    "m": "Magazine", 
+    "s7": "Cover may not depict edition offered for sale", 
+    "u2": "$6.95 per 1Ea", 
+    "p": "9895002P", 
+    "s": "womens-fitness-magazine-9895002p", 
+    "u": "95452", 
+    "t": "/wcsstore/Coles-CAS/images/9/8/9/9895002-th.jpg", 
+    "n": "Women's Fitness", 
+    "pl": "20"
+}

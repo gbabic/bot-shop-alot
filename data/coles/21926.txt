@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "0.4"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 400g"
+        ]
+    }, 
+    "s9": "37456", 
+    "p1": {
+        "o": "2.8"
+    }, 
+    "m": "Coles Deli", 
+    "s7": "Indicated price based on approx. weight. Weight may vary between 350g and 450g.", 
+    "u2": "$7.00 per 1Kg", 
+    "p": "5541675P", 
+    "s": "chicken-nibbles-bbq-from-the-deli", 
+    "u": "21926", 
+    "t": "/wcsstore/Coles-CAS/images/5/5/4/5541675-th.jpg", 
+    "n": "RSPCA Approved BBQ Chicken Nibbles", 
+    "pl": "20"
+}

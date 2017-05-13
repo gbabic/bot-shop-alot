@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "u2": "$0.60 per 100G", 
+    "s9": "28296", 
+    "p1": {
+        "o": "1.5"
+    }, 
+    "s7": "", 
+    "m": "Coles", 
+    "n": "Brown Microwave Rice", 
+    "p": "8471408P", 
+    "s": "coles-rice-brown-microwave", 
+    "u": "14598", 
+    "t": "/wcsstore/Coles-CAS/images/8/4/7/8471408-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

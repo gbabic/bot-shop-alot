@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1kg"
+        ]
+    }, 
+    "u2": "$0.38 per 100G", 
+    "s9": "139643", 
+    "p1": {
+        "o": "3.8"
+    }, 
+    "s7": "", 
+    "m": "Riviana", 
+    "n": "Medium Grain Arborio Rice", 
+    "p": "5988586P", 
+    "s": "riviana-rice-arborio-medium-grain", 
+    "u": "75145", 
+    "t": "/wcsstore/Coles-CAS/images/5/9/8/5988586-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

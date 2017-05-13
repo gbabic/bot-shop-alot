@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Bread & Bakery"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "620g"
+        ]
+    }, 
+    "s9": "136937", 
+    "p1": {
+        "o": "5.1"
+    }, 
+    "m": "Schwobs Swiss Bakery", 
+    "s7": "", 
+    "u2": "$0.82 per 100G", 
+    "p": "6355643P", 
+    "s": "schwobs-swiss-bakery-bread-plus-soy-linseed", 
+    "u": "72310", 
+    "t": "/wcsstore/Coles-CAS/images/6/3/5/6355643-th.jpg", 
+    "n": "Soy & Linseed Plus Bread", 
+    "pl": "20"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "2.5kg"
+        ]
+    }, 
+    "s9": "33054", 
+    "p1": {
+        "l4": "12.05", 
+        "o": "7.0"
+    }, 
+    "m": "Pedigree", 
+    "t1": "S", 
+    "p": "7976602P", 
+    "s": "pedigree-puppy-food-chicken-rice", 
+    "n": "Puppy Growth & Support Chicken & Rice Dry Dog Food", 
+    "u": "11522", 
+    "t": "/wcsstore/Coles-CAS/images/7/9/7/7976602-th.jpg", 
+    "u2": "$0.28 per 100G", 
+    "pl": "12"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Drinks"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "375mL"
+        ]
+    }, 
+    "s9": "629615", 
+    "p1": {
+        "o": "3.3"
+    }, 
+    "m": "Bundaberg", 
+    "u2": "$8.80 per 1L", 
+    "p": "2777631P", 
+    "s": "bundaberg--diet-ginger-beer-bottle-brewed-drink", 
+    "u": "629524", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/7/2777631-th.jpg", 
+    "n": "Diet Ginger Beer Brewed Drink Bottle", 
+    "pl": "99"
+}

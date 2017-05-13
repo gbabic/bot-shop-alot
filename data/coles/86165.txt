@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "s9": "150490", 
+    "p1": {
+        "o": "3.8"
+    }, 
+    "m": "MasterFoods", 
+    "s7": "", 
+    "u2": "$1.52 per 100G", 
+    "p": "127249P", 
+    "s": "masterfoods-corn-relish-127249p", 
+    "u": "86165", 
+    "t": "/wcsstore/Coles-CAS/images/1/2/7/127249-th.jpg", 
+    "n": "Classic Corn Relish", 
+    "pl": "20"
+}

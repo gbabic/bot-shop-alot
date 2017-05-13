@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "130278", 
+    "p1": {
+        "o": "15.95"
+    }, 
+    "m": "Magazine", 
+    "s7": "", 
+    "u2": "$15.95 per 1ea", 
+    "p": "7456850P", 
+    "s": "weight-watchers-magazine-7456850p", 
+    "u": "69549", 
+    "t": "/wcsstore/Coles-CAS/images/7/4/5/7456850-th.jpg", 
+    "n": "Weight Watchers Cookbook", 
+    "pl": "20"
+}

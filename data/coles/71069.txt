@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "150g"
+        ]
+    }, 
+    "s9": "135130", 
+    "p1": {
+        "o": "5.61"
+    }, 
+    "m": "Schwarzkopf", 
+    "u2": "$3.74 per 100G", 
+    "p": "6419291P", 
+    "s": "schwarzkopf-extra-care-mousse-volume-styling", 
+    "u": "71069", 
+    "t": "/wcsstore/Coles-CAS/images/6/4/1/6419291-th.jpg", 
+    "n": "Extra Care Volume Styling Mousse", 
+    "pl": "20"
+}

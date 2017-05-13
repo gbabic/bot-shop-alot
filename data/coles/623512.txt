@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "2 pack"
+        ]
+    }, 
+    "s9": "623522", 
+    "p1": {
+        "l4": "10.99", 
+        "o": "4.99"
+    }, 
+    "m": "Schick Hydro", 
+    "t1": "S", 
+    "p": "2837314P", 
+    "s": "schick-hydro-silk-disposables-razor", 
+    "n": "Silk Disposables Razor", 
+    "u": "623512", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/3/2837314-th.jpg", 
+    "u2": "$2.50 per 1Ea", 
+    "pl": "12"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "150mL"
+        ]
+    }, 
+    "s9": "466628", 
+    "p1": {
+        "l4": "17.6", 
+        "o": "12.8"
+    }, 
+    "m": "Veet", 
+    "t1": "S", 
+    "p": "2276760P", 
+    "s": "veet-natural-grapeseed-shower-cream", 
+    "n": "Natural Grapeseed Shower Cream", 
+    "u": "466047", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/7/2276760-th.jpg", 
+    "u2": "$8.53 per 100mL", 
+    "pl": "12"
+}

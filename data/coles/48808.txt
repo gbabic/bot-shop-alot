@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200mL"
+        ]
+    }, 
+    "s9": "166854", 
+    "p1": {
+        "o": "14.1"
+    }, 
+    "m": "Rufus & Coco", 
+    "s7": "", 
+    "u2": "$70.50 per 1L", 
+    "p": "8982430P", 
+    "s": "rufus-coco-dog-shampoo-oatmeal-2-in-1", 
+    "u": "48808", 
+    "t": "/wcsstore/Coles-CAS/images/8/9/8/8982430-th.jpg", 
+    "n": "2 in 1 Oatmeal Wash", 
+    "pl": "20"
+}

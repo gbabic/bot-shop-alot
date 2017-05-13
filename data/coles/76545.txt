@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "s9": "138653", 
+    "p1": {
+        "o": "2.88"
+    }, 
+    "m": "San Remo", 
+    "u2": "$1.15 per 100G", 
+    "p": "5598333P", 
+    "s": "san-remo-pasta-lasagna-sheets-instant-curly-large", 
+    "u": "76545", 
+    "t": "/wcsstore/Coles-CAS/images/5/5/9/5598333-th.jpg", 
+    "n": "Instant Curly Large Lasagna Sheets", 
+    "pl": "20"
+}

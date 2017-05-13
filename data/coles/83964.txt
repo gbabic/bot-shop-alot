@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "340g"
+        ]
+    }, 
+    "s9": "144844", 
+    "p1": {
+        "l4": "5.16", 
+        "o": "3.0"
+    }, 
+    "m": "Spam", 
+    "t1": "S", 
+    "p": "399250P", 
+    "s": "spam-spiced-ham-less-salt", 
+    "n": "Spiced Ham Less Salt", 
+    "u": "83964", 
+    "t": "/wcsstore/Coles-CAS/images/3/9/9/399250-th.jpg", 
+    "u2": "$8.82 per 1Kg", 
+    "pl": "12"
+}

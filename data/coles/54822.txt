@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "30mL"
+        ]
+    }, 
+    "s9": "115876", 
+    "p1": {
+        "o": "22.61"
+    }, 
+    "m": "Maybelline", 
+    "u2": "$7.54 per 10mL", 
+    "p": "8485581P", 
+    "s": "maybelline-fit-me-foundation-natural-buff", 
+    "u": "54822", 
+    "t": "/wcsstore/Coles-CAS/images/8/4/8/8485581-th.jpg", 
+    "n": "Fit Me Liquid Foundation 230 Natural Buff", 
+    "pl": "20"
+}

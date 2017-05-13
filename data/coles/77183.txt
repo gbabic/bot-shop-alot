@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "490g"
+        ]
+    }, 
+    "s9": "139847", 
+    "p1": {
+        "o": "4.4"
+    }, 
+    "m": "Green's", 
+    "u2": "$0.90 per 100G", 
+    "p": "5675300P", 
+    "s": "greens-cup-cake-mix-vanilla", 
+    "u": "77183", 
+    "t": "/wcsstore/Coles-CAS/images/5/6/7/5675300-th.jpg", 
+    "n": "Vanilla Cupcake Mix", 
+    "pl": "20"
+}

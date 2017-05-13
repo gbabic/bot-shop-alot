@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "297g"
+        ]
+    }, 
+    "s9": "109973", 
+    "p1": {
+        "l4": "3.8", 
+        "o": "2.75"
+    }, 
+    "m": "Morinaga", 
+    "t1": "S", 
+    "p": "8556759P", 
+    "s": "morinaga-tofu-soybean-curd-firm", 
+    "n": "Tofu Soybean Curd Firm", 
+    "u": "50400", 
+    "t": "/wcsstore/Coles-CAS/images/8/5/5/8556759-th.jpg", 
+    "u2": "$0.93 per 100G", 
+    "pl": "12"
+}

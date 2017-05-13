@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Clothing"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "2 pack"
+        ]
+    }, 
+    "u2": "", 
+    "s9": "187508", 
+    "p1": {
+        "l4": "16.0", 
+        "o": "9.0"
+    }, 
+    "s7": "", 
+    "m": "Bonds", 
+    "n": "Womens Bikini Briefs size 14", 
+    "p": "5980880P", 
+    "s": "bonds-womens-briefs-bikini-size-14", 
+    "u": "187502", 
+    "t": "/wcsstore/Coles-CAS/images/5/9/8/5980880-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

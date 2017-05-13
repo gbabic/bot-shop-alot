@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "u2": "$1.83 per 100G", 
+    "s9": "148587", 
+    "p1": {
+        "o": "3.3"
+    }, 
+    "s7": "", 
+    "m": "Tetley", 
+    "n": "Tea Cup Tea Bags 100 pack", 
+    "p": "199523P", 
+    "s": "tetley-tea-bags-teacup", 
+    "u": "87952", 
+    "t": "/wcsstore/Coles-CAS/images/1/9/9/199523-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

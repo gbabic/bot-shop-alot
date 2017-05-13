@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1kg"
+        ]
+    }, 
+    "s9": "342579", 
+    "p1": {
+        "o": "2.5"
+    }, 
+    "m": "Coles", 
+    "t1": "V", 
+    "p": "1075107P", 
+    "s": "coles-australian-brown-rice", 
+    "n": "Brown Rice", 
+    "u": "342524", 
+    "t": "/wcsstore/Coles-CAS/images/1/0/7/1075107-th.jpg", 
+    "u2": "$0.25 per 100G", 
+    "pl": "20"
+}

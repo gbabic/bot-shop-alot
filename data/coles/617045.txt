@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100g"
+        ]
+    }, 
+    "s9": "617098", 
+    "p1": {
+        "o": "7.15"
+    }, 
+    "m": "Schmackos Meaty Tenderz", 
+    "u2": "$7.15 per 100G", 
+    "p": "2819571P", 
+    "s": "schmackos-meaty-tenderz-dog-treat-chicken", 
+    "u": "617045", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/1/2819571-th.jpg", 
+    "n": "Dog Treat Chicken", 
+    "pl": "99"
+}

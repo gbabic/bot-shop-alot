@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "45g"
+        ]
+    }, 
+    "s9": "141107", 
+    "p1": {
+        "o": "0.97"
+    }, 
+    "m": "Edens", 
+    "u2": "$2.16 per 100G", 
+    "p": "5469080P", 
+    "s": "edens-sesame-bar", 
+    "u": "76632", 
+    "t": "/wcsstore/Coles-CAS/images/5/4/6/5469080-th.jpg", 
+    "n": "Sesame Bar", 
+    "pl": "20"
+}

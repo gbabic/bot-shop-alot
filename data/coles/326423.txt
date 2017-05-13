@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "328654", 
+    "p1": {
+        "o": "4.02"
+    }, 
+    "m": "Garofalo", 
+    "u2": "$0.80 per 100G", 
+    "p": "1687103P", 
+    "s": "garofalo-rigatoni-pasta", 
+    "u": "326423", 
+    "t": "/wcsstore/Coles-CAS/images/1/6/8/1687103-th.jpg", 
+    "n": "Rigatoni Pasta", 
+    "pl": "20"
+}

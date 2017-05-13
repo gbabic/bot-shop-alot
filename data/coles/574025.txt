@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "2 pack"
+        ]
+    }, 
+    "s9": "574038", 
+    "p1": {
+        "o": "8.25"
+    }, 
+    "m": "Bic", 
+    "u2": "$4.13 per 1Ea", 
+    "p": "2646597P", 
+    "s": "bic-flex-5-razors", 
+    "u": "574025", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/4/2646597-th.jpg", 
+    "n": "Flex 5 Men's Disposable Razor", 
+    "pl": "20"
+}

@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "144341", 
+    "p1": {
+        "o": "1.8"
+    }, 
+    "m": "San Remo", 
+    "t1": "V", 
+    "p": "5173243P", 
+    "s": "san-remo-pasta-penne-zita-no-20", 
+    "n": "Penne Zita Pasta No 20", 
+    "u": "81126", 
+    "t": "/wcsstore/Coles-CAS/images/5/1/7/5173243-th.jpg", 
+    "u2": "$0.36 per 100G", 
+    "pl": "20"
+}

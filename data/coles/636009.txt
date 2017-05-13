@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "636032", 
+    "p1": {
+        "o": "14.0"
+    }, 
+    "m": "Papermate", 
+    "u2": "$14.00 per 1Ea", 
+    "p": "2401680P", 
+    "s": "replay-premium-erasable-pen-black-1pk", 
+    "u": "636009", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/0/2401680-th.jpg", 
+    "n": "Inkjoy Black Blue Red Gel Pen", 
+    "pl": "20"
+}

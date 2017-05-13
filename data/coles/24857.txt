@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "340g"
+        ]
+    }, 
+    "s9": "41381", 
+    "p1": {
+        "o": "4.57"
+    }, 
+    "m": "Mackay's", 
+    "u2": "$1.34 per 100G", 
+    "p": "1058287P", 
+    "s": "mackays-marmalade-preserve-seville-orange", 
+    "u": "24857", 
+    "t": "/wcsstore/Coles-CAS/images/1/0/5/1058287-th.jpg", 
+    "n": "Seville Orange Marmalade & Preserve", 
+    "pl": "20"
+}

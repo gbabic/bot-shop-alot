@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "147g"
+        ]
+    }, 
+    "s9": "129962", 
+    "p1": {
+        "o": "4.35"
+    }, 
+    "m": "Jacob's", 
+    "s7": "", 
+    "u2": "$2.96 per 100G", 
+    "p": "7221370P", 
+    "s": "jacobs-jaffa-cakes", 
+    "u": "68997", 
+    "t": "/wcsstore/Coles-CAS/images/7/2/2/7221370-th.jpg", 
+    "n": "Jaffa Cakes", 
+    "pl": "20"
+}

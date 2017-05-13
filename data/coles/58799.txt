@@ -1,0 +1,40 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "300g"
+        ]
+    }, 
+    "pr": "3.50000", 
+    "s9": "117806", 
+    "pq": "2", 
+    "pt": "MultibuyMultiSku", 
+    "u2": "$2.20 per 100G", 
+    "m": "Weight Watchers", 
+    "n": "Chicken & Mushroom Fettucine Frozen Meal", 
+    "p": "8071046P", 
+    "s": "weight-watchers-meals-chicken-mushroom-fettucine", 
+    "p1": {
+        "o": "6.6"
+    }, 
+    "u": "58799", 
+    "t": "/wcsstore/Coles-CAS/images/8/0/7/8071046-th.jpg", 
+    "pd": "2 for $7", 
+    "pi": "10141010", 
+    "t1": "M", 
+    "pl": "12"
+}

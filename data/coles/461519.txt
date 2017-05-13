@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200mL"
+        ]
+    }, 
+    "s9": "461530", 
+    "p1": {
+        "o": "6.13"
+    }, 
+    "m": "Nivea", 
+    "u2": "$3.07 per 100mL", 
+    "p": "1740647P", 
+    "s": "nivea-for-men-shave-foam-sensitive", 
+    "u": "461519", 
+    "t": "/wcsstore/Coles-CAS/images/1/7/4/1740647-th.jpg", 
+    "n": "For Men Shave Foam Sensitive", 
+    "pl": "20"
+}

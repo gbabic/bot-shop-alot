@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "50g"
+        ]
+    }, 
+    "s9": "576180", 
+    "p1": {
+        "l4": "6.6", 
+        "o": "4.8"
+    }, 
+    "m": "The Chocolate Counter", 
+    "t1": "S", 
+    "p": "2475224P", 
+    "s": "the-chocolate-counter-mylk-chocolate-bar", 
+    "n": "Mylk Chocolate Bar", 
+    "u": "576061", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/7/2475224-th.jpg", 
+    "u2": "$9.60 per 100G", 
+    "pl": "12"
+}

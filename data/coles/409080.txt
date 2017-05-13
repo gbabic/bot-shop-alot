@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "4 pack"
+        ]
+    }, 
+    "s9": "409159", 
+    "p1": {
+        "l4": "4.0", 
+        "o": "2.0"
+    }, 
+    "m": "Hunts", 
+    "t1": "S", 
+    "p": "1923465P", 
+    "s": "hunts-chocolate-caramel-pudding-snack-pack", 
+    "n": "Chocolate & Caramel Pudding Snack Pack", 
+    "u": "409080", 
+    "t": "/wcsstore/Coles-CAS/images/1/9/2/1923465-th.jpg", 
+    "u2": "$0.50 per 1Ea", 
+    "pl": "12"
+}

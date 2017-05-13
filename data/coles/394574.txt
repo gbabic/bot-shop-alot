@@ -1,0 +1,38 @@
+{
+    "a": {
+        "D": [
+            "TOBACCO"
+        ], 
+        "P8": [
+            "Tobacco"
+        ], 
+        "T1": [
+            "true"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "20 pack"
+        ]
+    }, 
+    "s9": "394749", 
+    "p1": {
+        "o": "35.95"
+    }, 
+    "m": "Cafe Creme", 
+    "s7": "Prices include all taxes", 
+    "u2": "$35.95 per 1ea", 
+    "p": "2118340P", 
+    "s": "cafe-cr\u00c3\u00a8me-twins-blue-cigars", 
+    "u": "394574", 
+    "t": "/wcsstore/Coles-CAS/images/C/i/g/Cigarettes-th.jpg", 
+    "n": "Twins Blue Cigars", 
+    "pl": "5"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "40g"
+        ]
+    }, 
+    "s9": "137316", 
+    "p1": {
+        "o": "2.2"
+    }, 
+    "m": "Europe", 
+    "u2": "$5.50 per 100G", 
+    "p": "67850P", 
+    "s": "europe-bars-honey-nougat-log", 
+    "u": "72726", 
+    "t": "/wcsstore/Coles-CAS/images/6/7/8/67850-th.jpg", 
+    "n": "Honey Nougat Log", 
+    "pl": "20"
+}

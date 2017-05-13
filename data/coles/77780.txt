@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Clothing"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 pack"
+        ]
+    }, 
+    "u2": "$2.00 per 1ea", 
+    "s9": "140442", 
+    "p1": {
+        "l4": "4.0", 
+        "o": "2.0"
+    }, 
+    "s7": "", 
+    "m": "Bonds", 
+    "n": "Footlets Tan size 3-8", 
+    "p": "5696911P", 
+    "s": "bonds-ladies-socks-footlets-suntan-size-4-7-5696911p", 
+    "u": "77780", 
+    "t": "/wcsstore/Coles-CAS/images/5/6/9/5696911-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "750g"
+        ]
+    }, 
+    "s9": "414753", 
+    "p1": {
+        "o": "6.38"
+    }, 
+    "m": "McCain", 
+    "u2": "$8.51 per 1Kg", 
+    "p": "2137800P", 
+    "s": "mccain-sweet-potato-chips", 
+    "u": "414521", 
+    "t": "/wcsstore/Coles-CAS/images/2/1/3/2137800-th.jpg", 
+    "n": "Sweet Potato Chips", 
+    "pl": "20"
+}

@@ -1,0 +1,38 @@
+{
+    "a": {
+        "D": [
+            "TOBACCO"
+        ], 
+        "P8": [
+            "Tobacco"
+        ], 
+        "T1": [
+            "true"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "55g"
+        ]
+    }, 
+    "s9": "447606", 
+    "p1": {
+        "o": "53.0"
+    }, 
+    "m": "Longbeach", 
+    "s7": "Prices include all taxes", 
+    "u2": "$53.00 per 1KGM", 
+    "p": "2344882P", 
+    "s": "longbeach-roll-your-own-rich-blue-tobacco", 
+    "u": "447515", 
+    "t": "/wcsstore/Coles-CAS/images/C/i/g/Cigarettes-th.jpg", 
+    "n": "Roll Your Own Rich Blue Tobacco", 
+    "pl": "5"
+}

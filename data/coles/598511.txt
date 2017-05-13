@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "52g"
+        ]
+    }, 
+    "s9": "598553", 
+    "p1": {
+        "l4": "2.2", 
+        "o": "1.0"
+    }, 
+    "m": "Nestle", 
+    "t1": "S", 
+    "p": "2798904P", 
+    "s": "nestle-best-of-the-best-chunky-kit-kat", 
+    "n": "Best Of The Best Chunky Kit Kat", 
+    "u": "598511", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/9/2798904-th.jpg", 
+    "u2": "$1.92 per 100G", 
+    "pl": "12"
+}

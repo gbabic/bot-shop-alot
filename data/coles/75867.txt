@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100g"
+        ]
+    }, 
+    "s9": "142038", 
+    "p1": {
+        "o": "4.9"
+    }, 
+    "m": "Vitapet", 
+    "u2": "$4.90 per 100G", 
+    "p": "5827022P", 
+    "s": "vitapet-jerhigh-dog-treat-sticks-w-chicken-meat", 
+    "u": "75867", 
+    "t": "/wcsstore/Coles-CAS/images/5/8/2/5827022-th.jpg", 
+    "n": "Jerhigh Sticks Dog Treats", 
+    "pl": "20"
+}

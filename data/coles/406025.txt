@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "s9": "406178", 
+    "p1": {
+        "o": "3.58"
+    }, 
+    "m": "Uncle Ben's", 
+    "u2": "$1.43 per 100G", 
+    "p": "2021828P", 
+    "s": "uncle-bens-brown-wild-microwave-rice", 
+    "u": "406025", 
+    "t": "/wcsstore/Coles-CAS/images/2/0/2/2021828-th.jpg", 
+    "n": "Brown & Wild Microwave Rice", 
+    "pl": "20"
+}

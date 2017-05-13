@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "35g"
+        ]
+    }, 
+    "s9": "137340", 
+    "p1": {
+        "l4": "1.79", 
+        "o": "1.35"
+    }, 
+    "m": "Mission", 
+    "t1": "S", 
+    "p": "6768530P", 
+    "s": "mission-taco-seasoning-mix", 
+    "n": "Taco Seasoning Mix", 
+    "u": "70171", 
+    "t": "/wcsstore/Coles-CAS/images/6/7/6/6768530-th.jpg", 
+    "u2": "$3.86 per 100G", 
+    "pl": "12"
+}

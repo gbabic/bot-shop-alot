@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400g"
+        ]
+    }, 
+    "s9": "161938", 
+    "p1": {
+        "o": "1.6"
+    }, 
+    "m": "Banquet", 
+    "t1": "V", 
+    "p": "9295990P", 
+    "s": "banquet-classic-dog-food-beef-chicken", 
+    "n": "Classic Style Beef & Chicken Canned Dog Food", 
+    "u": "104915", 
+    "t": "/wcsstore/Coles-CAS/images/9/2/9/9295990-th.jpg", 
+    "u2": "$0.40 per 100G", 
+    "pl": "20"
+}

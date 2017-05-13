@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "0.5"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 500g pack"
+        ]
+    }, 
+    "s9": "361703", 
+    "p1": {
+        "o": "10.995"
+    }, 
+    "m": "Inglewood Farms", 
+    "s7": "Indicated price based on approx. weight. Weight may vary between 450g and 550g.", 
+    "u2": "$21.99 per 1Kg", 
+    "p": "1014270P", 
+    "s": "inglewood-farms-organic-chicken-mince-1014270p", 
+    "u": "361528", 
+    "t": "/wcsstore/Coles-CAS/images/1/0/1/1014270-th.jpg", 
+    "n": "Organic Chicken Mince", 
+    "pl": "20"
+}

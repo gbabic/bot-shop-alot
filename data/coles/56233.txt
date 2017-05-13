@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Mothers Day"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "325g"
+        ]
+    }, 
+    "s9": "120484", 
+    "p1": {
+        "l4": "3.3", 
+        "o": "2.0"
+    }, 
+    "m": "Green's", 
+    "t1": "S", 
+    "p": "8043380P", 
+    "s": "greens-pancake-shake-with-maple-flavour", 
+    "n": "Maple Syrup Pancake Shake", 
+    "u": "56233", 
+    "t": "/wcsstore/Coles-CAS/images/8/0/4/8043380-th.jpg", 
+    "u2": "$0.62 per 100G", 
+    "pl": "12"
+}

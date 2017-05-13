@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "467801", 
+    "p1": {
+        "l4": "24.2", 
+        "o": "11.0"
+    }, 
+    "m": "Schick", 
+    "t1": "S", 
+    "p": "2277300P", 
+    "s": "schick-hydro-silk-trimstyle-kit", 
+    "n": "Hydro Silk Trimstyle Kit", 
+    "u": "467679", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/7/2277300-th.jpg", 
+    "u2": "$11.00 per 1Ea", 
+    "pl": "12"
+}

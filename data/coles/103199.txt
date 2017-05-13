@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "175g"
+        ]
+    }, 
+    "s9": "158703", 
+    "p1": {
+        "o": "2.41"
+    }, 
+    "m": "MasterFoods", 
+    "s7": "", 
+    "u2": "$1.38 per 100G", 
+    "p": "9481713P", 
+    "s": "masterfoods-recipe-base-honey-mustard-chicken", 
+    "u": "103199", 
+    "t": "/wcsstore/Coles-CAS/images/9/4/8/9481713-th.jpg", 
+    "n": "Honey Mustard Chicken Recipe Base", 
+    "pl": "20"
+}

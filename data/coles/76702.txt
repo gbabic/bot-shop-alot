@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "u2": "$1.60 per 100G", 
+    "s9": "140636", 
+    "p1": {
+        "o": "4.0"
+    }, 
+    "s7": "", 
+    "m": "Dream Whip", 
+    "n": "Light Aerosol Cream", 
+    "p": "5362428P", 
+    "s": "dream-whip-cream-aerosol-light", 
+    "u": "76702", 
+    "t": "/wcsstore/Coles-CAS/images/5/3/6/5362428-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

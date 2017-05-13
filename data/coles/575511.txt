@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100g"
+        ]
+    }, 
+    "s9": "575536", 
+    "p1": {
+        "o": "3.85"
+    }, 
+    "m": "Thomas Chipman", 
+    "u2": "$3.85 per 100G", 
+    "p": "2510289P", 
+    "s": "thomas-chipman-unsalted-potato-chips", 
+    "u": "575511", 
+    "t": "/wcsstore/Coles-CAS/images/2/5/1/2510289-th.jpg", 
+    "n": "Unsalted Potato Chips", 
+    "pl": "99"
+}

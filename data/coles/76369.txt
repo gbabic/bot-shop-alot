@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "4 pack"
+        ]
+    }, 
+    "s9": "138457", 
+    "p1": {
+        "l4": "15.39", 
+        "o": "6.99"
+    }, 
+    "m": "Schick", 
+    "t1": "S", 
+    "p": "5937406P", 
+    "s": "schick-quattro-razor-cartridges-titanium", 
+    "n": "Quattro Titanium Razor Cartridges", 
+    "u": "76369", 
+    "t": "/wcsstore/Coles-CAS/images/5/9/3/5937406-th.jpg", 
+    "u2": "$1.75 per 1Ea", 
+    "pl": "12"
+}

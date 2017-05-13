@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "410g"
+        ]
+    }, 
+    "s9": "147459", 
+    "p1": {
+        "o": "3.69"
+    }, 
+    "m": "Edgell", 
+    "u2": "$9.00 per 1Kg", 
+    "p": "132442P", 
+    "s": "edgell-sauerkraut", 
+    "u": "88012", 
+    "t": "/wcsstore/Coles-CAS/images/1/3/2/132442-th.jpg", 
+    "n": "Sauerkraut", 
+    "pl": "20"
+}

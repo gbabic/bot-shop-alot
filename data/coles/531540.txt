@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1L"
+        ]
+    }, 
+    "s9": "531611", 
+    "p1": {
+        "o": "5.17"
+    }, 
+    "m": "Pedigree", 
+    "u2": "$0.52 per 100mL", 
+    "p": "2489331P", 
+    "s": "pedigree-puppy-milk-2489331p", 
+    "u": "531540", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/8/2489331-th.jpg", 
+    "n": "Puppy Milk", 
+    "pl": "20"
+}

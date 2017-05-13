@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 pack"
+        ]
+    }, 
+    "s9": "633010", 
+    "p1": {
+        "o": "18.69"
+    }, 
+    "m": "Purina", 
+    "u2": "$18.69 per 1Ea", 
+    "p": "2839546P", 
+    "s": "purina-total-care-flea-tick-control-medium-dogs-treatment", 
+    "u": "633002", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/3/2839546-th.jpg", 
+    "n": "Total Care Flea & Tick Control Medium Dogs Treatment", 
+    "pl": "99"
+}

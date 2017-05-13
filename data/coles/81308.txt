@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "505g"
+        ]
+    }, 
+    "s9": "146356", 
+    "p1": {
+        "l4": "3.62", 
+        "o": "2.0"
+    }, 
+    "m": "Campbell's", 
+    "t1": "S", 
+    "p": "4905448P", 
+    "s": "campbells-chunky-soup-pea-ham", 
+    "n": "Chunky Pea & Ham Soup Can", 
+    "u": "81308", 
+    "t": "/wcsstore/Coles-CAS/images/4/9/0/4905448-th.jpg", 
+    "u2": "$0.40 per 100G", 
+    "pl": "12"
+}

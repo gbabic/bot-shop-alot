@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100g"
+        ]
+    }, 
+    "s9": "424156", 
+    "p1": {
+        "o": "2.8"
+    }, 
+    "m": "Coles Simply Gluten Free", 
+    "t1": "V", 
+    "p": "1928108P", 
+    "s": "coles-simply-gluten-free-original-potato-chips", 
+    "n": "Original Potato Chips", 
+    "u": "424086", 
+    "t": "/wcsstore/Coles-CAS/images/1/9/2/1928108-th.jpg", 
+    "u2": "$2.80 per 100G", 
+    "pl": "20"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "110g"
+        ]
+    }, 
+    "s9": "551005", 
+    "p1": {
+        "l4": "3.84", 
+        "o": "1.4"
+    }, 
+    "m": "Skittles", 
+    "t1": "S", 
+    "p": "1855376P", 
+    "s": "skittles-fruits-share-bag", 
+    "n": "Fruits Share Bag", 
+    "u": "551003", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/5/1855376-th.jpg", 
+    "u2": "$1.27 per 100G", 
+    "pl": "12"
+}

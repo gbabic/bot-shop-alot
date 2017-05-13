@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "505g"
+        ]
+    }, 
+    "s9": "130039", 
+    "p1": {
+        "l4": "3.57", 
+        "o": "2.0"
+    }, 
+    "m": "Campbell's", 
+    "t1": "S", 
+    "p": "7165858P", 
+    "s": "campbells-country-ladle-soup-butternut-pumpkin", 
+    "n": "Country Ladle Butternut Pumpkin Soup Can", 
+    "u": "69069", 
+    "t": "/wcsstore/Coles-CAS/images/7/1/6/7165858-th.jpg", 
+    "u2": "$0.40 per 100G", 
+    "pl": "12"
+}

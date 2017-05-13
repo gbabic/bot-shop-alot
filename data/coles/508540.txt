@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "232g"
+        ]
+    }, 
+    "s9": "508597", 
+    "p1": {
+        "l4": "3.14", 
+        "o": "1.42"
+    }, 
+    "m": "Arnott's", 
+    "t1": "S", 
+    "p": "2471653P", 
+    "s": "arnotts-twisted-faves-choc-chip-scotch-finger", 
+    "n": "Twisted Faves Choc Chip Scotch Finger", 
+    "u": "508540", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/7/2471653-th.jpg", 
+    "u2": "$0.61 per 100G", 
+    "pl": "12"
+}

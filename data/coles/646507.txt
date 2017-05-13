@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "221mL"
+        ]
+    }, 
+    "s9": "646511", 
+    "p1": {
+        "l4": "16.5", 
+        "o": "15.0"
+    }, 
+    "m": "Jergens", 
+    "t1": "N", 
+    "p": "2859190P", 
+    "s": "jergens--natural-glow--firming-moisturiser", 
+    "n": "Natural Glow + Firming Moisturiser", 
+    "u": "646507", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/5/2859190-th.jpg", 
+    "u2": "$6.79 per 100mL", 
+    "pl": "12"
+}

@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "142921", 
+    "p1": {
+        "o": "9.95"
+    }, 
+    "m": "Magazine", 
+    "s7": "Cover may not depict edition offered for sale", 
+    "u2": "$9.95 per 1Ea", 
+    "p": "4276375P", 
+    "s": "caravan-motorhome-magazine", 
+    "u": "82909", 
+    "t": "/wcsstore/Coles-CAS/images/4/2/7/4276375-th.jpg", 
+    "n": "Caravan/Motorhome", 
+    "pl": "20"
+}

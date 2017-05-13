@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Baby"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "90 pack"
+        ]
+    }, 
+    "s9": "162954", 
+    "p1": {
+        "l4": "33.0", 
+        "o": "28.0"
+    }, 
+    "m": "Huggies", 
+    "t1": "S", 
+    "p": "9224095P", 
+    "s": "huggies-ultra-dry-jumbo-nappies-crawler-girl-6-11kg", 
+    "n": "Ultra Dry Infant Care Jumbo Nappies Crawler Girl 6-11kg", 
+    "u": "107236", 
+    "t": "/wcsstore/Coles-CAS/images/9/2/2/9224095-th.jpg", 
+    "u2": "$0.31 per 1Ea", 
+    "pl": "12"
+}

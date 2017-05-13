@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "120g"
+        ]
+    }, 
+    "s9": "141710", 
+    "p1": {
+        "l4": "3.3", 
+        "o": "2.4"
+    }, 
+    "m": "Continental", 
+    "t1": "S", 
+    "p": "5382006P", 
+    "s": "continental-stock-powder-instant-beef-salt-reduced", 
+    "n": "Instant Beef Salt Reduced Stock Powder Makes 6L", 
+    "u": "78634", 
+    "t": "/wcsstore/Coles-CAS/images/5/3/8/5382006-th.jpg", 
+    "u2": "$0.20 per 10G", 
+    "pl": "20"
+}

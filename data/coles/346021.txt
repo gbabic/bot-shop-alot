@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "20 pack"
+        ]
+    }, 
+    "s9": "346121", 
+    "p1": {
+        "l4": "12.05", 
+        "o": "7.66"
+    }, 
+    "m": "Veet", 
+    "t1": "S", 
+    "p": "9616153P", 
+    "s": "veet-sensitive-wax-strips-for-legs", 
+    "n": "Sensitive Wax Strips for Legs", 
+    "u": "346021", 
+    "t": "/wcsstore/Coles-CAS/images/9/6/1/9616153-th.jpg", 
+    "u2": "$0.38 per 1Ea", 
+    "pl": "12"
+}

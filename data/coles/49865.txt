@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "115169", 
+    "p1": {
+        "l4": "3.57", 
+        "o": "2.0"
+    }, 
+    "m": "Campbell's", 
+    "t1": "S", 
+    "p": "8027055P", 
+    "s": "campbells-country-ladle-soup-pumpkin-rich-creamy", 
+    "n": "Country Ladle Rich & Creamy Pumpkin Soup Can", 
+    "u": "49865", 
+    "t": "/wcsstore/Coles-CAS/images/8/0/2/8027055-th.jpg", 
+    "u2": "$0.40 per 100G", 
+    "pl": "12"
+}

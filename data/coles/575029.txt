@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "165g"
+        ]
+    }, 
+    "s9": "575234", 
+    "p1": {
+        "o": "4.95"
+    }, 
+    "m": "Tyrrells", 
+    "s7": "", 
+    "u2": "$3.00 per 100G", 
+    "p": "2664431P", 
+    "s": "tyrrells--lightly-salted-english-crisps", 
+    "u": "575029", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/6/2664431-th.jpg", 
+    "n": "Lightly Salted English Crisps", 
+    "pl": "20"
+}

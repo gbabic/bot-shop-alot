@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "s9": "605544", 
+    "p1": {
+        "o": "3.5"
+    }, 
+    "m": "Edgell", 
+    "u2": "$1.75 per 100G", 
+    "p": "2743684P", 
+    "s": "edgell-cannellini-beans-salad", 
+    "u": "605516", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/4/2743684-th.jpg", 
+    "n": "Cannellini Beans Salad", 
+    "pl": "99"
+}

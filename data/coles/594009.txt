@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "350g"
+        ]
+    }, 
+    "s9": "594174", 
+    "p1": {
+        "l4": "7.15", 
+        "o": "4.0"
+    }, 
+    "m": "Weight Watchers", 
+    "t1": "S", 
+    "p": "2742251P", 
+    "s": "weight-watchers-gourmet-menu-creamy-spaghetti-prawns-frozen-meal", 
+    "n": "Gourmet Menu Creamy Spaghetti & Prawns Frozen Meal", 
+    "u": "594009", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/4/2742251-th.jpg", 
+    "u2": "$1.14 per 100G", 
+    "pl": "12"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "260g"
+        ]
+    }, 
+    "s9": "386719", 
+    "p1": {
+        "o": "3.08"
+    }, 
+    "m": "Green's", 
+    "u2": "$1.18 per 100G", 
+    "p": "1923501P", 
+    "s": "greens-lemon-self-saucing-pudding", 
+    "u": "386600", 
+    "t": "/wcsstore/Coles-CAS/images/1/9/2/1923501-th.jpg", 
+    "n": "Self Saucing Lemon Pudding", 
+    "pl": "20"
+}

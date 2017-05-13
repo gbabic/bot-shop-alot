@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "510g"
+        ]
+    }, 
+    "s9": "140228", 
+    "p1": {
+        "o": "5.05"
+    }, 
+    "m": "Lee Kum Kee", 
+    "u2": "$0.99 per 100G", 
+    "p": "5991015P", 
+    "s": "lee-kum-kee-sauce-oyster-panda", 
+    "u": "76325", 
+    "t": "/wcsstore/Coles-CAS/images/5/9/9/5991015-th.jpg", 
+    "n": "Panda Oyster Sauce", 
+    "pl": "20"
+}

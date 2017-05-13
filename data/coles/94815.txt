@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250mL"
+        ]
+    }, 
+    "s9": "168249", 
+    "p1": {
+        "o": "15.84"
+    }, 
+    "m": "Rufus & Coco", 
+    "u2": "$63.36 per 1L", 
+    "p": "8982735P", 
+    "s": "rufus-coco-wee-away", 
+    "u": "94815", 
+    "t": "/wcsstore/Coles-CAS/images/8/9/8/8982735-th.jpg", 
+    "n": "Wee Away", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "386738", 
+    "p1": {
+        "o": "15.35"
+    }, 
+    "m": "Covergirl", 
+    "u2": "$15.35 per 1Ea", 
+    "p": "1854249P", 
+    "s": "covergirl-bombshell-black-eyeliner", 
+    "u": "386618", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/5/1854249-th.jpg", 
+    "n": "Bombshell Black Eyeliner", 
+    "pl": "20"
+}

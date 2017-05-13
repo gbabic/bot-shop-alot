@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "4 pack"
+        ]
+    }, 
+    "s9": "141415", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "m": "Bow Wow", 
+    "s7": "", 
+    "u2": "$1.38 per 1Ea", 
+    "p": "5829888P", 
+    "s": "bow-wow-dog-treats-oinkers", 
+    "u": "75249", 
+    "t": "/wcsstore/Coles-CAS/images/5/8/2/5829888-th.jpg", 
+    "n": "Oinkers Dog Treats", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "485g"
+        ]
+    }, 
+    "s9": "118588", 
+    "p1": {
+        "o": "7.15"
+    }, 
+    "m": "Old El Paso", 
+    "u2": "$1.47 per 100G", 
+    "p": "7886168P", 
+    "s": "old-el-paso-burrito-kit", 
+    "u": "59091", 
+    "t": "/wcsstore/Coles-CAS/images/7/8/8/7886168-th.jpg", 
+    "n": "Burrito Dinner Kit", 
+    "pl": "20"
+}

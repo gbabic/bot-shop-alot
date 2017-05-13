@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100mL"
+        ]
+    }, 
+    "s9": "667049", 
+    "p1": {
+        "l4": "13.19", 
+        "o": "11.99"
+    }, 
+    "m": "Nivea", 
+    "t1": "N", 
+    "p": "2862344P", 
+    "s": "nivea-for-men-protect-care-2-phase-aftershave", 
+    "n": "For Men Protect & Care 2 Phase Aftershave", 
+    "u": "667006", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/6/2862344-th.jpg", 
+    "u2": "$11.99 per 100mL", 
+    "pl": "12"
+}

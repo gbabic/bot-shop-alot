@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "750mL"
+        ]
+    }, 
+    "s9": "150504", 
+    "p1": {
+        "l4": "4.21", 
+        "o": "3.0"
+    }, 
+    "m": "Crisco", 
+    "t1": "S", 
+    "p": "126745P", 
+    "s": "crisco-vegetable-oil-blended", 
+    "n": "Vegetable Oil Blended", 
+    "u": "87554", 
+    "t": "/wcsstore/Coles-CAS/images/1/2/6/126745-th.jpg", 
+    "u2": "$0.40 per 100mL", 
+    "pl": "12"
+}

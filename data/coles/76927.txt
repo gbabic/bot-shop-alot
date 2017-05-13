@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "750g"
+        ]
+    }, 
+    "s9": "138995", 
+    "p1": {
+        "o": "4.0"
+    }, 
+    "m": "Lowan", 
+    "t1": "V", 
+    "p": "6021965P", 
+    "s": "lowan-muesli-tropical-fruit", 
+    "n": "Tropical Fruit Muesli", 
+    "u": "76927", 
+    "t": "/wcsstore/Coles-CAS/images/6/0/2/6021965-th.jpg", 
+    "u2": "$0.53 per 100G", 
+    "pl": "20"
+}

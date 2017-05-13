@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "20 pack"
+        ]
+    }, 
+    "u2": "$0.38 per 1Ea", 
+    "s9": "131173", 
+    "p1": {
+        "o": "7.5"
+    }, 
+    "s7": "", 
+    "m": "Marzena", 
+    "n": "Reusable Women Natural Large Wax Strips", 
+    "p": "7255633P", 
+    "s": "marzena-girl-reusable-natural-large-wax-strips", 
+    "u": "67039", 
+    "t": "/wcsstore/Coles-CAS/images/7/2/5/7255633-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "45g"
+        ]
+    }, 
+    "u2": "$2.22 per 100G", 
+    "s9": "137288", 
+    "p1": {
+        "l4": "1.65", 
+        "o": "1.0"
+    }, 
+    "s7": "", 
+    "m": "French Fries", 
+    "n": "Original Potato Chips", 
+    "p": "6819755P", 
+    "s": "french-fries-potato-chips-original", 
+    "u": "73313", 
+    "t": "/wcsstore/Coles-CAS/images/6/8/1/6819755-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

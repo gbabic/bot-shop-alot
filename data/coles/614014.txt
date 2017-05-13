@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "135g"
+        ]
+    }, 
+    "s9": "614034", 
+    "p1": {
+        "l4": "4.4", 
+        "o": "3.0"
+    }, 
+    "m": "Kelloggs", 
+    "t1": "S", 
+    "p": "2795860P", 
+    "s": "kelloggs-lcms-original-kelloggs-lcms", 
+    "n": "LCMs Original Oaty Bubble Bars", 
+    "u": "614014", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/9/2795860-th.jpg", 
+    "u2": "$2.22 per 100G", 
+    "pl": "12"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "170g"
+        ]
+    }, 
+    "s9": "445025", 
+    "p1": {
+        "l4": "3.63", 
+        "o": "1.65"
+    }, 
+    "m": "Smith's", 
+    "t1": "S", 
+    "p": "2358300P", 
+    "s": "smiths-crinkle-cut-chicken-potato-chips", 
+    "n": "Crinkle Cut Chicken Potato Chips", 
+    "u": "445004", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/5/2358300-th.jpg", 
+    "u2": "$0.97 per 100G", 
+    "pl": "12"
+}

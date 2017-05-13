@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "220g"
+        ]
+    }, 
+    "s9": "158779", 
+    "p1": {
+        "o": "5.9"
+    }, 
+    "m": "Jenny's", 
+    "u2": "$2.68 per 100G", 
+    "p": "9434622P", 
+    "s": "jennys-tamarind-seedless", 
+    "u": "100495", 
+    "t": "/wcsstore/Coles-CAS/images/9/4/3/9434622-th.jpg", 
+    "n": "Puree Seedless Tamarind", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "584266", 
+    "p1": {
+        "o": "11.0"
+    }, 
+    "m": "Red Tractor", 
+    "u2": "$2.20 per 100G", 
+    "p": "2497635P", 
+    "s": "red-tractor-chia-seeds", 
+    "u": "584129", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/9/2497635-th.jpg", 
+    "n": "Chia Seeds", 
+    "pl": "20"
+}

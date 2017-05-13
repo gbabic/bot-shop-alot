@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "750g"
+        ]
+    }, 
+    "s9": "661537", 
+    "p1": {
+        "o": "12.0"
+    }, 
+    "m": "Bertocchi", 
+    "u2": "$16.00 per 1Kg", 
+    "p": "2865284P", 
+    "s": "bertocchi-virginian-leg-ham", 
+    "u": "661523", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/6/2865284-th.jpg", 
+    "n": "Virginian Leg Ham", 
+    "pl": "20"
+}

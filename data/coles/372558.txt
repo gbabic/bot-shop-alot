@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "12 pack"
+        ]
+    }, 
+    "s9": "372748", 
+    "p1": {
+        "l4": "11.0", 
+        "o": "7.0"
+    }, 
+    "m": "Whiskas", 
+    "t1": "S", 
+    "p": "1898255P", 
+    "s": "whiskas-oh-so-fishy-ocean-delights-cat-food", 
+    "n": "Oh So.. Fishy Ocean Delights Cat Food", 
+    "u": "372558", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/9/1898255-th.jpg", 
+    "u2": "$0.69 per 100G", 
+    "pl": "12"
+}

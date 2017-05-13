@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "520g"
+        ]
+    }, 
+    "s9": "626517", 
+    "p1": {
+        "o": "4.06"
+    }, 
+    "m": "Masterfoods Cooking", 
+    "u2": "$0.78 per 100G", 
+    "p": "2847362P", 
+    "s": "masterfoods-cooking-sauce-honey-bbq-chicken", 
+    "u": "626501", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/4/2847362-th.jpg", 
+    "n": "Sauce Honey Bbq Chicken", 
+    "pl": "99"
+}

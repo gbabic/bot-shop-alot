@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "s9": "142348", 
+    "p1": {
+        "o": "4.38"
+    }, 
+    "m": "San Remo", 
+    "u2": "$1.75 per 100G", 
+    "p": "5363759P", 
+    "s": "san-remo-pasta-thin-spaghetti-gluten-free", 
+    "u": "79820", 
+    "t": "/wcsstore/Coles-CAS/images/5/3/6/5363759-th.jpg", 
+    "n": "Gluten Free Thin Spaghetti", 
+    "pl": "20"
+}

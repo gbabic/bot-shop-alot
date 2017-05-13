@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1L"
+        ]
+    }, 
+    "s9": "162172", 
+    "p1": {
+        "o": "2.8"
+    }, 
+    "m": "A2", 
+    "t1": "V", 
+    "p": "9760070P", 
+    "s": "a2-milk-full-cream", 
+    "n": "Full Cream Milk", 
+    "u": "100127", 
+    "t": "/wcsstore/Coles-CAS/images/9/7/6/9760070-th.jpg", 
+    "u2": "$2.80 per 1L", 
+    "pl": "20"
+}

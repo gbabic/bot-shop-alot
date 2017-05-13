@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Drinks"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400g"
+        ]
+    }, 
+    "s9": "143686", 
+    "p1": {
+        "o": "8.36"
+    }, 
+    "m": "Sustagen", 
+    "u2": "$2.09 per 100G", 
+    "p": "368530P", 
+    "s": "sustagen-powdered-flavoured-milk-chocolate", 
+    "u": "82311", 
+    "t": "/wcsstore/Coles-CAS/images/3/6/8/368530-th.jpg", 
+    "n": "Dutch Chocolate Drink Powder", 
+    "pl": "20"
+}

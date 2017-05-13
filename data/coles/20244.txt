@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "u2": "$0.40 per 100G", 
+    "s9": "31176", 
+    "p1": {
+        "o": "2.0"
+    }, 
+    "s7": "", 
+    "m": "Coles", 
+    "n": "Canola Spread", 
+    "p": "6485762P", 
+    "s": "coles-spread-margarine-canola-tub", 
+    "u": "20244", 
+    "t": "/wcsstore/Coles-CAS/images/6/4/8/6485762-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

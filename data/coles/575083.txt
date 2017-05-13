@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "20 pack"
+        ]
+    }, 
+    "s9": "575232", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "m": "Smith's", 
+    "t1": "V", 
+    "p": "2672826P", 
+    "s": "smiths-twisties-variety-multipack", 
+    "n": "Twisties Variety Multipack", 
+    "u": "575083", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/7/2672826-th.jpg", 
+    "u2": "$1.51 per 100G", 
+    "pl": "20"
+}

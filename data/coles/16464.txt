@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "u2": "$6.00 per 1ea", 
+    "s9": "30155", 
+    "p1": {
+        "l4": "10.0", 
+        "o": "6.0"
+    }, 
+    "s7": "", 
+    "m": "Pyrex", 
+    "n": "Measuring Jug 500mL", 
+    "p": "6065381P", 
+    "s": "pyrex-measuring-jug-500ml", 
+    "u": "16464", 
+    "t": "/wcsstore/Coles-CAS/images/6/0/6/6065381-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

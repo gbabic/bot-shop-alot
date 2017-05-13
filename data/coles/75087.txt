@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "70g"
+        ]
+    }, 
+    "s9": "138346", 
+    "p1": {
+        "o": "1.6"
+    }, 
+    "m": "Fantastic", 
+    "u2": "$2.29 per 100G", 
+    "p": "6046730P", 
+    "s": "fantastic-noodles-cup-oriental", 
+    "u": "75087", 
+    "t": "/wcsstore/Coles-CAS/images/6/0/4/6046730-th.jpg", 
+    "n": "Oriental Noodle Cup", 
+    "pl": "20"
+}

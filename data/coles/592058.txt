@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "38g"
+        ]
+    }, 
+    "s9": "592179", 
+    "p1": {
+        "o": "3.3"
+    }, 
+    "m": "Wallaby", 
+    "u2": "$8.68 per 100G", 
+    "p": "2481442P", 
+    "s": "wallaby--cherry-crumble-with-spice-le-granola-bar", 
+    "u": "592058", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/8/2481442-th.jpg", 
+    "n": "Cherry Crumble With Spice Le Granola Bar", 
+    "pl": "99"
+}

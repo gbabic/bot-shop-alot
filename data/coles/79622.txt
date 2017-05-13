@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "4 pack"
+        ]
+    }, 
+    "s9": "141010", 
+    "p1": {
+        "o": "27.5"
+    }, 
+    "m": "Gillette", 
+    "u2": "$6.88 per 1Ea", 
+    "p": "5624386P", 
+    "s": "gillette-fusion-razor-power-cartridges", 
+    "u": "79622", 
+    "t": "/wcsstore/Coles-CAS/images/5/6/2/5624386-th.jpg", 
+    "n": "Fusion Power Shaving Blade Refill", 
+    "pl": "20"
+}

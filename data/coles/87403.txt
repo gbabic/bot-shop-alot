@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "780g"
+        ]
+    }, 
+    "s9": "149802", 
+    "p1": {
+        "o": "8.79"
+    }, 
+    "m": "Kraft", 
+    "u2": "$1.13 per 100G", 
+    "p": "133820P", 
+    "s": "kraft-peanut-butter-crunchy-133820p", 
+    "u": "87403", 
+    "t": "/wcsstore/Coles-CAS/images/1/3/3/133820-th.jpg", 
+    "n": "Crunchy Peanut Butter", 
+    "pl": "20"
+}

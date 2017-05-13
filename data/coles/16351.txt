@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Fruit & Vegetables"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "0.25"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "31096", 
+    "p1": {
+        "o": "1.725"
+    }, 
+    "m": "Coles", 
+    "s7": "Each capsicum approx. 250g; Product of Australia.", 
+    "u2": "$6.90 per 1Kg", 
+    "p": "7214862P", 
+    "s": "capsicum-green-loose", 
+    "u": "16351", 
+    "t": "/wcsstore/Coles-CAS/images/7/2/1/7214862-th.jpg", 
+    "n": "Green Capsicum", 
+    "pl": "99"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Mothers Day"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "375g"
+        ]
+    }, 
+    "u2": "$0.67 per 100G", 
+    "s9": "140834", 
+    "p1": {
+        "o": "2.5"
+    }, 
+    "s7": "", 
+    "m": "Coles", 
+    "n": "Maple Syrup Flavoured", 
+    "p": "5920924P", 
+    "s": "coles-brand-syrup-maple-flavoured", 
+    "u": "75189", 
+    "t": "/wcsstore/Coles-CAS/images/5/9/2/5920924-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

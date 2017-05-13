@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "2 pack"
+        ]
+    }, 
+    "s9": "636030", 
+    "p1": {
+        "o": "6.6"
+    }, 
+    "m": "Papermate", 
+    "u2": "$3.30 per 1Ea", 
+    "p": "2814716P", 
+    "s": "papermate-flair-black", 
+    "u": "636021", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/1/2814716-th.jpg", 
+    "n": "Flair Black Pen", 
+    "pl": "20"
+}

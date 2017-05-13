@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "3 pack"
+        ]
+    }, 
+    "s9": "143634", 
+    "p1": {
+        "o": "1.1"
+    }, 
+    "m": "Papermate", 
+    "u2": "$1.10 per 1Ea", 
+    "p": "4268956P", 
+    "s": "papermate-pencils-2b", 
+    "u": "81062", 
+    "t": "/wcsstore/Coles-CAS/images/4/2/6/4268956-th.jpg", 
+    "n": "Pencils 2B", 
+    "pl": "99"
+}

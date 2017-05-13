@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "125g"
+        ]
+    }, 
+    "s9": "418072", 
+    "p1": {
+        "o": "6.55"
+    }, 
+    "m": "Kez's Kitchen Free & Naked", 
+    "u2": "$5.24 per 100G", 
+    "p": "1994827P", 
+    "s": "kezs-free-naked-choc-mud-dessert-bars-5-pack", 
+    "u": "418036", 
+    "t": "/wcsstore/Coles-CAS/images/1/9/9/1994827-th.jpg", 
+    "n": "Gluten Free Choc Mud Bars", 
+    "pl": "20"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200mL"
+        ]
+    }, 
+    "s9": "509562", 
+    "p1": {
+        "l4": "22.0", 
+        "o": "16.0"
+    }, 
+    "m": "Bondi Sands", 
+    "t1": "S", 
+    "p": "2464738P", 
+    "s": "bondi-sands-tanning-foam-light-medium", 
+    "n": "Tanning Foam Light/Medium", 
+    "u": "509520", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/6/2464738-th.jpg", 
+    "u2": "$8.00 per 100mL", 
+    "pl": "12"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "130g"
+        ]
+    }, 
+    "s9": "553570", 
+    "p1": {
+        "l4": "5.5", 
+        "o": "3.95"
+    }, 
+    "m": "Beanfields", 
+    "t1": "S", 
+    "p": "2475177P", 
+    "s": "beanfields-bean-rice-nacho-chips", 
+    "n": "Bean & Rice Nacho Chips", 
+    "u": "553526", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/7/2475177-th.jpg", 
+    "u2": "$3.04 per 100G", 
+    "pl": "12"
+}

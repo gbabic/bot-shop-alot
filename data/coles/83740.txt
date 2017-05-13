@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "355mL"
+        ]
+    }, 
+    "s9": "144617", 
+    "p1": {
+        "l4": "4.62", 
+        "o": "3.0"
+    }, 
+    "m": "Queen", 
+    "t1": "S", 
+    "p": "4692176P", 
+    "s": "queen-sugar-free-maple-flavoured-syrup", 
+    "n": "Maple Syrup Flavoured Sugar Free", 
+    "u": "83740", 
+    "t": "/wcsstore/Coles-CAS/images/4/6/9/4692176-th.jpg", 
+    "u2": "$0.85 per 100mL", 
+    "pl": "12"
+}

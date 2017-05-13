@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400g"
+        ]
+    }, 
+    "s9": "617078", 
+    "p1": {
+        "o": "2.64"
+    }, 
+    "m": "My Dog Hr Dog Food", 
+    "u2": "$0.66 per 100G", 
+    "p": "2825042P", 
+    "s": "my-dog-hr-dog-food-slow-cooked-lamb-and-veg", 
+    "u": "617013", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/2/2825042-th.jpg", 
+    "n": "Slow Cooked Lamb And Veg", 
+    "pl": "99"
+}

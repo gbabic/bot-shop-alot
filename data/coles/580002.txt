@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400g"
+        ]
+    }, 
+    "s9": "580036", 
+    "p1": {
+        "o": "3.03"
+    }, 
+    "m": "Green's", 
+    "u2": "$0.76 per 100G", 
+    "p": "7012289P", 
+    "s": "greens-traditional-cake-mix-cinnamon-tea", 
+    "u": "580002", 
+    "t": "/wcsstore/Coles-CAS/images/7/0/1/7012289-th.jpg", 
+    "n": "Traditional Cake Mix Cinnamon Tea", 
+    "pl": "20"
+}

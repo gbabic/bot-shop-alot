@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "538081", 
+    "p1": {
+        "o": "7.6"
+    }, 
+    "m": "Jordans", 
+    "u2": "$1.52 per 100G", 
+    "p": "2499084P", 
+    "s": "jordans-crispy-oat-clusters-wild-about-berries", 
+    "u": "538021", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/9/2499084-th.jpg", 
+    "n": "Crispy Oat Clusters Wild About Berries", 
+    "pl": "20"
+}

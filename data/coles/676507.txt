@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "28g"
+        ]
+    }, 
+    "s9": "676567", 
+    "p1": {
+        "o": "2.2"
+    }, 
+    "m": "Starburst", 
+    "u2": "$7.86 per 100G", 
+    "p": "2887946P", 
+    "s": "starburst-gum-fruity-burst", 
+    "u": "676507", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/8/2887946-th.jpg", 
+    "n": "Fruity Burst Gum", 
+    "pl": "99"
+}

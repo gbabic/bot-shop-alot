@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "160g"
+        ]
+    }, 
+    "s9": "525544", 
+    "p1": {
+        "o": "4.24"
+    }, 
+    "m": "Majans Bhuja", 
+    "u2": "$26.50 per 1Kg", 
+    "p": "2523291P", 
+    "s": "majans-bhuja-beernut-mix", 
+    "u": "525525", 
+    "t": "/wcsstore/Coles-CAS/images/2/5/2/2523291-th.jpg", 
+    "n": "Beernut Mix", 
+    "pl": "20"
+}

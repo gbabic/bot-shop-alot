@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "300g"
+        ]
+    }, 
+    "s9": "489048", 
+    "p1": {
+        "o": "7.15"
+    }, 
+    "m": "Syndian Natural Food", 
+    "u2": "$2.38 per 100G", 
+    "p": "2351491P", 
+    "s": "syndian-natural-food-frozen-chilli-falafels", 
+    "u": "489009", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/5/2351491-th.jpg", 
+    "n": "Frozen Chilli Falafels", 
+    "pl": "20"
+}

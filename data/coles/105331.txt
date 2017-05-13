@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100g"
+        ]
+    }, 
+    "s9": "167236", 
+    "p1": {
+        "o": "3.29"
+    }, 
+    "m": "V.I.P.", 
+    "u2": "$3.29 per 100G", 
+    "p": "9130129P", 
+    "s": "vip-cat-treat-kangaroo-snackers", 
+    "u": "105331", 
+    "t": "/wcsstore/Coles-CAS/images/9/1/3/9130129-th.jpg", 
+    "n": "Kangaroo Snackers Cat Treats", 
+    "pl": "20"
+}

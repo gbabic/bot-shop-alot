@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "45g"
+        ]
+    }, 
+    "s9": "117692", 
+    "p1": {
+        "l4": "2.7", 
+        "o": "1.9"
+    }, 
+    "m": "Continental", 
+    "t1": "S", 
+    "p": "8154493P", 
+    "s": "continental-cook-in-bag-recipe-mix-lamb-roast-classic", 
+    "n": "Cook in Bag Classic Roast Lamb Recipe Base", 
+    "u": "57980", 
+    "t": "/wcsstore/Coles-CAS/images/8/1/5/8154493-th.jpg", 
+    "u2": "$4.22 per 100G", 
+    "pl": "12"
+}

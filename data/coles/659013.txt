@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "14 pack"
+        ]
+    }, 
+    "s9": "659056", 
+    "p1": {
+        "l4": "6.6", 
+        "o": "6.0"
+    }, 
+    "m": "Metamucil Orange", 
+    "t1": "N", 
+    "p": "2862457P", 
+    "s": "metamucil-orange-daily-fibre-14-doses", 
+    "n": "Daily Fibre 14 Doses", 
+    "u": "659013", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/6/2862457-th.jpg", 
+    "u2": "$0.43 per 1Ea", 
+    "pl": "12"
+}

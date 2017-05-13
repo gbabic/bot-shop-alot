@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Drinks"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "6 pack"
+        ]
+    }, 
+    "s9": "165126", 
+    "p1": {
+        "l4": "7.7", 
+        "o": "5.6"
+    }, 
+    "m": "Mount Franklin", 
+    "t1": "S", 
+    "p": "9599848P", 
+    "s": "mount-franklin-water-1l-bottles", 
+    "n": "Natural Spring Water 1L Bottles", 
+    "u": "100284", 
+    "t": "/wcsstore/Coles-CAS/images/9/5/9/9599848-th.jpg", 
+    "u2": "$0.93 per 1L", 
+    "pl": "12"
+}

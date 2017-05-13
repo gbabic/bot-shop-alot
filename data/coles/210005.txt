@@ -1,0 +1,38 @@
+{
+    "a": {
+        "D": [
+            "XMAS", 
+            "EASTER"
+        ], 
+        "P8": [
+            "Mothers Day"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "270g"
+        ]
+    }, 
+    "s9": "210205", 
+    "p1": {
+        "o": "18.0"
+    }, 
+    "m": "Ferrero", 
+    "u2": "$6.67 per 100G", 
+    "p": "1491939P", 
+    "s": "ferrero-raffaello-chocolate-t27", 
+    "u": "210005", 
+    "t": "/wcsstore/Coles-CAS/images/1/4/9/1491939-th.jpg", 
+    "n": "Raffaello Pochette Chocolates", 
+    "pl": "20"
+}

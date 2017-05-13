@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "s9": "146905", 
+    "p1": {
+        "o": "1.71"
+    }, 
+    "m": "Changs", 
+    "s7": "", 
+    "u2": "$0.68 per 100G", 
+    "p": "498014P", 
+    "s": "changs-noodles-long-life", 
+    "u": "84248", 
+    "t": "/wcsstore/Coles-CAS/images/4/9/8/498014-th.jpg", 
+    "n": "Original Long Life Noodles 98% Fat Free", 
+    "pl": "20"
+}

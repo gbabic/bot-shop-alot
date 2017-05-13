@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "150g"
+        ]
+    }, 
+    "s9": "414042", 
+    "p1": {
+        "o": "2.19"
+    }, 
+    "m": "Haldirams", 
+    "u2": "$1.46 per 100G", 
+    "p": "2057519P", 
+    "s": "haldirams-aloo-bhujia-snacks", 
+    "u": "413592", 
+    "t": "/wcsstore/Coles-CAS/images/2/0/5/2057519-th.jpg", 
+    "n": "Aloo Bhujia Snacks", 
+    "pl": "20"
+}

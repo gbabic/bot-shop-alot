@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "28 pack"
+        ]
+    }, 
+    "s9": "137246", 
+    "p1": {
+        "o": "19.36"
+    }, 
+    "m": "Pedigree", 
+    "u2": "$2.69 per 100G", 
+    "p": "6856376P", 
+    "s": "pedigree-dentastix-dog-treats-for-medium-dogs-28-pack", 
+    "u": "70727", 
+    "t": "/wcsstore/Coles-CAS/images/6/8/5/6856376-th.jpg", 
+    "n": "Medium Dentastix Dog Treat", 
+    "pl": "20"
+}

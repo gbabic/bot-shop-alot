@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "4 pack"
+        ]
+    }, 
+    "s9": "575163", 
+    "p1": {
+        "l4": "25.3", 
+        "o": "11.5"
+    }, 
+    "m": "Schick", 
+    "t1": "S", 
+    "p": "2677309P", 
+    "s": "schick-hydro-5-blade-kit-2677309p", 
+    "n": "Hydro 5 Blade Kit", 
+    "u": "575082", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/7/2677309-th.jpg", 
+    "u2": "$2.88 per 1Ea", 
+    "pl": "12"
+}

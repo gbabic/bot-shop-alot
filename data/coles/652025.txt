@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "490g"
+        ]
+    }, 
+    "s9": "652043", 
+    "p1": {
+        "o": "2.5"
+    }, 
+    "m": "Raguletto", 
+    "t1": "V", 
+    "p": "2768266P", 
+    "s": "raguletto-pasta-bake-crmy-sauce-sweetcorn-for-tuna", 
+    "n": "Creamy Sweet Corn Tuna Pasta Bake Sauce", 
+    "u": "652025", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/6/2768266-th.jpg", 
+    "u2": "$0.51 per 100G", 
+    "pl": "20"
+}

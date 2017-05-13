@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "35g"
+        ]
+    }, 
+    "s9": "38561", 
+    "p1": {
+        "o": "2.64"
+    }, 
+    "m": "Tandaco", 
+    "u2": "$7.54 per 100G", 
+    "p": "5140878P", 
+    "s": "tandaco-yeast-dry", 
+    "u": "15703", 
+    "t": "/wcsstore/Coles-CAS/images/5/1/4/5140878-th.jpg", 
+    "n": "Dry Yeast", 
+    "pl": "20"
+}

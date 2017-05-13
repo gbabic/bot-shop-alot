@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "460g"
+        ]
+    }, 
+    "s9": "162550", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "m": "Allen's", 
+    "s7": "", 
+    "u2": "$1.20 per 100G", 
+    "p": "9405817P", 
+    "s": "allens-snakes-alive-family-size", 
+    "u": "97309", 
+    "t": "/wcsstore/Coles-CAS/images/9/4/0/9405817-th.jpg", 
+    "n": "Snakes Alive Family Size", 
+    "pl": "20"
+}

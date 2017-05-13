@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "6L"
+        ]
+    }, 
+    "s9": "138449", 
+    "p1": {
+        "o": "7.1"
+    }, 
+    "m": "Catlux", 
+    "u2": "$1.18 per 1L", 
+    "p": "5952079P", 
+    "s": "catlux-light-clumping-cat-litter", 
+    "u": "77605", 
+    "t": "/wcsstore/Coles-CAS/images/5/9/5/5952079-th.jpg", 
+    "n": "Light Clumping Cat Litter", 
+    "pl": "20"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1.2L"
+        ]
+    }, 
+    "u2": "$0.67 per 100mL", 
+    "s9": "146410", 
+    "p1": {
+        "o": "8.0"
+    }, 
+    "s7": "", 
+    "m": "Peters", 
+    "n": "Light & Creamy Vanilla Slices 12 pack", 
+    "p": "4811832P", 
+    "s": "nestle-peters-light-creamy-ice-cream-slices-vanilla", 
+    "u": "83687", 
+    "t": "/wcsstore/Coles-CAS/images/4/8/1/4811832-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

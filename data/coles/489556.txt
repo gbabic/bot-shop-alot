@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "170g"
+        ]
+    }, 
+    "s9": "489606", 
+    "p1": {
+        "o": "2.41"
+    }, 
+    "m": "MasterFoods", 
+    "u2": "$1.42 per 100G", 
+    "p": "2386226P", 
+    "s": "masterfoods-carbonara-recipe-base", 
+    "u": "489556", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/8/2386226-th.jpg", 
+    "n": "Carbonara Recipe Base", 
+    "pl": "20"
+}

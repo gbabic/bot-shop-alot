@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "20 pack"
+        ]
+    }, 
+    "s9": "486507", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "m": "Band Aid", 
+    "u2": "$0.28 per 1Ea", 
+    "p": "2367720P", 
+    "s": "band-aid-skin-flex-regular-strips", 
+    "u": "486501", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/6/2367720-th.jpg", 
+    "n": "Skin-Flex Regular Strips", 
+    "pl": "20"
+}

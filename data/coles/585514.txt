@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400g"
+        ]
+    }, 
+    "s9": "585563", 
+    "p1": {
+        "o": "6.0"
+    }, 
+    "m": "Inghams", 
+    "t1": "V", 
+    "p": "2727054P", 
+    "s": "inghams-microwaveable-nuggets", 
+    "n": "Microwaveable Nuggets", 
+    "u": "585514", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/2/2727054-th.jpg", 
+    "u2": "$15.00 per 1Kg", 
+    "pl": "12"
+}

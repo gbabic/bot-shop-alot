@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "240mL"
+        ]
+    }, 
+    "s9": "150255", 
+    "p1": {
+        "o": "5.72"
+    }, 
+    "m": "Conimex", 
+    "u2": "$2.38 per 100mL", 
+    "p": "202843P", 
+    "s": "conimex-ketjap-bentang-manis", 
+    "u": "87949", 
+    "t": "/wcsstore/Coles-CAS/images/2/0/2/202843-th.jpg", 
+    "n": "Ketjap Bentang Manis", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100mL"
+        ]
+    }, 
+    "s9": "111564", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "m": "Cutex", 
+    "u2": "$0.55 per 10mL", 
+    "p": "8497048P", 
+    "s": "cutex-nail-polish-remover-nourishing", 
+    "u": "52783", 
+    "t": "/wcsstore/Coles-CAS/images/8/4/9/8497048-th.jpg", 
+    "n": "Nourishing Nail Polish Remover", 
+    "pl": "20"
+}

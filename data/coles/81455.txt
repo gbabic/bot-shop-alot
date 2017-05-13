@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "32 pack"
+        ]
+    }, 
+    "s9": "144662", 
+    "p1": {
+        "o": "7.5"
+    }, 
+    "m": "Libra", 
+    "t1": "V", 
+    "p": "459544P", 
+    "s": "libra-tampons-regular", 
+    "n": "Regular Tampons", 
+    "u": "81455", 
+    "t": "/wcsstore/Coles-CAS/images/4/5/9/459544-th.jpg", 
+    "u2": "$0.23 per 1Ea", 
+    "pl": "20"
+}

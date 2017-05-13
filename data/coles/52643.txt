@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500mL"
+        ]
+    }, 
+    "s9": "111404", 
+    "p1": {
+        "l4": "3.14", 
+        "o": "2.0"
+    }, 
+    "m": "MasterFoods", 
+    "t1": "S", 
+    "p": "8575582P", 
+    "s": "masterfoods-squeezy-sauce-bbq-reduced-salt", 
+    "n": "Squeezy Reduced Salt BBQ Sauce", 
+    "u": "52643", 
+    "t": "/wcsstore/Coles-CAS/images/8/5/7/8575582-th.jpg", 
+    "u2": "$0.40 per 100mL", 
+    "pl": "12"
+}

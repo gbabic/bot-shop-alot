@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "2 pack"
+        ]
+    }, 
+    "s9": "546548", 
+    "p1": {
+        "o": "2.5"
+    }, 
+    "m": "Bic", 
+    "u2": "$1.25 per 1KGM", 
+    "p": "2531631P", 
+    "s": "bic-marker-ultra-fine-mark-it-black", 
+    "u": "546531", 
+    "t": "/wcsstore/Coles-CAS/images/2/5/3/2531631-th.jpg", 
+    "n": "Marker Ultra Fine Mark It Black", 
+    "pl": "99"
+}

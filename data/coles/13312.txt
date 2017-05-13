@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1kg"
+        ]
+    }, 
+    "u2": "$4.50 per 1Kg", 
+    "s9": "33690", 
+    "p1": {
+        "o": "4.5"
+    }, 
+    "s7": "", 
+    "m": "Coles", 
+    "n": "Organic Self Raising Flour", 
+    "p": "9651030P", 
+    "s": "coles-flour-self-raising-organic", 
+    "u": "13312", 
+    "t": "/wcsstore/Coles-CAS/images/9/6/5/9651030-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 1kg pack"
+        ]
+    }, 
+    "u2": "$14.00 per 1Kg", 
+    "s9": "449524", 
+    "p1": {
+        "o": "14.0"
+    }, 
+    "s7": "Indicated price based on approx. weight. Weight may vary between 900g and 1kg.", 
+    "m": "Lilydale", 
+    "n": "Chicken Thigh Fillet Bulk", 
+    "p": "2303772P", 
+    "s": "lilydale-chicken-thigh-fillet-bulk", 
+    "u": "449501", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/0/2303772-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

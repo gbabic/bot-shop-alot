@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "560g"
+        ]
+    }, 
+    "s9": "203608", 
+    "p1": {
+        "l4": "9.9", 
+        "o": "6.0"
+    }, 
+    "m": "Genius", 
+    "t1": "S", 
+    "p": "1223292P", 
+    "s": "genius-gluten-free-bread-sliced-seeded", 
+    "n": "Gluten Free Frozen Sliced Seeded Bread", 
+    "u": "203517", 
+    "t": "/wcsstore/Coles-CAS/images/1/2/2/1223292-th.jpg", 
+    "u2": "$1.07 per 100G", 
+    "pl": "12"
+}

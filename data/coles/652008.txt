@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "20m"
+        ]
+    }, 
+    "s9": "652049", 
+    "p1": {
+        "l4": "2.42", 
+        "o": "1.75"
+    }, 
+    "m": "Glad Cling Wrap", 
+    "t1": "S", 
+    "p": "2860032P", 
+    "s": "glad-cling-wrap-mini", 
+    "n": "Mini", 
+    "u": "652008", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/6/2860032-th.jpg", 
+    "u2": "$0.09 per 1M", 
+    "pl": "12"
+}

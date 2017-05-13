@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "6 pack"
+        ]
+    }, 
+    "s9": "152749", 
+    "p1": {
+        "l4": "4.4", 
+        "o": "2.0"
+    }, 
+    "m": "Freedom Foods", 
+    "t1": "S", 
+    "p": "9778789P", 
+    "s": "norganic-bar-chewy-apricot", 
+    "n": "Crunchola Chewy Apricot Bar", 
+    "u": "101522", 
+    "t": "/wcsstore/Coles-CAS/images/9/7/7/9778789-th.jpg", 
+    "u2": "$0.95 per 100G", 
+    "pl": "12"
+}

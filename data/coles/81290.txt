@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "175g"
+        ]
+    }, 
+    "s9": "143310", 
+    "p1": {
+        "o": "2.41"
+    }, 
+    "m": "MasterFoods", 
+    "s7": "", 
+    "u2": "$1.38 per 100G", 
+    "p": "4961970P", 
+    "s": "masterfoods-recipe-base-country-beef-casserole", 
+    "u": "81290", 
+    "t": "/wcsstore/Coles-CAS/images/4/9/6/4961970-th.jpg", 
+    "n": "Country Beef Casserole Recipe Base", 
+    "pl": "20"
+}

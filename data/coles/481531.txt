@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "75mL"
+        ]
+    }, 
+    "s9": "481628", 
+    "p1": {
+        "o": "8.8"
+    }, 
+    "m": "VO5", 
+    "u2": "$11.73 per 100mL", 
+    "p": "2335644P", 
+    "s": "vo5-matt-fibre-wax", 
+    "u": "481531", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/3/2335644-th.jpg", 
+    "n": "Matt Fibre Wax", 
+    "pl": "20"
+}

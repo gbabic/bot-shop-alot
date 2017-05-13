@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "300g"
+        ]
+    }, 
+    "s9": "149786", 
+    "p1": {
+        "o": "3.52"
+    }, 
+    "m": "Kellogg's", 
+    "u2": "$1.17 per 100G", 
+    "p": "149886P", 
+    "s": "kelloggs-corn-flakes-crumbs", 
+    "u": "85998", 
+    "t": "/wcsstore/Coles-CAS/images/1/4/9/149886-th.jpg", 
+    "n": "Corn Flakes Crumbs", 
+    "pl": "20"
+}

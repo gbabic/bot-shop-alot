@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "143451", 
+    "p1": {
+        "o": "2.05"
+    }, 
+    "m": "Saxa", 
+    "u2": "$0.04 per 10G", 
+    "p": "4632549P", 
+    "s": "saxa-sea-salt-iodised-crystals", 
+    "u": "82071", 
+    "t": "/wcsstore/Coles-CAS/images/4/6/3/4632549-th.jpg", 
+    "n": "Iodised Sea Salt Crystals", 
+    "pl": "20"
+}

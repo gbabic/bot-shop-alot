@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "283g"
+        ]
+    }, 
+    "s9": "137179", 
+    "p1": {
+        "o": "3.76"
+    }, 
+    "m": "Beneful", 
+    "u2": "$1.33 per 100G", 
+    "p": "6910653P", 
+    "s": "beneful-prepared-meals-simmered-chicken", 
+    "u": "71305", 
+    "t": "/wcsstore/Coles-CAS/images/6/9/1/6910653-th.jpg", 
+    "n": "Prepared Meals Simmered Chicken Medley Dog Food Tray", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "155g"
+        ]
+    }, 
+    "s9": "150919", 
+    "p1": {
+        "o": "6.27"
+    }, 
+    "m": "MasterFoods", 
+    "u2": "$0.40 per 10G", 
+    "p": "163694P", 
+    "s": "masterfoods-family-garlic-granulated", 
+    "u": "85422", 
+    "t": "/wcsstore/Coles-CAS/images/1/6/3/163694-th.jpg", 
+    "n": "Garlic Granules", 
+    "pl": "20"
+}

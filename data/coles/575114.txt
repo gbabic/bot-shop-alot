@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "175g"
+        ]
+    }, 
+    "s9": "575261", 
+    "p1": {
+        "o": "3.3"
+    }, 
+    "m": "San Remo", 
+    "u2": "$1.89 per 100G", 
+    "p": "2603255P", 
+    "s": "san-remo--microwavable-cous-cous-with-quinoa", 
+    "u": "575114", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/0/2603255-th.jpg", 
+    "n": "Microwavable Cous Cous With Quinoa", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400g"
+        ]
+    }, 
+    "s9": "531626", 
+    "p1": {
+        "o": "2.63"
+    }, 
+    "m": "Optimum", 
+    "u2": "$0.66 per 100G", 
+    "p": "2488634P", 
+    "s": "optimum-lamb-rice-adult-canned-dog-food", 
+    "u": "531544", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/8/2488634-th.jpg", 
+    "n": "Lamb & Rice Adult Canned Dog Food", 
+    "pl": "20"
+}

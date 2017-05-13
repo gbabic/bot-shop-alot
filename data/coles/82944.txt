@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "147252", 
+    "p1": {
+        "o": "3.8"
+    }, 
+    "m": "Trident", 
+    "u2": "$7.60 per 1Kg", 
+    "p": "415480P", 
+    "s": "trident-dates-pitted-415480p", 
+    "u": "82944", 
+    "t": "/wcsstore/Coles-CAS/images/4/1/5/415480-th.jpg", 
+    "n": "Dried Pitted Dates", 
+    "pl": "20"
+}

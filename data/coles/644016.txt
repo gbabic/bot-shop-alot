@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "360mL"
+        ]
+    }, 
+    "s9": "644056", 
+    "p1": {
+        "l4": "8.8", 
+        "o": "6.0"
+    }, 
+    "m": "Streets", 
+    "t1": "S", 
+    "p": "2856658P", 
+    "s": "streets--magnum-mini-ice-cream-cookie-crumble-6-pack", 
+    "n": "Magnum Mini Ice Cream Cookie Crumble 6 pack", 
+    "u": "644016", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/5/2856658-th.jpg", 
+    "u2": "$1.67 per 100mL", 
+    "pl": "12"
+}

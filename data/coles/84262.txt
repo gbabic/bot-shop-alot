@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "142606", 
+    "p1": {
+        "o": "3.64"
+    }, 
+    "m": "Nuttelex", 
+    "u2": "$0.73 per 100G", 
+    "p": "496788P", 
+    "s": "nuttelex-spread-margarine-kosher-tub", 
+    "u": "84262", 
+    "t": "/wcsstore/Coles-CAS/images/4/9/6/496788-th.jpg", 
+    "n": "Kosher Spread Tub", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Baby"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "13 pack"
+        ]
+    }, 
+    "s9": "561093", 
+    "p1": {
+        "o": "10.0"
+    }, 
+    "m": "Huggies", 
+    "u2": "$0.77 per 1Ea", 
+    "p": "2666620P", 
+    "s": "huggies-early-stage-trainer-girl-pull-ups", 
+    "u": "561046", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/6/2666620-th.jpg", 
+    "n": "Early Stage Trainer Girl Pull Ups", 
+    "pl": "20"
+}

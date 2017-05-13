@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "s9": "143097", 
+    "p1": {
+        "o": "4.9"
+    }, 
+    "m": "Old El Paso", 
+    "u2": "$1.96 per 100G", 
+    "p": "5224560P", 
+    "s": "old-el-paso-chilli-jalapenos", 
+    "u": "81747", 
+    "t": "/wcsstore/Coles-CAS/images/5/2/2/5224560-th.jpg", 
+    "n": "Chillies Jalapenos", 
+    "pl": "20"
+}

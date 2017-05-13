@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Fruit & Vegetables"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "0.05"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 50g"
+        ]
+    }, 
+    "u2": "$10.00 per 1Kg", 
+    "s9": "287128", 
+    "p1": {
+        "o": "0.5"
+    }, 
+    "s7": "Each portion approx. 2 chillies; Product of Australia.", 
+    "m": "Coles", 
+    "n": "Red Cherry Chillies loose", 
+    "p": "1333304P", 
+    "s": "coles-fresh-chillies---red-cherry", 
+    "u": "287050", 
+    "t": "/wcsstore/Coles-CAS/images/1/3/3/1333304-th.jpg", 
+    "t1": "S", 
+    "pl": "99"
+}

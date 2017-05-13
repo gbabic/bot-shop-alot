@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100mL"
+        ]
+    }, 
+    "s9": "667082", 
+    "p1": {
+        "l4": "9.89", 
+        "o": "8.99"
+    }, 
+    "m": "Nivea", 
+    "t1": "N", 
+    "p": "2862435P", 
+    "s": "nivea-for-men-clear-effect-face-scrub-wash", 
+    "n": "For Men Clear Effect Face Scrub Wash", 
+    "u": "667041", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/6/2862435-th.jpg", 
+    "u2": "$8.99 per 100mL", 
+    "pl": "12"
+}

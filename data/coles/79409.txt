@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "72g"
+        ]
+    }, 
+    "s9": "140768", 
+    "p1": {
+        "l4": "2.52", 
+        "o": "1.5"
+    }, 
+    "m": "Snickers", 
+    "t1": "S", 
+    "p": "6016761P", 
+    "s": "snickers-king-size-chocolate-bar", 
+    "n": "King Size Chocolate Bar", 
+    "u": "79409", 
+    "t": "/wcsstore/Coles-CAS/images/6/0/1/6016761-th.jpg", 
+    "u2": "$2.08 per 100G", 
+    "pl": "12"
+}

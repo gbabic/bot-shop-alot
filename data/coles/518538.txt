@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "470g"
+        ]
+    }, 
+    "s9": "518651", 
+    "p1": {
+        "o": "2.6"
+    }, 
+    "m": "Coles", 
+    "t1": "V", 
+    "p": "2454767P", 
+    "s": "coles-traditional-mayonnaise", 
+    "n": "Traditional Mayonnaise", 
+    "u": "518538", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/5/2454767-th.jpg", 
+    "u2": "$0.55 per 100G", 
+    "pl": "20"
+}

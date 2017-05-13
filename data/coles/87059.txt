@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Drinks"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1L"
+        ]
+    }, 
+    "s9": "150020", 
+    "p1": {
+        "o": "2.86"
+    }, 
+    "m": "Fiji", 
+    "u2": "$2.86 per 1L", 
+    "p": "1068316P", 
+    "s": "fiji-still-water", 
+    "u": "87059", 
+    "t": "/wcsstore/Coles-CAS/images/1/0/6/1068316-th.jpg", 
+    "n": "Natural Artesian Water", 
+    "pl": "20"
+}

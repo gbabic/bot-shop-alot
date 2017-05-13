@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "24 pack"
+        ]
+    }, 
+    "s9": "584141", 
+    "p1": {
+        "o": "5.0"
+    }, 
+    "m": "Coles", 
+    "t1": "V", 
+    "p": "2534527P", 
+    "s": "coles--snagless-thick-black-ponytailer", 
+    "n": "Snagless Thick Black Ponytailer", 
+    "u": "584123", 
+    "t": "/wcsstore/Coles-CAS/images/2/5/3/2534527-th.jpg", 
+    "u2": "$0.21 per 1Ea", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "139246", 
+    "p1": {
+        "o": "4.51"
+    }, 
+    "m": "Farmers Union", 
+    "u2": "$0.90 per 100G", 
+    "p": "5588963P", 
+    "s": "farmers-union-yoghurt-greek-style-natural-5588963p", 
+    "u": "76556", 
+    "t": "/wcsstore/Coles-CAS/images/5/5/8/5588963-th.jpg", 
+    "n": "Greek Style Natural Yoghurt", 
+    "pl": "20"
+}

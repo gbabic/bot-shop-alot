@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "300g"
+        ]
+    }, 
+    "s9": "635008", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "m": "Mckenzies Baking", 
+    "u2": "$1.83 per 100G", 
+    "p": "2777664P", 
+    "s": "mckenzies-baking-powder", 
+    "u": "635002", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/7/2777664-th.jpg", 
+    "n": "Powder", 
+    "pl": "99"
+}

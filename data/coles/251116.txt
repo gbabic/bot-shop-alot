@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "60g"
+        ]
+    }, 
+    "s9": "251337", 
+    "p1": {
+        "o": "5.2"
+    }, 
+    "m": "Moo Free Mini Moo's", 
+    "u2": "$8.67 per 100G", 
+    "p": "1479194P", 
+    "s": "moo-free-mini-moos-organic-bar-chocolate", 
+    "u": "251116", 
+    "t": "/wcsstore/Coles-CAS/images/1/4/7/1479194-th.jpg", 
+    "n": "Organic Chocolate Bar", 
+    "pl": "20"
+}

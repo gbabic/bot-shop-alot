@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "70g"
+        ]
+    }, 
+    "s9": "203649", 
+    "p1": {
+        "o": "1.6"
+    }, 
+    "m": "Pauls", 
+    "u2": "$2.29 per 100G", 
+    "p": "1199234P", 
+    "s": "pauls-custard-vanilla-1199234p", 
+    "u": "203511", 
+    "t": "/wcsstore/Coles-CAS/images/1/1/9/1199234-th.jpg", 
+    "n": "Vanilla Custard", 
+    "pl": "20"
+}

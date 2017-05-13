@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "300g"
+        ]
+    }, 
+    "s9": "583648", 
+    "p1": {
+        "l4": "4.84", 
+        "o": "3.5"
+    }, 
+    "m": "McVitie's", 
+    "t1": "S", 
+    "p": "2746445P", 
+    "s": "mcvities-chocolate-caramel-digestive-biscuits", 
+    "n": "Chocolate Caramel Digestive Biscuits", 
+    "u": "583506", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/4/2746445-th.jpg", 
+    "u2": "$1.17 per 100G", 
+    "pl": "12"
+}

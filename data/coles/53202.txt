@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "360g"
+        ]
+    }, 
+    "s9": "120884", 
+    "p1": {
+        "l4": "6.59", 
+        "o": "4.8"
+    }, 
+    "m": "Mars", 
+    "t1": "S", 
+    "p": "8182127P", 
+    "s": "snickers-chocolate-bar-funsize-large-multipack", 
+    "n": "Snickers Fun Size", 
+    "u": "53202", 
+    "t": "/wcsstore/Coles-CAS/images/8/1/8/8182127-th.jpg", 
+    "u2": "$1.33 per 100G", 
+    "pl": "12"
+}

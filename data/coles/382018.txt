@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "156g"
+        ]
+    }, 
+    "s9": "382182", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "m": "Amy's Kitchen", 
+    "u2": "$3.53 per 100G", 
+    "p": "1991942P", 
+    "s": "amys-kitchen-gluten-free-bean-rice-burrito-frozen-meal", 
+    "u": "382018", 
+    "t": "/wcsstore/Coles-CAS/images/1/9/9/1991942-th.jpg", 
+    "n": "Gluten Free Bean & Rice Burrito Frozen Meal", 
+    "pl": "20"
+}

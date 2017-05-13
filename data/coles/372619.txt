@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "22mL"
+        ]
+    }, 
+    "s9": "372817", 
+    "p1": {
+        "l4": "19.69", 
+        "o": "12.53"
+    }, 
+    "m": "Garnier", 
+    "t1": "S", 
+    "p": "1683871P", 
+    "s": "garnier-5-second-perfect-blur", 
+    "n": "5 Second Perfect Blur", 
+    "u": "372619", 
+    "t": "/wcsstore/Coles-CAS/images/1/6/8/1683871-th.jpg", 
+    "u2": "$56.95 per 100mL", 
+    "pl": "12"
+}

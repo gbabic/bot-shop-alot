@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "0.125"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 125g"
+        ]
+    }, 
+    "s9": "502611", 
+    "p1": {
+        "o": "3.125"
+    }, 
+    "m": "Coles Deli", 
+    "s7": "Indicated price based on approx. weight. Weight may vary between 100g and 150g", 
+    "u2": "$25.00 per 1Kg", 
+    "p": "2421622P", 
+    "s": "coles-deli-peri-peri-shredded-chicken", 
+    "u": "502528", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/2/2421622-th.jpg", 
+    "n": "Peri Peri Shredded Chicken", 
+    "pl": "20"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "430g"
+        ]
+    }, 
+    "s9": "134675", 
+    "p1": {
+        "l4": "9.85", 
+        "o": "7.05"
+    }, 
+    "m": "U.K.", 
+    "t1": "S", 
+    "p": "6949091P", 
+    "s": "uk-cereal-whole-wheat-biscuits", 
+    "n": "Whole Wheat Cereal Biscuits", 
+    "u": "72525", 
+    "t": "/wcsstore/Coles-CAS/images/6/9/4/6949091-th.jpg", 
+    "u2": "$1.64 per 100G", 
+    "pl": "12"
+}

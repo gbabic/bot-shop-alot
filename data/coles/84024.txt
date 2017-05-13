@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "11g"
+        ]
+    }, 
+    "s9": "140679", 
+    "p1": {
+        "o": "24.15"
+    }, 
+    "m": "Covergirl", 
+    "u2": "$21.95 per 10G", 
+    "p": "5296946P", 
+    "s": "covergirl-advance-radiance-powder-pressed-natural-beige", 
+    "u": "84024", 
+    "t": "/wcsstore/Coles-CAS/images/5/2/9/5296946-th.jpg", 
+    "n": "Advanced Radiance Natural Beige 120 Pressed Powder", 
+    "pl": "20"
+}

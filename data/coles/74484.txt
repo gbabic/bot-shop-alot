@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "190g"
+        ]
+    }, 
+    "s9": "132680", 
+    "p1": {
+        "o": "8.46"
+    }, 
+    "m": "Kez's Kitchen Free", 
+    "u2": "$4.45 per 100G", 
+    "p": "6995383P", 
+    "s": "kezs-biscuits-gluten-free-melting-moments", 
+    "u": "74484", 
+    "t": "/wcsstore/Coles-CAS/images/6/9/9/6995383-th.jpg", 
+    "n": "Gluten Free Melting Moment Biscuits", 
+    "pl": "20"
+}

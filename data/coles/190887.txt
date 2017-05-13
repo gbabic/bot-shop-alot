@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Clothing"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "2 pack"
+        ]
+    }, 
+    "u2": "$1.50 per 1ea", 
+    "s9": "193228", 
+    "p1": {
+        "l4": "3.0", 
+        "o": "1.5"
+    }, 
+    "s7": "", 
+    "m": "Razza matazz", 
+    "n": "Value Anklet Socks Tan", 
+    "p": "8966728P", 
+    "s": "razzamatazz-socks-sheer-nylon-15-denier-brazen", 
+    "u": "190887", 
+    "t": "/wcsstore/Coles-CAS/images/8/9/6/8966728-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

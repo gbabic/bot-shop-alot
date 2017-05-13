@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "50g"
+        ]
+    }, 
+    "s9": "148490", 
+    "p1": {
+        "o": "3.25"
+    }, 
+    "m": "MasterFoods", 
+    "u2": "$0.65 per 10G", 
+    "p": "318429P", 
+    "s": "masterfoods-garlic-powder-318429p", 
+    "u": "89013", 
+    "t": "/wcsstore/Coles-CAS/images/3/1/8/318429-th.jpg", 
+    "n": "Garlic Powder", 
+    "pl": "20"
+}

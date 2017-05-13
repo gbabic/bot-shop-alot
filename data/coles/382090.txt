@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "300g"
+        ]
+    }, 
+    "s9": "382214", 
+    "p1": {
+        "o": "6.16"
+    }, 
+    "m": "Chupa Chups", 
+    "u2": "$2.05 per 100G", 
+    "p": "1954017P", 
+    "s": "chupa-chups-best-of-25-bag", 
+    "u": "382090", 
+    "t": "/wcsstore/Coles-CAS/images/1/9/5/1954017-th.jpg", 
+    "n": "Best Of 25 Bag", 
+    "pl": "20"
+}

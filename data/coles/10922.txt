@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "u2": "$11.80 per 1Kg", 
+    "s9": "28235", 
+    "p1": {
+        "o": "5.9"
+    }, 
+    "s7": "", 
+    "m": "Coles", 
+    "n": "Organic Buckwheat Flour", 
+    "p": "8667807P", 
+    "s": "coles-organic-buckwheat-flour", 
+    "u": "10922", 
+    "t": "/wcsstore/Coles-CAS/images/8/6/6/8667807-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "136924", 
+    "p1": {
+        "o": "9.95"
+    }, 
+    "m": "Magazine", 
+    "s7": "", 
+    "u2": "$9.95 per 1ea", 
+    "p": "637290P", 
+    "s": "belle-magazine", 
+    "u": "71088", 
+    "t": "/wcsstore/Coles-CAS/images/6/3/7/637290-th.jpg", 
+    "n": "Belle", 
+    "pl": "20"
+}

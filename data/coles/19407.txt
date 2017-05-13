@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "120g"
+        ]
+    }, 
+    "u2": "$0.15 per 10G", 
+    "s9": "37240", 
+    "p1": {
+        "o": "1.8"
+    }, 
+    "s7": "", 
+    "m": "Coles", 
+    "n": "Chicken Gravy Mix", 
+    "p": "7755160P", 
+    "s": "coles-gravy-mix-chicken", 
+    "u": "19407", 
+    "t": "/wcsstore/Coles-CAS/images/7/7/5/7755160-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "790g"
+        ]
+    }, 
+    "s9": "117230", 
+    "p1": {
+        "o": "8.25"
+    }, 
+    "m": "Kellogg's", 
+    "u2": "$1.04 per 100G", 
+    "p": "8495778P", 
+    "s": "kelloggs-cereal-just-right-original", 
+    "u": "52787", 
+    "t": "/wcsstore/Coles-CAS/images/8/4/9/8495778-th.jpg", 
+    "n": "Just Right", 
+    "pl": "20"
+}

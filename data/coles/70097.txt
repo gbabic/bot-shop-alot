@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "s9": "136044", 
+    "p1": {
+        "o": "3.3"
+    }, 
+    "m": "Gravox", 
+    "u2": "$1.32 per 100G", 
+    "p": "6842837P", 
+    "s": "gravox-traditional-liquid-gravy", 
+    "u": "70097", 
+    "t": "/wcsstore/Coles-CAS/images/6/8/4/6842837-th.jpg", 
+    "n": "Traditional Liquid Gravy", 
+    "pl": "20"
+}

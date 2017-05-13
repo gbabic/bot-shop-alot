@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200mL"
+        ]
+    }, 
+    "s9": "161434", 
+    "p1": {
+        "l4": "12.65", 
+        "o": "9.2"
+    }, 
+    "m": "Veet", 
+    "t1": "S", 
+    "p": "9833242P", 
+    "s": "veet-hair-removal-cream-for-men", 
+    "n": "For Men Hair Removal Cream", 
+    "u": "101501", 
+    "t": "/wcsstore/Coles-CAS/images/9/8/3/9833242-th.jpg", 
+    "u2": "$4.60 per 100G", 
+    "pl": "12"
+}

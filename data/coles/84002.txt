@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "375g"
+        ]
+    }, 
+    "s9": "148469", 
+    "p1": {
+        "o": "1.25"
+    }, 
+    "m": "McKenzie's", 
+    "t1": "V", 
+    "p": "342955P", 
+    "s": "mckenzies-tapioca-seed-sago", 
+    "n": "Tapioca Sago Seed Dessert Mix", 
+    "u": "84002", 
+    "t": "/wcsstore/Coles-CAS/images/3/4/2/342955-th.jpg", 
+    "u2": "$0.33 per 100G", 
+    "pl": "20"
+}

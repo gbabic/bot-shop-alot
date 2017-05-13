@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "40 pack"
+        ]
+    }, 
+    "u2": "$0.06 per 1Ea", 
+    "s9": "146064", 
+    "p1": {
+        "o": "2.4"
+    }, 
+    "s7": "", 
+    "m": "Multix", 
+    "n": "Large Freezer Bags 45cm x 30cm", 
+    "p": "397775P", 
+    "s": "multix-freezer-bags-large", 
+    "u": "80459", 
+    "t": "/wcsstore/Coles-CAS/images/3/9/7/397775-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

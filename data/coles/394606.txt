@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "380g"
+        ]
+    }, 
+    "s9": "394777", 
+    "p1": {
+        "o": "6.6"
+    }, 
+    "m": "Kellogg's", 
+    "u2": "$1.74 per 100G", 
+    "p": "2011325P", 
+    "s": "kelloggs-special-k-nourish-apple-blackcurrent-pepita", 
+    "u": "394606", 
+    "t": "/wcsstore/Coles-CAS/images/2/0/1/2011325-th.jpg", 
+    "n": "Special K Nourish Apple Blackcurrant & Pepita", 
+    "pl": "20"
+}

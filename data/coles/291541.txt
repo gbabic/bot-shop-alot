@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "113g"
+        ]
+    }, 
+    "s9": "291685", 
+    "p1": {
+        "o": "2.74"
+    }, 
+    "m": "Sharwood's", 
+    "u2": "$2.42 per 100G", 
+    "p": "417544P", 
+    "s": "sharwoods-pappadums-plain", 
+    "u": "291541", 
+    "t": "/wcsstore/Coles-CAS/images/4/1/7/417544-th.jpg", 
+    "n": "Plain Puppodums", 
+    "pl": "20"
+}

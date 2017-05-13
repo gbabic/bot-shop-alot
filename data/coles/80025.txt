@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400g"
+        ]
+    }, 
+    "s9": "143860", 
+    "p1": {
+        "o": "14.47"
+    }, 
+    "m": "Osem", 
+    "u2": "$3.62 per 100G", 
+    "p": "5077818P", 
+    "s": "osem-sp-soup-mix-chicken", 
+    "u": "80025", 
+    "t": "/wcsstore/Coles-CAS/images/5/0/7/5077818-th.jpg", 
+    "n": "SP Chicken Soup Mix", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1kg"
+        ]
+    }, 
+    "s9": "473692", 
+    "p1": {
+        "o": "5.61"
+    }, 
+    "m": "Pattu", 
+    "u2": "$0.56 per 100G", 
+    "p": "2158323P", 
+    "s": "pattu-black-eye-beans", 
+    "u": "473690", 
+    "t": "/wcsstore/Coles-CAS/images/2/1/5/2158323-th.jpg", 
+    "n": "Black Eye Beans", 
+    "pl": "20"
+}

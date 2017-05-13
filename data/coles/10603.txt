@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "8 pack"
+        ]
+    }, 
+    "s9": "32069", 
+    "p1": {
+        "o": "12.5"
+    }, 
+    "m": "Tena", 
+    "t1": "V", 
+    "p": "9886635P", 
+    "s": "tena-pants-for-women-large", 
+    "n": "Large Pants for Women", 
+    "u": "10603", 
+    "t": "/wcsstore/Coles-CAS/images/9/8/8/9886635-th.jpg", 
+    "u2": "$1.56 per 1Ea", 
+    "pl": "20"
+}

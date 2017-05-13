@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500mL"
+        ]
+    }, 
+    "s9": "155680", 
+    "p1": {
+        "o": "3.47"
+    }, 
+    "m": "MasterFoods", 
+    "u2": "$0.69 per 100mL", 
+    "p": "9905423P", 
+    "s": "masterfoods-tomato-squeezy-sauce", 
+    "u": "102665", 
+    "t": "/wcsstore/Coles-CAS/images/9/9/0/9905423-th.jpg", 
+    "n": "Squeezy Australian Grown Tomato Sauce", 
+    "pl": "20"
+}

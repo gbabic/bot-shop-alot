@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "377161", 
+    "p1": {
+        "l4": "6.99", 
+        "o": "5.95"
+    }, 
+    "m": "Magazine", 
+    "s7": "Cover may not depict edition offered for sale", 
+    "u2": "$5.95 per 1Ea", 
+    "p": "4824889P", 
+    "s": "magazine-love-to-learn-pocket-4824889p", 
+    "u": "377029", 
+    "t": "/wcsstore/Coles-CAS/images/4/8/2/4824889-th.jpg", 
+    "n": "Love To Learn Pocket", 
+    "pl": "20"
+}

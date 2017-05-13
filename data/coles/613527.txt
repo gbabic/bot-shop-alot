@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "s9": "613588", 
+    "p1": {
+        "o": "3.85"
+    }, 
+    "m": "Sunsweet", 
+    "u2": "$19.25 per 1Kg", 
+    "p": "2783248P", 
+    "s": "sunsweet-diced-prunes-200gm", 
+    "u": "613527", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/8/2783248-th.jpg", 
+    "n": "Diced Prunes 200gm", 
+    "pl": "99"
+}

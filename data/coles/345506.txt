@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "420g"
+        ]
+    }, 
+    "s9": "345798", 
+    "p1": {
+        "l4": "4.29", 
+        "o": "3.0"
+    }, 
+    "m": "La Zuppa", 
+    "t1": "S", 
+    "p": "1727445P", 
+    "s": "la-zuppa-chicken-noodle-microwave-soup-bowl", 
+    "n": "Chicken Noodle Microwave Soup Bowl", 
+    "u": "345506", 
+    "t": "/wcsstore/Coles-CAS/images/1/7/2/1727445-th.jpg", 
+    "u2": "$0.71 per 100G", 
+    "pl": "12"
+}

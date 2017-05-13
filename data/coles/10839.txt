@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "125g"
+        ]
+    }, 
+    "s9": "33872", 
+    "p1": {
+        "o": "1.98"
+    }, 
+    "m": "Captain's Table", 
+    "u2": "$1.58 per 100G", 
+    "p": "8842022P", 
+    "s": "nabisco-water-crackers-captains-table", 
+    "u": "10839", 
+    "t": "/wcsstore/Coles-CAS/images/8/8/4/8842022-th.jpg", 
+    "n": "Classic Water Crackers", 
+    "pl": "20"
+}

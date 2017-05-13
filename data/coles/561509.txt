@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400g"
+        ]
+    }, 
+    "s9": "561557", 
+    "p1": {
+        "o": "4.3"
+    }, 
+    "m": "Flora", 
+    "u2": "$1.08 per 100G", 
+    "p": "2653810P", 
+    "s": "flora-with-butter-salt-reduced", 
+    "u": "561509", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/5/2653810-th.jpg", 
+    "n": "With Butter Salt Reduced", 
+    "pl": "99"
+}

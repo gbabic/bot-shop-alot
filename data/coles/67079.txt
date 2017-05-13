@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "128731", 
+    "p1": {
+        "o": "9.24"
+    }, 
+    "m": "Elastoplast", 
+    "u2": "$5.78 per 1M", 
+    "p": "7213972P", 
+    "s": "elastoplast-bandage-crepe", 
+    "u": "67079", 
+    "t": "/wcsstore/Coles-CAS/images/7/2/1/7213972-th.jpg", 
+    "n": "Crepe Bandage", 
+    "pl": "20"
+}

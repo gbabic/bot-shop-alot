@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500mL"
+        ]
+    }, 
+    "s9": "678548", 
+    "p1": {
+        "o": "3.1"
+    }, 
+    "m": "Oak", 
+    "t1": "N", 
+    "p": "2954872P", 
+    "s": "oak-plus-chocolate-flavoured-milk-chilled", 
+    "n": "Plus Chocolate Flavoured Milk Chilled", 
+    "u": "678016", 
+    "t": "/wcsstore/Coles-CAS/images/2/9/5/2954872-th.jpg", 
+    "u2": "$6.20 per 1L", 
+    "pl": "12"
+}

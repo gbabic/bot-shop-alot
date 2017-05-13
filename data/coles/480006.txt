@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "480104", 
+    "p1": {
+        "o": "12.0"
+    }, 
+    "m": "Wiltshire", 
+    "u2": "$12.00 per 1Ea", 
+    "p": "4218302P", 
+    "s": "bend-n-bake-loaf-pan", 
+    "u": "480006", 
+    "t": "/wcsstore/Coles-CAS/images/4/2/1/4218302-th.jpg", 
+    "n": "Flexible Loaf Pan 21cm", 
+    "pl": "99"
+}

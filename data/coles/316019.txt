@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "316051", 
+    "p1": {
+        "o": "3.99"
+    }, 
+    "m": "Magazine", 
+    "s7": "Cover may not depict edition offered for sale", 
+    "u2": "$3.99 per 1ea", 
+    "p": "1733619P", 
+    "s": "magazine-yours", 
+    "u": "316019", 
+    "t": "/wcsstore/Coles-CAS/images/1/7/3/1733619-th.jpg", 
+    "n": "Yours", 
+    "pl": "20"
+}

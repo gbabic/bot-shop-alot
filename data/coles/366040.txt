@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "180mL"
+        ]
+    }, 
+    "s9": "366086", 
+    "p1": {
+        "o": "7.04"
+    }, 
+    "m": "Head & Shoulders", 
+    "u2": "$3.91 per 100mL", 
+    "p": "1850496P", 
+    "s": "head-shoulders-2-in-1-old-spice-shampoo-conditioner-for-men-1850496p", 
+    "u": "366040", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/5/1850496-th.jpg", 
+    "n": "2 In 1 Old Spice Shampoo & Conditioner For Men", 
+    "pl": "20"
+}

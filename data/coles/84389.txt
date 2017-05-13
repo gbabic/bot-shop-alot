@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400g"
+        ]
+    }, 
+    "s9": "142737", 
+    "p1": {
+        "l4": "6.81", 
+        "o": "5.0"
+    }, 
+    "m": "Hellmans", 
+    "t1": "S", 
+    "p": "4707648P", 
+    "s": "hellmans-mayonnaise", 
+    "n": "Mayonnaise", 
+    "u": "84389", 
+    "t": "/wcsstore/Coles-CAS/images/4/7/0/4707648-th.jpg", 
+    "u2": "$1.25 per 100G", 
+    "pl": "12"
+}

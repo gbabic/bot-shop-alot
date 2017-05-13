@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "20 pack"
+        ]
+    }, 
+    "s9": "508612", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "m": "Chinet", 
+    "u2": "$27.50 per 100Ea", 
+    "p": "2357975P", 
+    "s": "chinet-3-ply-serviettes", 
+    "u": "508551", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/5/2357975-th.jpg", 
+    "n": "3 Ply Serviettes", 
+    "pl": "20"
+}

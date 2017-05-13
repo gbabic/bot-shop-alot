@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "450g"
+        ]
+    }, 
+    "s9": "150552", 
+    "p1": {
+        "o": "9.74"
+    }, 
+    "m": "Plumrose", 
+    "u2": "$21.64 per 1Kg", 
+    "p": "118565P", 
+    "s": "plumrose-leg-ham-118565p", 
+    "u": "87590", 
+    "t": "/wcsstore/Coles-CAS/images/1/1/8/118565-th.jpg", 
+    "n": "Leg Ham", 
+    "pl": "20"
+}

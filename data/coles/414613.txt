@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "s9": "414887", 
+    "p1": {
+        "o": "2.2"
+    }, 
+    "m": "Devondale", 
+    "u2": "$0.88 per 100G", 
+    "p": "1985917P", 
+    "s": "devondale-unsalted-pat-butter", 
+    "u": "414613", 
+    "t": "/wcsstore/Coles-CAS/images/1/9/8/1985917-th.jpg", 
+    "n": "Unsalted Pat Butter", 
+    "pl": "20"
+}

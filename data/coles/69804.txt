@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1kg"
+        ]
+    }, 
+    "s9": "131899", 
+    "p1": {
+        "o": "7.6"
+    }, 
+    "m": "Seven Seas", 
+    "u2": "$0.08 per 10G", 
+    "p": "7209829P", 
+    "s": "seven-seas-spice-ginger-crushed", 
+    "u": "69804", 
+    "t": "/wcsstore/Coles-CAS/images/7/2/0/7209829-th.jpg", 
+    "n": "Crushed Ginger", 
+    "pl": "20"
+}

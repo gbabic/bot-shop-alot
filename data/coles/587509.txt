@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "41g"
+        ]
+    }, 
+    "s9": "587655", 
+    "p1": {
+        "o": "1.5"
+    }, 
+    "m": "Maggi", 
+    "t1": "V", 
+    "p": "2714948P", 
+    "s": "maggi--chilli-con-carne-dry-recipe-base", 
+    "n": "Chilli Con Carne Dry Recipe Base", 
+    "u": "587509", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/1/2714948-th.jpg", 
+    "u2": "$3.66 per 100G", 
+    "pl": "20"
+}

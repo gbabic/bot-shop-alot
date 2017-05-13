@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "9.8mL"
+        ]
+    }, 
+    "s9": "643561", 
+    "p1": {
+        "o": "24.15"
+    }, 
+    "m": "Maybelline", 
+    "u2": "$24.64 per 10mL", 
+    "p": "2782551P", 
+    "s": "mny--the-falsies-mascara-push-up-drama-blkest-blk", 
+    "u": "643531", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/8/2782551-th.jpg", 
+    "n": "The Falsies Mascara Push Up Drama Blackest Black", 
+    "pl": "99"
+}

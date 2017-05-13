@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "150g"
+        ]
+    }, 
+    "s9": "145410", 
+    "p1": {
+        "o": "3.91"
+    }, 
+    "m": "Shneiders", 
+    "u2": "$2.61 per 100G", 
+    "p": "4397610P", 
+    "s": "shneiders-candy-planet-candy-pythons", 
+    "u": "81020", 
+    "t": "/wcsstore/Coles-CAS/images/4/3/9/4397610-th.jpg", 
+    "n": "Pythons", 
+    "pl": "20"
+}

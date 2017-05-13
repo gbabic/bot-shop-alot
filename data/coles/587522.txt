@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "215g"
+        ]
+    }, 
+    "s9": "587719", 
+    "p1": {
+        "l4": "4.95", 
+        "o": "3.6"
+    }, 
+    "m": "Griffins", 
+    "t1": "S", 
+    "p": "2656375P", 
+    "s": "griffins-hockey-pokey-squiggles", 
+    "n": "Hockey Pokey Squiggles", 
+    "u": "587522", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/5/2656375-th.jpg", 
+    "u2": "$1.67 per 100G", 
+    "pl": "12"
+}

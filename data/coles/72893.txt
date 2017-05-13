@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Frozen Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "428mL"
+        ]
+    }, 
+    "s9": "136285", 
+    "p1": {
+        "l4": "8.79", 
+        "o": "6.0"
+    }, 
+    "m": "Streets", 
+    "t1": "S", 
+    "p": "6582805P", 
+    "s": "streets-magnum-ice-cream-peppermint-6582805p", 
+    "n": "Magnum Peppermint Ice Cream 4 pack", 
+    "u": "72893", 
+    "t": "/wcsstore/Coles-CAS/images/6/5/8/6582805-th.jpg", 
+    "u2": "$1.40 per 100mL", 
+    "pl": "12"
+}

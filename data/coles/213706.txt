@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "625g"
+        ]
+    }, 
+    "s9": "213916", 
+    "p1": {
+        "o": "8.57"
+    }, 
+    "m": "Latina", 
+    "u2": "$1.37 per 100G", 
+    "p": "1202146P", 
+    "s": "latina-pasta-tortellini-spinach-ricotta", 
+    "u": "213706", 
+    "t": "/wcsstore/Coles-CAS/images/1/2/0/1202146-th.jpg", 
+    "n": "Spinach & Ricotta Tortellini", 
+    "pl": "20"
+}

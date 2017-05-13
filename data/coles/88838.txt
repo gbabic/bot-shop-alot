@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "20 pack"
+        ]
+    }, 
+    "s9": "148333", 
+    "p1": {
+        "l4": "5.5", 
+        "o": "4.0"
+    }, 
+    "m": "Carefree", 
+    "t1": "S", 
+    "p": "103229P", 
+    "s": "carefree-tampons-regular-103229p", 
+    "n": "Regular Tampons", 
+    "u": "88838", 
+    "t": "/wcsstore/Coles-CAS/images/1/0/3/103229-th.jpg", 
+    "u2": "$0.20 per 1Ea", 
+    "pl": "12"
+}

@@ -1,0 +1,22 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "O3": [
+            "2 pack"
+        ]
+    }, 
+    "s9": "364051", 
+    "p1": {
+        "o": "3.1"
+    }, 
+    "m": "Papermate", 
+    "u2": "", 
+    "p": "1842115P", 
+    "s": "papermate-glue-stix-2-pack", 
+    "u": "364004", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/4/1842115-th.jpg", 
+    "n": "Glue Stix 8 Gram", 
+    "pl": "20"
+}

@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Clothing"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "2 pack"
+        ]
+    }, 
+    "u2": "$3.00 per 1ea", 
+    "s9": "127703", 
+    "p1": {
+        "l4": "6.0", 
+        "o": "3.0"
+    }, 
+    "s7": "", 
+    "m": "Razza matazz", 
+    "n": "Light Slimming Brief Pantyhose Black Talls", 
+    "p": "7431420P", 
+    "s": "razzamatazz-control-pantyhose-black-tall", 
+    "u": "66291", 
+    "t": "/wcsstore/Coles-CAS/images/7/4/3/7431420-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

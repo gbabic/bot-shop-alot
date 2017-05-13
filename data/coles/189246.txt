@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Clothing"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "3 pack"
+        ]
+    }, 
+    "u2": "$7.00 per 1ea", 
+    "s9": "191724", 
+    "p1": {
+        "l4": "14.0", 
+        "o": "7.0"
+    }, 
+    "s7": "", 
+    "m": "Bonds", 
+    "n": "Mens Logo Business Crew Socks Assorted size 11-14", 
+    "p": "7448987P", 
+    "s": "bonds-socks-mens-business-crew-logo-size-11-14-7448987p", 
+    "u": "189246", 
+    "t": "/wcsstore/Coles-CAS/images/7/4/4/7448987-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

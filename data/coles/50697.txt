@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Baby"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "10 pack"
+        ]
+    }, 
+    "s9": "111765", 
+    "p1": {
+        "o": "14.99"
+    }, 
+    "m": "Huggies", 
+    "u2": "$1.50 per 1Ea", 
+    "p": "8383413P", 
+    "s": "huggies-little-swimmers-large-14kg", 
+    "u": "50697", 
+    "t": "/wcsstore/Coles-CAS/images/8/3/8/8383413-th.jpg", 
+    "n": "Large Little Swimmers Swim Pants Unisex 14kg+", 
+    "pl": "20"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Bread & Bakery"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "430g"
+        ]
+    }, 
+    "u2": "$1.16 per 100G", 
+    "s9": "175053", 
+    "p1": {
+        "o": "5.0"
+    }, 
+    "s7": "", 
+    "m": "Coles Simply Gluten Free", 
+    "n": "White Bread", 
+    "p": "1337101P", 
+    "s": "simply-less-gluten-free-white-loaf", 
+    "u": "174529", 
+    "t": "/wcsstore/Coles-CAS/images/1/3/3/1337101-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

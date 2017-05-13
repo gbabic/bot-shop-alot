@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            ".1g"
+        ]
+    }, 
+    "s9": "644057", 
+    "p1": {
+        "o": "14.85"
+    }, 
+    "m": "Maybelline", 
+    "u2": "$1,485.00 per 10G", 
+    "p": "2855644P", 
+    "s": "maybelline-eye-studio-precise-skinny-defining-b", 
+    "u": "644009", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/5/2855644-th.jpg", 
+    "n": "Eye Studio Precise Skinny Defining B", 
+    "pl": "99"
+}

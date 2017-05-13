@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "New"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "595g"
+        ]
+    }, 
+    "s9": "251309", 
+    "p1": {
+        "l4": "8.25", 
+        "o": "6.0"
+    }, 
+    "m": "Bob's Red Mill", 
+    "t1": "S", 
+    "p": "1464947P", 
+    "s": "bobs-red-mill-gluten-free-all-purpose-baking-flour", 
+    "n": "Gluten Free All Purpose Baking Flour", 
+    "u": "251069", 
+    "t": "/wcsstore/Coles-CAS/images/1/4/6/1464947-th.jpg", 
+    "u2": "$1.01 per 100G", 
+    "pl": "12"
+}

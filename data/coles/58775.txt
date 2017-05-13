@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "400g"
+        ]
+    }, 
+    "s9": "118291", 
+    "p1": {
+        "o": "2.31"
+    }, 
+    "m": "My Dog", 
+    "u2": "$0.58 per 100G", 
+    "p": "8091123P", 
+    "s": "my-dog-dog-food-sardines-tuna-with-spring-vegetables", 
+    "u": "58775", 
+    "t": "/wcsstore/Coles-CAS/images/8/0/9/8091123-th.jpg", 
+    "n": "Fish with Sardines Tuna & Spring Vegetables Canned Dog Food", 
+    "pl": "20"
+}

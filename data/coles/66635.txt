@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "128865", 
+    "p1": {
+        "o": "12.0"
+    }, 
+    "m": "Magazine", 
+    "s7": "", 
+    "u2": "$12.00 per 1ea", 
+    "p": "7121310P", 
+    "s": "wellbeing-magazine", 
+    "u": "66635", 
+    "t": "/wcsstore/Coles-CAS/images/7/1/2/7121310-th.jpg", 
+    "n": "Wellbeing", 
+    "pl": "20"
+}

@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "100g"
+        ]
+    }, 
+    "s9": "346116", 
+    "p1": {
+        "o": "3.8"
+    }, 
+    "m": "Coles", 
+    "t1": "V", 
+    "p": "1790113P", 
+    "s": "coles-basted-rawhide-beef-chews", 
+    "n": "Basted Rawhide Beef Chews", 
+    "u": "346023", 
+    "t": "/wcsstore/Coles-CAS/images/1/7/9/1790113-th.jpg", 
+    "u2": "$3.80 per 100G", 
+    "pl": "20"
+}

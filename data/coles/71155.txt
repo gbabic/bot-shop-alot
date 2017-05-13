@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "375g"
+        ]
+    }, 
+    "s9": "131402", 
+    "p1": {
+        "o": "3.29"
+    }, 
+    "m": "MasterFoods", 
+    "u2": "$0.88 per 100G", 
+    "p": "7076587P", 
+    "s": "masterfoods-marinade-red-wine-garlic", 
+    "u": "71155", 
+    "t": "/wcsstore/Coles-CAS/images/7/0/7/7076587-th.jpg", 
+    "n": "Red Wine & Garlic Marinade", 
+    "pl": "20"
+}

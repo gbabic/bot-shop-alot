@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "195g"
+        ]
+    }, 
+    "s9": "502094", 
+    "p1": {
+        "o": "8.8"
+    }, 
+    "m": "Gillette", 
+    "u2": "$4.51 per 100G", 
+    "p": "2507251P", 
+    "s": "gillette-venus-violet-swirl-shaving-gel", 
+    "u": "502003", 
+    "t": "/wcsstore/Coles-CAS/images/2/5/0/2507251-th.jpg", 
+    "n": "Satin Care with a Touch of Olay Violet Swirl Shaving Gel", 
+    "pl": "20"
+}

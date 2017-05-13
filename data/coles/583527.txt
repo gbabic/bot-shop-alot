@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "190g"
+        ]
+    }, 
+    "s9": "583632", 
+    "p1": {
+        "o": "3.3"
+    }, 
+    "m": "Arnott's", 
+    "s7": "", 
+    "u2": "$1.74 per 100G", 
+    "p": "2734457P", 
+    "s": "arnotts-hot-dog-shapes", 
+    "u": "583527", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/3/2734457-th.jpg", 
+    "n": "Original Pizza Shapes", 
+    "pl": "20"
+}

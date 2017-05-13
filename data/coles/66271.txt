@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "420g"
+        ]
+    }, 
+    "s9": "129107", 
+    "p1": {
+        "l4": "4.29", 
+        "o": "3.0"
+    }, 
+    "m": "La Zuppa", 
+    "t1": "S", 
+    "p": "7460202P", 
+    "s": "la-zuppa-soup-chicken-vegetable", 
+    "n": "Creamy Chicken & Vegetable Soup Bowl", 
+    "u": "66271", 
+    "t": "/wcsstore/Coles-CAS/images/7/4/6/7460202-th.jpg", 
+    "u2": "$0.71 per 100G", 
+    "pl": "12"
+}

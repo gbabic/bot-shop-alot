@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1L"
+        ]
+    }, 
+    "s9": "679609", 
+    "p1": {
+        "l4": "15.4", 
+        "o": "14.0"
+    }, 
+    "m": "Hydralyte", 
+    "t1": "N", 
+    "p": "2864930P", 
+    "s": "hydralyte--orange-electrolyte-liquid", 
+    "n": "Orange Electrolyte Liquid", 
+    "u": "679513", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/6/2864930-th.jpg", 
+    "u2": "$1.40 per 100mL", 
+    "pl": "12"
+}

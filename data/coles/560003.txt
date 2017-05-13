@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "560006", 
+    "p1": {
+        "o": "21.95"
+    }, 
+    "m": "Maybelline", 
+    "u2": "$23.11 per 10mL", 
+    "p": "2615017P", 
+    "s": "maybelline-new-york-colossal-go-extreme-leather-black-washable-mascara", 
+    "u": "560003", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/1/2615017-th.jpg", 
+    "n": "New York Colossal Go Extreme Leather Black Washable Mascara", 
+    "pl": "20"
+}

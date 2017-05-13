@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "20 pack"
+        ]
+    }, 
+    "u2": "$0.20 per 1Ea", 
+    "s9": "141559", 
+    "p1": {
+        "o": "4.0"
+    }, 
+    "s7": "", 
+    "m": "Multix", 
+    "n": "Extra Wide Drawtight Garbage Bags 80cm x 70cm 56L", 
+    "p": "5590342P", 
+    "s": "multix-garbage-bags-with-handles-extra-wide-56-litre", 
+    "u": "78469", 
+    "t": "/wcsstore/Coles-CAS/images/5/5/9/5590342-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

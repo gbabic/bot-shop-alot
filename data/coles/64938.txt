@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "175g"
+        ]
+    }, 
+    "s9": "128498", 
+    "p1": {
+        "o": "2.41"
+    }, 
+    "m": "MasterFoods", 
+    "s7": "", 
+    "u2": "$1.38 per 100G", 
+    "p": "7468500P", 
+    "s": "masterfoods-recipe-base-garlic-herb-lamb-shank", 
+    "u": "64938", 
+    "t": "/wcsstore/Coles-CAS/images/7/4/6/7468500-th.jpg", 
+    "n": "Slow Cooker Garlic & Herb Lamb Shanks Recipe Base", 
+    "pl": "20"
+}

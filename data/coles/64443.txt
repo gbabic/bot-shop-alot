@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "220g"
+        ]
+    }, 
+    "s9": "123087", 
+    "p1": {
+        "o": "4.0"
+    }, 
+    "m": "Tetley", 
+    "t1": "V", 
+    "p": "7752194P", 
+    "s": "tetley-extra-strong-tea-bags", 
+    "n": "Extra Strong Tea Bags 100 pack", 
+    "u": "64443", 
+    "t": "/wcsstore/Coles-CAS/images/7/7/5/7752194-th.jpg", 
+    "u2": "$2.00 per 100G", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "30 pack"
+        ]
+    }, 
+    "s9": "37986", 
+    "p1": {
+        "o": "4.29"
+    }, 
+    "m": "U By Kotex", 
+    "u2": "$0.14 per 1Ea", 
+    "p": "1173376P", 
+    "s": "u-by-kotex-liners-sport-active", 
+    "u": "19233", 
+    "t": "/wcsstore/Coles-CAS/images/1/1/7/1173376-th.jpg", 
+    "n": "Sport Active Liners", 
+    "pl": "20"
+}

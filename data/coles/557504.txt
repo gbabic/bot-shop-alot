@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "280g"
+        ]
+    }, 
+    "s9": "557554", 
+    "p1": {
+        "o": "7.15"
+    }, 
+    "m": "Mayvers", 
+    "u2": "$2.55 per 100G", 
+    "p": "2622533P", 
+    "s": "mayvers-original-super-spread-2622533p", 
+    "u": "557504", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/2/2622533-th.jpg", 
+    "a6": false, 
+    "n": "Original Super Spread", 
+    "pl": "99"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Clothing"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 pack"
+        ]
+    }, 
+    "s9": "472050", 
+    "p1": {
+        "l4": "5.0", 
+        "o": "2.5"
+    }, 
+    "m": "Bonds", 
+    "t1": "S", 
+    "p": "2145150P", 
+    "s": "bonds-opaque-tights-40-denier-knee--hi-nude-1-size", 
+    "n": "Opaque Tights Knee Hi 40 Denier Nude 1 size", 
+    "u": "472009", 
+    "t": "/wcsstore/Coles-CAS/images/2/1/4/2145150-th.jpg", 
+    "u2": "$2.50 per 1ea", 
+    "pl": "12"
+}

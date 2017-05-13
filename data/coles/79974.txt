@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "700g"
+        ]
+    }, 
+    "s9": "143183", 
+    "p1": {
+        "o": "2.31"
+    }, 
+    "m": "Pedigree", 
+    "u2": "$0.33 per 100G", 
+    "p": "5126414P", 
+    "s": "pedigree-pal-dog-food-adult-casserole-with-beef-gravy", 
+    "u": "79974", 
+    "t": "/wcsstore/Coles-CAS/images/5/1/2/5126414-th.jpg", 
+    "n": "Casserole Beef Canned Dog Food", 
+    "pl": "20"
+}

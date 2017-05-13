@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "2.5"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 2.5kg pack"
+        ]
+    }, 
+    "s9": "33911", 
+    "p1": {
+        "o": "25.0"
+    }, 
+    "m": "Coles", 
+    "s7": "Indicated price based on approx. weight. Weight may vary between 2kg and 3kg.", 
+    "u2": "$10.00 per 1Kg", 
+    "p": "8729212P", 
+    "s": "coles-butcher-ham-leg-bone-in-portion", 
+    "u": "10430", 
+    "t": "/wcsstore/Coles-CAS/images/8/7/2/8729212-th.jpg", 
+    "n": "Double Smoked Ham Leg Portion", 
+    "pl": "20"
+}

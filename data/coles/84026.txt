@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "s9": "142400", 
+    "p1": {
+        "o": "4.79"
+    }, 
+    "m": "Angas Park", 
+    "u2": "$19.16 per 1Kg", 
+    "p": "5295444P", 
+    "s": "angas-park-soft-juicy-figs", 
+    "u": "84026", 
+    "t": "/wcsstore/Coles-CAS/images/5/2/9/5295444-th.jpg", 
+    "n": "Dried Soft & Juicy Figs", 
+    "pl": "20"
+}

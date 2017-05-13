@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "55g"
+        ]
+    }, 
+    "s9": "137925", 
+    "p1": {
+        "l4": "2.2", 
+        "o": "1.0"
+    }, 
+    "m": "Continental", 
+    "t1": "S", 
+    "p": "5706050P", 
+    "s": "continental-cup-a-soup-soup-hearty-dutch-curry", 
+    "n": "Hearty Dutch Curry Cup A Soup Serves 2", 
+    "u": "79593", 
+    "t": "/wcsstore/Coles-CAS/images/5/7/0/5706050-th.jpg", 
+    "u2": "$1.82 per 100G", 
+    "pl": "12"
+}

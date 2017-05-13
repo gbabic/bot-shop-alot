@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "147320", 
+    "p1": {
+        "l4": "7.7", 
+        "o": "5.6"
+    }, 
+    "m": "Elastoplast", 
+    "t1": "S", 
+    "p": "303024P", 
+    "s": "elastoplast-adhesive-plaster-25cm-x-3m", 
+    "n": "Adhesive Plaster 2.5cm x 3m", 
+    "u": "89569", 
+    "t": "/wcsstore/Coles-CAS/images/3/0/3/303024-th.jpg", 
+    "u2": "$1.87 per 1M", 
+    "pl": "12"
+}

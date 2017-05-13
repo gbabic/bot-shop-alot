@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "140g"
+        ]
+    }, 
+    "s9": "524600", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "m": "Dr. Oetker", 
+    "u2": "$3.93 per 100G", 
+    "p": "2514632P", 
+    "s": "dr-oetker-designer-blue-icing", 
+    "u": "524540", 
+    "t": "/wcsstore/Coles-CAS/images/2/5/1/2514632-th.jpg", 
+    "n": "Designer Icing Blue", 
+    "pl": "20"
+}

@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "0.4"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "approx. 400g pack"
+        ]
+    }, 
+    "s9": "569571", 
+    "p1": {
+        "o": "6.676"
+    }, 
+    "m": "Game Farm", 
+    "s7": "Indicated price based on approx. weight. Weight may vary between 300g and 500g.", 
+    "u2": "$16.69 per 1Kg", 
+    "p": "9317866P", 
+    "s": "game-farm-whole-spatchcock", 
+    "u": "569508", 
+    "t": "/wcsstore/Coles-CAS/images/9/3/1/9317866-th.jpg", 
+    "n": "Whole Spatchcock", 
+    "pl": "20"
+}

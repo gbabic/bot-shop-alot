@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "175g"
+        ]
+    }, 
+    "s9": "454601", 
+    "p1": {
+        "o": "3.58"
+    }, 
+    "m": "Natural Chip Co.", 
+    "u2": "$2.05 per 100G", 
+    "p": "2268354P", 
+    "s": "natural-chip-co-chips-swt-chilli-sour-crm", 
+    "u": "454512", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/6/2268354-th.jpg", 
+    "n": "Chips Swt Chilli Sour Crm", 
+    "pl": "20"
+}

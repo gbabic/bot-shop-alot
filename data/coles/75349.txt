@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "s9": "137940", 
+    "p1": {
+        "o": "2.85"
+    }, 
+    "m": "San Remo", 
+    "u2": "$1.43 per 100G", 
+    "p": "5686543P", 
+    "s": "san-remo-pasta-cannelloni", 
+    "u": "75349", 
+    "t": "/wcsstore/Coles-CAS/images/5/6/8/5686543-th.jpg", 
+    "n": "Cannelloni", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "40g"
+        ]
+    }, 
+    "s9": "140173", 
+    "p1": {
+        "o": "2.2"
+    }, 
+    "m": "Old El Paso", 
+    "u2": "$5.50 per 100G", 
+    "p": "6048848P", 
+    "s": "old-el-paso-burrito-seasoning-mix", 
+    "u": "78739", 
+    "t": "/wcsstore/Coles-CAS/images/6/0/4/6048848-th.jpg", 
+    "n": "Burrito Seasoning Mix", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Drinks"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "275g"
+        ]
+    }, 
+    "s9": "487173", 
+    "p1": {
+        "o": "8.14"
+    }, 
+    "m": "Jarrah", 
+    "u2": "$2.96 per 100G", 
+    "p": "2359493P", 
+    "s": "jarrah-salted-caramel-drinking-chocolate", 
+    "u": "487080", 
+    "t": "/wcsstore/Coles-CAS/images/2/3/5/2359493-th.jpg", 
+    "n": "Salted Caramel Drinking Chocolate", 
+    "pl": "20"
+}

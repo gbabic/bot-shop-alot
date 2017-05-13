@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "39331", 
+    "p1": {
+        "o": "15.29"
+    }, 
+    "m": "Oates", 
+    "u2": "$15.29 per 1Ea", 
+    "p": "112478P", 
+    "s": "oates-ezy-squeeze-cone-wringing-mop", 
+    "u": "23371", 
+    "t": "/wcsstore/Coles-CAS/images/1/1/2/112478-th.jpg", 
+    "n": "Ezy Squeeze Cone Wringing Mop", 
+    "pl": "20"
+}

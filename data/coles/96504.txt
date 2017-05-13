@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "20 pack"
+        ]
+    }, 
+    "s9": "163663", 
+    "p1": {
+        "l4": "5.5", 
+        "o": "4.0"
+    }, 
+    "m": "Advil", 
+    "t1": "S", 
+    "p": "9677715P", 
+    "s": "advil-ibuprofen-liquid-capsules", 
+    "n": "Ibuprofen Liquid Capsules", 
+    "u": "96504", 
+    "t": "/wcsstore/Coles-CAS/images/9/6/7/9677715-th.jpg", 
+    "u2": "$0.20 per 1Ea", 
+    "pl": "12"
+}

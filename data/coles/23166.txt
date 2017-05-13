@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "45g"
+        ]
+    }, 
+    "s9": "39745", 
+    "p1": {
+        "o": "1.54"
+    }, 
+    "m": "Elite", 
+    "s7": "", 
+    "u2": "$3.42 per 100G", 
+    "p": "1032148P", 
+    "s": "elite-kif-kef-chocolate-bar", 
+    "u": "23166", 
+    "t": "/wcsstore/Coles-CAS/images/1/0/3/1032148-th.jpg", 
+    "n": "Kif Kef Chocolate Bar", 
+    "pl": "20"
+}

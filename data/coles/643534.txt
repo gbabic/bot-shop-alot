@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "45g"
+        ]
+    }, 
+    "s9": "643538", 
+    "p1": {
+        "l4": "2.2", 
+        "o": "1.0"
+    }, 
+    "m": "Nestle", 
+    "t1": "S", 
+    "p": "2840352P", 
+    "s": "nestle--tiramisu-kit-kat", 
+    "n": "Tiramisu Kit Kat", 
+    "u": "643534", 
+    "t": "/wcsstore/Coles-CAS/images/2/8/4/2840352-th.jpg", 
+    "u2": "$2.22 per 100G", 
+    "pl": "12"
+}

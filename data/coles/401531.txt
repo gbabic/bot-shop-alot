@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 pack"
+        ]
+    }, 
+    "s9": "401597", 
+    "p1": {
+        "o": "8.14"
+    }, 
+    "m": "Vitapet", 
+    "u2": "$8.14 per 1Ea", 
+    "p": "1853778P", 
+    "s": "vitapet-chicken-wrapped-rawhide-dog-chews", 
+    "u": "401531", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/5/1853778-th.jpg", 
+    "n": "Chicken Wrapped Rawhide Dog Chews", 
+    "pl": "20"
+}

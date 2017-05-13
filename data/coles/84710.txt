@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "72g"
+        ]
+    }, 
+    "s9": "144969", 
+    "p1": {
+        "l4": "2.52", 
+        "o": "1.5"
+    }, 
+    "m": "Mars", 
+    "t1": "S", 
+    "p": "5192850P", 
+    "s": "mars-bar-kingsize-chocolate-bar", 
+    "n": "Kingsize Chocolate Bar", 
+    "u": "84710", 
+    "t": "/wcsstore/Coles-CAS/images/5/1/9/5192850-th.jpg", 
+    "u2": "$2.08 per 100G", 
+    "pl": "12"
+}

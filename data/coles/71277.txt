@@ -1,0 +1,40 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "495g"
+        ]
+    }, 
+    "pr": "4.00000", 
+    "s9": "133434", 
+    "pq": "2", 
+    "pt": "MultibuyMultiSku", 
+    "u2": "$1.15 per 100G", 
+    "m": "Betty Crocker", 
+    "n": "Mini M&M's Cookies Baking Mix", 
+    "p": "6923677P", 
+    "s": "betty-crocker-rainbow-cookies-mini-m-ms", 
+    "p1": {
+        "o": "5.71"
+    }, 
+    "u": "71277", 
+    "t": "/wcsstore/Coles-CAS/images/6/9/2/6923677-th.jpg", 
+    "pd": "2 for $8", 
+    "pi": "10141006", 
+    "t1": "M", 
+    "pl": "12"
+}

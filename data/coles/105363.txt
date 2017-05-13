@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "150g"
+        ]
+    }, 
+    "s9": "168006", 
+    "p1": {
+        "o": "5.5"
+    }, 
+    "m": "Trentham Tucker", 
+    "u2": "$3.67 per 100G", 
+    "p": "9118280P", 
+    "s": "trentham-tucker-crispbread-9118280p", 
+    "u": "105363", 
+    "t": "/wcsstore/Coles-CAS/images/9/1/1/9118280-th.jpg", 
+    "n": "Crispbread", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "283g"
+        ]
+    }, 
+    "s9": "143694", 
+    "p1": {
+        "o": "7.04"
+    }, 
+    "m": "Pataks", 
+    "u2": "$2.49 per 100G", 
+    "p": "5292990P", 
+    "s": "pataks-pickle-mango-extra-hot", 
+    "u": "79871", 
+    "t": "/wcsstore/Coles-CAS/images/5/2/9/5292990-th.jpg", 
+    "n": "Pickled Mango Extra Hot", 
+    "pl": "20"
+}

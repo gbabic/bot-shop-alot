@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Fruit & Vegetables"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "0.1"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 100g"
+        ]
+    }, 
+    "s9": "30891", 
+    "p1": {
+        "o": "2.0"
+    }, 
+    "m": "Scoop & Weigh", 
+    "s7": "Product Of China", 
+    "u2": "$20.00 per 1Kg", 
+    "p": "8412599P", 
+    "s": "scoop-weigh-pumpkin-seeds", 
+    "u": "11454", 
+    "t": "/wcsstore/Coles-CAS/images/8/4/1/8412599-th.jpg", 
+    "n": "Pumpkin Seeds loose", 
+    "pl": "99"
+}

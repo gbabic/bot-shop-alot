@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "30g"
+        ]
+    }, 
+    "s9": "372850", 
+    "p1": {
+        "o": "1.5"
+    }, 
+    "m": "Maggi", 
+    "t1": "V", 
+    "p": "1870187P", 
+    "s": "maggi-world-flavours-best-ever-beef-burgers-meal-base", 
+    "n": "Best Ever Beef Burgers Meal Base", 
+    "u": "372575", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/7/1870187-th.jpg", 
+    "u2": "$5.00 per 100G", 
+    "pl": "20"
+}

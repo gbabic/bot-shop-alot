@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "114241", 
+    "p1": {
+        "o": "3.74"
+    }, 
+    "m": "Orgran", 
+    "u2": "$7.48 per 1Kg", 
+    "p": "8907252P", 
+    "s": "orgran-flour-self-raising-gluten-wheat-free", 
+    "u": "106491", 
+    "t": "/wcsstore/Coles-CAS/images/8/9/0/8907252-th.jpg", 
+    "n": "Gluten & Wheat Free  Self Raising Flour", 
+    "pl": "20"
+}

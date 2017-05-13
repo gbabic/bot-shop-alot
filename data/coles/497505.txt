@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "335g"
+        ]
+    }, 
+    "s9": "497525", 
+    "p1": {
+        "l4": "4.35", 
+        "o": "3.0"
+    }, 
+    "m": "Maggi", 
+    "t1": "S", 
+    "p": "2453141P", 
+    "s": "maggi-beef-wholegrain-2-minute-noodles", 
+    "n": "Beef Wholegrain 2 Minute Noodles", 
+    "u": "497505", 
+    "t": "/wcsstore/Coles-CAS/images/2/4/5/2453141-th.jpg", 
+    "u2": "$0.90 per 100G", 
+    "pl": "12"
+}

@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Fruit & Vegetables"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "115g"
+        ]
+    }, 
+    "s9": "137481", 
+    "p1": {
+        "o": "4.0"
+    }, 
+    "m": "Gourmet Garden", 
+    "s7": "", 
+    "u2": "$0.35 per 10G", 
+    "p": "6603188P", 
+    "s": "gourmet-garden-chilli-mild", 
+    "u": "71595", 
+    "t": "/wcsstore/Coles-CAS/images/6/6/0/6603188-th.jpg", 
+    "n": "Mild Chilli", 
+    "pl": "99"
+}

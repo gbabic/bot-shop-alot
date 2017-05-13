@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "s9": "249111", 
+    "p1": {
+        "o": "5.28"
+    }, 
+    "m": "Well & Good", 
+    "u2": "$2.11 per 100G", 
+    "p": "1469496P", 
+    "s": "well-good-custard-powder-instant", 
+    "u": "249041", 
+    "t": "/wcsstore/Coles-CAS/images/1/4/6/1469496-th.jpg", 
+    "n": "Instant Custard Powder", 
+    "pl": "20"
+}

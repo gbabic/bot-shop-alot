@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "255g"
+        ]
+    }, 
+    "s9": "471024", 
+    "p1": {
+        "l4": "2.64", 
+        "o": "2.0"
+    }, 
+    "m": "Whiskas", 
+    "t1": "S", 
+    "p": "2288839P", 
+    "s": "whiskas-favourites-kitten-chicken-loaf-pouches-3-pack", 
+    "n": "Favourites Kitten Chicken Loaf", 
+    "u": "471019", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/8/2288839-th.jpg", 
+    "u2": "$0.78 per 100G", 
+    "pl": "12"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "2kg"
+        ]
+    }, 
+    "u2": "$0.75 per 1Kg", 
+    "s9": "31215", 
+    "p1": {
+        "o": "1.5"
+    }, 
+    "s7": "", 
+    "m": "Coles", 
+    "n": "White Self Raising Flour", 
+    "p": "5881265P", 
+    "s": "coles-flour-self-raising-white-5881265p", 
+    "u": "20291", 
+    "t": "/wcsstore/Coles-CAS/images/5/8/8/5881265-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

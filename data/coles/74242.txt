@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "265g"
+        ]
+    }, 
+    "s9": "136814", 
+    "p1": {
+        "l4": "4.51", 
+        "o": "3.2"
+    }, 
+    "m": "Maille", 
+    "t1": "S", 
+    "p": "6606324P", 
+    "s": "maille-wholegrain-mustard", 
+    "n": "Wholegrain Squeezy Mustard", 
+    "u": "74242", 
+    "t": "/wcsstore/Coles-CAS/images/6/6/0/6606324-th.jpg", 
+    "u2": "$1.23 per 100G", 
+    "pl": "12"
+}

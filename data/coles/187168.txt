@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "42 pack"
+        ]
+    }, 
+    "s9": "187302", 
+    "p1": {
+        "l4": "4.4", 
+        "o": "2.0"
+    }, 
+    "m": "Kleenex", 
+    "t1": "S", 
+    "p": "1337666P", 
+    "s": "kleenex-wipes-flushable-fresh-scented-refill", 
+    "n": "Cotton Fresh Flushable Wipes", 
+    "u": "187168", 
+    "t": "/wcsstore/Coles-CAS/images/1/3/3/1337666-th.jpg", 
+    "u2": "$0.05 per 1Ea", 
+    "pl": "4"
+}

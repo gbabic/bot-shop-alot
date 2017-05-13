@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 pack"
+        ]
+    }, 
+    "s9": "414054", 
+    "p1": {
+        "o": "21.23"
+    }, 
+    "m": "L'Oreal", 
+    "u2": "$21.23 per 1Ea", 
+    "p": "2020246P", 
+    "s": "loreal-preference-camden-554-hair-colour", 
+    "u": "413605", 
+    "t": "/wcsstore/Coles-CAS/images/2/0/2/2020246-th.jpg", 
+    "n": "Preference Camden 5.54 Permanent Hair Colour", 
+    "pl": "20"
+}

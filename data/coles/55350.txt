@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "365g"
+        ]
+    }, 
+    "s9": "119146", 
+    "p1": {
+        "l4": "4.35", 
+        "o": "3.0"
+    }, 
+    "m": "Maggi", 
+    "t1": "S", 
+    "p": "8097811P", 
+    "s": "maggi-fusian--noodles-hot-spicy", 
+    "n": "Fusian Mi Goreng Hot & Spicy Noodles 5 pack", 
+    "u": "55350", 
+    "t": "/wcsstore/Coles-CAS/images/8/0/9/8097811-th.jpg", 
+    "u2": "$0.82 per 100G", 
+    "pl": "12"
+}

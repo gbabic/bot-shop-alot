@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "s9": "144234", 
+    "p1": {
+        "o": "4.38"
+    }, 
+    "m": "San Remo", 
+    "u2": "$2.19 per 100G", 
+    "p": "4275973P", 
+    "s": "san-remo-pasta-lasagne-gluten-free", 
+    "u": "83918", 
+    "t": "/wcsstore/Coles-CAS/images/4/2/7/4275973-th.jpg", 
+    "n": "Gluten Free Lasagne", 
+    "pl": "20"
+}

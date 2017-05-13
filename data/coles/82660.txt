@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "16 pack"
+        ]
+    }, 
+    "s9": "146403", 
+    "p1": {
+        "l4": "5.0", 
+        "o": "4.0"
+    }, 
+    "m": "Stayfree", 
+    "t1": "S", 
+    "p": "4819222P", 
+    "s": "stayfree-pads-cottony-soft-ultra-thin-with-wings-light", 
+    "n": "Cottony Soft Ultra Thin with Wings Light Pads", 
+    "u": "82660", 
+    "t": "/wcsstore/Coles-CAS/images/4/8/1/4819222-th.jpg", 
+    "u2": "$0.25 per 1Ea", 
+    "pl": "12"
+}

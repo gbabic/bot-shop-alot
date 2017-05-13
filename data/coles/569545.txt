@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "150g"
+        ]
+    }, 
+    "s9": "569607", 
+    "p1": {
+        "l4": "3.63", 
+        "o": "1.65"
+    }, 
+    "m": "Smith's", 
+    "t1": "S", 
+    "p": "2672815P", 
+    "s": "smiths-duo-sweet-chilli-sour-cream-potato-chips", 
+    "n": "Duo Sweet Chilli & Sour Cream Potato Chips", 
+    "u": "569545", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/7/2672815-th.jpg", 
+    "u2": "$1.10 per 100G", 
+    "pl": "12"
+}

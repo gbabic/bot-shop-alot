@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "22 pack"
+        ]
+    }, 
+    "s9": "347740", 
+    "p1": {
+        "o": "8.46"
+    }, 
+    "m": "U By Kotex", 
+    "u2": "$0.38 per 1Ea", 
+    "p": "1719527P", 
+    "s": "u-by-kotex-regular-designs-ultra-thin-pads-with-wings", 
+    "u": "347585", 
+    "t": "/wcsstore/Coles-CAS/images/1/7/1/1719527-th.jpg", 
+    "n": "Regular Designs Ultra Thin Pads With Wings", 
+    "pl": "20"
+}

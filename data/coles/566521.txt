@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "566559", 
+    "p1": {
+        "l4": "4.13", 
+        "o": "2.5"
+    }, 
+    "m": "Leggo's", 
+    "t1": "S", 
+    "p": "2683822P", 
+    "s": "leggos-tomato-ricotta-spinach-pasta-bake-sauce", 
+    "n": "Tomato Ricotta & Spinach Pasta Bake Sauce", 
+    "u": "566521", 
+    "t": "/wcsstore/Coles-CAS/images/2/6/8/2683822-th.jpg", 
+    "u2": "$0.50 per 100G", 
+    "pl": "12"
+}

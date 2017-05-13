@@ -1,0 +1,37 @@
+{
+    "a": {
+        "D": [
+            "LIQUOR"
+        ], 
+        "P8": [
+            "Alcohol"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "true"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1L"
+        ]
+    }, 
+    "s9": "144122", 
+    "p1": {
+        "o": "64.2"
+    }, 
+    "m": "Canadian Club", 
+    "u2": "$6.42 per 100mL", 
+    "p": "4521504P", 
+    "s": "canadian-club-whisky", 
+    "u": "80943", 
+    "t": "/wcsstore/Coles-CAS/images/4/5/2/4521504-th.jpg", 
+    "n": "Whisky", 
+    "pl": "20"
+}

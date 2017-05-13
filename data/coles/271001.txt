@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Baby"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "56 pack"
+        ]
+    }, 
+    "s9": "271021", 
+    "p1": {
+        "l4": "33.0", 
+        "o": "28.0"
+    }, 
+    "m": "Huggies", 
+    "t1": "S", 
+    "p": "1501588P", 
+    "s": "huggies-nappy-pants-boy-jumbo-toddler", 
+    "n": "Ultimate Jumbo Toddler Nappy Pants Boy 10-15kg", 
+    "u": "271001", 
+    "t": "/wcsstore/Coles-CAS/images/1/5/0/1501588-th.jpg", 
+    "u2": "$0.50 per 1Ea", 
+    "pl": "12"
+}

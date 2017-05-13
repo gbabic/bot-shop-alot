@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "500g"
+        ]
+    }, 
+    "s9": "358042", 
+    "p1": {
+        "o": "4.0"
+    }, 
+    "m": "Tablelands", 
+    "u2": "$0.80 per 100G", 
+    "p": "7789048P", 
+    "s": "tablelands-reduced-cholesterol-spread", 
+    "u": "357047", 
+    "t": "/wcsstore/Coles-CAS/images/7/7/8/7789048-th.jpg", 
+    "n": "Reduced Cholesterol Spread", 
+    "pl": "20"
+}

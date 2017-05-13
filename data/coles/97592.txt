@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "45g"
+        ]
+    }, 
+    "s9": "169153", 
+    "p1": {
+        "o": "1.27"
+    }, 
+    "m": "Telma", 
+    "u2": "$0.28 per 10G", 
+    "p": "9218569P", 
+    "s": "telma-stock-cubes-chicken-3-pack", 
+    "u": "97592", 
+    "t": "/wcsstore/Coles-CAS/images/9/2/1/9218569-th.jpg", 
+    "n": "SP Chicken Stock Cubes 3 Pack", 
+    "pl": "20"
+}

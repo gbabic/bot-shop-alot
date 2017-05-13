@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "50g"
+        ]
+    }, 
+    "s9": "251300", 
+    "p1": {
+        "o": "20.3"
+    }, 
+    "m": "Nature's Way", 
+    "u2": "$40.60 per 100G", 
+    "p": "1466272P", 
+    "s": "natures-way-super-foods-acai", 
+    "u": "251126", 
+    "t": "/wcsstore/Coles-CAS/images/1/4/6/1466272-th.jpg", 
+    "n": "Super Foods Acai", 
+    "pl": "20"
+}

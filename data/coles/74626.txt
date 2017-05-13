@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "175g"
+        ]
+    }, 
+    "s9": "136028", 
+    "p1": {
+        "o": "2.41"
+    }, 
+    "m": "MasterFoods", 
+    "s7": "", 
+    "u2": "$1.38 per 100G", 
+    "p": "6856037P", 
+    "s": "masterfoods-recipe-base-sausage-hot-pot", 
+    "u": "74626", 
+    "t": "/wcsstore/Coles-CAS/images/6/8/5/6856037-th.jpg", 
+    "n": "Slow Cooker Sausage Hot Pot Recipe Base", 
+    "pl": "20"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Fruit & Vegetables"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.7"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "u2": "$2.00 per 1Kg", 
+    "s9": "33132", 
+    "p1": {
+        "o": "3.4"
+    }, 
+    "s7": "Each cut watermelon approx. 1.7kg; Product of Australia.", 
+    "m": "Coles", 
+    "n": "Seedless Watermelon Cut", 
+    "p": "7508229P", 
+    "s": "watermelon-seedless-whole", 
+    "u": "11594", 
+    "t": "/wcsstore/Coles-CAS/images/7/5/0/7508229-th.jpg", 
+    "t1": "S", 
+    "pl": "99"
+}

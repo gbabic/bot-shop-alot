@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "s9": "139801", 
+    "p1": {
+        "o": "3.08"
+    }, 
+    "m": "San Remo", 
+    "u2": "$1.23 per 100G", 
+    "p": "5734792P", 
+    "s": "san-remo-pasta-lasagna-sheets-wholemeal", 
+    "u": "76479", 
+    "t": "/wcsstore/Coles-CAS/images/5/7/3/5734792-th.jpg", 
+    "n": "Wholemeal Pasta Lasagna Sheets", 
+    "pl": "20"
+}

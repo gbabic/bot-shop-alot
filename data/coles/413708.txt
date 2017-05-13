@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "150g"
+        ]
+    }, 
+    "s9": "414041", 
+    "p1": {
+        "o": "2.19"
+    }, 
+    "m": "Haldirams", 
+    "u2": "$1.46 per 100G", 
+    "p": "2057520P", 
+    "s": "haldirams-bhujia-sev-snacks", 
+    "u": "413708", 
+    "t": "/wcsstore/Coles-CAS/images/2/0/5/2057520-th.jpg", 
+    "n": "Bhujia Sev Snacks", 
+    "pl": "20"
+}

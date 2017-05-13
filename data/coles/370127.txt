@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Stationery & Media"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "u2": "", 
+    "s9": "370229", 
+    "p1": {
+        "o": "2.0"
+    }, 
+    "s7": "Cover may not depict edition offered for sale", 
+    "m": "Coles", 
+    "n": "Crosswards", 
+    "p": "1915503P", 
+    "s": "coles-crosswards", 
+    "u": "370127", 
+    "t": "/wcsstore/Coles-CAS/images/1/9/1/1915503-th.jpg", 
+    "t1": "V", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "600g"
+        ]
+    }, 
+    "s9": "165094", 
+    "p1": {
+        "o": "8.25"
+    }, 
+    "m": "Pitango", 
+    "u2": "$1.38 per 100G", 
+    "p": "9621324P", 
+    "s": "pitango-soup-organic-pumpkin-with-ginger-fresh", 
+    "u": "100250", 
+    "t": "/wcsstore/Coles-CAS/images/9/6/2/9621324-th.jpg", 
+    "n": "Organic Pumpkin & Ginger Soup", 
+    "pl": "20"
+}

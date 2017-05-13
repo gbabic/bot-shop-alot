@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "50g"
+        ]
+    }, 
+    "s9": "144300", 
+    "p1": {
+        "o": "4.02"
+    }, 
+    "m": "Saxa", 
+    "u2": "$0.80 per 10G", 
+    "p": "333207P", 
+    "s": "saxa-black-pepper-ground", 
+    "u": "81700", 
+    "t": "/wcsstore/Coles-CAS/images/3/3/3/333207-th.jpg", 
+    "n": "Ground Black Pepper", 
+    "pl": "20"
+}

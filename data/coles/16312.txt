@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pet"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "8kg"
+        ]
+    }, 
+    "s9": "30006", 
+    "p1": {
+        "o": "25.3"
+    }, 
+    "m": "Pedigree", 
+    "u2": "$0.32 per 100G", 
+    "p": "7410281P", 
+    "s": "pedigree-dog-food-with-mince-vegetables", 
+    "u": "16312", 
+    "t": "/wcsstore/Coles-CAS/images/7/4/1/7410281-th.jpg", 
+    "n": "Real Mince & Vegies Dry Dog Food", 
+    "pl": "20"
+}

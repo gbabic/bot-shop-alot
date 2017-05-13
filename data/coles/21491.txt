@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "143g"
+        ]
+    }, 
+    "s9": "39860", 
+    "p1": {
+        "l4": "8.42", 
+        "o": "5.8"
+    }, 
+    "m": "Baci", 
+    "t1": "S", 
+    "p": "1137918P", 
+    "s": "baci-chocolate-bag-hazelnut", 
+    "n": "Hazelnut Chocolate Bag", 
+    "u": "21491", 
+    "t": "/wcsstore/Coles-CAS/images/1/1/3/1137918-th.jpg", 
+    "u2": "$4.06 per 100G", 
+    "pl": "12"
+}

@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Baby"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "900g"
+        ]
+    }, 
+    "s9": "40340", 
+    "p1": {
+        "o": "20.0"
+    }, 
+    "m": "Karicare+", 
+    "t1": "V", 
+    "p": "1023271P", 
+    "s": "karicare-formula-follow-on", 
+    "n": "Follow-On Formula Stage 2 from 6 months", 
+    "u": "20925", 
+    "t": "/wcsstore/Coles-CAS/images/1/0/2/1023271-th.jpg", 
+    "u2": "$2.22 per 100G", 
+    "pl": "8"
+}

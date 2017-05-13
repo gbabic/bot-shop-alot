@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "150mL"
+        ]
+    }, 
+    "s9": "414134", 
+    "p1": {
+        "o": "15.35"
+    }, 
+    "m": "L'Oreal", 
+    "u2": "$10.23 per 100mL", 
+    "p": "1740716P", 
+    "s": "loreal-men-expert-pure-power-scrub", 
+    "u": "413803", 
+    "t": "/wcsstore/Coles-CAS/images/1/7/4/1740716-th.jpg", 
+    "n": "Men Expert Pure Power Scrub", 
+    "pl": "20"
+}

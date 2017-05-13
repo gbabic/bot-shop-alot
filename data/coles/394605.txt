@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "150g"
+        ]
+    }, 
+    "s9": "394776", 
+    "p1": {
+        "o": "3.0"
+    }, 
+    "m": "Cadbury", 
+    "t1": "V", 
+    "p": "2011518P", 
+    "s": "cadbury-bitesize-freddo-faces", 
+    "n": "Freddo Faces\u00c2\u00a0Chocolate Bites", 
+    "u": "394605", 
+    "t": "/wcsstore/Coles-CAS/images/2/0/1/2011518-th.jpg", 
+    "u2": "$2.00 per 100G", 
+    "pl": "20"
+}

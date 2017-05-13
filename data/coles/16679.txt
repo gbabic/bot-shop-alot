@@ -1,0 +1,40 @@
+{
+    "a": {
+        "P8": [
+            "Drinks"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1.25L"
+        ]
+    }, 
+    "pr": "1.50000", 
+    "s9": "42090", 
+    "pq": "2", 
+    "pt": "MultibuyMultiSku", 
+    "u2": "$1.93 per 1L", 
+    "m": "Schweppes", 
+    "n": "Dry Ginger Ale", 
+    "p": "154988P", 
+    "s": "schweppes-soft-drink-dry-ginger-ale", 
+    "p1": {
+        "o": "2.41"
+    }, 
+    "u": "16679", 
+    "t": "/wcsstore/Coles-CAS/images/1/5/4/154988-th.jpg", 
+    "pd": "2 for $3", 
+    "pi": "10141008", 
+    "t1": "M", 
+    "pl": "12"
+}

@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "140g"
+        ]
+    }, 
+    "s9": "319375", 
+    "p1": {
+        "l4": "10.99", 
+        "o": "5.0"
+    }, 
+    "m": "Colgate", 
+    "t1": "S", 
+    "p": "1706183P", 
+    "s": "colgate-optic-white-enamel-white-sparkling-mint-toothpaste", 
+    "n": "Optic White Enamel White Toothpaste", 
+    "u": "319096", 
+    "t": "/wcsstore/Coles-CAS/images/1/7/0/1706183-th.jpg", 
+    "u2": "$3.57 per 100G", 
+    "pl": "12"
+}

@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Mothers Day"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "0.25"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 250g"
+        ]
+    }, 
+    "s9": "423725", 
+    "p1": {
+        "o": "7.0"
+    }, 
+    "m": "Coles Deli", 
+    "s7": "Indicated price based on approx. weight. Weight may vary between 225g and 275g.", 
+    "u2": "$28.00 per 1Kg", 
+    "p": "2210208P", 
+    "s": "coles-deli-frozen-prawns-cooked-peeled-tail-on-2210208p", 
+    "u": "423529", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/1/2210208-th.jpg", 
+    "n": "Frozen Prawns Cooked Peeled Tail On", 
+    "pl": "20"
+}

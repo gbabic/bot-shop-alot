@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "52g"
+        ]
+    }, 
+    "s9": "128033", 
+    "p1": {
+        "o": "2.0"
+    }, 
+    "m": "Nestle", 
+    "u2": "$3.85 per 100G", 
+    "p": "7135074P", 
+    "s": "nestle-chocolate-log", 
+    "u": "73763", 
+    "t": "/wcsstore/Coles-CAS/images/7/1/3/7135074-th.jpg", 
+    "n": "Chocolate Log", 
+    "pl": "20"
+}

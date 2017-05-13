@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Dairy, Eggs & Meals"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "180g"
+        ]
+    }, 
+    "s9": "283642", 
+    "p1": {
+        "o": "7.8"
+    }, 
+    "m": "Lemnos", 
+    "u2": "$43.34 per 1Kg", 
+    "p": "1464357P", 
+    "s": "lemnos-foods-cheese-haloumi-salt-reduced", 
+    "u": "283566", 
+    "t": "/wcsstore/Coles-CAS/images/1/4/6/1464357-th.jpg", 
+    "n": "Salt Reduced Haloumi", 
+    "pl": "20"
+}

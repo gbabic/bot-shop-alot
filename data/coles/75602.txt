@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "680g"
+        ]
+    }, 
+    "s9": "141264", 
+    "p1": {
+        "o": "4.73"
+    }, 
+    "m": "Liebers", 
+    "u2": "$0.70 per 100G", 
+    "p": "5258324P", 
+    "s": "liebers-ketchup-tomato", 
+    "u": "75602", 
+    "t": "/wcsstore/Coles-CAS/images/5/2/5/5258324-th.jpg", 
+    "n": "Tomato Ketchup", 
+    "pl": "20"
+}

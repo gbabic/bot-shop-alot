@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "170g"
+        ]
+    }, 
+    "s9": "129929", 
+    "p1": {
+        "o": "8.5"
+    }, 
+    "m": "Marzena", 
+    "t1": "V", 
+    "p": "7255338P", 
+    "s": "marzena-sensitive-hair-remover-lotion", 
+    "n": "Sensitive Hair Remover Lotion", 
+    "u": "68395", 
+    "t": "/wcsstore/Coles-CAS/images/7/2/5/7255338-th.jpg", 
+    "u2": "$5.00 per 100G", 
+    "pl": "20"
+}

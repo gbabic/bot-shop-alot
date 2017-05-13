@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "250g"
+        ]
+    }, 
+    "s9": "140635", 
+    "p1": {
+        "o": "4.38"
+    }, 
+    "m": "San Remo", 
+    "u2": "$1.75 per 100G", 
+    "p": "5363748P", 
+    "s": "san-remo-pasta-fettuccine-gluten-free", 
+    "u": "77363", 
+    "t": "/wcsstore/Coles-CAS/images/5/3/6/5363748-th.jpg", 
+    "n": "Fettuccine Gluten Free Pasta", 
+    "pl": "20"
+}

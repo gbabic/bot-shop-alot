@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "10 pack"
+        ]
+    }, 
+    "s9": "29574", 
+    "p1": {
+        "o": "5.4"
+    }, 
+    "m": "Tena", 
+    "t1": "V", 
+    "p": "5773885P", 
+    "s": "tena-lady-pads-extra-absorbent", 
+    "n": "Lady Extra Absorbent Pads", 
+    "u": "13100", 
+    "t": "/wcsstore/Coles-CAS/images/5/7/7/5773885-th.jpg", 
+    "u2": "$0.54 per 1Ea", 
+    "pl": "20"
+}

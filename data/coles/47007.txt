@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "8mL"
+        ]
+    }, 
+    "s9": "111488", 
+    "p1": {
+        "o": "22.0"
+    }, 
+    "m": "Maybelline", 
+    "u2": "$27.50 per 10mL", 
+    "p": "8546610P", 
+    "s": "maybelline-vol-exp-falsies-black-drama", 
+    "u": "47007", 
+    "t": "/wcsstore/Coles-CAS/images/8/5/4/8546610-th.jpg", 
+    "n": "The Falsies Volume Express Black Drama Mascara", 
+    "pl": "20"
+}

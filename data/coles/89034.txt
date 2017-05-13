@@ -1,0 +1,37 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "75g"
+        ]
+    }, 
+    "u2": "$1.33 per 100G", 
+    "s9": "149048", 
+    "p1": {
+        "l4": "2.2", 
+        "o": "1.0"
+    }, 
+    "s7": "", 
+    "m": "Continental", 
+    "n": "Hearty Roast Chicken Cup A Soup Serves 2", 
+    "p": "290465P", 
+    "s": "continental-cup-a-soup-hearty-roast-chicken", 
+    "u": "89034", 
+    "t": "/wcsstore/Coles-CAS/images/2/9/0/290465-th.jpg", 
+    "t1": "S", 
+    "pl": "12"
+}

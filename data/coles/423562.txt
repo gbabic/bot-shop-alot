@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "50g"
+        ]
+    }, 
+    "s9": "423712", 
+    "p1": {
+        "o": "2.08"
+    }, 
+    "m": "Meiji", 
+    "u2": "$4.16 per 100G", 
+    "p": "2020563P", 
+    "s": "meiji-hello-panda-chocolate-biscuits", 
+    "u": "423562", 
+    "t": "/wcsstore/Coles-CAS/images/2/0/2/2020563-th.jpg", 
+    "n": "Hello Panda Chocolate Biscuits", 
+    "pl": "20"
+}

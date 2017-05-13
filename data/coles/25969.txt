@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "150g"
+        ]
+    }, 
+    "s9": "40878", 
+    "p1": {
+        "o": "3.0"
+    }, 
+    "m": "Maggi", 
+    "t1": "V", 
+    "p": "1155181P", 
+    "s": "maggi-stirfry-creations-teriyaki-sesame-chicken", 
+    "n": "Stirfry Creations Teriyaki & Sesame Chicken Stir Fry Sauce", 
+    "u": "25969", 
+    "t": "/wcsstore/Coles-CAS/images/1/1/5/1155181-th.jpg", 
+    "u2": "$2.00 per 100G", 
+    "pl": "20"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "55g"
+        ]
+    }, 
+    "s9": "117832", 
+    "p1": {
+        "o": "0.66"
+    }, 
+    "m": "Wai Wai", 
+    "u2": "$1.20 per 100G", 
+    "p": "8046275P", 
+    "s": "wai-wai-noodles-rice-vermicelli-instant", 
+    "u": "53420", 
+    "t": "/wcsstore/Coles-CAS/images/8/0/4/8046275-th.jpg", 
+    "n": "Instant Vermicelli Rice Noodles", 
+    "pl": "20"
+}

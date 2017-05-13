@@ -1,0 +1,38 @@
+{
+    "a": {
+        "D": [
+            "XMAS", 
+            "EASTER"
+        ], 
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "308g"
+        ]
+    }, 
+    "s9": "434565", 
+    "p1": {
+        "o": "16.0"
+    }, 
+    "m": "Lindt", 
+    "u2": "$5.19 per 100G", 
+    "p": "2202221P", 
+    "s": "lindt-lindor-bag-milk", 
+    "u": "434531", 
+    "t": "/wcsstore/Coles-CAS/images/2/2/0/2202221-th.jpg", 
+    "n": "Lindor Milk Chocolate Bag", 
+    "pl": "99"
+}

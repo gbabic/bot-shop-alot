@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "s9": "408078", 
+    "p1": {
+        "o": "4.0"
+    }, 
+    "m": "Yumi's", 
+    "u2": "$2.00 per 100G", 
+    "p": "2007474P", 
+    "s": "yumis-avocado-dip", 
+    "u": "408027", 
+    "t": "/wcsstore/Coles-CAS/images/2/0/0/2007474-th.jpg", 
+    "n": "Avocado Dip", 
+    "pl": "20"
+}

@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "38g"
+        ]
+    }, 
+    "s9": "32245", 
+    "p1": {
+        "o": "2.75"
+    }, 
+    "m": "Coles", 
+    "s7": "", 
+    "u2": "$0.72 per 10G", 
+    "p": "8984210P", 
+    "s": "coles-paprika-smoked", 
+    "u": "10323", 
+    "t": "/wcsstore/Coles-CAS/images/8/9/8/8984210-th.jpg", 
+    "n": "Smoked Paprika", 
+    "pl": "20"
+}

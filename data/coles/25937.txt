@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "12 pack"
+        ]
+    }, 
+    "s9": "34892", 
+    "p1": {
+        "o": "5.6"
+    }, 
+    "m": "Tampax", 
+    "u2": "$0.47 per 1Ea", 
+    "p": "1166600P", 
+    "s": "tampax-tampons-super-with-applicator", 
+    "u": "25937", 
+    "t": "/wcsstore/Coles-CAS/images/1/1/6/1166600-th.jpg", 
+    "n": "Super Tamons With Applicator", 
+    "pl": "20"
+}

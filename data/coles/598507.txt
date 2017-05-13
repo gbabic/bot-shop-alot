@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "150mL"
+        ]
+    }, 
+    "s9": "598562", 
+    "p1": {
+        "l4": "5.5", 
+        "o": "3.5"
+    }, 
+    "m": "Rexona", 
+    "t1": "S", 
+    "p": "2749308P", 
+    "s": "rexona-men-antiperspirant-sport", 
+    "n": "Men Antiperspirant Sport", 
+    "u": "598507", 
+    "t": "/wcsstore/Coles-CAS/images/2/7/4/2749308-th.jpg", 
+    "u2": "$2.33 per 100mL", 
+    "pl": "12"
+}

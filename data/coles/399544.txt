@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Household"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "1 each"
+        ]
+    }, 
+    "s9": "399630", 
+    "p1": {
+        "l4": "5.5", 
+        "o": "4.4"
+    }, 
+    "m": "Scotch Magic", 
+    "t1": "S", 
+    "p": "1823675P", 
+    "s": "scotch-magic-tape-refill-19mm-x-25m", 
+    "n": "Tape Refill 19mm X 25m", 
+    "u": "399544", 
+    "t": "/wcsstore/Coles-CAS/images/1/8/2/1823675-th.jpg", 
+    "u2": "$4.40 per 1ea", 
+    "pl": "12"
+}

@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "International Foods"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "295g"
+        ]
+    }, 
+    "s9": "145641", 
+    "p1": {
+        "o": "6.04"
+    }, 
+    "m": "Pataks", 
+    "u2": "$2.05 per 100G", 
+    "p": "5030734P", 
+    "s": "pataks-paste-tandoori-curry", 
+    "u": "80052", 
+    "t": "/wcsstore/Coles-CAS/images/5/0/3/5030734-th.jpg", 
+    "n": "Tandoori Curry Paste", 
+    "pl": "20"
+}

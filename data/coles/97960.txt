@@ -1,0 +1,36 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "550g"
+        ]
+    }, 
+    "s9": "155071", 
+    "p1": {
+        "l4": "32.23", 
+        "o": "20.5"
+    }, 
+    "m": "Celebrity Slim", 
+    "t1": "S", 
+    "p": "9909264P", 
+    "s": "celebrity-slim-5-day-variety-pack", 
+    "n": "5 Day Variety Pack", 
+    "u": "97960", 
+    "t": "/wcsstore/Coles-CAS/images/9/9/0/9909264-th.jpg", 
+    "u2": "$3.73 per 100G", 
+    "pl": "12"
+}

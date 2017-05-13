@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Pantry"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "200g"
+        ]
+    }, 
+    "s9": "120745", 
+    "p1": {
+        "o": "8.0"
+    }, 
+    "m": "Saxa", 
+    "u2": "$0.40 per 10G", 
+    "p": "7890370P", 
+    "s": "saxa-natural-sea-salt-flakes", 
+    "u": "50089", 
+    "t": "/wcsstore/Coles-CAS/images/7/8/9/7890370-th.jpg", 
+    "n": "Natural Sea Salt Flakes", 
+    "pl": "20"
+}

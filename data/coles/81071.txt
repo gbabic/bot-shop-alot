@@ -1,0 +1,35 @@
+{
+    "a": {
+        "P8": [
+            "Meat, Seafood & Deli"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "0.125"
+        ], 
+        "W1": [
+            "true"
+        ], 
+        "O3": [
+            "approx. 125g"
+        ]
+    }, 
+    "s9": "146659", 
+    "p1": {
+        "o": "3.25"
+    }, 
+    "m": "Coles Deli", 
+    "s7": "Indicated price based on approx. weight. Weight may vary between 100g and 150g.", 
+    "u2": "$26.00 per 1kg", 
+    "p": "42394P", 
+    "s": "salami--spanish-hot", 
+    "u": "81071", 
+    "t": "/wcsstore/Coles-CAS/images/4/2/3/42394-th.jpg", 
+    "n": "Hot Spanish Salami", 
+    "pl": "20"
+}

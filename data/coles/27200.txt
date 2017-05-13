@@ -1,0 +1,34 @@
+{
+    "a": {
+        "P8": [
+            "Health & Beauty"
+        ], 
+        "T1": [
+            "false"
+        ], 
+        "L2": [
+            "false"
+        ], 
+        "A4": [
+            "1.0"
+        ], 
+        "W1": [
+            "false"
+        ], 
+        "O3": [
+            "30mL"
+        ]
+    }, 
+    "s9": "40939", 
+    "p1": {
+        "o": "17.88"
+    }, 
+    "m": "Maybelline", 
+    "u2": "$5.96 per 10mL", 
+    "p": "1141314P", 
+    "s": "maybelline-dream-bb-cream-fair", 
+    "u": "27200", 
+    "t": "/wcsstore/Coles-CAS/images/1/1/4/1141314-th.jpg", 
+    "n": "Dream Fresh BB Cream Fair", 
+    "pl": "20"
+}
